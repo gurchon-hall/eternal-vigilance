@@ -15,6 +15,7 @@ errors/
 ├── incoherent_date/       — decks with mismatched dates
 ├── too_few_players/       — tournaments below minimum player threshold
 └── unconfirmed_winner/    — decks with unresolved winner identity
+publish/YYYY/MM/<date>.md  — weekly publish reports (PRs sent to GiottoVerducci/TWD)
 ```
 
 ## Data format
