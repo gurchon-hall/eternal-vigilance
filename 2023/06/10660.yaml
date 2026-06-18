@@ -82,7 +82,8 @@ deck:
     - count: 1
       name: Pentex(TM) Subversion
     - count: 1
-      name: Perfectionist - could be a Direct Intervention?
+      name: Perfectionist
+      comment: could be a Direct Intervention?
     - count: 5
       name: Villein
     - count: 1

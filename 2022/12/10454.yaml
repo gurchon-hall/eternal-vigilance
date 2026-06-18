@@ -73,7 +73,8 @@ deck:
     - count: 2
       name: Dreams of the Sphinx
     - count: 1
-      name: Filchware's Pawn Shop *//recursion is broken
+      name: Filchware's Pawn Shop
+      comment: recursion is broken
     - count: 1
       name: Giant's Blood
     - count: 1
@@ -92,7 +93,8 @@ deck:
     - count: 1
       name: Carlton Van Wyk
     - count: 10
-      name: Emerald Legionnaire *//recursion is broken
+      name: Emerald Legionnaire
+      comment: recursion is broken
     - count: 1
       name: Vagabond Mystic
   - name: Equipment
@@ -103,7 +105,8 @@ deck:
     - count: 1
       name: Cooler
     - count: 1
-      name: Erebus Mask *// tons of value when you act 3 times per turn
+      name: Erebus Mask
+      comment: tons of value when you act 3 times per turn
     - count: 2
       name: Heart of Nizchetus
     - count: 5
@@ -111,9 +114,11 @@ deck:
     - count: 1
       name: Palatial Estate
     - count: 1
-      name: Sargon Fragment, The *// did I mention that recursion is broken
+      name: Sargon Fragment, The
+      comment: did I mention that recursion is broken
     - count: 1
-      name: Signet of King Saul, The *// less valuable in the current V5 meta
+      name: Signet of King Saul, The
+      comment: less valuable in the current V5 meta
   - name: Action Modifier
     count: 10
     cards:
@@ -124,7 +129,8 @@ deck:
     - count: 4
       name: Shroud Mastery
     - count: 1
-      name: Trochomancy *// Monopolize recursion FTW
+      name: Trochomancy
+      comment: Monopolize recursion FTW
   - name: Action Modifier/Combat
     count: 2
     cards:
@@ -148,6 +154,7 @@ deck:
     count: 3
     cards:
     - count: 1
-      name: NRA PAC *// might be overkill, but still useful.
+      name: NRA PAC
+      comment: might be overkill, but still useful.
     - count: 2
       name: Unmasking, The

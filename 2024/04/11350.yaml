@@ -147,7 +147,8 @@ deck:
     count: 3
     cards:
     - count: 2
-      name: Obedient Flesh – 3rd copy would be welcome w/o Libertas.
+      name: Obedient Flesh
+      comment: 3rd copy would be welcome w/o Libertas.
     - count: 1
       name: Rapid Change
   - name: Action Modifier/Reaction
@@ -165,7 +166,8 @@ deck:
     - count: 7
       name: Deflection
     - count: 2
-      name: One With the Land – squeeze in a 3rd copy?
+      name: One With the Land
+      comment: squeeze in a 3rd copy?
     - count: 4
       name: Organized Resistance
   - name: Combat

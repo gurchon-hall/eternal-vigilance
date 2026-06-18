@@ -127,7 +127,8 @@ deck:
     - count: 1
       name: Bowl of Convergence
     - count: 1
-      name: Camera Phone - in theory for Jost; in practice not worth it
+      name: Camera Phone
+      comment: in theory for Jost; in practice not worth it
     - count: 2
       name: Heart of Nizchetus
     - count: 1

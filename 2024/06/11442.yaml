@@ -129,8 +129,8 @@ deck:
       name: Psychomachia
       comment: slightly better in V5 meta
     - count: 3
-      name: Revelation of the Serpent - shifting from Sense the Sin for 
-        additional stealth
+      name: Revelation of the Serpent
+      comment: shifting from Sense the Sin for additional stealth
   - name: Action Modifier/Combat
     count: 5
     cards:
