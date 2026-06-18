@@ -19,64 +19,64 @@ deck:
   crypt_avg: 5.08
   crypt:
   - count: 1
-    name: Massimiliano (G6)
+    name: Massimiliano
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
     clan: Gangrel
     grouping: 6
   - count: 2
-    name: Casey Snyder (G6)
+    name: Casey Snyder
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
     clan: Gangrel
     grouping: 6
   - count: 2
-    name: Kuyén (G6)
+    name: Kuyén
     capacity: 6
     disciplines: ANI PRO
     title: Baron
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: André the Manipulator (G5)
+    name: André the Manipulator
     capacity: 6
     disciplines: FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 1
-    name: Martina Srnankova (G6)
+    name: Martina Srnankova
     capacity: 6
     disciplines: ani FOR PRO
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Kamile Paukstys (G6)
+    name: Kamile Paukstys
     capacity: 5
     disciplines: ani for PRO
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Hanna Nokelainen (G6)
+    name: Hanna Nokelainen
     capacity: 4
     disciplines: ani for pro
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Nathan Turner (G6)
+    name: Nathan Turner
     capacity: 4
     disciplines: ani PRO
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Indira (G6)
+    name: Indira
     capacity: 3
     disciplines: PRO
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Ruslan Fedorenko (G6)
+    name: Ruslan Fedorenko
     capacity: 2
     disciplines: pro
     clan: Gangrel

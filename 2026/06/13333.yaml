@@ -19,54 +19,54 @@ deck:
   crypt_avg: 6.83
   crypt:
   - count: 2
-    name: Gnaeus Aemilius Augustinus (G6)
+    name: Gnaeus Aemilius Augustinus
     capacity: 9
     disciplines: tha DOM OBL POT PRO
     title: Prince
     clan: Lasombra
     grouping: 6
   - count: 2
-    name: Yewon Ong (G6)
+    name: Yewon Ong
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Eulogio Sánchez de los Reyes (G6)
+    name: Eulogio Sánchez de los Reyes
     capacity: 8
     disciplines: AUS DOM OBL THA
     clan: Tremere
     grouping: 6
   - count: 2
-    name: María del Toro (G6)
+    name: María del Toro
     capacity: 7
     disciplines: DOM OBL POT
     title: Prince
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Rinaldo Albizzi (G6)
+    name: Rinaldo Albizzi
     capacity: 7
     disciplines: pre DOM OBL POT
     title: Primogen
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Rasha Tarabzouni (G6)
+    name: Rasha Tarabzouni
     capacity: 6
     disciplines: obl pre DOM POT
     title: Bishop
     clan: Lasombra
     grouping: 6
   - count: 2
-    name: Azucena (G6)
+    name: Azucena
     capacity: 5
     disciplines: pot DOM OBL
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Araceli "Celia" Rivera (G6)
+    name: Araceli "Celia" Rivera
     capacity: 3
     disciplines: dom obl
     clan: Lasombra

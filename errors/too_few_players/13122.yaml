@@ -21,63 +21,63 @@ deck:
   crypt_avg: 8.46
   crypt:
   - count: 5
-    name: Lucinde, Alastor (G3)
+    name: Lucinde, Alastor
     capacity: 10
     disciplines: obf pot tha DOM FOR PRE
     title: Justicar
     clan: Ventrue
     grouping: 7
   - count: 1
-    name: Ian Carfax (G7)
+    name: Ian Carfax
     capacity: 9
     disciplines: for pro AUS DOM THA
     title: Justicar
     clan: Tremere
     grouping: 7
   - count: 1
-    name: Alexa Draper (G6)
+    name: Alexa Draper
     capacity: 8
     disciplines: for pot DOM PRE
     title: Prince
     clan: Ventrue
     grouping: 6
   - count: 1
-    name: Dafina Hanganu (G6)
+    name: Dafina Hanganu
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Yewon Ong (G6)
+    name: Yewon Ong
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Alice Chen (G6)
+    name: Alice Chen
     capacity: 7
     disciplines: dom obf FOR PRE
     title: Prince
     clan: Ventrue
     grouping: 6
   - count: 1
-    name: Kevin Jackson (G7)
+    name: Kevin Jackson
     capacity: 7
     disciplines: DOM FOR PRE
     title: Prince
     clan: Ventrue
     grouping: 7
   - count: 1
-    name: Sybren van Oosten (G6)
+    name: Sybren van Oosten
     capacity: 7
     disciplines: dom tha FOR PRE
     title: Prince
     clan: Ventrue
     grouping: 6
   - count: 1
-    name: Horst von Brühl (G6)
+    name: Horst von Brühl
     capacity: 6
     disciplines: aus dom pre FOR
     title: Prince

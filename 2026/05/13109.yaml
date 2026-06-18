@@ -18,28 +18,28 @@ deck:
   crypt_avg: 10.42
   crypt:
   - count: 5
-    name: Unmada (G5)
+    name: Unmada
     capacity: 10
     disciplines: cel for AUS DEM OBF VIC
     title: Justicar
     clan: Malkavian
     grouping: 5
   - count: 3
-    name: Lutz von Hohenzollern (G4)
+    name: Lutz von Hohenzollern
     capacity: 11
     disciplines: pot AUS DEM OBF PRE
     title: Inner Circle
     clan: Malkavian
     grouping: 4
   - count: 2
-    name: Alonso Petrodon (G5)
+    name: Alonso Petrodon
     capacity: 10
     disciplines: for tha ANI DOM OBF POT
     title: Justicar
     clan: Nosferatu
     grouping: 5
   - count: 2
-    name: Josef von Bauren (G4)
+    name: Josef von Bauren
     capacity: 11
     disciplines: cel ANI DEM OBF POT
     title: Inner Circle

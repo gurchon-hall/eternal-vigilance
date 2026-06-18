@@ -18,37 +18,37 @@ deck:
   crypt_avg: 6.58
   crypt:
   - count: 2
-    name: Djeneba (G7)
+    name: Djeneba
     capacity: 9
     disciplines: obf ANI AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 3
-    name: Abaddon (G7)
+    name: Abaddon
     capacity: 8
     disciplines: cel pot AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 1
-    name: Ilonka (G7)
+    name: Ilonka
     capacity: 7
     disciplines: tha AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 2
-    name: Aniel (G7)
+    name: Aniel
     capacity: 6
     disciplines: for AUS DOM
     clan: Salubri
     grouping: 7
   - count: 2
-    name: Malachi (G7)
+    name: Malachi
     capacity: 6
     disciplines: AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 1
-    name: Opikun (G7)
+    name: Opikun
     capacity: 5
     disciplines: aus dom FOR
     clan: Salubri

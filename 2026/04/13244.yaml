@@ -19,21 +19,21 @@ deck:
   crypt_avg: 9.67
   crypt:
   - count: 4
-    name: Alexandra (G2)
+    name: Alexandra
     capacity: 11
     disciplines: dom ANI AUS CEL PRE
     title: Inner Circle
     clan: Toreador
     grouping: 2
   - count: 4
-    name: Anneke (G1)
+    name: Anneke
     capacity: 10
     disciplines: dom AUS CEL PRE
     title: Justicar
     clan: Toreador
     grouping: 1
   - count: 4
-    name: Anson (G1)
+    name: Anson
     capacity: 8
     disciplines: aus dom CEL PRE
     title: Prince
