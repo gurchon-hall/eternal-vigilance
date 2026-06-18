@@ -19,49 +19,49 @@ deck:
   crypt_avg: 1.71
   crypt:
   - count: 21
-    name: Tupdog
+    name: Tupdog (G3)
     capacity: 1
     disciplines: POT VIS
     clan: Gargoyle
     grouping: 3
   - count: 1
-    name: Antonio d'Erlette
+    name: Antonio d'Erlette (G4)
     capacity: 5
     disciplines: dom for pot THA
     clan: Tremere antitribu
     grouping: 4
   - count: 1
-    name: Ember Wright
+    name: Ember Wright (G3)
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
     grouping: 3
   - count: 1
-    name: Esoara
+    name: Esoara (G4)
     capacity: 5
     disciplines: aus for pot DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
-    name: Janine
+    name: Janine (G4)
     capacity: 4
     disciplines: aus dom tha
     clan: Tremere antitribu
     grouping: 4
   - count: 1
-    name: Keith Moody
+    name: Keith Moody (G4)
     capacity: 3
     disciplines: DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
-    name: Mosfair
+    name: Mosfair (G4)
     capacity: 4
     disciplines: cel dom tha
     clan: Tremere antitribu
     grouping: 4
   - count: 1
-    name: Saiz
+    name: Saiz (G3)
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu

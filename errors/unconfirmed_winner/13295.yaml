@@ -21,48 +21,48 @@ deck:
   crypt_avg: 6.83
   crypt:
   - count: 3
-    name: Rodolfo
+    name: Rodolfo (G3)
     capacity: 8
     disciplines: pro AUS DEM OBF
     title: Bishop
     clan: Malkavian antitribu
     grouping: 3
   - count: 3
-    name: Korah
+    name: Korah (G2)
     capacity: 7
     disciplines: ani AUS DEM OBF
     title: Priscus
     clan: Malkavian antitribu
     grouping: 2
   - count: 2
-    name: Kite
+    name: Kite (G2)
     capacity: 7
     disciplines: obf pre AUS DEM
     title: Bishop
     clan: Malkavian antitribu
     grouping: 2
   - count: 1
-    name: Marie Faucigny
+    name: Marie Faucigny (G3)
     capacity: 7
     disciplines: dem tha AUS OBF
     title: Archbishop
     clan: Malkavian antitribu
     grouping: 3
   - count: 1
-    name: Dolphin Black
+    name: Dolphin Black (G2)
     capacity: 6
     disciplines: AUS DEM OBF
     clan: Malkavian antitribu
     grouping: 2
   - count: 1
-    name: General Perfidio Díos
+    name: General Perfidio Díos (G3)
     capacity: 5
     disciplines: dem obf AUS
     title: Bishop
     clan: Malkavian antitribu
     grouping: 3
   - count: 1
-    name: Uncle George
+    name: Uncle George (G3)
     capacity: 5
     disciplines: aus dom obf DEM
     clan: Malkavian antitribu
@@ -92,7 +92,7 @@ deck:
     - count: 1
       name: Blessing of Chaos
     - count: 6
-      name: Call, The
+      name: The Call
     - count: 13
       name: Kindred Spirits
     - count: 1

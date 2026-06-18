@@ -20,42 +20,42 @@ deck:
   crypt_avg: 8.5
   crypt:
   - count: 1
-    name: Lazverinus, Thrall of Lambach
+    name: Lazverinus, Thrall of Lambach (G2)
     capacity: 10
     disciplines: pro AUS DOM FOR POT
     title: Archbishop
     clan: Ventrue antitribu
     grouping: 2
   - count: 4
-    name: Quentin
+    name: Quentin (G2)
     capacity: 9
     disciplines: cel obt AUS DOM FOR
     title: Bishop
     clan: Ventrue antitribu
     grouping: 2
   - count: 3
-    name: Kyle Strathcona, Cardinal of Canada
+    name: Kyle Strathcona, Cardinal of Canada (G2)
     capacity: 9
     disciplines: for AUS DOM POT PRE
     title: Cardinal
     clan: Ventrue antitribu
     grouping: 2
   - count: 2
-    name: Lachlan, Noddist
+    name: Lachlan, Noddist (G2)
     capacity: 8
     disciplines: dom AUS CEL PRE
     title: Archbishop
     clan: Toreador antitribu
     grouping: 2
   - count: 1
-    name: Gratiano
+    name: Gratiano (G2)
     capacity: 8
     disciplines: obf pot DOM OBT
     title: Priscus
     clan: Lasombra
     grouping: 2
   - count: 1
-    name: Dr. Julius Sutphen
+    name: Dr. Julius Sutphen (G3)
     capacity: 5
     disciplines: dom obt POT
     title: Bishop

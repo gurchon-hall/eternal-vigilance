@@ -21,63 +21,63 @@ deck:
   crypt_avg: 8.46
   crypt:
   - count: 5
-    name: Lucinde, Alastor
+    name: Lucinde, Alastor (G3)
     capacity: 10
     disciplines: obf pot tha DOM FOR PRE
     title: Justicar
     clan: Ventrue
     grouping: 7
   - count: 1
-    name: Ian Carfax
+    name: Ian Carfax (G7)
     capacity: 9
     disciplines: for pro AUS DOM THA
     title: Justicar
     clan: Tremere
     grouping: 7
   - count: 1
-    name: Alexa Draper
+    name: Alexa Draper (G6)
     capacity: 8
     disciplines: for pot DOM PRE
     title: Prince
     clan: Ventrue
     grouping: 6
   - count: 1
-    name: Dafina Hanganu
+    name: Dafina Hanganu (G6)
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Yewon Ong
+    name: Yewon Ong (G6)
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Alice Chen
+    name: Alice Chen (G6)
     capacity: 7
     disciplines: dom obf FOR PRE
     title: Prince
     clan: Ventrue
     grouping: 6
   - count: 1
-    name: Kevin Jackson
+    name: Kevin Jackson (G7)
     capacity: 7
     disciplines: DOM FOR PRE
     title: Prince
     clan: Ventrue
     grouping: 7
   - count: 1
-    name: Sybren van Oosten
+    name: Sybren van Oosten (G6)
     capacity: 7
     disciplines: dom tha FOR PRE
     title: Prince
     clan: Ventrue
     grouping: 6
   - count: 1
-    name: Horst von Brühl
+    name: Horst von Brühl (G6)
     capacity: 6
     disciplines: aus dom pre FOR
     title: Prince
@@ -89,9 +89,9 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 4
-      name: British Museum, London, The
+      name: The British Museum, London
     - count: 1
       name: Direct Intervention
     - count: 1
@@ -101,7 +101,7 @@ deck:
     - count: 1
       name: Jake Washington
     - count: 1
-      name: Line, The
+      name: The Line
     - count: 1
       name: Metro Underground
     - count: 1
@@ -142,7 +142,7 @@ deck:
     - count: 5
       name: Sawed-Off Shotgun
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
   - name: Action Modifier
     count: 17
     cards:

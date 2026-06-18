@@ -19,64 +19,64 @@ deck:
   crypt_avg: 5.08
   crypt:
   - count: 1
-    name: Massimiliano
+    name: Massimiliano (G6)
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
     clan: Gangrel
     grouping: 6
   - count: 2
-    name: Casey Snyder
+    name: Casey Snyder (G6)
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
     clan: Gangrel
     grouping: 6
   - count: 2
-    name: Kuyén
+    name: Kuyén (G6)
     capacity: 6
     disciplines: ANI PRO
     title: Baron
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: André the Manipulator
+    name: André the Manipulator (G5)
     capacity: 6
     disciplines: FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 1
-    name: Martina Srnankova
+    name: Martina Srnankova (G6)
     capacity: 6
     disciplines: ani FOR PRO
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Kamile Paukstys
+    name: Kamile Paukstys (G6)
     capacity: 5
     disciplines: ani for PRO
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Hanna Nokelainen
+    name: Hanna Nokelainen (G6)
     capacity: 4
     disciplines: ani for pro
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Nathan Turner
+    name: Nathan Turner (G6)
     capacity: 4
     disciplines: ani PRO
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Indira
+    name: Indira (G6)
     capacity: 3
     disciplines: PRO
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Ruslan Fedorenko
+    name: Ruslan Fedorenko (G6)
     capacity: 2
     disciplines: pro
     clan: Gangrel
@@ -87,7 +87,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 1
@@ -105,7 +105,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 4
       name: Villein
     - count: 1

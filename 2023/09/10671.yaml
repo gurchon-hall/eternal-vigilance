@@ -18,31 +18,31 @@ deck:
   crypt_avg: 4.67
   crypt:
   - count: 4
-    name: Mina Grotius
+    name: Mina Grotius (G3)
     capacity: 6
     disciplines: cel FOR NEC
     clan: Harbinger of Skulls
     grouping: 3
   - count: 4
-    name: Thomasso Ghiberti
+    name: Thomasso Ghiberti (G4)
     capacity: 4
     disciplines: pot NEC
     clan: Giovanni
     grouping: 4
   - count: 2
-    name: Nicomedes
+    name: Nicomedes (G4)
     capacity: 5
     disciplines: aus for nec vic
     clan: Harbinger of Skulls
     grouping: 4
   - count: 1
-    name: Lia Milliner
+    name: Lia Milliner (G3)
     capacity: 3
     disciplines: dom nec
     clan: Giovanni
     grouping: 3
   - count: 1
-    name: Nunzio Giovanni
+    name: Nunzio Giovanni (G4)
     capacity: 3
     disciplines: nec pot
     clan: Giovanni
@@ -59,7 +59,7 @@ deck:
     - count: 9
       name: Liquidation
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Wider View
   - name: Political Action
@@ -118,4 +118,4 @@ deck:
     - count: 2
       name: FBI Special Affairs Division
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking

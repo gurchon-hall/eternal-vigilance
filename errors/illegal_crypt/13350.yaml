@@ -20,25 +20,25 @@ deck:
   crypt_avg: 4.92
   crypt:
   - count: 5
-    name: Qawiyya el-Ghaduba
+    name: Qawiyya el-Ghaduba (G5)
     capacity: 9
     disciplines: aus pre FOR POT VAL
     clan: Salubri antitribu
     grouping: 5
   - count: 3
-    name: Andre LeRoux
+    name: Andre LeRoux (G5)
     capacity: 3
     disciplines: aus
     clan: Toreador
     grouping: 5
   - count: 1
-    name: Donald Cargill
+    name: Donald Cargill (G5)
     capacity: 1
     disciplines: aus
     clan: Caitiff
     grouping: 5
   - count: 1
-    name: Walker Grimes
+    name: Walker Grimes (G5)
     capacity: 1
     disciplines: ani
     clan: Caitiff
@@ -79,7 +79,7 @@ deck:
     count: 5
     cards:
     - count: 1
-      name: Book of Going Forth by Night, The
+      name: The Book of Going Forth by Night
     - count: 1
       name: Flak Jacket
     - count: 1

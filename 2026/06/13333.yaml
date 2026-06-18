@@ -19,54 +19,54 @@ deck:
   crypt_avg: 6.83
   crypt:
   - count: 2
-    name: Gnaeus Aemilius Augustinus
+    name: Gnaeus Aemilius Augustinus (G6)
     capacity: 9
     disciplines: tha DOM OBL POT PRO
     title: Prince
     clan: Lasombra
     grouping: 6
   - count: 2
-    name: Yewon Ong
+    name: Yewon Ong (G6)
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Eulogio Sánchez de los Reyes
+    name: Eulogio Sánchez de los Reyes (G6)
     capacity: 8
     disciplines: AUS DOM OBL THA
     clan: Tremere
     grouping: 6
   - count: 2
-    name: María del Toro
+    name: María del Toro (G6)
     capacity: 7
     disciplines: DOM OBL POT
     title: Prince
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Rinaldo Albizzi
+    name: Rinaldo Albizzi (G6)
     capacity: 7
     disciplines: pre DOM OBL POT
     title: Primogen
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Rasha Tarabzouni
+    name: Rasha Tarabzouni (G6)
     capacity: 6
     disciplines: obl pre DOM POT
     title: Bishop
     clan: Lasombra
     grouping: 6
   - count: 2
-    name: Azucena
+    name: Azucena (G6)
     capacity: 5
     disciplines: pot DOM OBL
     clan: Lasombra
     grouping: 6
   - count: 1
-    name: Araceli "Celia" Rivera
+    name: Araceli "Celia" Rivera (G6)
     capacity: 3
     disciplines: dom obl
     clan: Lasombra
@@ -81,7 +81,7 @@ deck:
     - count: 1
       name: Elysian Fields
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Political Hunting Ground
     - count: 2
@@ -118,7 +118,7 @@ deck:
     - count: 4
       name: Shadow Cloak
     - count: 2
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
     - count: 5
       name: Stygian Shroud
     - count: 5

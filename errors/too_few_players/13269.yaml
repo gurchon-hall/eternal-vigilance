@@ -19,73 +19,73 @@ deck:
   crypt_avg: 6.42
   crypt:
   - count: 1
-    name: Marchesa Liliana
+    name: Marchesa Liliana (G6)
     capacity: 9
     disciplines: dom ANI AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
-    name: '"Mother" Anja Giovanni'
+    name: '"Mother" Anja Giovanni (G6)'
     capacity: 8
     disciplines: dom pot AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Huldu, The Desecrator
+    name: Huldu, The Desecrator (G6)
     capacity: 8
     disciplines: obf tha AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Mora, the Death Seer
+    name: Mora, the Death Seer (G6)
     capacity: 7
     disciplines: ani AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Parijat, the Dark Oracle
+    name: Parijat, the Dark Oracle (G6)
     capacity: 7
     disciplines: AUS DOM FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Tommaso Sforza
+    name: Tommaso Sforza (G6)
     capacity: 7
     disciplines: dom for AUS OBL THA
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Aitana, The Unholy
+    name: Aitana, The Unholy (G6)
     capacity: 6
     disciplines: for tha AUS OBL
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Lenelle, Mambo of Birmingham
+    name: Lenelle, Mambo of Birmingham (G6)
     capacity: 6
     disciplines: aus FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Monica Giovanni
+    name: Monica Giovanni (G6)
     capacity: 6
     disciplines: AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Gebeyehu Abdu
+    name: Gebeyehu Abdu (G6)
     capacity: 5
     disciplines: for AUS OBL
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Holliday "Burgundy" Hall
+    name: Holliday "Burgundy" Hall (G6)
     capacity: 5
     disciplines: aus FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Alek König
+    name: Alek König (G6)
     capacity: 3
     disciplines: OBL
     clan: Hecata

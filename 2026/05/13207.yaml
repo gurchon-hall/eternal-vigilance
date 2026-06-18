@@ -19,13 +19,13 @@ deck:
   crypt_avg: 4.0
   crypt:
   - count: 6
-    name: Antonio d'Erlette
+    name: Antonio d'Erlette (G4)
     capacity: 5
     disciplines: dom for pot THA
     clan: Tremere antitribu
     grouping: 4
   - count: 6
-    name: Keith Moody
+    name: Keith Moody (G4)
     capacity: 3
     disciplines: DOM
     clan: Tremere antitribu
@@ -69,4 +69,4 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
