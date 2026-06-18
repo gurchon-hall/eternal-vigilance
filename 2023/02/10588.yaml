@@ -84,7 +84,7 @@ deck:
     - count: 1
       name: New Carthage
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
     - count: 4
       name: Villein
     - count: 1
@@ -95,7 +95,7 @@ deck:
     - count: 1
       name: Aranthebes, The Immortal
     - count: 4
-      name: Embrace, The
+      name: The Embrace
     - count: 6
       name: Line Brawl
     - count: 1
@@ -152,4 +152,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling

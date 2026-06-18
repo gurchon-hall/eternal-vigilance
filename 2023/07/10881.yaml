@@ -61,7 +61,7 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 2
       name: Blood Doll
     - count: 2
@@ -71,7 +71,7 @@ deck:
     - count: 1
       name: Opium Den
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Temple Hunting Ground
     - count: 2
@@ -82,7 +82,7 @@ deck:
     - count: 2
       name: Heart of the City
     - count: 14
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Retainer
     count: 1
     cards:

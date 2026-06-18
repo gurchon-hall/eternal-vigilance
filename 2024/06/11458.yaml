@@ -78,7 +78,7 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Revolt
     - count: 3
@@ -108,7 +108,7 @@ deck:
     - count: 2
       name: Underbridge Stray
     - count: 2
-      name: Vozhd of Sofia
+      name: The Vozhd of Sofia
     - count: 3
       name: War Ghoul
   - name: Equipment
@@ -124,7 +124,7 @@ deck:
     - count: 2
       name: Homunculus
     - count: 1
-      name: J. S. Simmons, Esq
+      name: J. S. Simmons, Esq.
     - count: 3
       name: Owl Companion
     - count: 2
@@ -141,7 +141,7 @@ deck:
     - count: 1
       name: Seduction
     - count: 1
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
   - name: Action Modifier/Combat
     count: 4
     cards:
@@ -164,7 +164,7 @@ deck:
     - count: 3
       name: Deflection
     - count: 1
-      name: Mole, The
+      name: The Mole
     - count: 4
       name: On the Qui Vive
     - count: 4

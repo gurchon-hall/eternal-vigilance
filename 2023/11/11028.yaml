@@ -23,7 +23,7 @@ deck:
   crypt_avg: 9.5
   crypt:
   - count: 5
-    name: Capuchin, The
+    name: The Capuchin
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
@@ -50,7 +50,7 @@ deck:
     - count: 1
       name: Dreams of the Sphinx
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Giant's Blood
     - count: 1
@@ -60,7 +60,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 6
       name: Villein
   - name: Action

@@ -84,7 +84,7 @@ deck:
     - count: 1
       name: Bleeding the Vine
     - count: 6
-      name: British Museum, London, The
+      name: The British Museum, London
     - count: 1
       name: Club Illusion
     - count: 3
@@ -128,7 +128,7 @@ deck:
     - count: 1
       name: Shilmulo Tarot
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
     - count: 1
       name: Treasured Samadji
   - name: Action Modifier

@@ -94,7 +94,7 @@ deck:
     count: 14
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Backways
     - count: 1
@@ -110,7 +110,7 @@ deck:
     - count: 2
       name: Garibaldi-Meucci Museum
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
   - name: Action
     count: 26
     cards:
@@ -142,7 +142,7 @@ deck:
     count: 12
     cards:
     - count: 4
-      name: CrimethInc
+      name: CrimethInc.
     - count: 2
       name: Earth Control
     - count: 6

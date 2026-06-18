@@ -75,19 +75,19 @@ deck:
     - count: 1
       name: Anarch Troublemaker
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
       name: Direct Intervention
     - count: 2
       name: Dreams of the Sphinx
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Giant's Blood
     - count: 1
       name: Meditative Grove
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
@@ -124,7 +124,7 @@ deck:
     - count: 3
       name: Forced Confessional
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
   - name: Reaction
     count: 24
     cards:

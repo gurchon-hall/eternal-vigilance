@@ -87,7 +87,7 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 1
@@ -110,7 +110,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Smiling Jack, The Anarch
     - count: 3
@@ -126,7 +126,7 @@ deck:
     - count: 2
       name: Rewilding
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       comment: no Form of Mist for you and more Blood Doll for me!
     - count: 8
       name: Thing

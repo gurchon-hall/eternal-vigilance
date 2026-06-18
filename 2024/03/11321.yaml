@@ -69,7 +69,7 @@ deck:
     count: 20
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 1
@@ -79,7 +79,7 @@ deck:
     - count: 2
       name: Direct Intervention
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Fragment of the Book of Nod
     - count: 2
@@ -87,11 +87,11 @@ deck:
     - count: 1
       name: Papillon
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 4
       name: Vessel
     - count: 2

@@ -63,7 +63,7 @@ deck:
     - count: 1
       name: Asylum Hunting Ground
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Dreams of the Sphinx
     - count: 2
@@ -100,7 +100,7 @@ deck:
     - count: 1
       name: Heart of Nizchetus
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
   - name: Action Modifier
     count: 16
     cards:

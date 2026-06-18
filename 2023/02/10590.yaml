@@ -83,13 +83,13 @@ deck:
     - count: 1
       name: Chantry
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Dreams of the Sphinx
     - count: 1
       name: Giant's Blood
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Perfectionist
     - count: 1
@@ -128,7 +128,7 @@ deck:
     - count: 3
       name: Banishment
     - count: 1
-      name: Meddling of Semsith, The
+      name: The Meddling of Semsith
   - name: Action Modifier
     count: 23
     cards:

@@ -79,7 +79,7 @@ deck:
     - count: 1
       name: Corporate Hunting Ground
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Dreams of the Sphinx
     - count: 1
@@ -87,13 +87,13 @@ deck:
     - count: 1
       name: London Evening Star, Tabloid Newspaper
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
-      name: Rumor Mill, Tabloid Newspaper, The
+      name: The Rumor Mill, Tabloid Newspaper
     - count: 5
       name: Vessel
     - count: 1
@@ -116,7 +116,7 @@ deck:
     - count: 2
       name: Foreshadowing Destruction
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
     - count: 4
       name: Seduction
   - name: Reaction

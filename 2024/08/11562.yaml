@@ -81,7 +81,7 @@ deck:
     count: 21
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 2
       name: Carfax Abbey
     - count: 1
@@ -106,7 +106,7 @@ deck:
     - count: 2
       name: Rewilding
     - count: 2
-      name: Status Perfectus, The
+      name: The Status Perfectus
     - count: 12
       name: Thing
   - name: Ally

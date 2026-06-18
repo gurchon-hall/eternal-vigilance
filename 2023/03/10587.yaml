@@ -61,11 +61,11 @@ deck:
     count: 22
     cards:
     - count: 6
-      name: British Museum, London, The
+      name: The British Museum, London
     - count: 1
       name: Charisma
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Direct Intervention
     - count: 2
@@ -79,7 +79,7 @@ deck:
     - count: 1
       name: Jake Washington
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 4
@@ -113,9 +113,9 @@ deck:
     - count: 1
       name: Palatial Estate
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
   - name: Action Modifier
     count: 14
     cards:
@@ -142,4 +142,4 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

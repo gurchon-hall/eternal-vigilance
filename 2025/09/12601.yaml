@@ -17,7 +17,7 @@ deck:
   crypt_avg: 9.75
   crypt:
   - count: 4
-    name: Capuchin, The
+    name: The Capuchin
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
@@ -64,7 +64,7 @@ deck:
     - count: 4
       name: Ashur Tablets
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Direct Intervention
     - count: 2
@@ -76,9 +76,9 @@ deck:
     - count: 1
       name: Monastery of Shadows
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 5
       name: Villein
     - count: 1
@@ -111,7 +111,7 @@ deck:
     - count: 1
       name: Ivory Bow
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
   - name: Action Modifier
     count: 14
     cards:

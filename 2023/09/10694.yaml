@@ -7,7 +7,8 @@ winner: Jeroen van Oort
 vekn_number: 3600003
 event_url: https://www.vekn.net/event-calendar/event/10694
 event_id: 10694
-forum_post_url: https://www.vekn.net/forum/event-reports-and-twd/80825-17-09-2023-grand-prix-germany-2023-essen-nrw
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/80825-17-09-2023-grand-prix-germany-2023-essen-nrw
 deck:
   name: Ministrery G56 boring is better
   created_by: Jeroen van Oort
@@ -82,7 +83,7 @@ deck:
     - count: 2
       name: Club Illusion
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 5
       name: Dabbler
     - count: 1
@@ -105,7 +106,7 @@ deck:
     - count: 2
       name: Mesu Bedshet
     - count: 18
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Equipment
     count: 2
     cards:

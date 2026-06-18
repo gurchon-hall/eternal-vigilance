@@ -11,7 +11,7 @@ forum_post_url:
   https://www.vekn.net/forum/event-reports-and-twd/82070-twd-fee-stake-florence-florence-italy
 deck:
   name: No, Tu No!
-  created_by: NekrÃ³s
+  created_by: Nekrós
   description: ''
   crypt_count: 12
   crypt_min: 21
@@ -72,7 +72,7 @@ deck:
     - count: 1
       name: Blind Spot
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Dark Influences
     - count: 1
@@ -104,7 +104,7 @@ deck:
     - count: 8
       name: Seduction
     - count: 3
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
     - count: 8
       name: Unleashing the Bestial Soul
   - name: Reaction
@@ -120,4 +120,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story

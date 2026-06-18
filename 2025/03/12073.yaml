@@ -77,13 +77,13 @@ deck:
     - count: 7
       name: Liquidation
     - count: 7
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
       name: Secure Haven
     - count: 1
-      name: Shard, London, The
+      name: The Shard, London
     - count: 2
       name: Wider View
     - count: 1
@@ -131,4 +131,4 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

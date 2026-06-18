@@ -83,7 +83,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 6
       name: Brujah Debate
     - count: 1
@@ -99,7 +99,7 @@ deck:
     - count: 1
       name: Garibaldi-Meucci Museum
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 3

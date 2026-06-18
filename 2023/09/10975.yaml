@@ -66,11 +66,11 @@ deck:
     - count: 1
       name: Giant's Blood
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
     - count: 1
       name: Monastery of Shadows
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Perfectionist
     - count: 1
@@ -109,7 +109,7 @@ deck:
     count: 6
     cards:
     - count: 1
-      name: J. S. Simmons, Esq
+      name: J. S. Simmons, Esq.
     - count: 1
       name: Mr. Winthrop
     - count: 3

@@ -88,7 +88,7 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       comment: somewhat iffy as a Master slot here.
     - count: 1
       name: Anarch Railroad
@@ -111,7 +111,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Smiling Jack, The Anarch
       comment: would love to stuff a second copy in here, but can't find room.
@@ -129,7 +129,7 @@ deck:
       name: Rewilding
       comment: 2 feels like the bare minimum.
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       comment: didn't need the third anti-Form of Mist card this tournament.
     - count: 8
       name: Thing
@@ -195,5 +195,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       comment: either great or useless.

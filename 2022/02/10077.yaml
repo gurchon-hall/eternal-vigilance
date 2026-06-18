@@ -97,7 +97,7 @@ deck:
     count: 20
     cards:
     - count: 1
-      name: Art of Pain, The
+      name: The Art of Pain
     - count: 2
       name: Blood Doll
     - count: 1
@@ -111,15 +111,15 @@ deck:
     - count: 1
       name: Heidelberg Castle, Germany
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
     - count: 1
       name: KRCG News Radio
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
-      name: Rumor Mill, Tabloid Newspaper, The
+      name: The Rumor Mill, Tabloid Newspaper
     - count: 1
       name: Smiling Jack, The Anarch
     - count: 2

@@ -55,9 +55,9 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Admonitions, The
+      name: The Admonitions
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
       name: Charisma
     - count: 4
@@ -135,4 +135,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

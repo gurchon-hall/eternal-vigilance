@@ -88,7 +88,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 4
       name: Vessel
     - count: 2
@@ -127,7 +127,7 @@ deck:
     - count: 1
       name: Ivory Bow
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
     - count: 1
       name: Sniper Rifle
   - name: Action Modifier
@@ -165,4 +165,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking

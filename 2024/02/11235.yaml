@@ -22,7 +22,7 @@ deck:
   crypt_avg: 9.17
   crypt:
   - count: 5
-    name: Capuchin, The
+    name: The Capuchin
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
@@ -73,7 +73,7 @@ deck:
     - count: 1
       name: Maabara
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
@@ -92,7 +92,7 @@ deck:
     - count: 5
       name: Magic of the Smith
     - count: 1
-      name: Mind Rape
+      name: Puppet Master
     - count: 1
       name: Revelations
   - name: Equipment
@@ -111,7 +111,7 @@ deck:
     - count: 1
       name: Shaal Fragment
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
   - name: Action Modifier
     count: 25
     cards:

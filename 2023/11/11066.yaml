@@ -81,30 +81,30 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: Alborotador anarquista
+      name: Anarch Troublemaker
     - count: 1
-      name: Autopista de la información
+      name: Information Highway
     - count: 1
       name: Elysian Fields
     - count: 2
-      name: Muñeca de sangre
+      name: Blood Doll
     - count: 2
-      name: Path of Night, The
+      name: The Path of Night
     - count: 2
-      name: Recipiente
+      name: Vessel
     - count: 1
-      name: Revés repentino
+      name: Sudden Reversal
     - count: 1
-      name: Sueños de la Esfinge
+      name: Dreams of the Sphinx
     - count: 1
-      name: 'Zona de caza: Ámbito político'
+      name: Political Hunting Ground
   - name: Action
     count: 13
     cards:
     - count: 1
       name: Far Mastery
     - count: 12
-      name: Regir a los no alineados
+      name: Govern the Unaligned
   - name: Ally
     count: 12
     cards:
@@ -116,41 +116,41 @@ deck:
     - count: 4
       name: Command of the Beast
     - count: 4
-      name: Condicionamiento
+      name: Conditioning
     - count: 4
       name: Empowering the Puppet King
     - count: 2
-      name: Forma tenebrosa
+      name: Tenebrous Form
     - count: 6
-      name: Juego de sombras
+      name: Shadow Play
     - count: 2
-      name: Presagiar la destrucción
+      name: Foreshadowing Destruction
     - count: 4
-      name: Velo de ausencia
+      name: Shroud of Absence
   - name: Reaction
     count: 18
     cards:
     - count: 8
-      name: Desviación
+      name: Deflection
     - count: 6
-      name: En estado de alerta
+      name: On the Qui Vive
     - count: 1
       name: Pulling Strings
     - count: 2
       name: Redirection
     - count: 1
-      name: Tácticas dilatorias
+      name: Delaying Tactics
   - name: Combat
     count: 8
     cards:
     - count: 2
-      name: Cuerpo sombrío
+      name: Shadow Body
     - count: 4
-      name: Mazmorra
+      name: Oubliette
     - count: 2
-      name: Sepultura
+      name: Entombment
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story

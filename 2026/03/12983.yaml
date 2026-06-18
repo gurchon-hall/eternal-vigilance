@@ -82,7 +82,7 @@ deck:
     count: 38
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Archon Investigation
     - count: 9
@@ -100,7 +100,7 @@ deck:
     - count: 1
       name: Papillon
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: Poacher's Hunting Ground
     - count: 1
@@ -108,7 +108,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Smiling Jack, The Anarch
     - count: 4

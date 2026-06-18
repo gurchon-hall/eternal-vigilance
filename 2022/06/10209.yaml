@@ -18,7 +18,7 @@ deck:
   crypt_avg: 7.0
   crypt:
   - count: 4
-    name: Arcadian, The
+    name: The Arcadian
     capacity: 8
     disciplines: chi for DOM MYT OBT
     clan: Kiasyd
@@ -67,7 +67,7 @@ deck:
     - count: 1
       name: Great Symposium
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
     - count: 2
       name: Perfectionist
     - count: 1
@@ -129,6 +129,6 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
     - count: 1
       name: Narrow Minds

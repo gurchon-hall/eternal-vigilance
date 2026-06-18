@@ -20,13 +20,13 @@ deck:
   crypt_avg: 7.33
   crypt:
   - count: 5
-    name: unnamed, The
+    name: The unnamed
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
     grouping: 6
   - count: 3
-    name: Horde, The
+    name: The Horde
     capacity: 3
     disciplines: dai obf pre
     clan: Baali
@@ -65,7 +65,7 @@ deck:
     - count: 1
       name: Path of Evil Revelations
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Perfectionist
       comment: less useful in the V5 meta

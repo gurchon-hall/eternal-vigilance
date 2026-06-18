@@ -108,7 +108,7 @@ deck:
     count: 27
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Troublemaker
       comment: to burn any annoying weapon (Sniper, Ivory Bow) or to deliver the
@@ -123,7 +123,7 @@ deck:
       name: Dark Influences
       comment: a great defensive card
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       comment: a last-minute addition, allowed me to oust to preys with their 
         own bleed cards
     - count: 2

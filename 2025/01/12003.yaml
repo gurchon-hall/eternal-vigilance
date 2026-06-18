@@ -61,7 +61,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 6
       name: Ashur Tablets
     - count: 1
@@ -92,7 +92,7 @@ deck:
     - count: 7
       name: Deep Song
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
   - name: Equipment
     count: 1
     cards:

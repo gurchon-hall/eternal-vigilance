@@ -44,7 +44,7 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Direct Intervention
     - count: 2
@@ -58,7 +58,7 @@ deck:
     - count: 1
       name: Monastery of Shadows
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 5
@@ -73,7 +73,7 @@ deck:
     - count: 4
       name: Magic of the Smith
     - count: 1
-      name: Mind Rape
+      name: Puppet Master
     - count: 1
       name: Rutor's Hand
   - name: Ally

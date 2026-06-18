@@ -104,7 +104,7 @@ deck:
     count: 26
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 1
@@ -116,7 +116,7 @@ deck:
     - count: 1
       name: Dark Influences
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 2
       name: Garibaldi-Meucci Museum
     - count: 1
@@ -188,4 +188,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling

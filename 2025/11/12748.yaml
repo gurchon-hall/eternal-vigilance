@@ -65,7 +65,7 @@ deck:
     - count: 3
       name: Blood Doll
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Dreams of the Sphinx
     - count: 1
@@ -73,7 +73,7 @@ deck:
     - count: 2
       name: Information Highway
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 5
       name: Zillah's Valley
   - name: Action

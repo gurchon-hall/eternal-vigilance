@@ -95,17 +95,17 @@ deck:
     - count: 1
       name: Ritual Goblet
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
     - count: 1
       name: Seal of Veddartha
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
     - count: 1
       name: Sire's Index Finger
     - count: 1
       name: Soul Gem of Etrius
     - count: 1
-      name: Textbook Damnation, The
+      name: The Textbook Damnation
     - count: 1
       name: Veneficorum Artum Sanguis
     - count: 1
@@ -124,7 +124,7 @@ deck:
     - count: 1
       name: Perfect Clarity
     - count: 1
-      name: Red Question, The
+      name: The Red Question
     - count: 1
       name: Under My Skin
   - name: Action Modifier/Combat

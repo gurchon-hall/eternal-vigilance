@@ -112,17 +112,17 @@ deck:
     - count: 1
       name: Entrancement
     - count: 20
-      name: Platinum Protocol
+      name: The Platinum Protocol
   - name: Ally
     count: 1
     cards:
     - count: 1
-      name: Carlton Van Wick
+      name: Carlton Van Wyk
   - name: Action Modifier
     count: 21
     cards:
     - count: 2
-      name: Cloak of the Gathering
+      name: Cloak the Gathering
     - count: 3
       name: Earth Control
     - count: 4
@@ -130,7 +130,7 @@ deck:
     - count: 2
       name: Faceless Night
     - count: 4
-      name: Lost In The Crowds
+      name: Lost in Crowds
     - count: 4
       name: Revelation of the Serpent
     - count: 2
@@ -146,9 +146,9 @@ deck:
     - count: 3
       name: Bait and Switch
     - count: 2
-      name: On the Que Vive
+      name: On the Qui Vive
     - count: 8
-      name: Party Out of Bounds
+      name: Party Out Of Bounds
   - name: Combat
     count: 11
     cards:

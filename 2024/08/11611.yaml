@@ -86,7 +86,7 @@ deck:
     count: 17
     cards:
     - count: 17
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Ally
     count: 1
     cards:
@@ -98,7 +98,7 @@ deck:
     - count: 4
       name: Aire of Elation
     - count: 3
-      name: CrimethInc
+      name: CrimethInc.
     - count: 4
       name: Earth Control
     - count: 5

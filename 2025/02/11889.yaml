@@ -21,7 +21,7 @@ deck:
   crypt_avg: 10.0
   crypt:
   - count: 12
-    name: unnamed, The
+    name: The unnamed
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali

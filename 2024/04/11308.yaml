@@ -63,11 +63,11 @@ deck:
     count: 20
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 2
       name: Direct Intervention
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Fragment of the Book of Nod
     - count: 1
@@ -81,9 +81,9 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 3
-      name: Shard, London, The
+      name: The Shard, London
     - count: 4
       name: Villein
     - count: 1
@@ -143,4 +143,4 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking
+      name: The Unmasking

@@ -56,7 +56,7 @@ deck:
     - count: 1
       name: Monastery of Shadows
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       comment: wasn't needed during this tournament
     - count: 1
       name: Protean
@@ -165,5 +165,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Fourth Cycle, The
+      name: The Fourth Cycle
       comment: I was expecting more events, wasn't useful during the tournament

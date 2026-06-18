@@ -117,7 +117,7 @@ deck:
     - count: 2
       name: Smiling Jack, The Anarch
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Revolt
     - count: 1
@@ -127,7 +127,7 @@ deck:
     - count: 1
       name: Direct Intervention
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Garibaldi-Meucci Museum
     - count: 1
@@ -137,7 +137,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
   - name: Action
     count: 2
     cards:
@@ -167,7 +167,7 @@ deck:
     - count: 1
       name: Scourge of the Enochians
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
   - name: Political Action
     count: 1
     cards:

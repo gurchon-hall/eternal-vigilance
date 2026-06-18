@@ -83,7 +83,7 @@ deck:
     - count: 1
       name: Misdirection
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 3
       name: Wash
   - name: Action
@@ -103,7 +103,7 @@ deck:
     - count: 3
       name: Banishment
     - count: 1
-      name: Meddling of Semsith, The
+      name: The Meddling of Semsith
     - count: 3
       name: Parity Shift
   - name: Action Modifier

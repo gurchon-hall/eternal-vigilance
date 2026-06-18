@@ -20,7 +20,7 @@ deck:
   crypt_avg: 6.42
   crypt:
   - count: 3
-    name: AdrinoManauara
+    name: Adrino Manauara
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -72,7 +72,7 @@ deck:
     - count: 1
       name: Anarch Railroad
     - count: 5
-      name: British Museum, London, The
+      name: The British Museum, London
       comment: linchpin
     - count: 1
       name: Carfax Abbey
@@ -87,7 +87,7 @@ deck:
     - count: 1
       name: Jake Washington
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Savannah'
     - count: 3
@@ -115,7 +115,7 @@ deck:
     - count: 1
       name: Palatial Estate
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
   - name: Action Modifier
     count: 4
     cards:

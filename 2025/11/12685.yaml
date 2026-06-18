@@ -87,16 +87,16 @@ deck:
     - count: 1
       name: Gird Minions
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Sunset Strip, Hollywood
     - count: 1
-      name: Coven, The
+      name: The Coven
   - name: Action
     count: 30
     cards:
     - count: 15
-      name: Embrace, The
+      name: The Embrace
     - count: 15
       name: Mozambique Allure
   - name: Political Action
@@ -108,7 +108,7 @@ deck:
     count: 7
     cards:
     - count: 7
-      name: Eldest Are Kholo, The
+      name: The Eldest Are Kholo
   - name: Equipment
     count: 1
     cards:

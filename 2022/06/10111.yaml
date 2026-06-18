@@ -87,7 +87,7 @@ deck:
     - count: 1
       name: Opium Den
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       comment: still good
     - count: 1
       name: 'Powerbase: Los Angeles'
@@ -103,7 +103,7 @@ deck:
     - count: 2
       name: Heart of the City
     - count: 10
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       comment: this card is sooo good
   - name: Ally
     count: 1
@@ -125,7 +125,7 @@ deck:
     count: 20
     cards:
     - count: 6
-      name: CrimethInc
+      name: CrimethInc.
     - count: 1
       name: Earth Control
     - count: 3

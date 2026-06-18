@@ -92,7 +92,7 @@ deck:
     - count: 1
       name: Carver's Meat Packing and Storage
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Direct Intervention
     - count: 1
@@ -129,7 +129,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: J. S. Simmons, Esq
+      name: J. S. Simmons, Esq.
     - count: 1
       name: Tasha Morgan
   - name: Combat

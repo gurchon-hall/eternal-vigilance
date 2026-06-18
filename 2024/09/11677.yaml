@@ -97,7 +97,7 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Backways
     - count: 1
@@ -105,7 +105,7 @@ deck:
     - count: 1
       name: Club Illusion
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Dreams of the Sphinx
     - count: 1
@@ -141,7 +141,7 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: J. S. Simmons, Esq
+      name: J. S. Simmons, Esq.
   - name: Action Modifier
     count: 10
     cards:

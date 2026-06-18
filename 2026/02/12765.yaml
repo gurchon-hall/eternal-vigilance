@@ -73,7 +73,7 @@ deck:
     - count: 1
       name: Charisma
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Direct Intervention
     - count: 1
@@ -134,4 +134,4 @@ deck:
     - count: 1
       name: Scourge of the Enochians
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

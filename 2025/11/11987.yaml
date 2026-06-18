@@ -47,7 +47,7 @@ deck:
     clan: Ventrue antitribu
     grouping: 5
   - count: 1
-    name: Venceslava, The Implacable
+    name: Věnceslava, The Implacable
     capacity: 9
     disciplines: cel DOM FOR POT PRE
     title: Archbishop
@@ -93,7 +93,7 @@ deck:
     - count: 1
       name: Dreams of the Sphinx
     - count: 1
-      name: Dí­a de los Muertos
+      name: Día de los Muertos
     - count: 1
       name: Monastery of Shadows
     - count: 1

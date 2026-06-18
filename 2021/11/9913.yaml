@@ -102,7 +102,7 @@ deck:
     - count: 9
       name: Ashur Tablets
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Creepshow Casino
     - count: 3
@@ -112,7 +112,7 @@ deck:
     - count: 4
       name: Information Highway
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: Protected Resources
   - name: Action

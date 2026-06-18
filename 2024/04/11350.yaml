@@ -84,7 +84,7 @@ deck:
     - count: 1
       name: Anarch Railroad
     - count: 5
-      name: British Museum, London, The
+      name: The British Museum, London
       comment: not as mission critical here
     - count: 1
       name: Carfax Abbey
@@ -104,7 +104,7 @@ deck:
       name: Papillon
       comment: would be better as a 3rd Cooler with this crypt
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Savannah'
     - count: 3

@@ -101,9 +101,9 @@ deck:
     - count: 2
       name: Art Museum
     - count: 6
-      name: British Museum, London, The
+      name: The British Museum, London
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Direct Intervention
     - count: 2
@@ -111,7 +111,7 @@ deck:
     - count: 1
       name: Giant's Blood
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
   - name: Action
     count: 18
     cards:

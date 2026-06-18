@@ -76,9 +76,9 @@ deck:
     - count: 1
       name: Black Forest Base
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
     - count: 1
       name: Information Highway
     - count: 2
@@ -91,7 +91,7 @@ deck:
     count: 8
     cards:
     - count: 8
-      name: Embrace, The
+      name: The Embrace
   - name: Political Action
     count: 19
     cards:

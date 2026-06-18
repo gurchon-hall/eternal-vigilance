@@ -74,7 +74,7 @@ deck:
     count: 21
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
       name: Dummy Corporation
     - count: 1
@@ -92,13 +92,13 @@ deck:
     - count: 1
       name: Morgue Hunting Ground
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Cape Verde'
     - count: 1
       name: 'Powerbase: Chicago'
     - count: 1
-      name: Rumor Mill, Tabloid Newspaper, The
+      name: The Rumor Mill, Tabloid Newspaper
     - count: 1
       name: Therbold Realty
     - count: 1

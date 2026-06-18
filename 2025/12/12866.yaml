@@ -68,7 +68,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Dreams of the Sphinx
     - count: 8
@@ -76,18 +76,18 @@ deck:
     - count: 1
       name: Information Highway
     - count: 1
-      name: 'Khabar: Community, The'
+      name: 'The Khabar: Community'
     - count: 1
       name: Obfuscate
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 3
       name: Villein
   - name: Action
     count: 7
     cards:
     - count: 3
-      name: Embrace, The
+      name: The Embrace
     - count: 2
       name: 'Khabar: Glory'
     - count: 2
@@ -123,6 +123,6 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
     - count: 1
       name: Narrow Minds

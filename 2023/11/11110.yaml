@@ -55,7 +55,7 @@ deck:
     count: 28
     cards:
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Hostile Takeover
       comment: big fun with the barons
@@ -65,7 +65,7 @@ deck:
     - count: 1
       name: Monastery of Shadows
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Protean
       comment: for Hardestadt, also useful for Banishment

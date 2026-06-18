@@ -87,7 +87,7 @@ deck:
     count: 21
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 5
       name: Brujah Debate
     - count: 1
@@ -101,7 +101,7 @@ deck:
     - count: 1
       name: Libertas
     - count: 1
-      name: Line, The
+      name: The Line
     - count: 1
       name: Poacher's Hunting Ground
     - count: 4
@@ -118,7 +118,7 @@ deck:
     - count: 1
       name: Constant Revolution
     - count: 8
-      name: Embrace, The
+      name: The Embrace
     - count: 2
       name: Entrancement
     - count: 1

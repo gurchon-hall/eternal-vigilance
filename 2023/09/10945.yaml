@@ -75,13 +75,13 @@ deck:
     - count: 1
       name: Archon Investigation
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
       name: Corporate Hunting Ground
     - count: 1
       name: Direct Intervention
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Jake Washington
     - count: 1
@@ -89,7 +89,7 @@ deck:
     - count: 3
       name: Maabara
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Barranquilla'
     - count: 1
@@ -97,7 +97,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Rötschreck
     - count: 2
@@ -152,7 +152,7 @@ deck:
     - count: 1
       name: Daring the Dawn
     - count: 2
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
   - name: Action Modifier/Combat
     count: 4
     cards:
@@ -188,4 +188,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking

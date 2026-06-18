@@ -66,7 +66,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Carfax Abbey
     - count: 1
@@ -104,7 +104,7 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: CrimethInc
+      name: CrimethInc.
   - name: Reaction
     count: 15
     cards:

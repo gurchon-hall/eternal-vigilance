@@ -70,11 +70,11 @@ deck:
     - count: 4
       name: Liquidation
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
     - count: 3
       name: Secure Haven
     - count: 1
-      name: Shard, London, The
+      name: The Shard, London
   - name: Ally
     count: 11
     cards:
@@ -107,4 +107,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking

@@ -53,7 +53,7 @@ deck:
     clan: Ministry
     grouping: 6
   - count: 1
-    name: Gilbert Duane (G6)
+    name: Gilbert Duane
     capacity: 7
     disciplines: AUS DOM OBF
     title: Baron
@@ -84,7 +84,7 @@ deck:
     - count: 1
       name: Club Illusion
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Dreams of the Sphinx
     - count: 2

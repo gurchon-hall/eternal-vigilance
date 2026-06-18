@@ -38,7 +38,7 @@ deck:
     clan: Malkavian
     grouping: 4
   - count: 1
-    name: Colonel, The
+    name: The Colonel
     capacity: 5
     disciplines: cel dem obf AUS
     clan: Malkavian antitribu
@@ -81,9 +81,9 @@ deck:
     - count: 1
       name: Archon Investigation
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Direct Intervention
     - count: 1

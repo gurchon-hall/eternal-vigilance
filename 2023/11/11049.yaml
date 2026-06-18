@@ -68,7 +68,7 @@ deck:
     - count: 2
       name: Angel of Berlin
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
       name: Direct Intervention
     - count: 1
@@ -82,7 +82,7 @@ deck:
     - count: 1
       name: Millicent Smith, Puritan Vampire Hunter
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: Smiling Jack, The Anarch
     - count: 3
@@ -113,7 +113,7 @@ deck:
     count: 5
     cards:
     - count: 2
-      name: Crusader Sword, The
+      name: The Crusader Sword
     - count: 2
       name: Ivory Bow
     - count: 1
@@ -154,8 +154,8 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
     - count: 1
       name: Veil of Darkness

@@ -86,9 +86,9 @@ deck:
     - count: 6
       name: Liquidation
     - count: 6
-      name: Parthenon, The
+      name: The Parthenon
     - count: 2
-      name: Shard, London, The
+      name: The Shard, London
   - name: Action
     count: 2
     cards:
@@ -136,4 +136,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking

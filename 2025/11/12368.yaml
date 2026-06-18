@@ -87,15 +87,15 @@ deck:
     - count: 4
       name: Liquidation
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Perfectionist
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 2
-      name: Shard, London, The
+      name: The Shard, London
     - count: 1
       name: Wider View
   - name: Action
@@ -144,4 +144,4 @@ deck:
     - count: 1
       name: Scourge of the Enochians
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

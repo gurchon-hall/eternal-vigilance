@@ -18,7 +18,7 @@ deck:
   crypt_avg: 5.58
   crypt:
   - count: 3
-    name: Carna, The Princess Bitch
+    name: Carna, The Princess Witch
     capacity: 7
     disciplines: AUS DOM THA
     title: Primogen
@@ -92,7 +92,7 @@ deck:
     - count: 1
       name: Dreams of the Sphinx
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Failsafe
     - count: 1
@@ -100,11 +100,11 @@ deck:
     - count: 2
       name: Jake Washington
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 5
       name: Vessel
     - count: 1

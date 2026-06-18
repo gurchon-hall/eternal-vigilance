@@ -85,7 +85,7 @@ deck:
     - count: 1
       name: Backways
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
       name: Carfax Abbey
     - count: 2
@@ -103,7 +103,7 @@ deck:
     - count: 1
       name: Papillon
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Los Angeles'
     - count: 1
@@ -111,7 +111,7 @@ deck:
     - count: 2
       name: 'Powerbase: Savannah'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 3
       name: Vessel
     - count: 2

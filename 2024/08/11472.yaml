@@ -90,9 +90,9 @@ deck:
     - count: 4
       name: Liquidation
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
     - count: 2
-      name: Shard, London, The
+      name: The Shard, London
       comment: terrible interpretation IMO, but play as ruled.
     - count: 1
       name: Villein
@@ -139,5 +139,5 @@ deck:
     count: 3
     cards:
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking
       comment: yeah, this does a thing and still deserves a nerf

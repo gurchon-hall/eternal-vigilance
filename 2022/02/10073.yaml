@@ -87,7 +87,7 @@ deck:
     - count: 1
       name: Opium Den
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 4
       name: Villein
     - count: 1
@@ -100,7 +100,7 @@ deck:
     - count: 1
       name: Heart of the City
     - count: 11
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Ally
     count: 2
     cards:
@@ -117,7 +117,7 @@ deck:
     count: 3
     cards:
     - count: 1
-      name: J. S. Simmons, Esq
+      name: J. S. Simmons, Esq.
     - count: 1
       name: Robert Carter
     - count: 1
@@ -126,7 +126,7 @@ deck:
     count: 22
     cards:
     - count: 2
-      name: CrimethInc
+      name: CrimethInc.
     - count: 1
       name: Earth Control
     - count: 2

@@ -25,7 +25,7 @@ deck:
     clan: Brujah
     grouping: 6
   - count: 2
-    name: Aline GÃ¤deke
+    name: Aline Gädeke
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -51,7 +51,7 @@ deck:
     clan: Brujah
     grouping: 6
   - count: 1
-    name: Saku PihlajamÃ¤ki
+    name: Saku Pihlajamäki
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
@@ -76,7 +76,7 @@ deck:
     count: 14
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 4
       name: Anarch Revolt
     - count: 1

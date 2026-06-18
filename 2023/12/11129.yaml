@@ -86,7 +86,7 @@ deck:
     - count: 2
       name: Acquired Ventrue Assets
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Direct Intervention
     - count: 4
@@ -96,7 +96,7 @@ deck:
     - count: 2
       name: Not to Be
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Cape Verde'
     - count: 4
@@ -107,7 +107,7 @@ deck:
     - count: 1
       name: Aranthebes, The Immortal
     - count: 8
-      name: Embrace, The
+      name: The Embrace
     - count: 12
       name: Khazar's Diary (Endless Night)
     - count: 5
@@ -157,4 +157,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

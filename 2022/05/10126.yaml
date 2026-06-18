@@ -97,9 +97,9 @@ deck:
     - count: 3
       name: Mesu Bedshet
     - count: 12
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
     - count: 2
-      name: Summoning, The
+      name: The Summoning
   - name: Ally
     count: 8
     cards:
@@ -122,7 +122,7 @@ deck:
     - count: 1
       name: Cloak the Gathering
     - count: 10
-      name: CrimethInc
+      name: CrimethInc.
     - count: 5
       name: Enchanting Gaze
     - count: 2
@@ -158,4 +158,4 @@ deck:
     - count: 1
       name: Narrow Minds
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking

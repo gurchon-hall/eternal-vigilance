@@ -87,7 +87,7 @@ deck:
     count: 24
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 6
       name: Ashur Tablets
     - count: 1
@@ -103,7 +103,7 @@ deck:
     - count: 2
       name: Left for Dead
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 3
       name: Piper
     - count: 1
@@ -163,6 +163,6 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

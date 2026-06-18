@@ -103,7 +103,7 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Backways
     - count: 1
@@ -197,4 +197,4 @@ deck:
     - count: 1
       name: Narrow Minds
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling

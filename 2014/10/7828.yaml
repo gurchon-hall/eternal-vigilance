@@ -81,13 +81,13 @@ deck:
     - count: 2
       name: Kaymakli Nightmares
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
     - count: 4
       name: Legendary Vampire
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Villein
     - count: 1
@@ -145,4 +145,4 @@ deck:
     - count: 1
       name: Anthelios, The Red Star
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story

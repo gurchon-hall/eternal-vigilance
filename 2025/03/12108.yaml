@@ -78,7 +78,7 @@ deck:
     - count: 1
       name: Archon Investigation
     - count: 1
-      name: Art of Pain, The
+      name: The Art of Pain
     - count: 4
       name: Grooming the Protégé
     - count: 3
@@ -96,7 +96,7 @@ deck:
     - count: 1
       name: Papillon
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Perfectionist
     - count: 1
@@ -108,13 +108,13 @@ deck:
     - count: 1
       name: Dreams of the Sphinx
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 3
       name: Dabbler
     - count: 1
       name: Fortune Teller Shop
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 5
       name: Villein
     - count: 2
@@ -128,7 +128,7 @@ deck:
     - count: 1
       name: Information Highway
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 3
       name: Vessel
     - count: 2
@@ -140,7 +140,7 @@ deck:
     - count: 3
       name: Dreams of the Sphinx
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Troublemaker
     - count: 2
@@ -150,7 +150,7 @@ deck:
     - count: 1
       name: Dark Influences
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 2
       name: Garibaldi-Meucci Museum
     - count: 1

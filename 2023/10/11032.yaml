@@ -77,7 +77,7 @@ deck:
     - count: 1
       name: Anarch Railroad
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 3
       name: Dabbler
     - count: 1
@@ -87,7 +87,7 @@ deck:
     - count: 1
       name: Opium Den
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Los Angeles'
   - name: Action
@@ -106,7 +106,7 @@ deck:
     - count: 3
       name: Mind Numb
     - count: 10
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Ally
     count: 1
     cards:
@@ -118,7 +118,7 @@ deck:
     - count: 2
       name: Aire of Elation
     - count: 5
-      name: CrimethInc
+      name: CrimethInc.
     - count: 4
       name: Enchanting Gaze
     - count: 1

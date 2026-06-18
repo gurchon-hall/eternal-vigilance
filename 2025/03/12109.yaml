@@ -72,7 +72,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 2
       name: Blood Doll
     - count: 2
@@ -94,13 +94,13 @@ deck:
     - count: 1
       name: Necromancy
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Cape Verde'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Vessel
     - count: 4
@@ -140,7 +140,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: J. S. Simmons, Esq
+      name: J. S. Simmons, Esq.
     - count: 1
       name: Tasha Morgan
   - name: Action Modifier
@@ -155,7 +155,7 @@ deck:
     - count: 1
       name: Seduction
     - count: 1
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
   - name: Action Modifier/Combat
     count: 1
     cards:

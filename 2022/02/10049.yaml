@@ -60,9 +60,9 @@ deck:
     - count: 1
       name: Millicent Smith, Puritan Vampire Hunter
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
   - name: Action
     count: 10
     cards:
@@ -123,4 +123,4 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

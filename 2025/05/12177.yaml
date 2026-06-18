@@ -86,7 +86,7 @@ deck:
     - count: 1
       name: Jake Washington
     - count: 3
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Perfectionist
   - name: Action
@@ -128,4 +128,4 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
