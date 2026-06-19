@@ -1,0 +1,143 @@
+name: MartCon
+location: FORUM, Mannheim Neckarstadt, Germany
+date_start: 2005-04-16
+rounds_format: 3R+F
+players_count: 13
+winner: Sebastian Meurer
+vekn_number: 3040004
+event_url: https://www.vekn.net/event-calendar/event/884
+event_id: 884
+forum_post_url: https://www.vekn.net/event-calendar/event/884
+deck:
+  name: Tragic, fast and beautiful (2005)
+  description: 'A variation of the Cel-Gun theme: Relatively strong forward power
+    and combining gun combat with Majesty untap. So the signature move was to shoot,
+    use Majesty as an additional strike in order to untap, ideally taste, then Psyche!
+    to finish the victim off. Good times.'
+  crypt_count: 12
+  crypt_min: 11
+  crypt_max: 30
+  crypt_avg: 5.67
+  crypt:
+  - count: 3
+    name: Suzanne Kadim
+    capacity: 7
+    disciplines: aus dom obf CEL PRE
+    clan: Toreador
+    grouping: 3
+  - count: 2
+    name: Greta Kircher
+    capacity: 7
+    disciplines: obf AUS CEL PRE
+    clan: Toreador antitribu
+    grouping: 2
+  - count: 2
+    name: Emerson Wilkershire III
+    capacity: 2
+    disciplines: pre
+    clan: Toreador
+    grouping: 3
+  - count: 1
+    name: Joaquin Murietta
+    capacity: 9
+    disciplines: obf pre qui AUS CEL
+    clan: Toreador
+    grouping: 3
+  - count: 1
+    name: Ira Rivers
+    capacity: 7
+    disciplines: ani pre AUS CEL
+    title: Prince
+    clan: Toreador
+    grouping: 3
+  - count: 1
+    name: Antoinette, She Who Watches
+    capacity: 6
+    disciplines: cel obf AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 3
+  - count: 1
+    name: Sheila Mezarin
+    capacity: 6
+    disciplines: cel for AUS PRE
+    clan: Toreador antitribu
+    grouping: 2
+  - count: 1
+    name: Antoinette DuChamp
+    capacity: 1
+    disciplines: cel pre
+    clan: Caitiff
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 2
+      name: Art Museum
+    - count: 4
+      name: Blood Doll
+    - count: 1
+      name: Celerity
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Heidelberg Castle, Germany
+    - count: 1
+      name: Presence
+    - count: 1
+      name: Slave Auction
+    - count: 2
+      name: Society Hunting Ground
+  - name: Action
+    count: 5
+    cards:
+    - count: 1
+      name: Distraction
+    - count: 3
+      name: Entrancement
+    - count: 1
+      name: Nose of the Hound
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 6
+      name: .44 Magnum
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 7
+      name: Aire of Elation
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 2
+      name: Forced Awakening
+    - count: 3
+      name: My Enemy's Enemy
+    - count: 3
+      name: Quicken Sight
+    - count: 5
+      name: Telepathic Misdirection
+    - count: 5
+      name: Wake with Evening's Freshness
+  - name: Combat
+    count: 39
+    cards:
+    - count: 5
+      name: Blur
+    - count: 6
+      name: Concealed Weapon
+    - count: 7
+      name: Majesty
+    - count: 5
+      name: Psyche!
+    - count: 5
+      name: Pursuit
+    - count: 3
+      name: Side Strike
+    - count: 1
+      name: Staredown
+    - count: 7
+      name: Taste of Vitae

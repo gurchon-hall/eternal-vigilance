@@ -1,0 +1,137 @@
+name: 'Constant Revolution: Lublin'
+location: Lublin, Poland
+date_start: 2016-04-09
+rounds_format: 3R+F
+players_count: 13
+winner: Tomasz Kliszewski
+vekn_number: 3080013
+event_url: https://www.vekn.net/event-calendar/event/8394
+event_id: 8394
+vp_comment: 1GW4 + 1.5vp in  final
+forum_post_url: https://www.vekn.net/event-calendar/event/8394
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 17
+  crypt_max: 35
+  crypt_avg: 6.75
+  crypt:
+  - count: 4
+    name: Nana Buruku
+    capacity: 8
+    disciplines: ANI POT PRE
+    clan: Guruhi
+    grouping: 4
+  - count: 3
+    name: Nangila Were
+    capacity: 9
+    disciplines: obf ser ANI POT PRE
+    clan: Guruhi
+    grouping: 4
+  - count: 2
+    name: Fish
+    capacity: 5
+    disciplines: pre ANI POT
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Fode Kourouma
+    capacity: 5
+    disciplines: ani aus pre POT
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Urenna Bunu
+    capacity: 4
+    disciplines: ani pot pre
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Stick
+    capacity: 3
+    disciplines: ANI
+    clan: Nosferatu antitribu
+    grouping: 4
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 23
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 7
+      name: Ashur Tablets
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Guardian Angel
+    - count: 1
+      name: Haven Uncovered
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: 'Powerbase: Luanda'
+    - count: 5
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 18
+    cards:
+    - count: 8
+      name: Deep Song
+    - count: 2
+      name: Entrancement
+    - count: 2
+      name: Founders of the Ebony Kingdom
+    - count: 2
+      name: Heroic Might
+    - count: 2
+      name: Public Trust
+    - count: 2
+      name: Well-Marked
+  - name: Reaction
+    count: 5
+    cards:
+    - count: 1
+      name: Cats' Guidance
+    - count: 1
+      name: Delaying Tactics
+    - count: 1
+      name: On the Qui Vive
+    - count: 2
+      name: Sense the Savage Way
+  - name: Combat
+    count: 30
+    cards:
+    - count: 1
+      name: Canine Horde
+    - count: 6
+      name: Carrion Crows
+    - count: 1
+      name: Disarm
+    - count: 1
+      name: Glancing Blow
+    - count: 6
+      name: Immortal Grapple
+    - count: 2
+      name: Slam
+    - count: 1
+      name: Target Vitals
+    - count: 6
+      name: Taste of Vitae
+    - count: 1
+      name: Thrown Sewer Lid
+    - count: 5
+      name: Torn Signpost
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound

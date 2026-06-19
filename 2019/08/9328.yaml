@@ -1,0 +1,137 @@
+name: EC 2019 – Brighter Future
+location: Montreuil, France
+date_start: 2019-08-18
+rounds_format: 3R+F
+players_count: 65
+winner: Tomas Wallmur
+vekn_number: 3385001
+event_url: https://www.vekn.net/event-calendar/event/9328
+event_id: 9328
+forum_post_url: https://www.vekn.net/event-calendar/event/9328
+deck:
+  name: 2019 French open
+  created_by: Erik Mossbergs
+  description: Erik Mossbergs' legionnaire deck, which he took to 2:nd seed on 
+    the Day 1 in Paris 2019. Dont forget the untap step. Get out your 
+    legionnaires and bleed.
+  crypt_count: 12
+  crypt_min: 22
+  crypt_max: 40
+  crypt_avg: 7.75
+  crypt:
+  - count: 5
+    name: Erlik
+    capacity: 10
+    disciplines: AUS CEL FOR NEC THN
+    clan: Harbinger of Skulls
+    grouping: 3
+  - count: 2
+    name: Babalawo Alafin
+    capacity: 7
+    disciplines: ani AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 4
+  - count: 2
+    name: Erebus
+    capacity: 7
+    disciplines: dem AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 3
+  - count: 2
+    name: Solomon Batanea
+    capacity: 5
+    disciplines: nec AUS FOR
+    clan: Harbinger of Skulls
+    grouping: 4
+  - count: 1
+    name: Nicomedes
+    capacity: 5
+    disciplines: aus for nec vic
+    clan: Harbinger of Skulls
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Carver's Meat Packing and Storage
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Jake Washington
+    - count: 9
+      name: Liquidation
+    - count: 2
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Rack, The
+    - count: 2
+      name: Vessel
+  - name: Ally
+    count: 21
+    cards:
+    - count: 2
+      name: Carlton Van Wyk
+    - count: 12
+      name: Emerald Legionnaire
+    - count: 6
+      name: Shambling Hordes
+    - count: 1
+      name: Vagabond Mystic
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 3
+      name: Call of the Hungry Dead
+    - count: 3
+      name: Daring the Dawn
+    - count: 2
+      name: Enkil Cog
+    - count: 2
+      name: Forced March
+    - count: 3
+      name: Inevitability of the Void
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Breath of Thanatos
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Spectral Divination
+  - name: Reaction
+    count: 25
+    cards:
+    - count: 2
+      name: Delaying Tactics
+    - count: 2
+      name: Eagle's Sight
+    - count: 5
+      name: Eyes of Argus
+    - count: 3
+      name: My Enemy's Enemy
+    - count: 5
+      name: On the Qui Vive
+    - count: 8
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 5
+    cards:
+    - count: 4
+      name: Martyr's Resilience
+    - count: 1
+      name: Target Vitals
+  - name: Event
+    count: 4
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+    - count: 3
+      name: Unmasking, The
