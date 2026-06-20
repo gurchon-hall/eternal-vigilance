@@ -1,0 +1,141 @@
+name: Grand Prix Melbourne 2025
+location: Melbourne, Australia
+date_start: 2025-03-01
+rounds_format: 3R+F
+players_count: 25
+winner: Hugh Aldous
+vekn_number: 2331000
+event_url: https://www.vekn.net/event-calendar/event/11954
+event_id: 11954
+vp_comment: 2.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11954
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 38
+  crypt_max: 44
+  crypt_avg: 10.25
+  crypt:
+  - count: 5
+    name: Stanislava
+    capacity: 11
+    disciplines: ANI CEL DOM FOR PRO
+    title: Inner Circle
+    clan: Gangrel
+    grouping: 2
+  - count: 3
+    name: Xaviar
+    capacity: 10
+    disciplines: aus cel pot ANI FOR PRO
+    title: 2 votes
+    clan: Gangrel
+    grouping: 3
+  - count: 2
+    name: Ingrid Rossler
+    capacity: 9
+    disciplines: dom ANI FOR PRO
+    title: Prince
+    clan: Gangrel
+    grouping: 2
+  - count: 1
+    name: Genevieve
+    capacity: 10
+    disciplines: aus dom ANI FOR PRO
+    title: Priscus
+    clan: Gangrel antitribu
+    grouping: 2
+  - count: 1
+    name: Hartmut Stover
+    capacity: 10
+    disciplines: dom for CEL OBF PRO
+    title: Archbishop
+    clan: Gangrel antitribu
+    grouping: 3
+  library_count: 88
+  library_sections:
+  - name: Master
+    count: 23
+    cards:
+    - count: 1
+      name: Backways
+    - count: 1
+      name: Ecoterrorists
+    - count: 1
+      name: Ennoia's Theater
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Jake Washington
+    - count: 1
+      name: Monastery of Shadows
+    - count: 2
+      name: Perfectionist
+    - count: 5
+      name: Villein
+    - count: 9
+      name: Zillah's Valley
+  - name: Action
+    count: 6
+    cards:
+    - count: 6
+      name: Govern the Unaligned
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+    - count: 1
+      name: Double Deuce
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Ancient Influence
+    - count: 3
+      name: Banishment
+    - count: 4
+      name: Camarilla's Iron Fist
+    - count: 1
+      name: Disputed Territory
+    - count: 2
+      name: Kine Resources Contested
+    - count: 1
+      name: Neonate Breach
+    - count: 2
+      name: Parity Shift
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reins of Power
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Homunculus
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 5
+      name: Earth Control
+    - count: 1
+      name: Enkil Cog
+    - count: 5
+      name: Forced March
+    - count: 5
+      name: Freak Drive
+    - count: 4
+      name: Instantaneous Transformation
+    - count: 3
+      name: Momentary Delay
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Deflection
+  - name: Combat
+    count: 10
+    cards:
+    - count: 5
+      name: Earth Meld
+    - count: 5
+      name: Form of Mist

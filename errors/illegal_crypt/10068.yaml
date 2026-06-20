@@ -1,0 +1,161 @@
+name: Pelos Fundos
+location: Online
+date_start: 2022-02-12
+rounds_format: 2R+F
+players_count: 16
+winner: Rafael Barbosa da Silva
+vekn_number: 7060055
+event_url: https://www.vekn.net/event-calendar/event/10068
+event_id: 10068
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10068
+deck:
+  name: Takamura
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 40
+  crypt_avg: 7.75
+  crypt:
+  - count: 2
+    name: Karsh
+    capacity: 10
+    disciplines: ANI CEL FOR POT PRO
+    clan: Gangrel
+    grouping: 3
+  - count: 2
+    name: Jalan-Aajav
+    capacity: 9
+    disciplines: ani CEL FOR POT PRO
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 2
+    name: Maxwell
+    capacity: 9
+    disciplines: CEL FOR POT PRE PRO
+    clan: Brujah
+    grouping: 3
+  - count: 1
+    name: Gwendolyn
+    capacity: 11
+    disciplines: aus tha CEL FOR POT PRE
+    title: Inner Circle
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Hrothulf
+    capacity: 8
+    disciplines: dom pot pro CEL FOR PRE
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Richter, The Templar of Du Mont
+    capacity: 7
+    disciplines: for pre CEL POT
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Pug Jackson
+    capacity: 6
+    disciplines: for pre CEL POT
+    title: Primogen
+    clan: Brujah
+    grouping: 3
+  - count: 1
+    name: Jimmy Dunn
+    capacity: 4
+    disciplines: for CEL POT
+    clan: Pander
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Blood Doll
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 2
+      name: Fame
+    - count: 1
+      name: Guardian Angel
+    - count: 1
+      name: Haven Uncovered
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Tension in the Ranks
+    - count: 3
+      name: Vessel
+    - count: 2
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 13
+    cards:
+    - count: 3
+      name: Ambush
+    - count: 1
+      name: Big Game
+    - count: 4
+      name: Bum's Rush
+    - count: 3
+      name: Harass
+    - count: 2
+      name: Heroic Might
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 4
+      name: Forced March
+    - count: 6
+      name: Freak Drive
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 1
+      name: On the Qui Vive
+    - count: 1
+      name: Wake with Evening's Freshness
+  - name: Combat
+    count: 50
+    cards:
+    - count: 4
+      name: Blur
+    - count: 3
+      name: Flash
+    - count: 1
+      name: Flesh of Marble
+    - count: 8
+      name: Immortal Grapple
+    - count: 2
+      name: Psyche!
+    - count: 4
+      name: Pursuit
+    - count: 4
+      name: Quickness
+    - count: 1
+      name: Resilience
+    - count: 4
+      name: Rolling with the Punches
+    - count: 4
+      name: Roundhouse
+    - count: 1
+      name: Sideslip
+    - count: 1
+      name: Skin of Steel
+    - count: 2
+      name: Soak
+    - count: 2
+      name: Taste of Vitae
+    - count: 8
+      name: Torn Signpost
+    - count: 1
+      name: Wolf Claws
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound

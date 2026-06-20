@@ -1,0 +1,151 @@
+name: 'Trophy: Target Haven'
+location: Zagreb, Croatia
+date_start: 2022-05-21
+rounds_format: 3R+F
+players_count: 18
+winner: Mario Beg
+vekn_number: 3770026
+event_url: https://www.vekn.net/event-calendar/event/10162
+event_id: 10162
+vp_comment: 1GW5 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10162
+deck:
+  name: Sergei sees you
+  description: ''
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 40
+  crypt_avg: 7.33
+  crypt:
+  - count: 4
+    name: Sergei Voshkov, The Eye
+    capacity: 10
+    disciplines: dom pro ANI AUS OBF POT
+    clan: Nosferatu
+    grouping: 5
+  - count: 3
+    name: Benedito, a Lanterna
+    capacity: 6
+    disciplines: ani aus obf POT
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  - count: 3
+    name: Jacques Rouge
+    capacity: 6
+    disciplines: ani pot pre OBF
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Medic, The
+    capacity: 6
+    disciplines: dem for OBF POT
+    clan: Nosferatu
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Labyrinth, The
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Protected Resources
+    - count: 1
+      name: Rack, The
+    - count: 1
+      name: Smiling Jack, The Anarch
+    - count: 1
+      name: Storm Sewers
+    - count: 4
+      name: Vessel
+    - count: 2
+      name: Villein
+    - count: 1
+      name: Warsaw Station
+  - name: Action
+    count: 11
+    cards:
+    - count: 1
+      name: Army of Rats
+    - count: 1
+      name: Constant Revolution
+    - count: 4
+      name: Creeping Sabotage
+    - count: 1
+      name: Open War
+    - count: 1
+      name: 'Patagia: Flaps Allowing Limited Flight'
+    - count: 3
+      name: Preternatural Strength
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+    - count: 2
+      name: Leather Jacket
+  - name: Retainer
+    count: 3
+    cards:
+    - count: 3
+      name: Raven Spy
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 3
+      name: Forgotten Labyrinth
+    - count: 3
+      name: Lost in Crowds
+  - name: Action Modifier/Combat
+    count: 6
+    cards:
+    - count: 2
+      name: Shadow Boxing
+    - count: 4
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 26
+    cards:
+    - count: 2
+      name: Bait and Switch
+    - count: 2
+      name: Cats' Guidance
+    - count: 3
+      name: Deep Ecology
+    - count: 2
+      name: Delaying Tactics
+    - count: 8
+      name: Organized Resistance
+    - count: 2
+      name: Party Out Of Bounds
+    - count: 3
+      name: Protection Racket
+    - count: 2
+      name: Read the Winds
+    - count: 2
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 18
+    cards:
+    - count: 2
+      name: Disarm
+    - count: 2
+      name: Hell-for-Leather
+    - count: 6
+      name: Immortal Grapple
+    - count: 6
+      name: Roundhouse
+    - count: 2
+      name: Taste of Vitae

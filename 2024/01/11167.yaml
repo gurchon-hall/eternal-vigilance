@@ -1,0 +1,151 @@
+name: Márcio Pinheiro
+location: Fortaleza (CE), Brazil
+date_start: 2024-01-21
+rounds_format: 2R+F
+players_count: 25
+winner: Luís Otávio Franco Martins
+vekn_number: 1003870
+event_url: https://www.vekn.net/event-calendar/event/11167
+event_id: 11167
+forum_post_url: https://www.vekn.net/event-calendar/event/11167
+deck:
+  name: To com fome, quero merendar
+  created_by: Zoroh
+  description: ''
+  crypt_count: 12
+  crypt_min: 20
+  crypt_max: 35
+  crypt_avg: 6.75
+  crypt:
+  - count: 3
+    name: Kasim Bayar
+    capacity: 9
+    disciplines: aus pot CEL OBF THA
+    title: Justicar
+    clan: Banu Haqim
+    grouping: 6
+  - count: 3
+    name: Kassandra Tassaki
+    capacity: 6
+    disciplines: obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Farah Sarroub
+    capacity: 7
+    disciplines: aus obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Warmaksan
+    capacity: 5
+    disciplines: cel obf THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Oluwafunmilayo
+    capacity: 8
+    disciplines: AUS CEL OBF THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Nayarana
+    capacity: 4
+    disciplines: cel THA
+    clan: Banu Haqim
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Alamut
+    - count: 1
+      name: Black Throne, The
+    - count: 1
+      name: Fame
+    - count: 1
+      name: "Haqim's Law: Retribution"
+    - count: 1
+      name: Market Square
+    - count: 4
+      name: Priority Contract
+    - count: 1
+      name: Underworld Hunting Ground
+    - count: 4
+      name: Villein
+    - count: 1
+      name: Yoruba Shrine
+  - name: Action
+    count: 12
+    cards:
+    - count: 4
+      name: Biothaumaturgic Experiment
+    - count: 6
+      name: Hunter's Mark
+    - count: 1
+      name: 'Khabar: Glory'
+    - count: 1
+      name: Rutor's Hand
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 2
+      name: .44 Magnum
+  - name: Political Action
+    count: 3
+    cards:
+    - count: 2
+      name: Anathema
+    - count: 1
+      name: Archon
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 2
+      name: Lost in Crowds
+    - count: 2
+      name: Zephyr
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 8
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 41
+    cards:
+    - count: 2
+      name: Blood Rage
+    - count: 4
+      name: Blur
+    - count: 5
+      name: Flash
+    - count: 12
+      name: Hunger of Marduk
+    - count: 4
+      name: Lightning Reflexes
+    - count: 4
+      name: Pursuit
+    - count: 4
+      name: Quickness
+    - count: 2
+      name: Rego Motum
+    - count: 2
+      name: Soul Burn
+    - count: 2
+      name: Walk of Flame

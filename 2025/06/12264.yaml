@@ -1,0 +1,147 @@
+name: Queensland State Championship 2025
+location: Brisbane, Australia
+date_start: 2025-06-22
+rounds_format: 3R+F
+players_count: 17
+winner: Bert Perry
+vekn_number: 7290005
+event_url: https://www.vekn.net/event-calendar/event/12264
+event_id: 12264
+vp_comment: Cybele - Parthenon + prevalence of trifles does enough work in this 
+  regard. Investing so much pool into a non-titled minion makes this almost 
+  always my third choice to influence. Could consider seeking a different 3rd 
+  fiddle.
+forum_post_url: https://www.vekn.net/event-calendar/event/12264
+deck:
+  name: Deranged & Unchained 2025
+  description: Core idea stolen from Otso Saariluoma, a veteran tournament 
+    crusher.
+  crypt_count: 12
+  crypt_min: 40
+  crypt_max: 43
+  crypt_avg: 10.25
+  crypt:
+  - count: 5
+    name: Unmada
+    capacity: 10
+    disciplines: cel for AUS DEM OBF VIC
+    title: Justicar
+    clan: Malkavian
+    grouping: 5
+  - count: 4
+    name: Cybele
+    capacity: 10
+    disciplines: ANI DAI OBF PRE SER THA
+    clan: Baali
+    grouping: 4
+  - count: 3
+    name: Lutz von Hohenzollern
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 43
+    cards:
+    - count: 9
+      name: Ashur Tablets
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: 'Golconda: Inner Peace'
+    - count: 2
+      name: Heidelberg Castle, Germany
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Madness Network
+    - count: 4
+      name: Malkavian Dementia
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Monastery of Shadows
+    - count: 3
+      name: Parthenon, The
+    - count: 6
+      name: Villein
+    - count: 1
+      name: Visit from the Capuchin
+    - count: 1
+      name: Wash
+    - count: 2
+      name: Wider View
+    - count: 4
+      name: Zillah's Valley
+  - name: Action
+    count: 8
+    cards:
+    - count: 7
+      name: Derange
+    - count: 1
+      name: Entrancement
+  - name: Political Action
+    count: 6
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 1
+      name: Banishment
+    - count: 1
+      name: Conservative Agitation
+    - count: 1
+      name: Parity Shift
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reins of Power
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+    - count: 2
+      name: Elder Impersonation
+    - count: 3
+      name: Enkil Cog
+    - count: 1
+      name: Faceless Night
+    - count: 2
+      name: Forgotten Labyrinth
+    - count: 1
+      name: Into Thin Air
+    - count: 2
+      name: Lost in Crowds
+    - count: 1
+      name: Spying Mission
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 3
+    cards:
+    - count: 1
+      name: Eyes of Argus
+    - count: 2
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: No Trace
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians

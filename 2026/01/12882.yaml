@@ -1,0 +1,178 @@
+name: FOOD & VTES III
+location: Curitiba (PR), Brazil
+date_start: 2026-01-31
+rounds_format: 3R+F
+players_count: 29
+winner: Eduardo Lemos
+vekn_number: 6070016
+event_url: https://www.vekn.net/event-calendar/event/12882
+event_id: 12882
+vp_comment: 1GW5.5 + 2.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12882
+deck:
+  name: Vou votar no seu turno
+  description: ''
+  crypt_count: 12
+  crypt_min: 29
+  crypt_max: 40
+  crypt_avg: 8.83
+  crypt:
+  - count: 5
+    name: Aaradhya, The Callous Tyrant
+    capacity: 10
+    disciplines: ANI DOM FOR POT PRE
+    title: Cardinal
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Dark Selina
+    capacity: 9
+    disciplines: dom for CEL POT PRE
+    title: Cardinal
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 1
+    name: De Sade
+    capacity: 9
+    disciplines: AUS DOM FOR PRE
+    title: Archbishop
+    clan: Ventrue antitribu
+    grouping: 5
+  - count: 1
+    name: Věnceslava, The Implacable
+    capacity: 9
+    disciplines: cel DOM FOR POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Damian
+    capacity: 8
+    disciplines: for pre DOM OBL POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 6
+  - count: 1
+    name: Üresség
+    capacity: 8
+    disciplines: dom for CEL POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Khin Aye
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Concordia
+    capacity: 6
+    disciplines: for pot DOM PRE
+    title: Bishop
+    clan: Ventrue
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 24
+    cards:
+    - count: 1
+      name: Black Forest Base
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Privileged Position
+    - count: 1
+      name: Purchase Pact
+    - count: 1
+      name: Secure Haven
+    - count: 8
+      name: Unholy Sacrament
+    - count: 1
+      name: Ventrue Headquarters
+    - count: 6
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 3
+    cards:
+    - count: 3
+      name: Govern the Unaligned
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Sargon Fragment, The
+  - name: Political Action
+    count: 17
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancient Influence
+    - count: 2
+      name: Banishment
+    - count: 5
+      name: Cold War
+    - count: 2
+      name: Empires Fall
+    - count: 3
+      name: Kine Resources Contested
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reins of Power
+    - count: 1
+      name: War of Ages
+  - name: Action Modifier
+    count: 27
+    cards:
+    - count: 1
+      name: Approximation of Loyalty
+    - count: 3
+      name: Dominant Personality
+    - count: 3
+      name: Enkil Cog
+    - count: 3
+      name: Magnetic Authority
+    - count: 3
+      name: Perfect Paragon
+    - count: 2
+      name: Private Audience
+    - count: 3
+      name: Relentlessness
+    - count: 4
+      name: Unthinkable Humiliation
+    - count: 5
+      name: Voter Captivation
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Absolute Tyranny
+  - name: Reaction
+    count: 9
+    cards:
+    - count: 5
+      name: Deflection
+    - count: 4
+      name: Obedience
+  - name: Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Majesty

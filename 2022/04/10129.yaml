@@ -1,0 +1,163 @@
+name: The Art of Memory
+location: Amadora, Portugal
+date_start: 2022-04-09
+rounds_format: 3R+F
+players_count: 12
+winner: Pedro Luis
+vekn_number: 3121005
+event_url: https://www.vekn.net/event-calendar/event/10129
+event_id: 10129
+vp_comment: 2GW7 + 2.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10129
+deck:
+  name: Girls will find...your Pool
+  created_by: Pedro Luís (inspired by TWDA)
+  description: Just a mix of ideas, I got from "girls decks" out of the TWDA and
+    then doing some customization for personal taste.
+  crypt_count: 12
+  crypt_min: 35
+  crypt_max: 43
+  crypt_avg: 9.83
+  crypt:
+  - count: 4
+    name: Cybele
+    capacity: 10
+    disciplines: ANI DAI OBF PRE SER THA
+    clan: Baali
+    grouping: 4
+  - count: 3
+    name: Aksinya Daclau
+    capacity: 9
+    disciplines: cel tha ANI FOR PRE PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Adana de Sforza
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Lutz von Hohenzollern
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Rafael de Corazon
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  - count: 1
+    name: Nergal
+    capacity: 10
+    disciplines: AUS DAI FOR OBF PRE THA
+    clan: Baali
+    grouping: 5
+  - count: 1
+    name: Nana Buruku
+    capacity: 8
+    disciplines: ANI POT PRE
+    clan: Guruhi
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 55
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 15
+      name: Ashur Tablets
+    - count: 1
+      name: Blind Spot
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Direct Intervention
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: 'Golconda: Inner Peace'
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Jake Washington
+    - count: 6
+      name: Liquidation
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Monastery of Shadows
+    - count: 3
+      name: Parthenon, The
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Secure Haven
+    - count: 7
+      name: Villein
+    - count: 2
+      name: Wider View
+    - count: 7
+      name: Zillah's Valley
+  - name: Action
+    count: 8
+    cards:
+    - count: 1
+      name: Call the Great Beast
+    - count: 3
+      name: Entrancement
+    - count: 2
+      name: Intimidation
+    - count: 2
+      name: Unleash Hell's Fury
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 3
+      name: Aire of Elation
+    - count: 3
+      name: Cloak the Gathering
+    - count: 2
+      name: Elder Impersonation
+    - count: 1
+      name: Enkil Cog
+    - count: 2
+      name: Faceless Night
+    - count: 3
+      name: Lost in Crowds
+    - count: 1
+      name: Perfect Paragon
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Hide the Mind
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 2
+      name: Delaying Tactics
+    - count: 1
+      name: Guard Dogs
+    - count: 1
+      name: Lost in Translation
+    - count: 2
+      name: Mental Maze
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Majesty
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds

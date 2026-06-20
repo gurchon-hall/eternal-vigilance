@@ -1,0 +1,151 @@
+name: Belgian NC 2024
+location: Mechelen, Belgium
+date_start: 2024-07-21
+rounds_format: 3R+F
+players_count: 36
+winner: Axel Huet
+vekn_number: 3491011
+event_url: https://www.vekn.net/event-calendar/event/11460
+event_id: 11460
+forum_post_url: https://www.vekn.net/event-calendar/event/11460
+deck:
+  name: Nosferatu
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 24
+  crypt_avg: 5.5
+  crypt:
+  - count: 2
+    name: Dowager, The
+    capacity: 6
+    disciplines: aus pot ANI OBF
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Larissa Moreira
+    capacity: 6
+    disciplines: pot ANI OBF
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Lenny Burkhead
+    capacity: 6
+    disciplines: obf pot pre ANI
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Dominica
+    capacity: 3
+    disciplines: aus for
+    clan: Salubri
+    grouping: 7
+  - count: 1
+    name: Belinde
+    capacity: 6
+    disciplines: ani aus pot OBF
+    title: Prince
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Benedito, a Lanterna
+    capacity: 6
+    disciplines: ani aus obf POT
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Jacques Rouge
+    capacity: 6
+    disciplines: ani pot pre OBF
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Kalinda
+    capacity: 6
+    disciplines: tha CEL OBF
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  library_count: 79
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Information Highway
+    - count: 2
+      name: Labyrinth, The
+    - count: 1
+      name: Saulot's Guiding Wisdom
+    - count: 7
+      name: Villein
+    - count: 4
+      name: Warsaw Station
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 7
+    cards:
+    - count: 3
+      name: Army of Rats
+    - count: 4
+      name: Creeping Sabotage
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Political Action
+    count: 8
+    cards:
+    - count: 1
+      name: Conservative Agitation
+    - count: 1
+      name: Domain Challenge
+    - count: 5
+      name: Kine Resources Contested
+    - count: 1
+      name: Neonate Breach
+  - name: Action Modifier
+    count: 9
+    cards:
+    - count: 2
+      name: Faceless Night
+    - count: 2
+      name: Forgotten Labyrinth
+    - count: 3
+      name: Lost in Crowds
+    - count: 2
+      name: Veil the Legions
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 22
+    cards:
+    - count: 2
+      name: Guard Dogs
+    - count: 5
+      name: On the Qui Vive
+    - count: 15
+      name: Protected District
+  - name: Combat
+    count: 10
+    cards:
+    - count: 5
+      name: Aid from Bats
+    - count: 5
+      name: Carrion Crows

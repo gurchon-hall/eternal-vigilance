@@ -1,0 +1,130 @@
+name: Brazilian NC 2022
+location: Game of Boards store, Rio de Janeiro (RJ), Brazil
+date_start: 2022-07-30
+rounds_format: 3R+F
+players_count: 20
+winner: Ricardo Molina Sobreira
+vekn_number: 6950000
+event_url: https://www.vekn.net/event-calendar/event/10319
+event_id: 10319
+forum_post_url: https://www.vekn.net/event-calendar/event/10319
+deck:
+  name: Tzimisce ludymilan
+  description: ''
+  crypt_count: 12
+  crypt_min: 19
+  crypt_max: 36
+  crypt_avg: 7.25
+  crypt:
+  - count: 3
+    name: Lady Vadislava
+    capacity: 9
+    disciplines: nec ANI AUS DOM VIC
+    title: Priscus
+    clan: Tzimisce
+    grouping: 5
+  - count: 3
+    name: Xipe Totec
+    capacity: 9
+    disciplines: ANI AUS PRO VIC
+    title: Archbishop
+    clan: Tzimisce
+    grouping: 5
+  - count: 3
+    name: Ludmijla Rakoczy
+    capacity: 7
+    disciplines: ANI AUS VIC
+    title: Bishop
+    clan: Tzimisce
+    grouping: 5
+  - count: 3
+    name: America Johnson
+    capacity: 4
+    disciplines: vic AUS
+    clan: Tzimisce
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Direct Intervention
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Carver's Meat Packing and Storage
+    - count: 1
+      name: Smiling Jack, The Anarch
+    - count: 1
+      name: Library Hunting Ground
+    - count: 1
+      name: 'Powerbase: Barranquilla'
+    - count: 2
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Rack, The
+    - count: 1
+      name: Rötschreck
+    - count: 1
+      name: Smiling Jack, The Anarch
+    - count: 3
+      name: Villein
+    - count: 2
+      name: Vessel
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 2
+      name: Army of Rats
+    - count: 4
+      name: Deep Song
+    - count: 3
+      name: Fiendish Tongue
+    - count: 3
+      name: Under Siege
+  - name: Ally
+    count: 3
+    cards:
+    - count: 2
+      name: Asanbonsam Ghoul
+    - count: 1
+      name: Carlton Van Wyk
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 4
+      name: Changeling
+  - name: Reaction
+    count: 24
+    cards:
+    - count: 2
+      name: Enhanced Senses
+    - count: 6
+      name: Eyes of Argus
+    - count: 6
+      name: Read the Winds
+    - count: 3
+      name: Sense the Savage Way
+    - count: 7
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 28
+    cards:
+    - count: 7
+      name: Aid from Bats
+    - count: 3
+      name: Breath of the Dragon
+    - count: 8
+      name: Carrion Crows
+    - count: 6
+      name: Chiropteran Marauder
+    - count: 4
+      name: Taste of Vitae

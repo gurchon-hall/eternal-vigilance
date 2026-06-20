@@ -1,0 +1,126 @@
+name: Campeonato Carioca
+location: Rio de Janeiro, Rj, Brazil
+date_start: 2023-12-17
+rounds_format: 3R+F
+players_count: 21
+winner: Thiago Sousa
+event_url: https://www.vekn.net/event-calendar/event/10927
+event_id: 10927
+forum_post_url: https://www.vekn.net/event-calendar/event/10927
+deck:
+  name: Show of Force
+  description: ''
+  crypt_count: 12
+  crypt_min: 28
+  crypt_max: 35
+  crypt_avg: 7.83
+  crypt:
+  - count: 3
+    name: Gwenllian Arwyn
+    capacity: 9
+    disciplines: ani dom for CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 3
+    name: Theo Bell
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Chun Hei
+    capacity: 7
+    disciplines: CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Don Caravelli
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Don Cerro
+    capacity: 7
+    disciplines: aus dom for pre pro CEL POT
+    clan: Brujah
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Rack, The
+    - count: 3
+      name: Vessel
+    - count: 5
+      name: Villein
+    - count: 1
+      name: Warzone Hunting Ground
+    - count: 1
+      name: Wash
+  - name: Action
+    count: 24
+    cards:
+    - count: 2
+      name: Ambush
+    - count: 6
+      name: Enchant Kindred
+    - count: 4
+      name: Esprit de Corps
+    - count: 2
+      name: Harass
+    - count: 2
+      name: Preternatural Strength
+    - count: 8
+      name: Show of Force
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Zephyr
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Resist Earth's Grasp
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 8
+      name: Deflection
+    - count: 6
+      name: On the Qui Vive
+  - name: Combat
+    count: 32
+    cards:
+    - count: 5
+      name: Blur
+    - count: 2
+      name: Disarm
+    - count: 3
+      name: Earthshock
+    - count: 1
+      name: Fast Hands
+    - count: 8
+      name: Immortal Grapple
+    - count: 4
+      name: Pursuit
+    - count: 3
+      name: Sideslip
+    - count: 6
+      name: Taste of Vitae

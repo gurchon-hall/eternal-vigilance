@@ -1,0 +1,150 @@
+name: Gp Sulamericano 2022 - Etapa Vila Velha - Es
+location: Vila Velha, Brazil
+date_start: 2022-08-20
+rounds_format: 3R+F
+players_count: 16
+winner: Tarcio Martins
+vekn_number: 6040030
+event_url: https://www.vekn.net/event-calendar/event/10292
+event_id: 10292
+forum_post_url: https://www.vekn.net/event-calendar/event/10292
+deck:
+  name: REIGNS OF F*CKING STANISLAVA
+  description: ''
+  crypt_count: 12
+  crypt_min: 34
+  crypt_max: 44
+  crypt_avg: 9.83
+  crypt:
+  - count: 4
+    name: Stanislava
+    capacity: 11
+    disciplines: ANI CEL DOM FOR PRO
+    title: Inner Circle
+    clan: Gangrel
+    grouping: 2
+  - count: 2
+    name: Hartmut Stover
+    capacity: 10
+    disciplines: dom for CEL OBF PRO
+    title: Archbishop
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 2
+    name: Xaviar (ADV)
+    capacity: 10
+    disciplines: aus cel pot ABO ANI FOR PRO
+    title: Justicar
+    clan: Gangrel
+    grouping: 3
+  - count: 2
+    name: Ingrid Rossler
+    capacity: 9
+    disciplines: dom ANI FOR PRO
+    title: Prince
+    clan: Gangrel
+    grouping: 2
+  - count: 2
+    name: Mark Decker
+    capacity: 8
+    disciplines: ani for obf pot CEL PRO
+    title: Prince
+    clan: Gangrel
+    grouping: 3
+  library_count: 87
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Backways
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Ecoterrorists
+    - count: 1
+      name: Ennoia's Theater
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 5
+      name: Villein
+    - count: 1
+      name: Visit from the Capuchin
+    - count: 3
+      name: Zillah's Valley
+  - name: Action
+    count: 7
+    cards:
+    - count: 7
+      name: Govern the Unaligned
+  - name: Political Action
+    count: 18
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancient Influence
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 2
+      name: Banishment
+    - count: 5
+      name: Kine Resources Contested
+    - count: 1
+      name: Neonate Breach
+    - count: 4
+      name: Parity Shift
+    - count: 1
+      name: Permanent Vacation
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reins of Power
+  - name: Action Modifier
+    count: 17
+    cards:
+    - count: 1
+      name: Beast Meld
+    - count: 4
+      name: Earth Control
+    - count: 1
+      name: Enkil Cog
+    - count: 3
+      name: Forced March
+    - count: 1
+      name: Foreshadowing Destruction
+    - count: 4
+      name: Freak Drive
+    - count: 3
+      name: Instantaneous Transformation
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Rapid Change
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 6
+      name: Deflection
+    - count: 2
+      name: On the Qui Vive
+    - count: 4
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 12
+    cards:
+    - count: 6
+      name: Earth Meld
+    - count: 6
+      name: Form of Mist

@@ -1,0 +1,69 @@
+name: Ginesyful Fate
+location: Palma de Mallorca, Spain
+date_start: 2022-07-10
+rounds_format: 3R+F
+players_count: 17
+winner: Gaspar Vaquer
+vekn_number: 3190113
+event_url: https://www.vekn.net/event-calendar/event/10270
+event_id: 10270
+vp_comment: 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10270
+deck:
+  name: Gargoyle Bleed Swarm Tupdog Legion [
+  created_by: Sicarioseth, played by Gaspar Vaquer
+  description: ''
+  crypt_count: 45
+  crypt_min: 4
+  crypt_max: 4
+  crypt_avg: 1.0
+  crypt:
+  - count: 45
+    name: Tupdog
+    capacity: 1
+    disciplines: POT VIS
+    clan: Gargoyle
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 39
+    cards:
+    - count: 10
+      name: Agent of Power
+    - count: 2
+      name: Archon Investigation
+    - count: 2
+      name: Direct Intervention
+    - count: 10
+      name: Inceptor
+    - count: 8
+      name: Liquidation
+    - count: 7
+      name: Parthenon, The
+  - name: Action
+    count: 22
+    cards:
+    - count: 7
+      name: Scrounging
+    - count: 15
+      name: Summon History
+  - name: Ally
+    count: 13
+    cards:
+    - count: 11
+      name: Emerald Legionnaire
+    - count: 1
+      name: Mylan Horseed
+    - count: 1
+      name: Veneficti
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 10
+      name: Skin of the Chameleon
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Delaying Tactics

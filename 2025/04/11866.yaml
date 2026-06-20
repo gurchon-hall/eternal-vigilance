@@ -1,0 +1,152 @@
+name: Italian Tour 2025- Pordenone
+location: Vivaro, Italy
+date_start: 2025-04-13
+rounds_format: 2R+F
+players_count: 34
+winner: Giulio De Cicco
+vekn_number: 9970003
+event_url: https://www.vekn.net/event-calendar/event/11866
+event_id: 11866
+forum_post_url: https://www.vekn.net/event-calendar/event/11866
+deck:
+  name: Diana
+  description: ''
+  crypt_count: 12
+  crypt_min: 29
+  crypt_max: 36
+  crypt_avg: 8.25
+  crypt:
+  - count: 4
+    name: Diana Iadanza
+    capacity: 9
+    disciplines: AUS CEL FOR PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 7
+  - count: 2
+    name: Annabelle Triabell
+    capacity: 9
+    disciplines: dom for AUS CEL PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 2
+    name: Catalina Vega
+    capacity: 8
+    disciplines: for AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 2
+    name: Marcos Belegrad
+    capacity: 8
+    disciplines: ani AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Flávio Gonçalves
+    capacity: 7
+    disciplines: aus for CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Maila
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Art Museum
+    - count: 2
+      name: Camarilla Conclave
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: Society Hunting Ground
+    - count: 6
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 6
+    cards:
+    - count: 4
+      name: Enchant Kindred
+    - count: 2
+      name: Entrancement
+  - name: Political Action
+    count: 18
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 2
+      name: Ancilla Empowerment
+    - count: 3
+      name: Camarilla's Iron Fist
+    - count: 6
+      name: Kine Resources Contested
+    - count: 5
+      name: Parity Shift
+    - count: 1
+      name: Political Stranglehold
+  - name: Action Modifier
+    count: 19
+    cards:
+    - count: 2
+      name: Aire of Elation
+    - count: 3
+      name: Forced March
+    - count: 2
+      name: Freak Drive
+    - count: 5
+      name: Loup
+    - count: 2
+      name: Perfect Paragon
+    - count: 5
+      name: Voter Captivation
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Resist Earth's Grasp
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Scalpel Tongue
+  - name: Reaction
+    count: 17
+    cards:
+    - count: 2
+      name: Eyes of Argus
+    - count: 2
+      name: My Enemy's Enemy
+    - count: 2
+      name: On the Qui Vive
+    - count: 4
+      name: 'Second Tradition: Domain'
+    - count: 7
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 9
+    cards:
+    - count: 3
+      name: Charismatic Aura
+    - count: 6
+      name: Majesty

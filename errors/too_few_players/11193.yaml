@@ -1,0 +1,141 @@
+name: Welcome 2024
+location: Vila Velha (ES), Brazil
+date_start: 2024-01-06
+rounds_format: 2R+F
+players_count: 10
+winner: Tiago Honorato de Castro Ramos
+vekn_number: 6040022
+event_url: https://www.vekn.net/event-calendar/event/11193
+event_id: 11193
+vp_comment: 2GW10 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11193
+deck:
+  name: Girls just wanna have fun...
+  description: ''
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 10.0
+  crypt:
+  - count: 4
+    name: Cybele
+    capacity: 10
+    disciplines: ANI DAI OBF PRE SER THA
+    clan: Baali
+    grouping: 4
+  - count: 4
+    name: Aksinya Daclau
+    capacity: 9
+    disciplines: cel tha ANI FOR PRE PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Adana de Sforza
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Lucian, The Perfect
+    capacity: 11
+    disciplines: ANI AUS DOM OBF POT PRE
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Lutz von Hohenzollern
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Rafael de Corazon
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  library_count: 70
+  library_sections:
+  - name: Master
+    count: 41
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 12
+      name: Ashur Tablets
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: 'Golconda: Inner Peace'
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Jake Washington
+    - count: 5
+      name: Liquidation
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Monastery of Shadows
+    - count: 2
+      name: Parthenon, The
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 6
+      name: Villein
+    - count: 1
+      name: Wider View
+    - count: 4
+      name: Zillah's Valley
+  - name: Action
+    count: 4
+    cards:
+    - count: 2
+      name: Entrancement
+    - count: 2
+      name: Unleash Hell's Fury
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 3
+      name: Aire of Elation
+    - count: 2
+      name: Elder Impersonation
+    - count: 1
+      name: Enkil Cog
+    - count: 2
+      name: Faceless Night
+    - count: 4
+      name: Into Thin Air
+    - count: 2
+      name: Spying Mission
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 4
+    cards:
+    - count: 1
+      name: Guard Dogs
+    - count: 2
+      name: Lost in Translation
+    - count: 1
+      name: Rat's Warning
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Majesty
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians

@@ -1,0 +1,156 @@
+name: Sede de Vitae Part 17
+location: Online
+date_start: 2021-09-13
+date_end: 2021-09-16
+rounds_format: 2R+F
+players_count: 18
+winner: Desso Alastor
+vekn_number: 6010151
+event_url: https://www.vekn.net/event-calendar/event/9891
+event_id: 9891
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9891
+deck:
+  name: Fogo no Parkinho
+  description: ''
+  crypt_count: 18
+  crypt_min: 4
+  crypt_max: 14
+  crypt_avg: 2.22
+  crypt:
+  - count: 1
+    name: C.J.
+    capacity: 4
+    disciplines: pro FOR
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Lorrie Dunsirn
+    capacity: 4
+    disciplines: for nec POT
+    clan: Abomination
+    grouping: 4
+  - count: 1
+    name: Abu Nuwasi
+    capacity: 3
+    disciplines: cel for
+    clan: Ishtarri
+    grouping: 4
+  - count: 1
+    name: Calvin Cleaver
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel
+    grouping: 4
+  - count: 1
+    name: Lula Burch
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Mr. Noir
+    capacity: 3
+    disciplines: for obe
+    clan: Salubri
+    grouping: 4
+  - count: 1
+    name: Rashiel
+    capacity: 3
+    disciplines: for val
+    clan: Salubri antitribu
+    grouping: 4
+  - count: 1
+    name: Rosemarie
+    capacity: 3
+    disciplines: mel FOR
+    clan: Daughter of Cacophony
+    grouping: 4
+  - count: 1
+    name: T.J.
+    capacity: 3
+    disciplines: cel for
+    clan: Gangrel
+    grouping: 4
+  - count: 1
+    name: Aimee Laroux
+    capacity: 2
+    disciplines: for pre
+    clan: Daughter of Cacophony
+    grouping: 4
+  - count: 1
+    name: Rico Loco
+    capacity: 2
+    disciplines: FOR
+    clan: Ventrue antitribu
+    grouping: 4
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 25
+    cards:
+    - count: 5
+      name: Anarch Revolt
+    - count: 2
+      name: Archon Investigation
+    - count: 9
+      name: Ashur Tablets
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Fame
+    - count: 2
+      name: Fortitude
+    - count: 1
+      name: Information Highway
+    - count: 3
+      name: Parthenon, The
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 11
+    cards:
+    - count: 2
+      name: Ambush
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 3
+      name: Big Game
+    - count: 3
+      name: Bum's Rush
+    - count: 2
+      name: Charge of the Buffalo
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Bomb
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 5
+      name: Freak Drive
+  - name: Combat
+    count: 34
+    cards:
+    - count: 5
+      name: Diversion
+    - count: 3
+      name: Hidden Strength
+    - count: 3
+      name: Indomitability
+    - count: 7
+      name: Molotov Cocktail
+    - count: 2
+      name: Rolling with the Punches
+    - count: 2
+      name: Soak
+    - count: 7
+      name: Trap
+    - count: 5
+      name: Unflinching Persistence
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound

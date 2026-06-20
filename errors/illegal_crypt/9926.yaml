@@ -1,0 +1,131 @@
+name: Baltic Purge
+location: Gdynia, Poland
+date_start: 2021-11-06
+rounds_format: 3R+F
+players_count: 11
+winner: Tomasz Izydorczyk
+vekn_number: 1002225
+event_url: https://www.vekn.net/event-calendar/event/9926
+event_id: 9926
+vp_comment: 1GW4 + 4vp in finam
+forum_post_url: https://www.vekn.net/event-calendar/event/9926
+deck:
+  name: Shock Troops POT v.3.0
+  created_by: Michał "kazpex" Bogudziński
+  description: 'post-tournament changes: +1 Tribute to the Master, +1 Delaying Tactics,
+    -1 Heart of Nizchetus, -1 Mighty Grapple'
+  crypt_count: 12
+  crypt_min: 5
+  crypt_max: 16
+  crypt_avg: 2.67
+  crypt:
+  - count: 4
+    name: Fabrizia Contreraz
+    capacity: 4
+    disciplines: dem pot
+    title: Archbishop
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 2
+    name: Keith Moody
+    capacity: 3
+    disciplines: DOM
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Almodo Giovanni
+    capacity: 3
+    disciplines: dom pot
+    clan: Giovanni
+    grouping: 4
+  - count: 1
+    name: Eric Milliner
+    capacity: 2
+    disciplines: pot
+    clan: Giovanni
+    grouping: 5
+  - count: 1
+    name: Misrak
+    capacity: 2
+    disciplines: pot
+    clan: Osebo
+    grouping: 4
+  - count: 1
+    name: Freddy Gage
+    capacity: 1
+    disciplines: pot
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Jaggedy Andy
+    capacity: 1
+    disciplines: pot
+    clan: Pander
+    grouping: 4
+  library_count: 89
+  library_sections:
+  - name: Master
+    count: 31
+    cards:
+    - count: 1
+      name: Fame
+    - count: 2
+      name: Haven Uncovered
+    - count: 3
+      name: Parthenon, The
+    - count: 16
+      name: Potence
+    - count: 3
+      name: Shock Troops
+    - count: 3
+      name: Storage Annex
+    - count: 3
+      name: Wider View
+  - name: Action
+    count: 8
+    cards:
+    - count: 2
+      name: Graverobbing
+    - count: 2
+      name: Harass
+    - count: 2
+      name: Under Siege
+    - count: 2
+      name: War Party
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Conditioning
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 5
+      name: Deflection
+    - count: 2
+      name: On the Qui Vive
+  - name: Combat
+    count: 38
+    cards:
+    - count: 4
+      name: Disarm
+    - count: 5
+      name: Glancing Blow
+    - count: 8
+      name: Increased Strength
+    - count: 4
+      name: Mighty Grapple
+    - count: 5
+      name: Target Vitals
+    - count: 12
+      name: Thrown Gate
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The

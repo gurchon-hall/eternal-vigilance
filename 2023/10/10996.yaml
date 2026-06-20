@@ -1,0 +1,127 @@
+name: Week Of Nightmare Monday 2023
+location: Barcelona, Spain
+date_start: 2023-10-09
+rounds_format: 2R+F
+players_count: 20
+winner: Jesper Bøje
+vekn_number: 3670001
+event_url: https://www.vekn.net/event-calendar/event/10996
+event_id: 10996
+forum_post_url: https://www.vekn.net/event-calendar/event/10996
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 40
+  crypt_max: 40
+  crypt_avg: 10.0
+  crypt:
+  - count: 10
+    name: Nergal
+    capacity: 10
+    disciplines: AUS DAI FOR OBF PRE THA
+    clan: Baali
+    grouping: 5
+  - count: 2
+    name: Nergal (ADV)
+    capacity: 10
+    disciplines: AUS DAI FOR OBF PRE THA
+    clan: Baali
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 2
+      name: Antediluvian Awakening
+    - count: 5
+      name: Dementation
+    - count: 1
+      name: Direct Intervention
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Society of Leopold
+    - count: 5
+      name: Villein
+    - count: 2
+      name: Visit from the Capuchin
+    - count: 1
+      name: Wash
+  - name: Action
+    count: 18
+    cards:
+    - count: 5
+      name: Call the Great Beast
+    - count: 1
+      name: Entrancement
+    - count: 1
+      name: Kindred Spirits
+    - count: 5
+      name: Legal Manipulations
+    - count: 3
+      name: Magic of the Smith
+    - count: 3
+      name: Unleash Hell's Fury
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Veneficti
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 3
+      name: Soul Gem of Etrius
+  - name: Action Modifier
+    count: 38
+    cards:
+    - count: 6
+      name: Aire of Elation
+    - count: 3
+      name: Daring the Dawn
+    - count: 3
+      name: Elder Impersonation
+    - count: 1
+      name: Enkil Cog
+    - count: 14
+      name: Freak Drive
+    - count: 2
+      name: I am Legion
+    - count: 5
+      name: Lost in Crowds
+    - count: 2
+      name: Perfect Clarity
+    - count: 2
+      name: Spying Mission
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Hide the Mind
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 1
+      name: Sense the Sin
+    - count: 1
+      name: Touch of Clarity
+  - name: Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Delaying Tactics
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Majesty
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The
+    - count: 1
+      name: Narrow Minds

@@ -1,0 +1,181 @@
+name: Cactos das trevas
+location: Campina Grande (PB), Brazil
+date_start: 2024-03-24
+rounds_format: 2R+F
+players_count: 17
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/11138
+event_id: 11138
+forum_post_url: https://www.vekn.net/event-calendar/event/11138
+deck:
+  name: Aguas de boqueirão
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 30
+  crypt_avg: 6.0
+  crypt:
+  - count: 2
+    name: Sergio Bueno
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Vivian VI
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Elisha Tucker
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Crystal Lynn
+    capacity: 6
+    disciplines: OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Jacques Rouge
+    capacity: 6
+    disciplines: ani pot pre OBF
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Kuyén
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Jenny Silver
+    capacity: 5
+    disciplines: obf PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Marcel
+    capacity: 4
+    disciplines: obf pre pro
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: '"Coach" Tyrone Soros'
+    capacity: 3
+    disciplines: obf pre
+    clan: Ministry
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Anarch Railroad
+    - count: 6
+      name: Ashur Tablets
+    - count: 1
+      name: Carfax Abbey
+    - count: 2
+      name: Dabbler
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Ferraille
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Opium Den
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Secure Haven
+    - count: 2
+      name: Villein
+  - name: Action
+    count: 14
+    cards:
+    - count: 7
+      name: Platinum Protocol, The
+    - count: 7
+      name: Waters of Duat
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Saatet-ta
+  - name: Political Action
+    count: 11
+    cards:
+    - count: 4
+      name: Consanguineous Boon
+    - count: 4
+      name: Eat the Rich
+    - count: 2
+      name: Revolutionary Council
+    - count: 1
+      name: Rumors of Gehenna
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Crypt's Sons
+  - name: Action Modifier
+    count: 24
+    cards:
+    - count: 2
+      name: Awe
+    - count: 1
+      name: Cloak the Gathering
+    - count: 2
+      name: CrimethInc.
+    - count: 2
+      name: Earth Control
+    - count: 1
+      name: Elder Impersonation
+    - count: 2
+      name: Enchanting Gaze
+    - count: 2
+      name: Faceless Night
+    - count: 2
+      name: Forgotten Labyrinth
+    - count: 6
+      name: Propaganda of the Deed
+    - count: 2
+      name: Spying Mission
+    - count: 2
+      name: Voter Captivation
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Form of the Bat
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 7
+      name: Bait and Switch
+    - count: 3
+      name: On the Qui Vive
+  - name: Combat
+    count: 7
+    cards:
+    - count: 5
+      name: Earth Meld
+    - count: 2
+      name: Form of Mist

@@ -1,0 +1,175 @@
+name: Capixabão 2023
+location: Vila Velha, Brazil
+date_start: 2023-08-19
+rounds_format: 3R+F
+players_count: 12
+winner: André Afonso
+vekn_number: 6040038
+event_url: https://www.vekn.net/event-calendar/event/10918
+event_id: 10918
+vp_comment: 1GW4 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10918
+deck:
+  name: Dementation is not an amalgam
+  description: ''
+  crypt_count: 13
+  crypt_min: 17
+  crypt_max: 31
+  crypt_avg: 6.15
+  crypt:
+  - count: 1
+    name: Bloody Mary
+    capacity: 8
+    disciplines: pre AUS DEM OBF
+    title: Primogen
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Lazarus James
+    capacity: 8
+    disciplines: obf tha AUS DEM PRE
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Persephone Tar-Anis
+    capacity: 8
+    disciplines: cel pot AUS DEM OBF
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Aleister Crowley
+    capacity: 7
+    disciplines: aus obf DEM PRE THA
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Apolonia Czarnecki
+    capacity: 7
+    disciplines: pre AUS DEM OBF
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Osric Vladislav
+    capacity: 7
+    disciplines: cel AUS DEM OBF
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Gem Ghastly
+    capacity: 6
+    disciplines: aus DEM OBF
+    title: Primogen
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Hagar Stone
+    capacity: 6
+    disciplines: obf AUS DEM
+    clan: Malkavian antitribu
+    grouping: 5
+  - count: 1
+    name: Morel
+    capacity: 6
+    disciplines: AUS DEM OBF
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Apache Jones
+    capacity: 5
+    disciplines: aus for obf DEM
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Arthur Denholm
+    capacity: 5
+    disciplines: obf AUS DEM
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Sean Rycek
+    capacity: 4
+    disciplines: aus dem
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Jackie
+    capacity: 3
+    disciplines: DEM
+    clan: Malkavian antitribu
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 3
+      name: Perfectionist
+    - count: 5
+      name: Villein
+    - count: 1
+      name: Wash
+  - name: Action
+    count: 18
+    cards:
+    - count: 7
+      name: Call, The
+    - count: 10
+      name: Kindred Spirits
+    - count: 1
+      name: Restructure
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Action Modifier
+    count: 30
+    cards:
+    - count: 3
+      name: Cloak the Gathering
+    - count: 6
+      name: Confusion
+    - count: 3
+      name: Elder Impersonation
+    - count: 6
+      name: Eyes of Chaos
+    - count: 3
+      name: Faceless Night
+    - count: 4
+      name: Lost in Crowds
+    - count: 2
+      name: Mind Tricks
+    - count: 3
+      name: Spying Mission
+  - name: Action Modifier/Combat
+    count: 9
+    cards:
+    - count: 2
+      name: Deny
+    - count: 4
+      name: Hide the Mind
+    - count: 3
+      name: Swallowed by the Night
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Touch of Clarity
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 4
+      name: Eyes of Argus
+    - count: 4
+      name: Telepathic Misdirection
+    - count: 4
+      name: Wrong and Crosswise
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: No Trace

@@ -1,0 +1,180 @@
+name: Origins - Thursday 2
+location: Columbus (OH), USA
+date_start: 2022-06-09
+rounds_format: 2R+F
+players_count: 21
+winner: Darby Keeney
+vekn_number: 1001132
+event_url: https://www.vekn.net/event-calendar/event/10211
+event_id: 10211
+vp_comment: 1GW6 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10211
+deck:
+  description: Bruise bleed based around V5 Brujah Barons, New Carthage and 
+    Anarch bleed cards. It carries light multi-action, a touch of stealth and 
+    just enough bounce that it doesn't have to look left immediately. The titles
+    influence others' political actions, even if I'm not using them myself.
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 30
+  crypt_avg: 6.17
+  crypt:
+  - count: 2
+    name: Theo Bell
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Aline Gädeke
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Brandon Grime
+    capacity: 5
+    disciplines: pot pre tha CEL
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Elen Kamjian
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Ariane
+    capacity: 3
+    disciplines: cel pot pre
+    clan: Brujah
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 2
+      name: Blood Doll
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Club Illusion
+      comment: dangerous play in today's meta
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      comment: this card just keeps getting better.
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: New Carthage
+      comment: this version could probably drop to 1 copy
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+      comment: more unlocked Barons at the end of my turn.
+    - count: 5
+      name: Villein
+      comment: this could be 6 copies and the deck wouldn't suffer.
+    - count: 1
+      name: Warzone Hunting Ground
+  - name: Action
+    count: 21
+    cards:
+    - count: 1
+      name: 'Fee Stake: New York'
+      comment: should probably change to LA just for thematic reasons
+    - count: 9
+      name: Illegalism
+      comment: combat minions that bleed, then unlock and fight are pretty good.
+    - count: 10
+      name: Line Brawl
+      comment: see above. The occasional pool steal can screw up other players' 
+        math.
+    - count: 1
+      name: Open War
+      comment: almost overkill with Theo and Line Brawls.
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 2
+      name: Anarch Manifesto, An
+      comment: slotted during last revision, these things are gold in the mid 
+        game (get them AFTER you unlock from Illegialism, don't defer bleed 
+        actions to get it)
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 6
+      name: Power of One
+      comment: I didn't bother with the unlimited [pot] line with a Monkey 
+        Wrench, it's better to just have these for stealth on bleeds.
+    - count: 2
+      name: Zephyr
+      comment: don't laugh...even at inferior it is an unlocked bouncer (or a 
+        multirushing Theo at superior).
+  - name: Reaction
+    count: 5
+    cards:
+    - count: 5
+      name: Bait and Switch
+      comment: this card is shaking up the meta around here.
+  - name: Combat
+    count: 36
+    cards:
+    - count: 2
+      name: Bollix
+      comment: kind of iffy, but I like having extra maneuvers and presses 
+        hanging around.
+    - count: 2
+      name: Disarm
+      comment: never played on a minion I wasn't dunking anyway, this might be 
+        overkill.
+    - count: 3
+      name: Diversion
+      comment: only OK in this deck since Dust Up often eats the additional 
+        strike.
+    - count: 10
+      name: Dust Up
+      comment: underrated as a dual use combat tool.
+    - count: 4
+      name: Immortal Grapple
+      comment: because Earth Meld decks need to be killed with fire.
+    - count: 2
+      name: Pulled Fangs
+      comment: sometimes minions just need to stay down
+    - count: 5
+      name: Target Vitals
+      comment: slotted in yet another [pot] deck....this card is poorly 
+        designed.
+    - count: 4
+      name: Taste of Vitae
+    - count: 4
+      name: Thrown Gate
+      comment: a token nod to "screw your Sniper Rifle" with backup defensive 
+        value

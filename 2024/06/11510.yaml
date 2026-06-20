@@ -1,0 +1,156 @@
+name: Especial de São João 2024
+location: Campina Grande (PB), Brazil
+date_start: 2024-06-19
+rounds_format: 2R+F
+players_count: 17
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/11510
+event_id: 11510
+forum_post_url: https://www.vekn.net/event-calendar/event/11510
+deck:
+  name: Night Terror
+  description: ''
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 26
+  crypt_avg: 4.83
+  crypt:
+  - count: 2
+    name: Doc Martina
+    capacity: 6
+    disciplines: for pre ANI OBF
+    clan: Ravnos
+    grouping: 7
+  - count: 2
+    name: Roberto Rivamonte
+    capacity: 6
+    disciplines: ANI OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Sreelekha
+    capacity: 8
+    disciplines: ANI FOR OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Gathii
+    capacity: 5
+    disciplines: obf ANI PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Phaibun
+    capacity: 5
+    disciplines: ani OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Jean-François
+    capacity: 4
+    disciplines: ani obf pre
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Zafira
+    capacity: 4
+    disciplines: obf PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Oleg Kaprizov
+    capacity: 3
+    disciplines: obf pre
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Trung Chau Pham
+    capacity: 3
+    disciplines: ANI
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Roy
+    capacity: 2
+    disciplines: obf
+    clan: Ravnos
+    grouping: 7
+  library_count: 76
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Anarch Railroad
+    - count: 1
+      name: Archon Investigation
+    - count: 1
+      name: Club Illusion
+    - count: 1
+      name: Coven, The
+    - count: 2
+      name: Dabbler
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Fortune Teller Shop
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Secure Haven
+    - count: 6
+      name: Villein
+    - count: 2
+      name: Week of Nightmares
+  - name: Action
+    count: 15
+    cards:
+    - count: 15
+      name: Break the Bonds
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Treasured Samadji
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 4
+      name: Cloak the Gathering
+    - count: 2
+      name: Elder Impersonation
+    - count: 3
+      name: Faceless Night
+    - count: 6
+      name: Lost in Crowds
+    - count: 2
+      name: Spying Mission
+    - count: 2
+      name: Veil the Legions
+    - count: 4
+      name: Visions of Gehenna
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 2
+      name: On the Qui Vive
+    - count: 5
+      name: Visions of Zapathasura
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Majesty
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The
+    - count: 1
+      name: Narrow Minds

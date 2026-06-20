@@ -1,0 +1,135 @@
+name: Grand Prix 2025 - Poland
+location: Warsaw, Poland
+date_start: 2025-07-05
+rounds_format: 3R+F
+players_count: 56
+winner: Tomasz Pietkiewicz
+vekn_number: 1004624
+event_url: https://www.vekn.net/event-calendar/event/12126
+event_id: 12126
+vp_comment: — 2GW8 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12126
+deck:
+  name: Juliet Cavalier
+  description: ''
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 36
+  crypt_avg: 6.83
+  crypt:
+  - count: 5
+    name: Juliet Parr
+    capacity: 9
+    disciplines: cel pot AUS DOM OBF
+    title: Justicar
+    clan: Malkavian
+    grouping: 7
+  - count: 3
+    name: Dominica
+    capacity: 3
+    disciplines: aus for
+    clan: Salubri
+    grouping: 7
+  - count: 2
+    name: Alexander Silverson
+    capacity: 8
+    disciplines: pre AUS DOM OBF
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  - count: 1
+    name: Andi Liu
+    capacity: 6
+    disciplines: aus obf pre DOM
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  - count: 1
+    name: Donny Kowalczyk
+    capacity: 6
+    disciplines: cel dom obf AUS
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  library_count: 75
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 6
+      name: Ashur Tablets
+    - count: 1
+      name: Camarilla Conclave
+    - count: 3
+      name: Cavalier
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Jake Washington
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Saulot's Guiding Wisdom
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 12
+    cards:
+    - count: 3
+      name: 'Fifth Tradition: Hospitality'
+    - count: 9
+      name: Govern the Unaligned
+  - name: Political Action
+    count: 12
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 4
+      name: Camarilla's Iron Fist
+    - count: 2
+      name: Kine Resources Contested
+    - count: 4
+      name: Parity Shift
+  - name: Action Modifier
+    count: 22
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+    - count: 2
+      name: Closed Session
+    - count: 3
+      name: Conditioning
+    - count: 2
+      name: Elder Impersonation
+    - count: 2
+      name: Faceless Night
+    - count: 1
+      name: Foreshadowing Destruction
+    - count: 1
+      name: Forgotten Labyrinth
+    - count: 5
+      name: Lost in Crowds
+    - count: 1
+      name: Spying Mission
+    - count: 2
+      name: Telepathic Vote Counting
+    - count: 1
+      name: Veil the Legions
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 8
+      name: Deflection
+    - count: 2
+      name: Obedience

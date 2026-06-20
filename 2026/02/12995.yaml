@@ -1,0 +1,149 @@
+name: Wake with Evening's Freshness
+location: Campina Grande (PB), Brazil
+date_start: 2026-02-08
+rounds_format: 2R+F
+players_count: 14
+winner: Matheus Dantas
+vekn_number: 1930101
+event_url: https://www.vekn.net/event-calendar/event/12995
+event_id: 12995
+vp_comment: 1GW4 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12995
+deck:
+  name: Toreador vote
+  description: ''
+  crypt_count: 12
+  crypt_min: 27
+  crypt_max: 37
+  crypt_avg: 8.08
+  crypt:
+  - count: 4
+    name: Diana Iadanza
+    capacity: 9
+    disciplines: AUS CEL FOR PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 7
+  - count: 2
+    name: Catalina Vega
+    capacity: 8
+    disciplines: for AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: François Villon
+    capacity: 10
+    disciplines: ani obf pot AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Marcos Belegrad
+    capacity: 8
+    disciplines: ani AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Modius
+    capacity: 8
+    disciplines: obf AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Flávio Gonçalves
+    capacity: 7
+    disciplines: aus for CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Maila
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Mkhokheli
+    capacity: 6
+    disciplines: aus cel for PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Camarilla Conclave
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Direct Intervention
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Papillon
+    - count: 6
+      name: Villein
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancient Influence
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 2
+      name: Banishment
+    - count: 7
+      name: Camarilla's Iron Fist
+    - count: 3
+      name: Parity Shift
+    - count: 1
+      name: Political Stranglehold
+  - name: Action Modifier
+    count: 26
+    cards:
+    - count: 5
+      name: Awe
+    - count: 5
+      name: Forced March
+    - count: 5
+      name: Loup
+    - count: 4
+      name: Perfect Paragon
+    - count: 7
+      name: Voter Captivation
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Scalpel Tongue
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 6
+      name: Eyes of Argus
+    - count: 2
+      name: 'Second Tradition: Domain'
+    - count: 8
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 15
+    cards:
+    - count: 3
+      name: Charismatic Aura
+    - count: 12
+      name: Majesty

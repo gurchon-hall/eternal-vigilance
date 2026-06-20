@@ -1,0 +1,131 @@
+name: A volta do Jyhad
+location: Asa Norte, Brazil
+date_start: 2022-10-01
+rounds_format: 2R+F
+players_count: 12
+winner: Fábio Barcelos Bernardes
+vekn_number: 1003134
+event_url: https://www.vekn.net/event-calendar/event/10360
+event_id: 10360
+forum_post_url: https://www.vekn.net/event-calendar/event/10360
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 34
+  crypt_avg: 7.0
+  crypt:
+  - count: 3
+    name: Kasim Bayar
+    capacity: 9
+    disciplines: aus pot CEL OBF THA
+    title: Justicar
+    clan: Banu Haqim
+    grouping: 6
+  - count: 3
+    name: Farah Sarroub
+    capacity: 7
+    disciplines: aus obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 3
+    name: Kassandra Tassaki
+    capacity: 6
+    disciplines: obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 3
+    name: Khadija Al-Kindi
+    capacity: 6
+    disciplines: CEL OBF THA
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Alamut
+    - count: 1
+      name: Channel 10
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 3
+      name: "Haqim's Law: Retribution"
+    - count: 1
+      name: 'Khabar: Community, The'
+    - count: 1
+      name: Market Square
+    - count: 1
+      name: Papillon
+    - count: 3
+      name: Priority Contract
+    - count: 1
+      name: Underworld Hunting Ground
+    - count: 3
+      name: Vessel
+  - name: Action
+    count: 4
+    cards:
+    - count: 4
+      name: Hunter's Mark
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Assault Rifle
+    - count: 1
+      name: Kali's Fang
+    - count: 1
+      name: Kevlar Vest
+    - count: 1
+      name: Sport Bike
+  - name: Political Action
+    count: 9
+    cards:
+    - count: 2
+      name: Alastor
+    - count: 3
+      name: Anathema
+    - count: 4
+      name: Parity Shift
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 8
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 46
+    cards:
+    - count: 3
+      name: Blur
+    - count: 1
+      name: Fast Hands
+    - count: 8
+      name: Flash
+    - count: 12
+      name: Hunger of Marduk
+    - count: 6
+      name: Psyche!
+    - count: 6
+      name: Pursuit
+    - count: 5
+      name: Rego Motum
+    - count: 2
+      name: Soul Burn
+    - count: 3
+      name: Walk of Flame
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds

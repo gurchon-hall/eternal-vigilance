@@ -1,0 +1,184 @@
+name: '2022_07_31'
+location: Córdoba, Spain
+date_start: 2022-07-31
+rounds_format: 3R+F
+players_count: 26
+winner: Javier Naranjo Ortiz
+vekn_number: 8530107
+event_url: https://www.vekn.net/event-calendar/event/10602
+event_id: 10602
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10602
+deck:
+  name: Pre for politics
+  created_by: Karash
+  description: ''
+  crypt_count: 12
+  crypt_min: 25
+  crypt_max: 32
+  crypt_avg: 7.17
+  crypt:
+  - count: 2
+    name: Alexa Draper
+    capacity: 8
+    disciplines: for pot DOM PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Catalina Vega
+    capacity: 8
+    disciplines: for AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Scout Youngwood
+    capacity: 8
+    disciplines: for qui MEL OBF PRE
+    title: 2 votes
+    clan: Daughter of Cacophony
+    grouping: 6
+  - count: 1
+    name: Alice Chen
+    capacity: 7
+    disciplines: dom obf FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Flávio Gonçalves
+    capacity: 7
+    disciplines: aus for CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Kevin Jackson
+    capacity: 7
+    disciplines: DOM FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 7
+  - count: 1
+    name: Sybren van Oosten
+    capacity: 7
+    disciplines: dom tha FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Horst von Brühl
+    capacity: 6
+    disciplines: aus dom pre FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Mkhokheli
+    capacity: 6
+    disciplines: aus cel for PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Legendary Vampire
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Ventrue Headquarters
+    - count: 4
+      name: Villein
+  - name: Action
+    count: 14
+    cards:
+    - count: 10
+      name: Enchant Kindred
+    - count: 2
+      name: Entrancement
+    - count: 2
+      name: Mind Numb
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+  - name: Political Action
+    count: 17
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 2
+      name: Conservative Agitation
+    - count: 1
+      name: Justicar Retribution
+    - count: 6
+      name: Kine Resources Contested
+    - count: 6
+      name: Parity Shift
+  - name: Action Modifier
+    count: 21
+    cards:
+    - count: 2
+      name: Aire of Elation
+    - count: 1
+      name: Awe
+    - count: 2
+      name: Bewitching Oration
+    - count: 2
+      name: Bonding
+    - count: 2
+      name: Daring the Dawn
+    - count: 1
+      name: Foreshadowing Destruction
+    - count: 4
+      name: Freak Drive
+    - count: 3
+      name: Perfect Paragon
+    - count: 4
+      name: Voter Captivation
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Force of Personality
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 6
+      name: Deflection
+    - count: 2
+      name: On the Qui Vive
+    - count: 6
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty

@@ -1,0 +1,145 @@
+name: Renato Torres
+location: Fortaleza (CE), Brazil
+date_start: 2024-02-04
+rounds_format: 2R+F
+players_count: 27
+winner: Valdemir Santos
+vekn_number: 7301303
+event_url: https://www.vekn.net/event-calendar/event/11168
+event_id: 11168
+vp_comment: 2GW6 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11168
+deck:
+  name: Palla Graaaande
+  description: ''
+  crypt_count: 12
+  crypt_min: 13
+  crypt_max: 32
+  crypt_avg: 5.5
+  crypt:
+  - count: 2
+    name: Klaus Konrecht
+    capacity: 8
+    disciplines: for pot AUS CEL PRE
+    title: Cardinal
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 2
+    name: Mélusine d'Anjou
+    capacity: 8
+    disciplines: dem AUS CEL PRE
+    title: Archbishop
+    clan: Toreador antitribu
+    grouping: 5
+  - count: 2
+    name: Amber
+    capacity: 5
+    disciplines: cel AUS PRE
+    clan: Toreador antitribu
+    grouping: 5
+  - count: 1
+    name: Guggenheim
+    capacity: 6
+    disciplines: AUS CEL PRE
+    clan: Toreador antitribu
+    grouping: 5
+  - count: 1
+    name: Conchita Morales
+    capacity: 5
+    disciplines: aus CEL PRE
+    clan: Toreador antitribu
+    grouping: 5
+  - count: 1
+    name: L'Épuisette
+    capacity: 4
+    disciplines: aus cel pro
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Loonar
+    capacity: 4
+    disciplines: cel PRE
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Monique Kim
+    capacity: 3
+    disciplines: aus cel
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Justine Chen, Innocent
+    capacity: 2
+    disciplines: pre
+    clan: Toreador antitribu
+    grouping: 4
+  library_count: 78
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Día de los Muertos
+    - count: 1
+      name: Direct Intervention
+    - count: 5
+      name: Foundation Exhibit
+    - count: 1
+      name: Hungry Coyote, The
+    - count: 1
+      name: Jake Washington
+    - count: 4
+      name: Palla Grande
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Sudden Reversal
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 20
+    cards:
+    - count: 8
+      name: Art Scam
+    - count: 12
+      name: Embrace, The
+  - name: Political Action
+    count: 12
+    cards:
+    - count: 4
+      name: Consanguineous Boon
+    - count: 8
+      name: Kine Resources Contested
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 6
+      name: Change of Target
+  - name: Action Modifier/Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Resist Earth's Grasp
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 3
+      name: On the Qui Vive
+    - count: 4
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Majesty
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The

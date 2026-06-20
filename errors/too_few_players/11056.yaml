@@ -1,0 +1,172 @@
+name: Torneio alagoano de VTES 2023
+location: Maceió, Brazil
+date_start: 2023-12-09
+rounds_format: 3R+F
+players_count: 10
+winner: Rivanildon Frazão
+vekn_number: 6161017
+event_url: https://www.vekn.net/event-calendar/event/11056
+event_id: 11056
+forum_post_url: https://www.vekn.net/event-calendar/event/11056
+deck:
+  name: New Carthage
+  description: ''
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 34
+  crypt_avg: 7.17
+  crypt:
+  - count: 2
+    name: Dmitra Ilyanova
+    capacity: 9
+    disciplines: obf CEL FOR POT PRE
+    title: Justicar
+    clan: Brujah
+    grouping: 5
+  - count: 2
+    name: Carlak
+    capacity: 8
+    disciplines: dom pot CEL PRE
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  - count: 2
+    name: Karen Suadela
+    capacity: 7
+    disciplines: obf pre CEL POT
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  - count: 2
+    name: Tara
+    capacity: 6
+    disciplines: cel POT PRE
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Aline Gädeke
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+    - count: 3
+      name: New Carthage
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Presence
+    - count: 2
+      name: Vessel
+    - count: 2
+      name: Villein
+    - count: 1
+      name: Warzone Hunting Ground
+  - name: Action
+    count: 14
+    cards:
+    - count: 4
+      name: Enchant Kindred
+    - count: 2
+      name: Entrancement
+    - count: 4
+      name: Flurry of Action
+    - count: 2
+      name: Propaganda
+    - count: 2
+      name: Public Trust
+  - name: Political Action
+    count: 14
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 1
+      name: Banishment
+    - count: 1
+      name: Consanguineous Boon
+    - count: 1
+      name: Disputed Territory
+    - count: 4
+      name: Kine Resources Contested
+    - count: 1
+      name: Neonate Breach
+    - count: 4
+      name: Parity Shift
+    - count: 1
+      name: Reins of Power
+  - name: Action Modifier
+    count: 22
+    cards:
+    - count: 2
+      name: Awe
+    - count: 2
+      name: Bewitching Oration
+    - count: 2
+      name: Forgotten Labyrinth
+    - count: 8
+      name: Iron Glare
+    - count: 2
+      name: Perfect Paragon
+    - count: 6
+      name: Voter Captivation
+  - name: Action Modifier/Combat
+    count: 8
+    cards:
+    - count: 2
+      name: Force of Personality
+    - count: 6
+      name: Resist Earth's Grasp
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Scalpel Tongue
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 2
+      name: Bait and Switch
+    - count: 6
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 8
+    cards:
+    - count: 4
+      name: Majesty
+    - count: 2
+      name: Sideslip
+    - count: 2
+      name: Torrent

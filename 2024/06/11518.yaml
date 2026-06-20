@@ -1,0 +1,161 @@
+name: NightmarES
+location: Vila Velha (ES), Brazil
+date_start: 2024-06-19
+rounds_format: 2R+F
+players_count: 12
+winner: Erik Procopio
+vekn_number: 7790007
+event_url: https://www.vekn.net/event-calendar/event/11518
+event_id: 11518
+forum_post_url: https://www.vekn.net/event-calendar/event/11518
+deck:
+  name: Baltimore Andy
+  description: ''
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 10.33
+  crypt:
+  - count: 4
+    name: Montano
+    capacity: 11
+    disciplines: ANI DOM FOR OBT POT
+    title: 2 votes
+    clan: Lasombra
+    grouping: 3
+  - count: 3
+    name: Malgorzata
+    capacity: 9
+    disciplines: pre AUS DOM THA VIC
+    title: Priscus
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Adana de Sforza
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Lutz von Hohenzollern
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Mistress Fanchon
+    capacity: 11
+    disciplines: AUS CEL DOM OBF THA VIC
+    title: Inner Circle
+    clan: Tremere
+    grouping: 4
+  - count: 1
+    name: Rafael de Corazon
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  - count: 1
+    name: Orlando Oriundus
+    capacity: 9
+    disciplines: obf AUS DOM THA
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  library_count: 82
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Power Structure
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 5
+      name: Villein
+    - count: 2
+      name: Vulnerability
+    - count: 4
+      name: Zillah's Valley
+  - name: Action
+    count: 15
+    cards:
+    - count: 5
+      name: Baltimore Purge
+    - count: 7
+      name: Govern the Unaligned
+    - count: 3
+      name: Graverobbing
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Political Action
+    count: 9
+    cards:
+    - count: 1
+      name: Ancient Influence
+    - count: 2
+      name: Banishment
+    - count: 4
+      name: Kine Resources Contested
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reins of Power
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Camarilla Vitae Slave
+  - name: Action Modifier
+    count: 28
+    cards:
+    - count: 2
+      name: Enkil Cog
+    - count: 2
+      name: Faceless Night
+    - count: 2
+      name: Forgotten Labyrinth
+    - count: 9
+      name: Freak Drive
+    - count: 2
+      name: Lost in Crowds
+    - count: 4
+      name: Shadow Play
+    - count: 2
+      name: Shroud of Absence
+    - count: 2
+      name: Shroud of Night
+    - count: 3
+      name: Voter Captivation
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 4
+      name: Deflection
+    - count: 2
+      name: My Enemy's Enemy
+  - name: Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Entombment

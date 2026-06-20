@@ -1,0 +1,124 @@
+name: David Rocha
+location: Fortaleza Ceará, Brazil
+date_start: 2024-06-02
+rounds_format: 2R+F
+players_count: 20
+winner: Cicero Jannyson
+vekn_number: 7301586
+event_url: https://www.vekn.net/event-calendar/event/11152
+event_id: 11152
+forum_post_url: https://www.vekn.net/event-calendar/event/11152
+deck:
+  name: Brujah Baroes [by Jannyson ]
+  description: ''
+  crypt_count: 12
+  crypt_min: 25
+  crypt_max: 32
+  crypt_avg: 7.08
+  crypt:
+  - count: 3
+    name: Aline Gädeke
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Saku Pihlajamäki
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Theo Bell
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Octane
+    capacity: 6
+    disciplines: CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 1
+      name: Anarch Railroad
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Club Illusion
+    - count: 1
+      name: Fame
+    - count: 2
+      name: Monster
+    - count: 2
+      name: New Carthage
+    - count: 4
+      name: Villein
+    - count: 1
+      name: Warzone Hunting Ground
+  - name: Action
+    count: 18
+    cards:
+    - count: 8
+      name: Line Brawl
+    - count: 4
+      name: Open War
+    - count: 6
+      name: Show of Force
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 3
+      name: Zephyr
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 5
+      name: Bait and Switch
+    - count: 7
+      name: Organized Resistance
+  - name: Combat
+    count: 44
+    cards:
+    - count: 5
+      name: Bollix
+    - count: 6
+      name: Dust Up
+    - count: 6
+      name: Hell-for-Leather
+    - count: 8
+      name: Immortal Grapple
+    - count: 6
+      name: Pursuit
+    - count: 5
+      name: Taste of Vitae
+    - count: 8
+      name: Torn Signpost

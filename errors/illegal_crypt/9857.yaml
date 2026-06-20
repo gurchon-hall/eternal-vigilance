@@ -1,0 +1,160 @@
+name: Polish NC 2021
+location: Wroclaw, Poland
+date_start: 2021-09-11
+rounds_format: 3R+F
+players_count: 42
+winner: Łukasz Ho Thanh
+vekn_number: 1950006
+event_url: https://www.vekn.net/event-calendar/event/9857
+event_id: 9857
+forum_post_url: https://www.vekn.net/event-calendar/event/9857
+deck:
+  name: Harbingers Emerald Legion
+  description: ''
+  crypt_count: 12
+  crypt_min: 11
+  crypt_max: 32
+  crypt_avg: 5.58
+  crypt:
+  - count: 3
+    name: Khurshid
+    capacity: 8
+    disciplines: AUS FOR NEC POT
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 2
+    name: Mordechai Ben-Nun
+    capacity: 8
+    disciplines: ANI AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 2
+    name: Veejay Vinod
+    capacity: 3
+    disciplines: AUS
+    clan: Nagaraja
+    grouping: 6
+  - count: 1
+    name: Hecate
+    capacity: 6
+    disciplines: AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 1
+    name: La Viuda Blanca
+    capacity: 6
+    disciplines: for obf AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: America Johnson
+    capacity: 4
+    disciplines: vic AUS
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Pearl
+    capacity: 4
+    disciplines: obf AUS
+    clan: Malkavian antitribu
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Barrens, The
+    - count: 2
+      name: Direct Intervention
+    - count: 1
+      name: Erciyes Fragments, The
+    - count: 1
+      name: Fragment of the Book of Nod
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Guardian Angel
+    - count: 2
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Rack, The
+    - count: 1
+      name: Smiling Jack, The Anarch
+    - count: 4
+      name: Vessel
+  - name: Action
+    count: 2
+    cards:
+    - count: 1
+      name: Abbot
+    - count: 1
+      name: Anima Gathering
+  - name: Ally
+    count: 11
+    cards:
+    - count: 11
+      name: Emerald Legionnaire
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 1
+      name: .44 Magnum
+    - count: 1
+      name: Bowl of Convergence
+    - count: 1
+      name: Ivory Bow
+    - count: 1
+      name: Kevlar Vest
+    - count: 2
+      name: Sniper Rifle
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 2
+      name: Call of the Hungry Dead
+    - count: 1
+      name: Kiss of Ra, The
+    - count: 2
+      name: Trochomancy
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Breath of Thanatos
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Spectral Divination
+  - name: Reaction
+    count: 36
+    cards:
+    - count: 4
+      name: Eagle's Sight
+    - count: 3
+      name: Enhanced Senses
+    - count: 11
+      name: Eyes of Argus
+    - count: 5
+      name: Forced Awakening
+    - count: 3
+      name: My Enemy's Enemy
+    - count: 4
+      name: On the Qui Vive
+    - count: 6
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 5
+    cards:
+    - count: 3
+      name: Hidden Strength
+    - count: 2
+      name: Rolling with the Punches
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Unmasking, The

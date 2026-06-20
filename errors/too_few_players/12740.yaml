@@ -1,0 +1,176 @@
+name: Russian NC 2025
+location: Moscow, Russia
+date_start: 2025-11-08
+rounds_format: 2R+F
+players_count: 10
+winner: Armen Khachikyan
+vekn_number: 9490047
+event_url: https://www.vekn.net/event-calendar/event/12740
+event_id: 12740
+vp_comment: 1GW5 + 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12740
+deck:
+  name: Malks 2010
+  description: Has build this deck like 15 years ago, played once and put it on 
+    a shelf for a special occasion, as tournaments are rare in our climate and 
+    most players are casuals. When it was found that we will be getting anarch 
+    ravnos and gangrels on the field, piloted by experienced grognards, then I 
+    thought time has come to dig something degenerated from the past. With some 
+    luck and too greedy opponents I've managed to sweep one preliminary table, 
+    entered the finals being top seed, so it was quite an easy sweep there. 
+    84-th card should be Touch of Clarity, moved it into other deck and forgot 
+    to return. After the event I think you need 3-4 Touches in this deck, maybe 
+    drop villeins and one Leverage for it (don't think more than 84 cards are 
+    needed). Has played Reality mirror once for just lolz (still went to 
+    torpor), played Coma once and it has moved me from 3 to 5 VP in the finals, 
+    haven't played Gemini's mirrors (obviously they are here for basic effect), 
+    but they are easy to cycle so I think are fine.
+  crypt_count: 12
+  crypt_min: 9
+  crypt_max: 22
+  crypt_avg: 4.08
+  crypt:
+  - count: 1
+    name: Morel
+    capacity: 6
+    disciplines: AUS DEM OBF
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Tony
+    capacity: 6
+    disciplines: dom obf AUS DEM
+    clan: Malkavian
+    grouping: 3
+  - count: 1
+    name: Apache Jones
+    capacity: 5
+    disciplines: aus for obf DEM
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Colonel, The
+    capacity: 5
+    disciplines: cel dem obf AUS
+    clan: Malkavian antitribu
+    grouping: 3
+  - count: 1
+    name: General Perfidio Díos
+    capacity: 5
+    disciplines: dem obf AUS
+    title: Bishop
+    clan: Malkavian antitribu
+    grouping: 3
+  - count: 1
+    name: Persia, The Beautiful Statue
+    capacity: 5
+    disciplines: aus obf DEM
+    clan: Malkavian
+    grouping: 3
+  - count: 1
+    name: Uncle George
+    capacity: 5
+    disciplines: aus dom obf DEM
+    clan: Malkavian antitribu
+    grouping: 3
+  - count: 1
+    name: Jackie
+    capacity: 3
+    disciplines: DEM
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Marta
+    capacity: 3
+    disciplines: aus dem
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Midget
+    capacity: 3
+    disciplines: obf pre DEM
+    clan: Malkavian antitribu
+    grouping: 3
+  - count: 1
+    name: Cassandra Langely, The Waif
+    capacity: 2
+    disciplines: dem
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Eddie Gaines
+    capacity: 1
+    disciplines: dem pot
+    clan: Caitiff
+    grouping: 3
+  library_count: 83
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+    - count: 1
+      name: Antediluvian Awakening
+    - count: 1
+      name: Barrens, The
+    - count: 3
+      name: Dementation
+    - count: 3
+      name: Effective Management
+    - count: 1
+      name: Misdirection
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 2
+      name: Vessel
+    - count: 2
+      name: Villein
+    - count: 2
+      name: Wash
+  - name: Action
+    count: 20
+    cards:
+    - count: 20
+      name: Kindred Spirits
+  - name: Action Modifier
+    count: 29
+    cards:
+    - count: 3
+      name: Cloak the Gathering
+    - count: 13
+      name: Confusion
+    - count: 7
+      name: Eyes of Chaos
+    - count: 2
+      name: Leverage
+    - count: 4
+      name: Mind Tricks
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Deny
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 1
+      name: On the Qui Vive
+    - count: 4
+      name: Telepathic Misdirection
+    - count: 3
+      name: Wake with Evening's Freshness
+  - name: Combat
+    count: 4
+    cards:
+    - count: 1
+      name: Coma
+    - count: 2
+      name: Gemini's Mirror
+    - count: 1
+      name: Reality Mirror
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The

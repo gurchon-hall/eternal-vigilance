@@ -1,0 +1,143 @@
+name: Campeonato Nacional de Portugal 2023
+location: Lisboa, Portugal
+date_start: 2023-07-01
+rounds_format: 3R+F
+players_count: 17
+winner: Eduardo Manuel Mateus
+vekn_number: 3120073
+event_url: https://www.vekn.net/event-calendar/event/10773
+event_id: 10773
+forum_post_url: https://www.vekn.net/event-calendar/event/10773
+deck:
+  name: “Death & Taxes”
+  description: Malkavians do it better.
+  crypt_count: 12
+  crypt_min: 38
+  crypt_max: 44
+  crypt_avg: 10.5
+  crypt:
+  - count: 4
+    name: Leandro
+    capacity: 11
+    disciplines: cel dom AUS OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 2
+  - count: 3
+    name: Arika
+    capacity: 11
+    disciplines: aus cel DOM FOR OBF PRE
+    title: Inner Circle
+    clan: Ventrue
+    grouping: 2
+  - count: 3
+    name: Maris Streck
+    capacity: 9
+    disciplines: ani dem dom AUS OBF
+    title: Justicar
+    clan: Malkavian
+    grouping: 3
+  - count: 1
+    name: Etrius
+    capacity: 11
+    disciplines: pro AUS DOM OBF THA
+    title: Inner Circle
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Harrod
+    capacity: 11
+    disciplines: aus pre ANI CEL OBF POT
+    title: Inner Circle
+    clan: Nosferatu
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 1
+      name: Barrens, The
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Jake Washington
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Monastery of Shadows
+    - count: 7
+      name: Villein
+    - count: 5
+      name: Zillah's Valley
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Petra Resonance
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+    - count: 1
+      name: Muddled Vampire Hunter
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 2
+      name: Helicopter
+  - name: Political Action
+    count: 18
+    cards:
+    - count: 4
+      name: Alastor
+    - count: 1
+      name: Ancient Influence
+    - count: 5
+      name: Banishment
+    - count: 2
+      name: Conservative Agitation
+    - count: 3
+      name: Kine Resources Contested
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reinforcements
+    - count: 1
+      name: Reins of Power
+  - name: Action Modifier
+    count: 26
+    cards:
+    - count: 2
+      name: Awe
+    - count: 2
+      name: Elder Impersonation
+    - count: 3
+      name: Forgotten Labyrinth
+    - count: 6
+      name: Into Thin Air
+    - count: 5
+      name: Perfect Paragon
+    - count: 8
+      name: Voter Captivation
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 5
+      name: Eyes of Argus
+    - count: 5
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty

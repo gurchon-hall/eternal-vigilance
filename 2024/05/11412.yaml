@@ -1,0 +1,142 @@
+name: 2nd Game of Malkav - Helsinki, Finland
+location: Helsinki, Finland
+date_start: 2024-05-02
+rounds_format: 2R+F
+players_count: 12
+winner: Teemu Sainomaa
+vekn_number: 3070069
+event_url: https://www.vekn.net/event-calendar/event/11412
+event_id: 11412
+vp_comment: 1GW3 + 2.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11412
+deck:
+  name: Power of Debate
+  description: ''
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 29
+  crypt_avg: 5.42
+  crypt:
+  - count: 2
+    name: Aline Gädeke
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Saku Pihlajamäki
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Elen Kamjian
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Ariane
+    capacity: 3
+    disciplines: cel pot pre
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Lynn Thompson
+    capacity: 3
+    disciplines: cel pot
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Rayne
+    capacity: 2
+    disciplines: pot
+    clan: Brujah
+    grouping: 6
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 26
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 7
+      name: Brujah Debate
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Coven, The
+    - count: 7
+      name: Fortitude
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Jake Washington
+    - count: 1
+      name: Papillon
+    - count: 5
+      name: Villein
+  - name: Action
+    count: 14
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 8
+      name: Childe of the Revolution
+    - count: 4
+      name: Line Brawl
+    - count: 1
+      name: Open War
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Reaction
+    count: 24
+    cards:
+    - count: 7
+      name: Bait and Switch
+    - count: 13
+      name: Organized Resistance
+    - count: 4
+      name: Power of All
+  - name: Combat
+    count: 14
+    cards:
+    - count: 8
+      name: Diversion
+    - count: 2
+      name: Immortal Grapple
+    - count: 4
+      name: Taste of Vitae
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The

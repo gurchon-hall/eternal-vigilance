@@ -1,0 +1,131 @@
+name: Forgotten Maze in Prato
+location: Prato, Italy
+date_start: 2023-11-12
+rounds_format: 2R+F
+players_count: 28
+winner: Alessandro Bellomini
+vekn_number: 4740038
+event_url: https://www.vekn.net/event-calendar/event/11029
+event_id: 11029
+vp_comment: 2.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11029
+deck:
+  name: New deck
+  description: ''
+  crypt_count: 13
+  crypt_min: 11
+  crypt_max: 40
+  crypt_avg: 6.92
+  crypt:
+  - count: 5
+    name: Huitzilopochtli
+    capacity: 10
+    disciplines: AUS DAI DOM OBF POT PRE
+    clan: Baali
+    grouping: 2
+  - count: 4
+    name: Giotto Verducci
+    capacity: 7
+    disciplines: for pot pre DAI OBF
+    clan: Baali
+    grouping: 2
+  - count: 1
+    name: High Priest Angra Mainyu
+    capacity: 8
+    disciplines: dem ser DAI OBF PRE
+    clan: Baali
+    grouping: 2
+  library_count: 76
+  library_sections:
+  - name: Master
+    count: 34
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 9
+      name: Ashur Tablets
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: Jake Washington
+    - count: 2
+      name: Metro Underground
+    - count: 1
+      name: Monastery of Shadows
+    - count: 2
+      name: Parthenon, The
+    - count: 1
+      name: Perfectionist
+    - count: 1
+      name: Secure Haven
+    - count: 6
+      name: Tend the Flock
+    - count: 3
+      name: Villein
+    - count: 1
+      name: Wash
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 7
+    cards:
+    - count: 4
+      name: Entrancement
+    - count: 3
+      name: Unleash Hell's Fury
+  - name: Ally
+    count: 3
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+    - count: 1
+      name: Mylan Horseed
+    - count: 1
+      name: Veneficti
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Homunculus
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 3
+      name: Elder Impersonation
+    - count: 2
+      name: Enkil Cog
+    - count: 3
+      name: Faceless Night
+    - count: 1
+      name: I am Legion
+    - count: 4
+      name: Lost in Crowds
+  - name: Action Modifier/Reaction
+    count: 5
+    cards:
+    - count: 5
+      name: Sense the Sin
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 4
+      name: Deflection
+    - count: 1
+      name: Delaying Tactics
+    - count: 1
+      name: Eluding the Arms of Morpheus
+    - count: 1
+      name: On the Qui Vive
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty

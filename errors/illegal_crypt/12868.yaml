@@ -1,0 +1,149 @@
+name: Confra PT2
+location: Campina Grande (PB), Brazil
+date_start: 2025-12-13
+rounds_format: 2R+F
+players_count: 12
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/12868
+event_id: 12868
+vp_comment: 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12868
+deck:
+  name: Akunanse Anarch
+  description: ''
+  crypt_count: 12
+  crypt_min: 5
+  crypt_max: 37
+  crypt_avg: 5.42
+  crypt:
+  - count: 1
+    name: Kamiri wa Itherero
+    capacity: 10
+    disciplines: pot qui ABO ANI FOR OBF
+    clan: Akunanse
+    grouping: 4
+  - count: 1
+    name: Kamiri wa Itherero (ADV)
+    capacity: 10
+    disciplines: pot qui ABO ANI FOR OBF
+    clan: Akunanse
+    grouping: 4
+  - count: 2
+    name: Amavi
+    capacity: 8
+    disciplines: pre pro ABO ANI FOR
+    clan: Akunanse
+    grouping: 4
+  - count: 1
+    name: Matata
+    capacity: 9
+    disciplines: aus cel obf ABO ANI FOR
+    clan: Akunanse
+    grouping: 3
+  - count: 1
+    name: Sanjo
+    capacity: 6
+    disciplines: abo chi ANI FOR
+    clan: Akunanse
+    grouping: 3
+  - count: 1
+    name: Socrate Cidibe
+    capacity: 5
+    disciplines: ani ABO FOR
+    clan: Akunanse
+    grouping: 4
+  - count: 1
+    name: Nestor Kaba
+    capacity: 4
+    disciplines: abo ani for
+    clan: Akunanse
+    grouping: 4
+  - count: 1
+    name: Meno Ngari
+    capacity: 2
+    disciplines: abo
+    clan: Akunanse
+    grouping: 4
+  library_count: 87
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Channel 10
+    - count: 1
+      name: Depravity
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Fame
+    - count: 1
+      name: From a Sinking Ship
+    - count: 1
+      name: Guardian Angel
+    - count: 1
+      name: 'Powerbase: Luanda'
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 2
+      name: Protean
+    - count: 1
+      name: Rack, The
+    - count: 3
+      name: Vessel
+    - count: 2
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 3
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 1
+      name: Army of Rats
+    - count: 1
+      name: Tier of Souls
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: 'Reliquary: Akunanse Remains'
+  - name: Retainer
+    count: 4
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+    - count: 3
+      name: Raven Spy
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 6
+      name: Deep Ecology
+    - count: 3
+      name: Forced Awakening
+    - count: 3
+      name: On the Qui Vive
+    - count: 4
+      name: Protection Racket
+  - name: Combat
+    count: 45
+    cards:
+    - count: 6
+      name: Carrion Crows
+    - count: 6
+      name: 'Devil-Channel: Hands'
+    - count: 7
+      name: Drawing Out the Beast
+    - count: 3
+      name: Indomitability
+    - count: 8
+      name: Invoking the Beast
+    - count: 3
+      name: Resilience
+    - count: 10
+      name: Rolling with the Punches
+    - count: 2
+      name: Soak

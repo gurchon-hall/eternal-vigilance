@@ -1,0 +1,142 @@
+name: V5 Constructed Jyväskyä
+location: Jyväskylä, Finland
+date_start: 2026-04-11
+rounds_format: 2R+F
+players_count: 16
+winner: Pasi Karjalainen
+vekn_number: 1001675
+event_url: https://www.vekn.net/event-calendar/event/13150
+event_id: 13150
+vp_comment: 1GW8 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13150
+deck:
+  name: V5 Toreador tap & bleed 2
+  description: A new iteration of my Toreador tap & bleed deck that I played in 
+    EC 2025 V5 event. The Archon Investigation proved to be really good in V5 
+    format. I played it in every round of the tournament.
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 21
+  crypt_avg: 4.33
+  crypt:
+  - count: 2
+    name: Carmelita Neillson
+    capacity: 5
+    disciplines: cel pre AUS
+    clan: Toreador
+    grouping: 7
+  - count: 2
+    name: Regina Blake
+    capacity: 5
+    disciplines: AUS PRE
+    clan: Toreador
+    grouping: 6
+  - count: 2
+    name: Valentina Osako
+    capacity: 3
+    disciplines: PRE
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Maila
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Kathy Glens
+    capacity: 5
+    disciplines: aus cel tha PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Tamoszius
+    capacity: 5
+    disciplines: aus CEL PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Bret Stryker
+    capacity: 4
+    disciplines: CEL PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Silvian Popescu
+    capacity: 4
+    disciplines: cel PRE
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Mateo García
+    capacity: 2
+    disciplines: pre
+    clan: Toreador
+    grouping: 6
+  library_count: 75
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 2
+      name: Anarch Troublemaker
+    - count: 2
+      name: Archon Investigation
+    - count: 1
+      name: Art Museum
+    - count: 1
+      name: Coven, The
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Jake Washington
+    - count: 3
+      name: Misdirection
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Society Hunting Ground
+  - name: Action
+    count: 19
+    cards:
+    - count: 3
+      name: Entrancement
+    - count: 5
+      name: Intimidation
+    - count: 4
+      name: Mind Numb
+    - count: 7
+      name: Public Trust
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Action Modifier
+    count: 21
+    cards:
+    - count: 12
+      name: Aire of Elation
+    - count: 2
+      name: Change of Target
+    - count: 7
+      name: Loup
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 2
+      name: Delaying Tactics
+    - count: 2
+      name: Eyes of Argus
+    - count: 2
+      name: My Enemy's Enemy
+    - count: 3
+      name: On the Qui Vive
+    - count: 5
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty

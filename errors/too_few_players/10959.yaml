@@ -1,0 +1,137 @@
+name: Ginesyful Fate II
+location: Palma de Mallorca, Spain
+date_start: 2023-09-03
+rounds_format: 2R+F
+players_count: 10
+winner: David Tomasetti
+vekn_number: 3190081
+event_url: https://www.vekn.net/event-calendar/event/10959
+event_id: 10959
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10959
+deck:
+  name: My girls
+  description: ''
+  crypt_count: 12
+  crypt_min: 20
+  crypt_max: 28
+  crypt_avg: 6.17
+  crypt:
+  - count: 3
+    name: Aline Gädeke
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 3
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Elen Kamjian
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 44
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 6
+      name: Ashur Tablets
+    - count: 9
+      name: Brujah Debate
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 2
+      name: Libertas
+    - count: 1
+      name: Mob Connections
+    - count: 3
+      name: New Carthage
+    - count: 1
+      name: Papillon
+    - count: 3
+      name: Parthenon, The
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 2
+      name: Rack, The
+    - count: 2
+      name: Tension in the Ranks
+    - count: 3
+      name: Vessel
+    - count: 5
+      name: Villein
+    - count: 2
+      name: Wider View
+  - name: Action
+    count: 1
+    cards:
+    - count: 1
+      name: Open War
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 3
+      name: Desert Eagle
+    - count: 2
+      name: Heart of Nizchetus
+  - name: Political Action
+    count: 3
+    cards:
+    - count: 2
+      name: Consanguineous Boon
+    - count: 1
+      name: Exclusion Principle
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+  - name: Reaction
+    count: 31
+    cards:
+    - count: 12
+      name: Bait and Switch
+    - count: 2
+      name: Delaying Tactics
+    - count: 15
+      name: Organized Resistance
+    - count: 2
+      name: Protection Racket
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Dust Up

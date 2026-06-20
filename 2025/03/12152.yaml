@@ -1,0 +1,176 @@
+name: Midnight Sun
+location: Rio de Janeiro (RJ), Brazil
+date_start: 2025-03-08
+rounds_format: 2R+F
+players_count: 25
+winner: Itamar G. Jr.
+vekn_number: 6020001
+event_url: https://www.vekn.net/event-calendar/event/12152
+event_id: 12152
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12152
+deck:
+  name: Ravnos Bleed&Stealth&Zarapathasura
+  description: ''
+  crypt_count: 12
+  crypt_min: 14
+  crypt_max: 32
+  crypt_avg: 5.67
+  crypt:
+  - count: 4
+    name: Sreelekha
+    capacity: 8
+    disciplines: ANI FOR OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Doc Martina
+    capacity: 6
+    disciplines: for pre ANI OBF
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Roberto Rivamonte
+    capacity: 6
+    disciplines: ANI OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Gathii
+    capacity: 5
+    disciplines: obf ANI PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Phaibun
+    capacity: 5
+    disciplines: ani OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Jean-François
+    capacity: 4
+    disciplines: ani obf pre
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Zafira
+    capacity: 4
+    disciplines: obf PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: '"Coach" Tyrone Soros'
+    capacity: 3
+    disciplines: obf pre
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Oleg Kaprizov
+    capacity: 3
+    disciplines: obf pre
+    clan: Ravnos
+    grouping: 7
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Anarch Railroad
+    - count: 2
+      name: Archon Investigation
+    - count: 1
+      name: Barrens, The
+    - count: 1
+      name: Club Illusion
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Fortune Teller Shop
+    - count: 1
+      name: Fragment of the Book of Nod
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Marrakesh Codex, The
+    - count: 1
+      name: Park Hunting Ground
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Secure Haven
+    - count: 4
+      name: Vessel
+    - count: 1
+      name: Week of Nightmares
+  - name: Action
+    count: 19
+    cards:
+    - count: 1
+      name: Blithe Acceptance
+    - count: 15
+      name: Break the Bonds
+    - count: 1
+      name: Entrancement
+    - count: 2
+      name: Heart of the City
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Anarch Manifesto, An
+    - count: 1
+      name: Shilmulo Tarot
+    - count: 1
+      name: Treasured Samadji
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+    - count: 1
+      name: Marijava Ghoul
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 3
+      name: Cloak the Gathering
+    - count: 3
+      name: Elder Impersonation
+    - count: 4
+      name: Lost in Crowds
+    - count: 2
+      name: Memory Rift
+    - count: 2
+      name: Spying Mission
+    - count: 4
+      name: Veil the Legions
+    - count: 5
+      name: Visions of Gehenna
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 5
+      name: Guard Dogs
+    - count: 6
+      name: Visions of Zapathasura
+  - name: Combat
+    count: 8
+    cards:
+    - count: 4
+      name: Majesty
+    - count: 4
+      name: Voracious Vermin
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Narrow Minds
+    - count: 1
+      name: Scourge of the Enochians

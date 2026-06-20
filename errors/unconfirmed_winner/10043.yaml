@@ -1,0 +1,160 @@
+name: Shroud Mastery
+location: Newark (OH), USA
+date_start: 2022-02-06
+rounds_format: 2R+F
+players_count: 12
+winner: Alex Romano
+event_url: https://www.vekn.net/event-calendar/event/10043
+event_id: 10043
+vp_comment: 1GW5 + 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10043
+deck:
+  name: Daylily
+  description: This deck is based on a similar deck I saw Randall Rudstam play 
+    back in 2011. It's pretty straightforward with what it does. Get out 2-3 PRO
+    ANI vamps and abuse the combo of Deep Song and Earth Meld to tap down all of
+    your preys vamps and launch massive bleeds with codex and heidelburg. 
+    Selectively block actions you don't like and Earth Meld out of those 
+    combats.
+  crypt_count: 12
+  crypt_min: 8
+  crypt_max: 26
+  crypt_avg: 4.42
+  crypt:
+  - count: 3
+    name: Janey Pickman
+    capacity: 6
+    disciplines: for ANI PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 2
+    name: Doyle Fincher
+    capacity: 7
+    disciplines: aus for obf ANI PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 2
+    name: Céleste Lamontagne
+    capacity: 5
+    disciplines: for ANI PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Joseph Fischer
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel antitribu
+    grouping: 5
+  - count: 1
+    name: Lillian
+    capacity: 3
+    disciplines: ani pro
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Leo Washington
+    capacity: 2
+    disciplines: cel pro
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Robert Price
+    capacity: 2
+    disciplines: pro
+    clan: Gangrel
+    grouping: 4
+  - count: 1
+    name: Iris Bennett
+    capacity: 1
+    disciplines: pro
+    clan: Caitiff
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 2
+      name: Anarch Troublemaker
+    - count: 1
+      name: Animalism
+    - count: 1
+      name: Archon Investigation
+    - count: 1
+      name: Campground Hunting Ground
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Ennoia's Theater
+    - count: 1
+      name: Fear of Mekhet
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Heidelberg Castle, Germany
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: Misdirection
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Twisted Forest
+    - count: 3
+      name: Vessel
+  - name: Action
+    count: 12
+    cards:
+    - count: 2
+      name: Abbot
+    - count: 10
+      name: Deep Song
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 2
+      name: Codex of the Edenic Groundskeepers
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Retainer
+    count: 8
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+    - count: 1
+      name: Owl Companion
+    - count: 5
+      name: Raven Spy
+    - count: 1
+      name: Tasha Morgan
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 2
+      name: Daring the Dawn
+    - count: 5
+      name: Freak Drive
+    - count: 1
+      name: Horrific Countenance
+  - name: Reaction
+    count: 9
+    cards:
+    - count: 4
+      name: Cats' Guidance
+    - count: 1
+      name: Delaying Tactics
+    - count: 4
+      name: On the Qui Vive
+  - name: Combat
+    count: 30
+    cards:
+    - count: 19
+      name: Earth Meld
+    - count: 8
+      name: Form of Mist
+    - count: 3
+      name: Pack Alpha

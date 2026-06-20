@@ -1,0 +1,120 @@
+name: Entombment
+location: Lisboa, Portugal
+date_start: 2024-01-20
+rounds_format: 3R+F
+players_count: 13
+winner: Eduardo Manuel Mateus
+vekn_number: 3120073
+event_url: https://www.vekn.net/event-calendar/event/11212
+event_id: 11212
+forum_post_url: https://www.vekn.net/event-calendar/event/11212
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 28
+  crypt_avg: 3.17
+  crypt:
+  - count: 4
+    name: Reiner Stoschka
+    capacity: 7
+    disciplines: obf AUS DEM THA
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Alu
+    capacity: 2
+    disciplines: obf
+    clan: Banu Haqim
+    grouping: 5
+  - count: 1
+    name: Cassandra Langely, The Waif
+    capacity: 2
+    disciplines: dem
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Andy
+    capacity: 1
+    disciplines: for
+    clan: Caitiff
+    grouping: 4
+  - count: 1
+    name: Basir
+    capacity: 1
+    disciplines: qui
+    clan: Banu Haqim
+    grouping: 4
+  - count: 1
+    name: César Holfield
+    capacity: 1
+    disciplines: obf
+    clan: Caitiff
+    grouping: 4
+  - count: 1
+    name: Donald Cargill
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Iris Bennett
+    capacity: 1
+    disciplines: pro
+    clan: Caitiff
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 24
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 1
+      name: Coven, The
+    - count: 12
+      name: Dementation
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Jake Washington
+    - count: 4
+      name: Obfuscate
+    - count: 1
+      name: Pentex(TM) Subversion
+  - name: Action
+    count: 25
+    cards:
+    - count: 3
+      name: Becoming, The
+    - count: 4
+      name: Dive into Madness
+    - count: 18
+      name: Kindred Spirits
+  - name: Action Modifier
+    count: 33
+    cards:
+    - count: 6
+      name: Cloak the Gathering
+    - count: 13
+      name: Confusion
+    - count: 6
+      name: Eyes of Chaos
+    - count: 2
+      name: Mind Tricks
+    - count: 6
+      name: Veil the Legions
+  - name: Action Modifier/Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Deny
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Narrow Minds
+    - count: 1
+      name: Port Authority

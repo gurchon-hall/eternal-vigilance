@@ -1,0 +1,174 @@
+name: Eduardo Lemos
+location: Fortaleza (CE), Brazil
+date_start: 2025-09-28
+rounds_format: 2R+F
+players_count: 14
+winner: Sara Yonara
+vekn_number: 7300062
+event_url: https://www.vekn.net/event-calendar/event/11983
+event_id: 11983
+forum_post_url: https://www.vekn.net/event-calendar/event/11983
+deck:
+  name: Stanislava
+  description: ''
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 10.0
+  crypt:
+  - count: 4
+    name: Stanislava
+    capacity: 11
+    disciplines: ANI CEL DOM FOR PRO
+    title: Inner Circle
+    clan: Gangrel
+    grouping: 2
+  - count: 1
+    name: Karsh
+    capacity: 10
+    disciplines: ANI CEL FOR POT PRO
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Karsh (ADV)
+    capacity: 10
+    disciplines: ANI CEL FOR POT PRO
+    clan: Gangrel
+    grouping: 3
+  - count: 2
+    name: Xaviar (ADV)
+    capacity: 10
+    disciplines: aus cel pot ABO ANI FOR PRO
+    title: Justicar
+    clan: Gangrel
+    grouping: 3
+  - count: 2
+    name: Ingrid Rossler
+    capacity: 9
+    disciplines: dom ANI FOR PRO
+    title: Prince
+    clan: Gangrel
+    grouping: 2
+  - count: 1
+    name: Hartmut Stover
+    capacity: 10
+    disciplines: dom for CEL OBF PRO
+    title: Archbishop
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 1
+    name: Mark Decker
+    capacity: 8
+    disciplines: ani for obf pot CEL PRO
+    title: Prince
+    clan: Gangrel
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Backways
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Ecoterrorists
+    - count: 1
+      name: Ennoia's Theater
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: Legendary Vampire
+    - count: 1
+      name: Monastery of Shadows
+    - count: 2
+      name: Perfectionist
+    - count: 2
+      name: Vessel
+    - count: 5
+      name: Villein
+    - count: 1
+      name: Zoo Hunting Ground
+  - name: Action
+    count: 11
+    cards:
+    - count: 3
+      name: Flurry of Action
+    - count: 6
+      name: Govern the Unaligned
+    - count: 2
+      name: Puppet Master
+  - name: Political Action
+    count: 15
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancient Influence
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 2
+      name: Banishment
+    - count: 1
+      name: Disputed Territory
+    - count: 5
+      name: Kine Resources Contested
+    - count: 1
+      name: Neonate Breach
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reins of Power
+    - count: 1
+      name: Year of Fortune
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Homunculus
+  - name: Action Modifier
+    count: 17
+    cards:
+    - count: 2
+      name: Beast Meld
+    - count: 4
+      name: Earth Control
+    - count: 1
+      name: Enkil Cog
+    - count: 3
+      name: Forced March
+    - count: 1
+      name: Foreshadowing Destruction
+    - count: 3
+      name: Freak Drive
+    - count: 3
+      name: Instantaneous Transformation
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Rapid Change
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Form of the Bat
+  - name: Reaction
+    count: 13
+    cards:
+    - count: 7
+      name: Deflection
+    - count: 3
+      name: Guard Dogs
+    - count: 3
+      name: On the Qui Vive
+  - name: Combat
+    count: 12
+    cards:
+    - count: 5
+      name: Earth Meld
+    - count: 5
+      name: Form of Mist
+    - count: 2
+      name: Rolling with the Punches

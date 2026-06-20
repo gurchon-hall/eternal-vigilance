@@ -1,0 +1,138 @@
+name: The Kindred of the Sunset
+location: Bochum, Germany
+date_start: 2023-10-07
+rounds_format: 2R+F
+players_count: 13
+winner: Roy Opitz
+vekn_number: 8580065
+event_url: https://www.vekn.net/event-calendar/event/10810
+event_id: 10810
+forum_post_url: https://www.vekn.net/event-calendar/event/10810
+deck:
+  name: HoS Emerald Thugs
+  description: ''
+  crypt_count: 12
+  crypt_min: 17
+  crypt_max: 40
+  crypt_avg: 7.33
+  crypt:
+  - count: 5
+    name: Erlik
+    capacity: 10
+    disciplines: AUS CEL FOR NEC THN
+    clan: Harbinger of Skulls
+    grouping: 3
+  - count: 2
+    name: Babalawo Alafin
+    capacity: 7
+    disciplines: ani AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 4
+  - count: 1
+    name: Erebus
+    capacity: 7
+    disciplines: dem AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 3
+  - count: 1
+    name: Mina Grotius
+    capacity: 6
+    disciplines: cel FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 3
+  - count: 1
+    name: Nicomedes
+    capacity: 5
+    disciplines: aus for nec vic
+    clan: Harbinger of Skulls
+    grouping: 4
+  - count: 1
+    name: Solomon Batanea
+    capacity: 5
+    disciplines: nec AUS FOR
+    clan: Harbinger of Skulls
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Barrens, The
+    - count: 2
+      name: Direct Intervention
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 7
+      name: Liquidation
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 2
+      name: Vessel
+  - name: Ally
+    count: 12
+    cards:
+    - count: 12
+      name: Emerald Legionnaire
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Vengeful Spirit
+  - name: Action Modifier
+    count: 9
+    cards:
+    - count: 5
+      name: Call of the Hungry Dead
+    - count: 1
+      name: Inevitability of the Void
+    - count: 3
+      name: Trochomancy
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Breath of Thanatos
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Spectral Divination
+  - name: Reaction
+    count: 21
+    cards:
+    - count: 3
+      name: Delaying Tactics
+    - count: 5
+      name: Eyes of Argus
+    - count: 1
+      name: My Enemy's Enemy
+    - count: 4
+      name: On the Qui Vive
+    - count: 8
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 15
+    cards:
+    - count: 7
+      name: Rolling with the Punches
+    - count: 4
+      name: Spiritual Intervention
+    - count: 4
+      name: Target Vitals
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+    - count: 2
+      name: Unmasking, The

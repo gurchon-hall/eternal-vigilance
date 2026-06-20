@@ -1,0 +1,124 @@
+name: Mexican NC 2021
+location: Mexico City, Mexico
+date_start: 2021-12-05
+rounds_format: 2R+F
+players_count: 12
+winner: Enrique Montaño Torres
+vekn_number: 1000545
+event_url: https://www.vekn.net/event-calendar/event/9974
+event_id: 9974
+forum_post_url: https://www.vekn.net/event-calendar/event/9974
+deck:
+  name: 'The Ultimate Wall. AKA: You shall not Pass'
+  description: ''
+  crypt_count: 12
+  crypt_min: 26
+  crypt_max: 39
+  crypt_avg: 8.25
+  crypt:
+  - count: 3
+    name: Matasuntha
+    capacity: 10
+    disciplines: ANI AUS CEL FOR PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 3
+    name: Inyanga
+    capacity: 9
+    disciplines: dom nec ANI AUS FOR PRO
+    title: Primogen
+    clan: Gangrel
+    grouping: 4
+  - count: 3
+    name: Randall
+    capacity: 8
+    disciplines: ANI AUS FOR PRO
+    title: 1 vote
+    clan: Gangrel
+    grouping: 4
+  - count: 3
+    name: Dr. Sutton Gassaway
+    capacity: 6
+    disciplines: ani aus FOR PRO
+    clan: Gangrel
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Backways
+    - count: 1
+      name: Ecoterrorists
+    - count: 1
+      name: Heidelberg Castle, Germany
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Rack, The
+    - count: 1
+      name: Smiling Jack, The Anarch
+    - count: 6
+      name: Vessel
+    - count: 1
+      name: Zoo Hunting Ground
+  - name: Action
+    count: 3
+    cards:
+    - count: 1
+      name: Pulse of the Canaille
+    - count: 2
+      name: Restoration
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+    - count: 1
+      name: Gran Madre di Dio, Italy
+    - count: 1
+      name: Sire's Index Finger
+  - name: Retainer
+    count: 7
+    cards:
+    - count: 7
+      name: Raven Spy
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 1
+      name: Horrific Countenance
+    - count: 1
+      name: Kiss of Ra, The
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Rapid Change
+  - name: Reaction
+    count: 29
+    cards:
+    - count: 3
+      name: Eagle's Sight
+    - count: 11
+      name: Eyes of Argus
+    - count: 2
+      name: My Enemy's Enemy
+    - count: 8
+      name: Sense the Savage Way
+    - count: 5
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 28
+    cards:
+    - count: 4
+      name: Claws of the Dead
+    - count: 11
+      name: Earth Meld
+    - count: 7
+      name: Flesh of Marble
+    - count: 6
+      name: Skin of Night

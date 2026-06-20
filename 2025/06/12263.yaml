@@ -1,0 +1,161 @@
+name: Oceania Grand Prix Brisbane 2025
+location: Brisbane, Australia
+date_start: 2025-06-21
+rounds_format: 3R+F
+players_count: 22
+winner: Ke Carlton
+vekn_number: 3680057
+event_url: https://www.vekn.net/event-calendar/event/12263
+event_id: 12263
+forum_post_url: https://www.vekn.net/event-calendar/event/12263
+deck:
+  name: Powerbase Decay
+  description: Focused Shroud of Decay and Family Gathering Abuse.
+  crypt_count: 12
+  crypt_min: 14
+  crypt_max: 28
+  crypt_avg: 5.5
+  crypt:
+  - count: 2
+    name: Mora, the Death Seer
+    capacity: 7
+    disciplines: ani AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Anu Diptinatpa
+    capacity: 7
+    disciplines: aus vic DOM NEC
+    clan: Nagaraja
+    grouping: 6
+  - count: 1
+    name: Parijat, the Dark Oracle
+    capacity: 7
+    disciplines: AUS DOM FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Tommaso Sforza
+    capacity: 7
+    disciplines: dom for AUS OBL THA
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Lenelle, Mambo of Birmingham
+    capacity: 6
+    disciplines: aus FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Monica Giovanni
+    capacity: 6
+    disciplines: AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Gebeyehu Abdu
+    capacity: 5
+    disciplines: for AUS OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Holliday "Burgundy" Hall
+    capacity: 5
+    disciplines: aus FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Hiromitsu Asano
+    capacity: 4
+    disciplines: aus for obl
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Alek König
+    capacity: 3
+    disciplines: OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Peter St. John
+    capacity: 2
+    disciplines: obl
+    clan: Hecata
+    grouping: 6
+  library_count: 84
+  library_sections:
+  - name: Master
+    count: 24
+    cards:
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 11
+      name: Family Gathering
+    - count: 1
+      name: House of Sorrow
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: 'Powerbase: Munich'
+    - count: 1
+      name: 'Powerbase: Zürich'
+    - count: 1
+      name: Tribute to the Master
+    - count: 4
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 14
+    cards:
+    - count: 14
+      name: Shroud of Decay
+  - name: Ally
+    count: 6
+    cards:
+    - count: 6
+      name: Spectral Servitor
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 1
+      name: Daring the Dawn
+    - count: 3
+      name: Freak Drive
+    - count: 3
+      name: Shadow Cast
+    - count: 2
+      name: Shadow Cloak
+    - count: 4
+      name: Stygian Shroud
+    - count: 10
+      name: Where the Veil Thins
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 2
+      name: Delaying Tactics
+    - count: 2
+      name: Eyes of Argus
+    - count: 2
+      name: My Enemy's Enemy
+    - count: 2
+      name: Shadow Sentinel
+    - count: 4
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Pass Through Shadow
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+    - count: 1
+      name: Unmasking, The

@@ -1,0 +1,145 @@
+name: Marchesa Liliana
+location: Fortaleza (CE), Brazil
+date_start: 2026-04-19
+rounds_format: 2R+F
+players_count: 12
+winner: Nilceu Galvão
+vekn_number: 6050001
+event_url: https://www.vekn.net/event-calendar/event/12892
+event_id: 12892
+vp_comment: 1GW3 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12892
+deck:
+  name: Carente de Amor
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 17
+  crypt_avg: 2.67
+  crypt:
+  - count: 1
+    name: André the Manipulator
+    capacity: 6
+    disciplines: FOR PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Hanna Nokelainen
+    capacity: 4
+    disciplines: ani for pro
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Nathan Turner
+    capacity: 4
+    disciplines: ani PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Fergus Alexander
+    capacity: 3
+    disciplines: pot pro
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Indira
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Joaquín de Cádiz
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Lillian
+    capacity: 3
+    disciplines: ani pro
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Ruslan Fedorenko
+    capacity: 2
+    disciplines: pro
+    clan: Gangrel
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 28
+    cards:
+    - count: 1
+      name: Anarch Railroad
+    - count: 8
+      name: Ascendance
+    - count: 1
+      name: Backways
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Club Illusion
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Ecoterrorists
+    - count: 1
+      name: Gird Minions
+    - count: 2
+      name: Life in the City
+    - count: 4
+      name: Parthenon, The
+    - count: 2
+      name: Perfectionist
+    - count: 3
+      name: Vessel
+    - count: 1
+      name: Zoo Hunting Ground
+  - name: Action
+    count: 34
+    cards:
+    - count: 10
+      name: Computer Hacking
+    - count: 10
+      name: Embrace, The
+    - count: 1
+      name: Rewilding
+    - count: 3
+      name: Skullduggery
+    - count: 10
+      name: Thing
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Double Deuce
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Leverage
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Form of the Bat
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Poison Pill
+  - name: Combat
+    count: 18
+    cards:
+    - count: 14
+      name: Earth Meld
+    - count: 4
+      name: Form of Mist
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds

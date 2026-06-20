@@ -1,0 +1,163 @@
+name: Sétimo Dia
+location: Fortaleza (CE), Brazil
+date_start: 2023-06-11
+rounds_format: 2R+F
+players_count: 20
+winner: Márcio Pinheiro
+vekn_number: 6050012
+event_url: https://www.vekn.net/event-calendar/event/10611
+event_id: 10611
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10611
+deck:
+  name: Cibele & CIA
+  created_by: Baron
+  description: ''
+  crypt_count: 12
+  crypt_min: 34
+  crypt_max: 44
+  crypt_avg: 9.83
+  crypt:
+  - count: 5
+    name: Cybele
+    capacity: 10
+    disciplines: ANI DAI OBF PRE SER THA
+    clan: Baali
+    grouping: 4
+  - count: 3
+    name: Nana Buruku
+    capacity: 8
+    disciplines: ANI POT PRE
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Adana de Sforza
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Lucian, The Perfect
+    capacity: 11
+    disciplines: ANI AUS DOM OBF POT PRE
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Lutz von Hohenzollern
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Rafael de Corazon
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 48
+    cards:
+    - count: 18
+      name: Ashur Tablets
+    - count: 1
+      name: Direct Intervention
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: 'Golconda: Inner Peace'
+    - count: 4
+      name: Information Highway
+    - count: 5
+      name: Liquidation
+    - count: 5
+      name: Minion Tap
+    - count: 1
+      name: Monastery of Shadows
+    - count: 5
+      name: Parthenon, The
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Secure Haven
+    - count: 1
+      name: Sudden Reversal
+    - count: 1
+      name: Wash
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 7
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 1
+      name: Contagion
+    - count: 1
+      name: Entrancement
+    - count: 1
+      name: Graverobbing
+    - count: 2
+      name: Legal Manipulations
+    - count: 1
+      name: Unleash Hell's Fury
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+  - name: Political Action
+    count: 3
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 2
+      name: Kine Resources Contested
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 3
+      name: Cloak the Gathering
+    - count: 3
+      name: Elder Impersonation
+    - count: 2
+      name: Faceless Night
+    - count: 1
+      name: Forgotten Labyrinth
+    - count: 3
+      name: Lost in Crowds
+    - count: 1
+      name: Spying Mission
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 1
+      name: Hide the Mind
+    - count: 3
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 1
+      name: Delaying Tactics
+    - count: 1
+      name: Guard Dogs
+    - count: 3
+      name: Lost in Translation
+    - count: 2
+      name: Mental Maze
+    - count: 2
+      name: On the Qui Vive
+    - count: 2
+      name: Sense the Savage Way
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Majesty

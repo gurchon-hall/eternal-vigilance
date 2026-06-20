@@ -1,0 +1,155 @@
+name: Capixabão 2025
+location: Vila Velha, Brazil
+date_start: 2025-09-27
+rounds_format: 3R+F
+players_count: 16
+winner: Tarcio Martins
+vekn_number: 6040030
+event_url: https://www.vekn.net/event-calendar/event/12656
+event_id: 12656
+forum_post_url: https://www.vekn.net/event-calendar/event/12656
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 22
+  crypt_max: 36
+  crypt_avg: 7.75
+  crypt:
+  - count: 4
+    name: Annabelle Triabell
+    capacity: 9
+    disciplines: dom for AUS CEL PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 3
+    name: Diana Iadanza
+    capacity: 9
+    disciplines: AUS CEL FOR PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Catalina Vega
+    capacity: 8
+    disciplines: for AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Flávio Gonçalves
+    capacity: 7
+    disciplines: aus for CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Maila
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Mkhokheli
+    capacity: 6
+    disciplines: aus cel for PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Valentina Osako
+    capacity: 3
+    disciplines: PRE
+    clan: Toreador
+    grouping: 7
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Art Museum
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+    - count: 1
+      name: Fortitude
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Papillon
+    - count: 2
+      name: Vessel
+    - count: 6
+      name: Villein
+    - count: 2
+      name: Wider View
+  - name: Action
+    count: 11
+    cards:
+    - count: 5
+      name: Enchant Kindred
+    - count: 1
+      name: Entrancement
+    - count: 1
+      name: Heart of the City
+    - count: 2
+      name: Intimidation
+    - count: 2
+      name: Propaganda
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Political Action
+    count: 15
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 2
+      name: Banishment
+    - count: 2
+      name: Camarilla's Iron Fist
+    - count: 7
+      name: Kine Resources Contested
+    - count: 2
+      name: Parity Shift
+    - count: 1
+      name: Political Stranglehold
+  - name: Action Modifier
+    count: 26
+    cards:
+    - count: 3
+      name: Aire of Elation
+    - count: 3
+      name: Awe
+    - count: 3
+      name: Forced March
+    - count: 7
+      name: Freak Drive
+    - count: 3
+      name: Perfect Paragon
+    - count: 7
+      name: Voter Captivation
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Scalpel Tongue
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 2
+      name: Protected District
+    - count: 4
+      name: 'Second Tradition: Domain'
+    - count: 4
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Majesty

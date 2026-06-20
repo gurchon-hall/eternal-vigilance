@@ -1,0 +1,141 @@
+name: Torneio Mineiro
+location: Belo Horizonte, Brazil
+date_start: 2021-11-27
+rounds_format: 3R+F
+players_count: 22
+winner: Tiago Honorato de Castro Ramos
+vekn_number: 6040022
+event_url: https://www.vekn.net/event-calendar/event/9975
+event_id: 9975
+forum_post_url: https://www.vekn.net/event-calendar/event/9975
+deck:
+  name: I'll be watching you
+  description: ''
+  crypt_count: 12
+  crypt_min: 30
+  crypt_max: 40
+  crypt_avg: 8.92
+  crypt:
+  - count: 5
+    name: Dmitri Borodin
+    capacity: 10
+    disciplines: obf AUS CEL NEC QUI
+    clan: Banu Haqim
+    grouping: 4
+  - count: 3
+    name: Massassi
+    capacity: 9
+    disciplines: obf AUS CEL POT QUI
+    clan: Osebo
+    grouping: 4
+  - count: 2
+    name: Kabede Maru
+    capacity: 9
+    disciplines: abo pot AUS CEL OBF QUI
+    title: Magaji
+    clan: Banu Haqim
+    grouping: 5
+  - count: 1
+    name: Antara
+    capacity: 8
+    disciplines: aus obf pre CEL FOR QUI
+    clan: Banu Haqim
+    grouping: 4
+  - count: 1
+    name: Bertrand d'Anjou
+    capacity: 4
+    disciplines: aus cel qui
+    clan: Banu Haqim
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Direct Intervention
+    - count: 2
+      name: Fame
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: KRCG News Radio
+    - count: 1
+      name: Market Square
+    - count: 1
+      name: Rack, The
+    - count: 2
+      name: Smiling Jack, The Anarch
+    - count: 1
+      name: Society of Leopold
+    - count: 1
+      name: Sudden Reversal
+    - count: 1
+      name: Underworld Hunting Ground
+    - count: 2
+      name: Vessel
+    - count: 4
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 5
+    cards:
+    - count: 1
+      name: Loss
+    - count: 4
+      name: Truth of Blood
+  - name: Equipment
+    count: 9
+    cards:
+    - count: 3
+      name: .44 Magnum
+    - count: 1
+      name: Bowl of Convergence
+    - count: 1
+      name: Ivory Bow
+    - count: 2
+      name: 'Reliquary: Shango Remains'
+    - count: 2
+      name: Sniper Rifle
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 1
+      name: Enkil Cog
+    - count: 4
+      name: Trochomancy
+  - name: Reaction
+    count: 33
+    cards:
+    - count: 6
+      name: Black Sunrise
+    - count: 2
+      name: Eagle's Sight
+    - count: 4
+      name: Enhanced Senses
+    - count: 6
+      name: Eyes of Argus
+    - count: 2
+      name: Forced Awakening
+    - count: 1
+      name: My Enemy's Enemy
+    - count: 2
+      name: On the Qui Vive
+    - count: 5
+      name: Quicken Sight
+    - count: 5
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 19
+    cards:
+    - count: 1
+      name: Concealed Weapon
+    - count: 3
+      name: Disguised Weapon
+    - count: 7
+      name: Pursuit
+    - count: 3
+      name: Taste of Death
+    - count: 5
+      name: Taste of Vitae

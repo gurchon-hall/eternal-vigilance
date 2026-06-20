@@ -1,0 +1,151 @@
+name: VTES 30th Anniversary Tournament
+location: Warsaw, Poland
+date_start: 2024-09-29
+rounds_format: 2R+F
+players_count: 75
+winner: Michał Kochanowski
+vekn_number: 1004071
+event_url: https://www.vekn.net/event-calendar/event/11670
+event_id: 11670
+forum_post_url: https://www.vekn.net/event-calendar/event/11670
+deck:
+  name: Saulot for EC
+  created_by: Marcin 'Dude' Szybkowski
+  description: ''
+  crypt_count: 15
+  crypt_min: 8
+  crypt_max: 44
+  crypt_avg: 5.8
+  crypt:
+  - count: 5
+    name: Saulot, The Wanderer
+    capacity: 11
+    disciplines: dai AUS FOR OBE THA VAL
+    clan: Salubri
+    grouping: 4
+  - count: 2
+    name: Neighbor John
+    capacity: 5
+    disciplines: dom for AUS
+    clan: Ventrue antitribu
+    grouping: 4
+  - count: 1
+    name: Maldavis (ADV)
+    capacity: 4
+    disciplines: for pre AUS
+    clan: Caitiff
+    grouping: 3
+  - count: 1
+    name: Nkechi
+    capacity: 4
+    disciplines: aus for val
+    clan: Salubri antitribu
+    grouping: 4
+  - count: 1
+    name: Ember Wright
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Saiz
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Sister Evelyn
+    capacity: 3
+    disciplines: aus dom
+    clan: Ventrue antitribu
+    grouping: 3
+  - count: 1
+    name: Nicholas Chang
+    capacity: 2
+    disciplines: aus
+    clan: Toreador antitribu
+    grouping: 3
+  - count: 1
+    name: Piotr Andreikov
+    capacity: 2
+    disciplines: aus
+    clan: Tzimisce
+    grouping: 3
+  - count: 1
+    name: Feo Ramos
+    capacity: 1
+    disciplines: aus
+    clan: Pander
+    grouping: 3
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 2
+      name: Direct Intervention
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 3
+      name: Effective Management
+    - count: 1
+      name: Giant's Blood
+    - count: 4
+      name: Heidelberg Castle, Germany
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Rack, The
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 10
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 9
+      name: Spirit Marionette
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 1
+      name: Enkil Cog
+    - count: 6
+      name: Freak Drive
+    - count: 3
+      name: Neutral Guard
+    - count: 3
+      name: Repulsion
+  - name: Reaction
+    count: 30
+    cards:
+    - count: 4
+      name: Eagle's Sight
+    - count: 4
+      name: Enhanced Senses
+    - count: 6
+      name: Eyes of Argus
+    - count: 2
+      name: My Enemy's Enemy
+    - count: 4
+      name: On the Qui Vive
+    - count: 2
+      name: Precognition
+    - count: 2
+      name: Spirit's Touch
+    - count: 6
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Anesthetic Touch

@@ -1,0 +1,149 @@
+name: What we do in the shadows - Dutch NC 2023
+location: Montfoort, Netherlands
+date_start: 2023-09-03
+rounds_format: 3R+F
+players_count: 31
+winner: Bram Van Stappen
+vekn_number: 1820002
+event_url: https://www.vekn.net/event-calendar/event/10794
+event_id: 10794
+vp_comment: Finalists Nick Hofman (Emeralds) > Gerhard Range (Ministry bleed) > 
+  Héctor Javier Ordóñez (Ministry dual form bleed / vote) - Dietmar Range 
+  (Rebekah and friends) > Bram Van Stappen (banu)
+forum_post_url: https://www.vekn.net/event-calendar/event/10794
+deck:
+  name: "'Blame it on did II'"
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 36
+  crypt_avg: 6.75
+  crypt:
+  - count: 4
+    name: Kasim Bayar
+    capacity: 9
+    disciplines: aus pot CEL OBF THA
+    title: Justicar
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Kassandra Tassaki
+    capacity: 6
+    disciplines: obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Oluwafunmilayo
+    capacity: 8
+    disciplines: AUS CEL OBF THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Farah Sarroub
+    capacity: 7
+    disciplines: aus obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Khadija Al-Kindi
+    capacity: 6
+    disciplines: CEL OBF THA
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Warmaksan
+    capacity: 5
+    disciplines: cel obf THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Nayarana
+    capacity: 4
+    disciplines: cel THA
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Bijou
+    capacity: 3
+    disciplines: cel tha
+    clan: Banu Haqim
+    grouping: 6
+  library_count: 73
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 6
+      name: Ashur Tablets
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: "Haqim's Law: Retribution"
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Priority Contract
+    - count: 4
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 3
+    cards:
+    - count: 3
+      name: 'Fourth Tradition: The Accounting'
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 2
+      name: Assault Rifle
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 1
+      name: Helicopter
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 3
+      name: Alastor
+    - count: 3
+      name: Banishment
+    - count: 6
+      name: Kine Resources Contested
+    - count: 4
+      name: Parity Shift
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 1
+      name: Faceless Night
+    - count: 3
+      name: Lost in Crowds
+  - name: Action Modifier/Combat
+    count: 7
+    cards:
+    - count: 3
+      name: Resist Earth's Grasp
+    - count: 4
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 8
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 15
+    cards:
+    - count: 7
+      name: Hunger of Marduk
+    - count: 4
+      name: Pursuit
+    - count: 4
+      name: Side Strike

@@ -1,0 +1,157 @@
+name: Badalona New Blood 2025
+location: Badalona, Spain
+date_start: 2025-07-13
+rounds_format: 3R+F
+players_count: 23
+winner: Xavier Macias Pozo
+vekn_number: 9600005
+event_url: https://www.vekn.net/event-calendar/event/12472
+event_id: 12472
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12472
+deck:
+  name: Una de Tapas (2025) Giovanni
+  description: Extremelly funny to play Bruise and Bleed deck. Remember you're a
+    Giovanni, not one of those Milliner or Sforza little pieces of shit. So get 
+    your best poker face, be ruthless with whoever crosses your way and play 
+    1528 to be crowned as the champion of the tier S decks.
+  crypt_count: 12
+  crypt_min: 21
+  crypt_max: 36
+  crypt_avg: 7.42
+  crypt:
+  - count: 5
+    name: Guillaume Giovanni
+    capacity: 9
+    disciplines: obt CEL DOM NEC POT
+    clan: Giovanni
+    grouping: 4
+  - count: 1
+    name: Diego Giovanni
+    capacity: 8
+    disciplines: ani CHI DOM NEC POT
+    clan: Giovanni
+    grouping: 5
+  - count: 1
+    name: Giovanni del Georgio
+    capacity: 8
+    disciplines: DOM NEC POT PRO
+    clan: Giovanni
+    grouping: 5
+  - count: 1
+    name: Don Michael Antonio Giovanni
+    capacity: 7
+    disciplines: DOM NEC POT
+    title: 2 votes
+    clan: Giovanni
+    grouping: 4
+  - count: 1
+    name: Accorri Giovanni
+    capacity: 6
+    disciplines: ani nec DOM POT
+    clan: Giovanni
+    grouping: 5
+  - count: 1
+    name: Raphaela Giovanni
+    capacity: 6
+    disciplines: pot pre DOM NEC
+    clan: Giovanni
+    grouping: 4
+  - count: 1
+    name: Gianmaria Giovanni
+    capacity: 5
+    disciplines: dom nec obt POT
+    clan: Giovanni
+    grouping: 5
+  - count: 1
+    name: Primo Giovanni
+    capacity: 4
+    disciplines: dom nec pot
+    clan: Giovanni
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Centralized Background Check
+    - count: 1
+      name: Channel 10
+    - count: 1
+      name: Elder Library
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: KRCG News Radio
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Parthenon, The
+    - count: 3
+      name: Path of Bone, The
+    - count: 1
+      name: 'Powerbase: Cape Verde'
+    - count: 1
+      name: Rumor Mill, Tabloid Newspaper, The
+    - count: 1
+      name: Therbold Realty
+    - count: 1
+      name: WMRH Talk Radio
+  - name: Action
+    count: 18
+    cards:
+    - count: 5
+      name: Bum's Rush
+    - count: 11
+      name: Govern the Unaligned
+    - count: 2
+      name: Sudario Refraction
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Gianna di Canneto
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Palatial Estate
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 4
+      name: Foreshadowing Destruction
+  - name: Action Modifier/Reaction
+    count: 5
+    cards:
+    - count: 1
+      name: Promise of 1528
+    - count: 4
+      name: Spectral Divination
+  - name: Reaction
+    count: 13
+    cards:
+    - count: 6
+      name: Deflection
+    - count: 1
+      name: Delaying Tactics
+    - count: 6
+      name: On the Qui Vive
+  - name: Combat
+    count: 34
+    cards:
+    - count: 10
+      name: Cold Aura
+    - count: 2
+      name: Increased Strength
+    - count: 4
+      name: Spiritual Guidance
+    - count: 2
+      name: Stunt Cycle
+    - count: 4
+      name: Taste of Vitae
+    - count: 2
+      name: Thoughts Betrayed
+    - count: 10
+      name: Thrown Sewer Lid

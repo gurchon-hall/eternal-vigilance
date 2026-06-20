@@ -1,0 +1,154 @@
+name: VtES Pro Circuit Curitiba Fevereiro
+location: Curitiba, Brazil
+date_start: 2023-02-04
+rounds_format: 2R+F
+players_count: 15
+winner: Arthur "Paraí­ba"
+vekn_number: 6070043
+event_url: https://www.vekn.net/event-calendar/event/10535
+event_id: 10535
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10535
+deck:
+  name: Reborn from the Shadows
+  description: Lasombra vote
+  crypt_count: 12
+  crypt_min: 32
+  crypt_max: 38
+  crypt_avg: 8.75
+  crypt:
+  - count: 3
+    name: Carolina Vález
+    capacity: 9
+    disciplines: aus DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 5
+  - count: 3
+    name: Charles Delmare
+    capacity: 8
+    disciplines: cel DOM OBT POT
+    title: Cardinal
+    clan: Lasombra
+    grouping: 5
+  - count: 2
+    name: Bruce de Guy
+    capacity: 10
+    disciplines: AUS DOM FOR OBT
+    title: Cardinal
+    clan: Ventrue antitribu
+    grouping: 4
+  - count: 2
+    name: Antón de Concepción
+    capacity: 9
+    disciplines: aus ANI DOM OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 4
+  - count: 2
+    name: Percival
+    capacity: 8
+    disciplines: aus dom FOR OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 5
+  library_count: 85
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Black Forest Base
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Elysian Fields
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Monastery of Shadows
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Path of Night, The
+    - count: 1
+      name: Political Hunting Ground
+    - count: 1
+      name: Power Structure
+    - count: 3
+      name: Vessel
+    - count: 4
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 8
+    cards:
+    - count: 6
+      name: Govern the Unaligned
+    - count: 2
+      name: Under Siege
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+    - count: 1
+      name: Mylan Horseed
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 1
+      name: Zaire River Ferry
+  - name: Political Action
+    count: 15
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancient Influence
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 1
+      name: Banishment
+    - count: 8
+      name: Kine Resources Contested
+    - count: 1
+      name: Neonate Breach
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reins of Power
+  - name: Action Modifier
+    count: 18
+    cards:
+    - count: 1
+      name: Blanket of Night
+    - count: 2
+      name: Seduction
+    - count: 4
+      name: Shadow Play
+    - count: 5
+      name: Shroud of Absence
+    - count: 4
+      name: Shroud of Night
+    - count: 2
+      name: Tenebrous Form
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 6
+      name: Deflection
+    - count: 2
+      name: Obedience
+    - count: 4
+      name: On the Qui Vive
+  - name: Combat
+    count: 8
+    cards:
+    - count: 3
+      name: Entombment
+    - count: 5
+      name: Oubliette

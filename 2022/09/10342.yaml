@@ -1,0 +1,171 @@
+name: 'Vtes Mechelen: The Need for Bleed'
+location: Mechelen, Belgium
+date_start: 2022-09-11
+rounds_format: 3R+F
+players_count: 17
+winner: Frederik Sijmons
+vekn_number: 1001008
+event_url: https://www.vekn.net/event-calendar/event/10342
+event_id: 10342
+vp_comment: 3GW10.5 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10342
+deck:
+  name: Monopoly
+  description: Locations and Guillaume, how much cards can you hold in your 
+    hands?
+  crypt_count: 12
+  crypt_min: 20
+  crypt_max: 36
+  crypt_avg: 7.25
+  crypt:
+  - count: 5
+    name: Guillaume Giovanni
+    capacity: 9
+    disciplines: obt CEL DOM NEC POT
+    clan: Giovanni
+    grouping: 4
+  - count: 2
+    name: Gualtiero Ghiberti
+    capacity: 7
+    disciplines: cel pot tha DOM NEC
+    clan: Giovanni
+    grouping: 4
+  - count: 2
+    name: Raphaela Giovanni
+    capacity: 6
+    disciplines: pot pre DOM NEC
+    clan: Giovanni
+    grouping: 4
+  - count: 1
+    name: Baldesar Rossellini
+    capacity: 8
+    disciplines: aus for nec DOM POT
+    clan: Giovanni
+    grouping: 4
+  - count: 1
+    name: Prejudice
+    capacity: 4
+    disciplines: aus dom nec
+    clan: Nagaraja
+    grouping: 4
+  - count: 1
+    name: Primo Giovanni
+    capacity: 4
+    disciplines: dom nec pot
+    clan: Giovanni
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 31
+    cards:
+    - count: 1
+      name: Barrens, The
+    - count: 1
+      name: Channel 10
+    - count: 1
+      name: Charisma
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Dis Pater
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Jake Washington
+    - count: 1
+      name: KRCG News Radio
+    - count: 1
+      name: Morgue Hunting Ground
+    - count: 5
+      name: Parthenon, The
+    - count: 1
+      name: Path of Bone, The
+    - count: 1
+      name: 'Powerbase: Cape Verde'
+    - count: 1
+      name: 'Powerbase: Chicago'
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: 'Powerbase: Savannah'
+    - count: 1
+      name: Secure Haven
+    - count: 2
+      name: Storage Annex
+    - count: 2
+      name: Therbold Realty
+    - count: 4
+      name: Vessel
+    - count: 1
+      name: WMRH Talk Radio
+  - name: Action
+    count: 8
+    cards:
+    - count: 1
+      name: Dominate Kine
+    - count: 5
+      name: Govern the Unaligned
+    - count: 2
+      name: Sudario Refraction
+  - name: Ally
+    count: 13
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+    - count: 1
+      name: Gianna di Canneto
+    - count: 10
+      name: Shambling Hordes
+    - count: 1
+      name: Tye Cooper
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Palatial Estate
+  - name: Action Modifier
+    count: 12
+    cards:
+    - count: 2
+      name: Bonding
+    - count: 6
+      name: Call of the Hungry Dead
+    - count: 1
+      name: Conditioning
+    - count: 1
+      name: Foreshadowing Destruction
+    - count: 2
+      name: Seduction
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Spectral Divination
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 7
+      name: Deflection
+    - count: 5
+      name: On the Qui Vive
+  - name: Combat
+    count: 8
+    cards:
+    - count: 1
+      name: Spiritual Guidance
+    - count: 3
+      name: Spiritual Intervention
+    - count: 3
+      name: Target Vitals
+    - count: 1
+      name: Thrown Gate
+  - name: Event
+    count: 2
+    cards:
+    - count: 2
+      name: Unmasking, The

@@ -1,0 +1,162 @@
+name: Lackey World Championship 2021
+location: Online
+date_start: 2021-11-06
+date_end: 2021-12-11
+rounds_format: 3R+F
+players_count: 57
+winner: Dave O'Riordan
+vekn_number: 3050020
+event_url: https://www.vekn.net/event-calendar/event/9942
+event_id: 9942
+forum_post_url: https://www.vekn.net/event-calendar/event/9942
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 12
+  crypt_avg: 1.75
+  crypt:
+  - count: 1
+    name: Jimmy Dunn
+    capacity: 4
+    disciplines: for CEL POT
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Lena Rowe
+    capacity: 3
+    disciplines: aus obf pre
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Rex, The Necronomist
+    capacity: 3
+    disciplines: pot pro vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Christine Boscacci
+    capacity: 2
+    disciplines: dom vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Mitchell, The Headhunter
+    capacity: 2
+    disciplines: obt pot
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Angela Decker
+    capacity: 1
+    disciplines: pre
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Basil
+    capacity: 1
+    disciplines: obf
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Feo Ramos
+    capacity: 1
+    disciplines: aus
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Huang, Blood Cultist
+    capacity: 1
+    disciplines: pro
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: March Halcyon
+    capacity: 1
+    disciplines: for
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Olga Triminov
+    capacity: 1
+    disciplines: vic
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Royce
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  library_count: 66
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Día de los Muertos
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Elder Library
+    - count: 1
+      name: Fear of Mekhet
+    - count: 1
+      name: Fortschritt Library
+    - count: 4
+      name: Information Highway
+    - count: 1
+      name: Joseph Pander
+    - count: 2
+      name: Kaymakli Nightmares
+    - count: 3
+      name: Not to Be
+    - count: 2
+      name: Pentex(TM) Subversion
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Embrace, The
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Alia, God's Messenger
+    - count: 1
+      name: Carlton Van Wyk
+  - name: Political Action
+    count: 36
+    cards:
+    - count: 7
+      name: Consanguineous Boon
+    - count: 5
+      name: Conservative Agitation
+    - count: 2
+      name: Kindred Segregation
+    - count: 10
+      name: Kine Resources Contested
+    - count: 6
+      name: Legacy of Pander
+    - count: 2
+      name: Neonate Breach
+    - count: 2
+      name: Rumors of Gehenna
+    - count: 2
+      name: Year of Fortune
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 3
+      name: Change of Target
+  - name: Event
+    count: 4
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The
+    - count: 1
+      name: Blood Weakens
+    - count: 1
+      name: Slow Withering, The
+    - count: 1
+      name: Veil of Darkness

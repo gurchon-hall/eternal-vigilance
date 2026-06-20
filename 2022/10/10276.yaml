@@ -1,0 +1,126 @@
+name: AUSNZ Continental Championship 2022
+location: Melbourne, Australia
+date_start: 2022-10-01
+rounds_format: 3R+F
+players_count: 23
+winner: Ke Carlton
+vekn_number: 3680057
+event_url: https://www.vekn.net/event-calendar/event/10276
+event_id: 10276
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10276
+deck:
+  name: Baalicious Barons
+  description: Mutes + Arishat + Barons for vote lock and attrition.
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 28
+  crypt_avg: 6.33
+  crypt:
+  - count: 4
+    name: Arishat
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 vote
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Vivian VI
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Xeper, Sultan of Lepers
+    capacity: 7
+    disciplines: ani dai pro OBF PRE
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Elisha Tucker
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Jacques Rouge
+    capacity: 6
+    disciplines: ani pot pre OBF
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  library_count: 73
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Anarch Railroad
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Direct Intervention
+    - count: 2
+      name: Garibaldi-Meucci Museum
+    - count: 3
+      name: Information Highway
+    - count: 6
+      name: Villein
+    - count: 2
+      name: Wider View
+  - name: Action
+    count: 8
+    cards:
+    - count: 5
+      name: 'Condemnation: Mute'
+    - count: 3
+      name: Unleash Hell's Fury
+  - name: Political Action
+    count: 19
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 3
+      name: Eat the Rich
+    - count: 11
+      name: Kine Resources Contested
+    - count: 3
+      name: Reckless Agitation
+  - name: Action Modifier
+    count: 20
+    cards:
+    - count: 2
+      name: Bewitching Oration
+    - count: 2
+      name: Faceless Night
+    - count: 5
+      name: Forgotten Labyrinth
+    - count: 5
+      name: Lost in Crowds
+    - count: 2
+      name: Monkey Wrench
+    - count: 4
+      name: Voter Captivation
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 4
+      name: Bait and Switch
+    - count: 2
+      name: Organized Resistance
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Majesty

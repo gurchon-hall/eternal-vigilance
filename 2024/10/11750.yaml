@@ -1,0 +1,122 @@
+name: Torneio wolfs rain
+location: Campina Grande (PB), Brazil
+date_start: 2024-10-27
+rounds_format: 2R+F
+players_count: 12
+winner: Valdemir Silva
+vekn_number: 4420014
+event_url: https://www.vekn.net/event-calendar/event/11750
+event_id: 11750
+vp_comment: 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11750
+deck:
+  name: Estatueta
+  description: ''
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 35
+  crypt_avg: 7.58
+  crypt:
+  - count: 3
+    name: Inyanga
+    capacity: 9
+    disciplines: dom nec ANI AUS FOR PRO
+    title: Primogen
+    clan: Gangrel
+    grouping: 4
+  - count: 3
+    name: Randall
+    capacity: 8
+    disciplines: ANI AUS FOR PRO
+    title: 1 vote
+    clan: Gangrel
+    grouping: 4
+  - count: 2
+    name: Nadima
+    capacity: 8
+    disciplines: ani aus FOR PRO SER
+    clan: Gangrel
+    grouping: 3
+  - count: 2
+    name: Danielle Diron (ADV)
+    capacity: 7
+    disciplines: aus cel chi for ANI PRO
+    clan: Gangrel
+    grouping: 3
+  - count: 2
+    name: Dr. Allan Woodstock
+    capacity: 5
+    disciplines: ani aus for PRO
+    clan: Gangrel
+    grouping: 3
+  library_count: 87
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 4
+      name: Auspex
+    - count: 1
+      name: Backways
+    - count: 2
+      name: Blood Doll
+    - count: 1
+      name: Ecoterrorists
+    - count: 1
+      name: Minion Tap
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 3
+      name: Smiling Jack, The Anarch
+    - count: 2
+      name: Vessel
+    - count: 1
+      name: Villein
+    - count: 1
+      name: Zoo Hunting Ground
+  - name: Action
+    count: 8
+    cards:
+    - count: 4
+      name: Army of Rats
+    - count: 4
+      name: Restoration
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 2
+      name: Bowl of Convergence
+    - count: 3
+      name: Sniper Rifle
+  - name: Retainer
+    count: 4
+    cards:
+    - count: 4
+      name: Raptor
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 6
+      name: Earth Control
+  - name: Reaction
+    count: 30
+    cards:
+    - count: 4
+      name: Enhanced Senses
+    - count: 4
+      name: Eyes of Argus
+    - count: 12
+      name: Eyes of the Wild
+    - count: 2
+      name: Precognition
+    - count: 3
+      name: Spirit's Touch
+    - count: 5
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 17
+    cards:
+    - count: 14
+      name: Earth Meld
+    - count: 3
+      name: Pack Alpha

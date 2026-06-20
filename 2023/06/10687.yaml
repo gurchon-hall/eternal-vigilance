@@ -1,0 +1,132 @@
+name: 'Fee Stake: Marseille'
+location: Vitrolles, France
+date_start: 2023-06-04
+rounds_format: 3R+F
+players_count: 25
+winner: Jorge Delgado
+vekn_number: 9290014
+event_url: https://www.vekn.net/event-calendar/event/10687
+event_id: 10687
+vp_comment: 1GW2.5 (2nd seed) + 1.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10687
+deck:
+  description: ''
+  crypt_count: 25
+  crypt_min: 4
+  crypt_max: 20
+  crypt_avg: 2.16
+  crypt:
+  - count: 16
+    name: Tupdog
+    capacity: 1
+    disciplines: POT VIS
+    clan: Gargoyle
+    grouping: 3
+  - count: 5
+    name: Antonio d'Erlette
+    capacity: 5
+    disciplines: dom for pot THA
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Janine
+    capacity: 4
+    disciplines: aus dom tha
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Ember Wright
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Keith Moody
+    capacity: 3
+    disciplines: DOM
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Saiz
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 24
+    cards:
+    - count: 9
+      name: Ashur Tablets
+    - count: 2
+      name: Direct Intervention
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Information Highway
+    - count: 3
+      name: Parthenon, The
+    - count: 2
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Secure Haven
+    - count: 2
+      name: Wider View
+    - count: 1
+      name: Yawp Court
+  - name: Action
+    count: 2
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 1
+      name: Magic of the Smith
+  - name: Ally
+    count: 5
+    cards:
+    - count: 5
+      name: Nephandus
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Gran Madre di Dio, Italy
+    - count: 1
+      name: Hand of Conrad
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 1
+      name: Conditioning
+    - count: 1
+      name: Unleash the Hounds
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 4
+      name: Deflection
+    - count: 2
+      name: Delaying Tactics
+    - count: 2
+      name: On the Qui Vive
+  - name: Combat
+    count: 34
+    cards:
+    - count: 7
+      name: Brick by Brick
+    - count: 9
+      name: Immortal Grapple
+    - count: 9
+      name: Raking Talons
+    - count: 3
+      name: Target Vitals
+    - count: 6
+      name: Torn Signpost
+  - name: Event
+    count: 2
+    cards:
+    - count: 2
+      name: Unmasking, The

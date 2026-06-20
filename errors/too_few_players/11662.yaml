@@ -1,0 +1,151 @@
+name: Mensal Garagem do Nerd - Esquenta Gehenna
+location: Belo Horizonte, Brazil
+date_start: 2024-09-22
+rounds_format: 2R+F
+players_count: 10
+winner: Mozart Gomes
+vekn_number: 6180109
+event_url: https://www.vekn.net/event-calendar/event/11662
+event_id: 11662
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11662
+deck:
+  name: Filme de terror
+  description: ''
+  crypt_count: 12
+  crypt_min: 9
+  crypt_max: 25
+  crypt_avg: 4.0
+  crypt:
+  - count: 1
+    name: Ezmerelda
+    capacity: 11
+    disciplines: dom tha ANI CHI FOR PRE
+    title: 2 votes
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Ghivran Dalaal, The Dead God
+    capacity: 5
+    disciplines: ani aus chi FOR
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Khalil Ravana
+    capacity: 5
+    disciplines: ani for pre CHI
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Anka, Priestess of Thorns
+    capacity: 4
+    disciplines: ani chi pro
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Salbatore Bokkengro
+    capacity: 4
+    disciplines: for pro CHI
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Sennuwy, The Promoter
+    capacity: 4
+    disciplines: ani chi for
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Ashlesha
+    capacity: 3
+    disciplines: aus chi
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Lázár Dobrescu
+    capacity: 3
+    disciplines: for
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Vedel Esbreno
+    capacity: 3
+    disciplines: chi for
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Sasha Miklos
+    capacity: 2
+    disciplines: chi
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Spleen, Georgio Gutterpunk
+    capacity: 2
+    disciplines: ani chi
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Zip
+    capacity: 2
+    disciplines: ani
+    clan: Ravnos
+    grouping: 3
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+    - count: 2
+      name: Archon Investigation
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Fortune Teller Shop
+    - count: 1
+      name: Gird Minions
+    - count: 1
+      name: Park Hunting Ground
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 6
+      name: Ravnos Carnival
+    - count: 4
+      name: Tribute to the Master
+    - count: 1
+      name: Week of Nightmares
+  - name: Action
+    count: 22
+    cards:
+    - count: 10
+      name: Embrace, The
+    - count: 12
+      name: Mozambique Allure
+  - name: Political Action
+    count: 14
+    cards:
+    - count: 8
+      name: Consanguineous Boon
+    - count: 6
+      name: Kine Resources Contested
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 8
+      name: Will-o'-the-Wisp
+  - name: Action Modifier/Reaction
+    count: 14
+    cards:
+    - count: 14
+      name: Eldest Are Kholo, The
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Delaying Tactics
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The

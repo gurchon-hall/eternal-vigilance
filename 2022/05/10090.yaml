@@ -1,0 +1,141 @@
+name: 'Vidor: Taste of Vitae'
+location: Vidor (TX), USA
+date_start: 2022-05-14
+rounds_format: 3R+F
+players_count: 15
+winner: Norm Brown
+vekn_number: 2810001
+event_url: https://www.vekn.net/event-calendar/event/10090
+event_id: 10090
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10090
+deck:
+  name: Rail Barons v2
+  description: ''
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 29
+  crypt_avg: 5.83
+  crypt:
+  - count: 2
+    name: Aline Gädeke
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Theo Bell
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Elen Kamjian
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Ariane
+    capacity: 3
+    disciplines: cel pot pre
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Laura Goldman
+    capacity: 3
+    disciplines: cel pre
+    clan: Brujah
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 1
+      name: Anarch Railroad
+    - count: 3
+      name: Anarch Revolt
+    - count: 2
+      name: Archon Investigation
+    - count: 1
+      name: Carfax Abbey
+    - count: 3
+      name: Chimerstry
+    - count: 1
+      name: Fame
+    - count: 1
+      name: New Carthage
+    - count: 1
+      name: Papillon
+    - count: 7
+      name: Villein
+  - name: Action
+    count: 15
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 1
+      name: Chameleon
+    - count: 1
+      name: 'Fee Stake: Corte'
+    - count: 10
+      name: Illegalism
+    - count: 2
+      name: Open War
+  - name: Political Action
+    count: 6
+    cards:
+    - count: 6
+      name: Reckless Agitation
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 4
+      name: Monkey Wrench
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 7
+      name: Bait and Switch
+    - count: 8
+      name: Organized Resistance
+  - name: Combat
+    count: 29
+    cards:
+    - count: 2
+      name: Bollix
+    - count: 2
+      name: Donnybrook
+    - count: 12
+      name: Dust Up
+    - count: 6
+      name: Immortal Grapple
+    - count: 2
+      name: Stunt Cycle
+    - count: 5
+      name: Taste of Vitae

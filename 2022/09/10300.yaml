@@ -1,0 +1,158 @@
+name: Scouting Mission
+location: Montfoort, Netherlands
+date_start: 2022-09-25
+rounds_format: 3R+F
+players_count: 23
+winner: Jeroen van Oort
+vekn_number: 3600003
+event_url: https://www.vekn.net/event-calendar/event/10300
+event_id: 10300
+forum_post_url: https://www.vekn.net/event-calendar/event/10300
+deck:
+  name: Lawfirm G5/6 twd 25-09-22 Montfoort
+  description: ''
+  crypt_count: 12
+  crypt_min: 27
+  crypt_max: 38
+  crypt_avg: 8.0
+  crypt:
+  - count: 3
+    name: Mary Anne Blaire
+    capacity: 10
+    disciplines: ani pot AUS DOM FOR PRE
+    title: Justicar
+    clan: Ventrue
+    grouping: 5
+  - count: 2
+    name: Alexa Draper
+    capacity: 8
+    disciplines: for pot DOM PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Lodin (Olaf Holte)
+    capacity: 8
+    disciplines: aus pro DOM FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 1
+    name: Alice Chen
+    capacity: 7
+    disciplines: dom obf FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Flávio Gonçalves
+    capacity: 7
+    disciplines: aus for CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Graham Gottesman
+    capacity: 7
+    disciplines: obf pre tha DOM FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 1
+    name: Sybren van Oosten
+    capacity: 7
+    disciplines: dom tha FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Victor Donaldson
+    capacity: 6
+    disciplines: for pre DOM
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: 'Golconda: Inner Peace'
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Ventrue Headquarters
+    - count: 4
+      name: Villein
+    - count: 4
+      name: Zillah's Valley
+  - name: Action
+    count: 15
+    cards:
+    - count: 2
+      name: Enchant Kindred
+    - count: 2
+      name: Entrancement
+    - count: 1
+      name: 'Fourth Tradition: The Accounting'
+    - count: 6
+      name: Govern the Unaligned
+    - count: 1
+      name: 'Judgment: Camarilla Segregation'
+    - count: 1
+      name: Mind Numb
+    - count: 2
+      name: Scouting Mission
+  - name: Political Action
+    count: 13
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 1
+      name: Justicar Retribution
+    - count: 4
+      name: Kine Resources Contested
+    - count: 1
+      name: Neonate Breach
+    - count: 5
+      name: Parity Shift
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 1
+      name: Daring the Dawn
+    - count: 1
+      name: Foreshadowing Destruction
+    - count: 6
+      name: Freak Drive
+    - count: 2
+      name: Perfect Paragon
+    - count: 5
+      name: Voter Captivation
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 5
+      name: Deflection
+    - count: 3
+      name: On the Qui Vive
+    - count: 1
+      name: Redirection
+    - count: 2
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 10
+    cards:
+    - count: 10
+      name: Majesty

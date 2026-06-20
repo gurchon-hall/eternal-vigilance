@@ -1,0 +1,136 @@
+name: King's Rising
+location: Paris, France
+date_start: 2025-01-25
+rounds_format: 3R+F
+players_count: 16
+winner: Édouard Menneson
+vekn_number: 3200360
+event_url: https://www.vekn.net/event-calendar/event/12016
+event_id: 12016
+vp_comment: 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12016
+deck:
+  name: Sixy Ladies
+  description: ''
+  crypt_count: 12
+  crypt_min: 14
+  crypt_max: 26
+  crypt_avg: 5.0
+  crypt:
+  - count: 2
+    name: Maila
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 2
+    name: Regina Blake
+    capacity: 5
+    disciplines: AUS PRE
+    clan: Toreador
+    grouping: 6
+  - count: 2
+    name: Valentina Osako
+    capacity: 3
+    disciplines: PRE
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Annabelle Triabell
+    capacity: 9
+    disciplines: dom for AUS CEL PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Carmelita Neillson
+    capacity: 5
+    disciplines: cel pre AUS
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Kathy Glens
+    capacity: 5
+    disciplines: aus cel tha PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Tamoszius
+    capacity: 5
+    disciplines: aus CEL PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Bret Stryker
+    capacity: 4
+    disciplines: CEL PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Silvian Popescu
+    capacity: 4
+    disciplines: cel PRE
+    clan: Toreador
+    grouping: 7
+  library_count: 75
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+    - count: 1
+      name: Art Museum
+    - count: 1
+      name: Coven, The
+    - count: 2
+      name: Direct Intervention
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Jake Washington
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Society Hunting Ground
+    - count: 3
+      name: Vessel
+  - name: Action
+    count: 18
+    cards:
+    - count: 3
+      name: Entrancement
+    - count: 11
+      name: Intimidation
+    - count: 4
+      name: Mind Numb
+  - name: Action Modifier
+    count: 18
+    cards:
+    - count: 9
+      name: Aire of Elation
+    - count: 2
+      name: Change of Target
+    - count: 7
+      name: Loup
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 2
+      name: Delaying Tactics
+    - count: 5
+      name: Eyes of Argus
+    - count: 2
+      name: My Enemy's Enemy
+    - count: 2
+      name: On the Qui Vive
+    - count: 7
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 8
+    cards:
+    - count: 5
+      name: Majesty
+    - count: 3
+      name: Staredown

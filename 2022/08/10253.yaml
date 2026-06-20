@@ -1,0 +1,158 @@
+name: Cross-Table Enemies
+location: Spielkunst e.V., Bochum, Germany
+date_start: 2022-08-27
+rounds_format: 3R+F
+players_count: 18
+winner: Jeroen van Oort
+vekn_number: 3600003
+event_url: https://www.vekn.net/event-calendar/event/10253
+event_id: 10253
+forum_post_url: https://www.vekn.net/event-calendar/event/10253
+deck:
+  name: Traditional Ventrue has a new suit
+  description: A classic Ventrue lawfirm deck focussed on acceleration.
+  crypt_count: 12
+  crypt_min: 26
+  crypt_max: 38
+  crypt_avg: 7.92
+  crypt:
+  - count: 3
+    name: Mary Anne Blaire
+    capacity: 10
+    disciplines: ani pot AUS DOM FOR PRE
+    title: Justicar
+    clan: Ventrue
+    grouping: 5
+  - count: 2
+    name: Alexa Draper
+    capacity: 8
+    disciplines: for pot DOM PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Lodin (Olaf Holte)
+    capacity: 8
+    disciplines: aus pro DOM FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 1
+    name: Alice Chen
+    capacity: 7
+    disciplines: dom obf FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Graham Gottesman
+    capacity: 7
+    disciplines: obf pre tha DOM FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 1
+    name: Sybren van Oosten
+    capacity: 7
+    disciplines: dom tha FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Horst von Brühl
+    capacity: 6
+    disciplines: aus dom pre FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Victor Donaldson
+    capacity: 6
+    disciplines: for pre DOM
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: 'Golconda: Inner Peace'
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Ventrue Headquarters
+    - count: 4
+      name: Villein
+    - count: 4
+      name: Zillah's Valley
+  - name: Action
+    count: 14
+    cards:
+    - count: 3
+      name: Enchant Kindred
+    - count: 1
+      name: Entrancement
+    - count: 1
+      name: 'Fourth Tradition: The Accounting'
+    - count: 6
+      name: Govern the Unaligned
+    - count: 1
+      name: 'Judgment: Camarilla Segregation'
+    - count: 1
+      name: Mind Numb
+    - count: 1
+      name: Scouting Mission
+  - name: Political Action
+    count: 14
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 1
+      name: Conservative Agitation
+    - count: 2
+      name: 'First Tradition: The Masquerade'
+    - count: 4
+      name: Kine Resources Contested
+    - count: 5
+      name: Parity Shift
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 1
+      name: Daring the Dawn
+    - count: 1
+      name: Foreshadowing Destruction
+    - count: 6
+      name: Freak Drive
+    - count: 2
+      name: Perfect Paragon
+    - count: 5
+      name: Voter Captivation
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 5
+      name: Deflection
+    - count: 3
+      name: On the Qui Vive
+    - count: 1
+      name: Redirection
+    - count: 2
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 10
+    cards:
+    - count: 10
+      name: Majesty

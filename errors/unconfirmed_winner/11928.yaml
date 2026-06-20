@@ -1,0 +1,132 @@
+name: Jyhasco de encerramento da Powerbase Barra
+location: Rio de Janeiro (RJ), Brazil
+date_start: 2024-12-22
+rounds_format: 2R+F
+players_count: 12
+winner: Thiago Sousa
+event_url: https://www.vekn.net/event-calendar/event/11928
+event_id: 11928
+vp_comment: 'Final Table:'
+forum_post_url: https://www.vekn.net/event-calendar/event/11928
+deck:
+  name: Hazimel's Nightmare
+  description: ''
+  crypt_count: 12
+  crypt_min: 25
+  crypt_max: 44
+  crypt_avg: 8.08
+  crypt:
+  - count: 4
+    name: Hazimel
+    capacity: 11
+    disciplines: dem ANI AUS CHI FOR POT
+    title: 2 votes
+    clan: Ravnos
+    grouping: 4
+  - count: 3
+    name: Mata Hari
+    capacity: 7
+    disciplines: aus for qui CHI OBF
+    title: 2 votes
+    clan: Ravnos
+    grouping: 4
+  - count: 3
+    name: Dr. Lawrence Mayhew
+    capacity: 6
+    disciplines: ani for AUS CHI
+    clan: Ravnos
+    grouping: 5
+  - count: 2
+    name: Aidan Lyle
+    capacity: 7
+    disciplines: dom AUS CHI THA
+    clan: Tremere
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Auspex
+    - count: 1
+      name: Fortune Teller Shop
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Park Hunting Ground
+    - count: 3
+      name: Path of Paradox, The
+    - count: 1
+      name: Secure Haven
+    - count: 3
+      name: Svadharma
+    - count: 2
+      name: Vessel
+    - count: 3
+      name: Villein
+  - name: Action
+    count: 15
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 2
+      name: Fatuus Mastery
+    - count: 2
+      name: Illusory Resources
+    - count: 7
+      name: Nightmare Curse
+    - count: 3
+      name: Sensory Deprivation
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 1
+      name: Karavalanisha Vrana
+    - count: 1
+      name: Palatial Estate
+    - count: 1
+      name: Treasured Samadji
+  - name: Action Modifier
+    count: 27
+    cards:
+    - count: 4
+      name: False Resonance
+    - count: 5
+      name: Fata Morgana
+    - count: 8
+      name: Freak Drive
+    - count: 5
+      name: Heart's Desire
+    - count: 5
+      name: Will-o'-the-Wisp
+  - name: Action Modifier/Combat
+    count: 9
+    cards:
+    - count: 5
+      name: Mirror Image
+    - count: 4
+      name: Occlusion
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 3
+      name: Eyes of Argus
+    - count: 1
+      name: My Enemy's Enemy
+    - count: 3
+      name: On the Qui Vive
+    - count: 7
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Illusions of the Kindred
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians

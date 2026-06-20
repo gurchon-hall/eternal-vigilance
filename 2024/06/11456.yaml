@@ -1,0 +1,177 @@
+name: 'Garou Rim: Foreshadowing Destruction'
+location: Joensuu, Finland
+date_start: 2024-06-15
+rounds_format: 3R+F
+players_count: 12
+winner: Simo Tiippana
+vekn_number: 9350031
+event_url: https://www.vekn.net/event-calendar/event/11456
+event_id: 11456
+vp_comment: Finals game was a close one. Mari took first 2vp in quick 
+  succession, but having lost most of her minions and momentum to the combat 
+  decks she was bleeding, there was an opportunity for Simo to strike! Well 
+  timed Constant Revolution and defensive play ousted Mari, and in the 1v1 all 
+  Simo had to do was to pass the turn, to win the tournament with higher seed.
+forum_post_url: https://www.vekn.net/event-calendar/event/11456
+deck:
+  name: Pro Barons
+  description: ''
+  crypt_count: 12
+  crypt_min: 20
+  crypt_max: 31
+  crypt_avg: 6.5
+  crypt:
+  - count: 1
+    name: Adrino Manauara
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Saku Pihlajamäki
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Sergio Bueno
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Ángel Guerrero
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Massimiliano
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Vivian VI
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Branimira
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Casey Snyder
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Kuyén
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Ruslan Fedorenko
+    capacity: 2
+    disciplines: pro
+    clan: Gangrel
+    grouping: 6
+  library_count: 82
+  library_sections:
+  - name: Master
+    count: 26
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 1
+      name: Barrens, The
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Club Illusion
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Hospital Food
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Poacher's Hunting Ground
+    - count: 8
+      name: Protean
+    - count: 2
+      name: Rötschreck
+    - count: 1
+      name: Smiling Jack, The Anarch
+    - count: 3
+      name: Vessel
+    - count: 3
+      name: Villein
+  - name: Action
+    count: 9
+    cards:
+    - count: 8
+      name: Childe of the Revolution
+    - count: 1
+      name: Constant Revolution
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 4
+      name: Earth Control
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Form of the Bat
+  - name: Reaction
+    count: 24
+    cards:
+    - count: 6
+      name: Bait and Switch
+    - count: 16
+      name: Organized Resistance
+    - count: 2
+      name: Protection Racket
+  - name: Combat
+    count: 14
+    cards:
+    - count: 6
+      name: Donnybrook
+    - count: 8
+      name: Earth Meld
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The

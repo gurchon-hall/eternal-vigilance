@@ -1,0 +1,175 @@
+name: Spanish NC 2022
+location: Zaragoza, Spain
+date_start: 2022-06-04
+rounds_format: 3R+F
+players_count: 139
+winner: Ricardo Marta
+vekn_number: 8671041
+event_url: https://www.vekn.net/event-calendar/event/10065
+event_id: 10065
+forum_post_url: https://www.vekn.net/event-calendar/event/10065
+deck:
+  name: Girls Will Find Boys
+  description: ''
+  crypt_count: 12
+  crypt_min: 34
+  crypt_max: 43
+  crypt_avg: 9.67
+  crypt:
+  - count: 3
+    name: Cybele
+    capacity: 10
+    disciplines: ANI DAI OBF PRE SER THA
+    clan: Baali
+    grouping: 4
+  - count: 3
+    name: Aksinya Daclau
+    capacity: 9
+    disciplines: cel tha ANI FOR PRE PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 2
+    name: Nana Buruku
+    capacity: 8
+    disciplines: ANI POT PRE
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Adana de Sforza
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Lutz von Hohenzollern
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Rafael de Corazon
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  - count: 1
+    name: Nergal
+    capacity: 10
+    disciplines: AUS DAI FOR OBF PRE THA
+    clan: Baali
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 56
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 15
+      name: Ashur Tablets
+    - count: 1
+      name: Blind Spot
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Direct Intervention
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: 'Golconda: Inner Peace'
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Jake Washington
+    - count: 9
+      name: Liquidation
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Misdirection
+    - count: 1
+      name: Monastery of Shadows
+    - count: 3
+      name: Parthenon, The
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 7
+      name: Villein
+    - count: 1
+      name: Wider View
+    - count: 6
+      name: Zillah's Valley
+  - name: Action
+    count: 5
+    cards:
+    - count: 2
+      name: Entrancement
+    - count: 1
+      name: Intimidation
+    - count: 2
+      name: Unleash Hell's Fury
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 1
+      name: Autarkis Persecution
+  - name: Action Modifier
+    count: 16
+    cards:
+    - count: 2
+      name: Aire of Elation
+    - count: 2
+      name: Cloak the Gathering
+    - count: 2
+      name: Elder Impersonation
+    - count: 1
+      name: Enkil Cog
+    - count: 2
+      name: Faceless Night
+    - count: 1
+      name: Into Thin Air
+    - count: 2
+      name: Lost in Crowds
+    - count: 1
+      name: Mirror Walk
+    - count: 1
+      name: Perfect Clarity
+    - count: 1
+      name: Perfect Paragon
+    - count: 1
+      name: Veil the Legions
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Hide the Mind
+  - name: Reaction
+    count: 5
+    cards:
+    - count: 1
+      name: Confusion of the Eye
+    - count: 1
+      name: Delaying Tactics
+    - count: 1
+      name: Guard Dogs
+    - count: 1
+      name: Lost in Translation
+    - count: 1
+      name: Mental Maze
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Majesty
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds

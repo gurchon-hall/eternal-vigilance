@@ -1,0 +1,145 @@
+name: DMF Clash
+location: Lund, Sweden
+date_start: 2026-01-04
+rounds_format: 3R+F
+players_count: 23
+winner: Andreas Stjernfelt
+vekn_number: 3380024
+event_url: https://www.vekn.net/event-calendar/event/12926
+event_id: 12926
+vp_comment: 1GW5.5 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12926
+deck:
+  name: Path of Power
+  description: ''
+  crypt_count: 12
+  crypt_min: 29
+  crypt_max: 40
+  crypt_avg: 8.83
+  crypt:
+  - count: 5
+    name: Aaradhya, The Callous Tyrant
+    capacity: 10
+    disciplines: ANI DOM FOR POT PRE
+    title: Cardinal
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Carolina Vález
+    capacity: 9
+    disciplines: aus DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 5
+  - count: 1
+    name: Dark Selina
+    capacity: 9
+    disciplines: dom for CEL POT PRE
+    title: Cardinal
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 1
+    name: Věnceslava, The Implacable
+    capacity: 9
+    disciplines: cel DOM FOR POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Rexton "Savage" Abernathy
+    capacity: 8
+    disciplines: cel DOM POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Üresség
+    capacity: 8
+    disciplines: dom for CEL POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Khin Aye
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Concordia
+    capacity: 6
+    disciplines: for pot DOM PRE
+    title: Bishop
+    clan: Ventrue
+    grouping: 6
+  library_count: 85
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Black Forest Base
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Monastery of Shadows
+    - count: 6
+      name: Unholy Sacrament
+    - count: 1
+      name: Ventrue Headquarters
+    - count: 5
+      name: Villein
+  - name: Action
+    count: 9
+    cards:
+    - count: 8
+      name: Govern the Unaligned
+    - count: 1
+      name: Under Siege
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 4
+      name: Banishment
+    - count: 6
+      name: Cold War
+    - count: 4
+      name: Kine Resources Contested
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reins of Power
+  - name: Action Modifier
+    count: 29
+    cards:
+    - count: 4
+      name: Dominant Personality
+    - count: 1
+      name: Enkil Cog
+    - count: 5
+      name: Iron Glare
+    - count: 3
+      name: Perfect Paragon
+    - count: 2
+      name: Private Audience
+    - count: 4
+      name: Relentlessness
+    - count: 5
+      name: Unthinkable Humiliation
+    - count: 5
+      name: Voter Captivation
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 7
+      name: Deflection
+  - name: Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Majesty

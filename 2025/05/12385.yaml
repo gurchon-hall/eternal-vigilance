@@ -1,0 +1,151 @@
+name: Immortal Grapple CG
+location: Campina Grande (PB), Brazil
+date_start: 2025-05-31
+rounds_format: 2R+F
+players_count: 12
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/12385
+event_id: 12385
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12385
+deck:
+  name: Banu Caçador
+  description: ''
+  crypt_count: 12
+  crypt_min: 21
+  crypt_max: 37
+  crypt_avg: 7.0
+  crypt:
+  - count: 3
+    name: Kasim Bayar
+    capacity: 9
+    disciplines: aus pot CEL OBF THA
+    title: Justicar
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Farah Sarroub
+    capacity: 7
+    disciplines: aus obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Kassandra Tassaki
+    capacity: 6
+    disciplines: obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Khadija Al-Kindi
+    capacity: 6
+    disciplines: CEL OBF THA
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Tegyrius, Vizier
+    capacity: 10
+    disciplines: AUS CEL FOR PRE THA
+    title: 2 votes
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Warmaksan
+    capacity: 5
+    disciplines: cel obf THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Nayarana
+    capacity: 4
+    disciplines: cel THA
+    clan: Banu Haqim
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Erciyes Fragments, The
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Guardian Angel
+    - count: 3
+      name: "Haqim's Law: Retribution"
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 3
+      name: Priority Contract
+    - count: 4
+      name: Villein
+  - name: Action
+    count: 11
+    cards:
+    - count: 2
+      name: Biothaumaturgic Experiment
+    - count: 8
+      name: Hunter's Mark
+    - count: 1
+      name: Rutor's Hand
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 1
+      name: .44 Magnum
+    - count: 1
+      name: Blade of Enoch
+    - count: 1
+      name: Kali's Fang
+    - count: 1
+      name: Kevlar Vest
+    - count: 1
+      name: Sport Bike
+  - name: Political Action
+    count: 4
+    cards:
+    - count: 3
+      name: Anathema
+    - count: 1
+      name: Perpetual Care
+  - name: Action Modifier/Combat
+    count: 9
+    cards:
+    - count: 4
+      name: Resist Earth's Grasp
+    - count: 5
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 7
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 37
+    cards:
+    - count: 5
+      name: Blur
+    - count: 11
+      name: Hunger of Marduk
+    - count: 2
+      name: Lightning Reflexes
+    - count: 7
+      name: Psyche!
+    - count: 5
+      name: Quickness
+    - count: 5
+      name: Rego Motum
+    - count: 2
+      name: Weather Control
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound

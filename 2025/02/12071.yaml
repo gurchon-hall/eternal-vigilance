@@ -1,0 +1,174 @@
+name: 'Fee Stake: Warsaw'
+location: Warsaw, Poland
+date_start: 2025-02-01
+rounds_format: 3R+F
+players_count: 15
+winner: Lech Ivanov
+vekn_number: 5250030
+event_url: https://www.vekn.net/event-calendar/event/12071
+event_id: 12071
+forum_post_url: https://www.vekn.net/event-calendar/event/12071
+deck:
+  name: Protean barons
+  description: ''
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 31
+  crypt_avg: 6.92
+  crypt:
+  - count: 2
+    name: Vivian VI
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Adrino Manauara
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Saku Pihlajamäki
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Sergio Bueno
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Ángel Guerrero
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Massimiliano
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Branimira
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Casey Snyder
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Kuyén
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 25
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 1
+      name: Anarch Railroad
+    - count: 1
+      name: Archon Investigation
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Ferraille
+    - count: 2
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Poacher's Hunting Ground
+    - count: 7
+      name: Protean
+    - count: 6
+      name: Villein
+  - name: Action
+    count: 10
+    cards:
+    - count: 10
+      name: Childe of the Revolution
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Political Action
+    count: 3
+    cards:
+    - count: 1
+      name: Domain Challenge
+    - count: 2
+      name: Revolutionary Council
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 3
+      name: Earth Control
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Form of the Bat
+  - name: Reaction
+    count: 20
+    cards:
+    - count: 8
+      name: Bait and Switch
+    - count: 12
+      name: Organized Resistance
+  - name: Combat
+    count: 13
+    cards:
+    - count: 5
+      name: Donnybrook
+    - count: 4
+      name: Earth Meld
+    - count: 4
+      name: Form of Mist
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The

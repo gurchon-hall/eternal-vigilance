@@ -1,0 +1,118 @@
+name: Cardinalis Benedictio
+location: Barcelona, Spain
+date_start: 2025-05-31
+rounds_format: 3R+F
+players_count: 23
+winner: Oriol Pubill
+vekn_number: 1940017
+event_url: https://www.vekn.net/event-calendar/event/12507
+event_id: 12507
+vp_comment: www.bcncrisis.com/tournament/555
+forum_post_url: https://www.vekn.net/event-calendar/event/12507
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 14
+  crypt_max: 28
+  crypt_avg: 5.33
+  crypt:
+  - count: 5
+    name: Alabástrom
+    capacity: 7
+    disciplines: aus cel for POT VIS
+    clan: Gargoyle
+    grouping: 6
+  - count: 3
+    name: Verbruch
+    capacity: 5
+    disciplines: for POT VIS
+    clan: Gargoyle
+    grouping: 5
+  - count: 2
+    name: Porphyry
+    capacity: 4
+    disciplines: vis POT
+    clan: Gargoyle
+    grouping: 6
+  - count: 1
+    name: Monica Chang
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere
+    grouping: 5
+  - count: 1
+    name: Rosalina Cortez
+    capacity: 3
+    disciplines: THA
+    clan: Tremere
+    grouping: 6
+  library_count: 84
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 1
+      name: Alvusia
+    - count: 6
+      name: Ashur Tablets
+    - count: 1
+      name: Fame
+    - count: 1
+      name: 'Golconda: Inner Peace'
+    - count: 1
+      name: Secure Haven
+    - count: 2
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 25
+    cards:
+    - count: 2
+      name: Ambush
+    - count: 3
+      name: Bum's Rush
+    - count: 8
+      name: Dive Bomb
+    - count: 3
+      name: Harass
+    - count: 3
+      name: Preternatural Strength
+    - count: 6
+      name: Raw Recruit
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 2
+      name: Codex of the Edenic Groundskeepers
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 6
+      name: As the Crow
+  - name: Combat
+    count: 36
+    cards:
+    - count: 5
+      name: Brick by Brick
+    - count: 1
+      name: Disarm
+    - count: 8
+      name: Immortal Grapple
+    - count: 8
+      name: Raking Talons
+    - count: 2
+      name: Rockheart
+    - count: 6
+      name: Roundhouse
+    - count: 4
+      name: Stonestrength
+    - count: 2
+      name: Taste of Vitae
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Waiting Game

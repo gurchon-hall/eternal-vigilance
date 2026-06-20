@@ -1,0 +1,178 @@
+name: Organized Resistance CG26
+location: Campina Grande (PB), Brazil
+date_start: 2026-03-14
+rounds_format: 2R+F
+players_count: 13
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/13049
+event_id: 13049
+vp_comment: 2GW8 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13049
+deck:
+  name: Pra que tanto Vozhd?
+  description: ''
+  crypt_count: 12
+  crypt_min: 19
+  crypt_max: 29
+  crypt_avg: 6.25
+  crypt:
+  - count: 4
+    name: Máddji, Mistress of Szlachtas
+    capacity: 7
+    disciplines: for ANI DOM PRO
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Whisper
+    capacity: 5
+    disciplines: pro ANI DOM
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Adrino Manauara
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Ángel Guerrero
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Saankaláxt
+    capacity: 7
+    disciplines: aus ANI DOM PRO
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Neserian
+    capacity: 6
+    disciplines: cel pro ANI DOM
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Clara Hjortshøj
+    capacity: 5
+    disciplines: ani aus dom PRO
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Prentis Derby
+    capacity: 4
+    disciplines: ani dom pro
+    clan: Tzimisce
+    grouping: 6
+  library_count: 88
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Charisma
+    - count: 1
+      name: Club Illusion
+    - count: 1
+      name: Erciyes Fragments, The
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Fleshforge Chamber
+    - count: 2
+      name: Jake Washington
+    - count: 1
+      name: Library Hunting Ground
+    - count: 2
+      name: Perfectionist
+    - count: 4
+      name: Piper
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Shard, London, The
+    - count: 1
+      name: Vampiric Disease
+    - count: 3
+      name: Vessel
+  - name: Action
+    count: 6
+    cards:
+    - count: 6
+      name: Govern the Unaligned
+  - name: Ally
+    count: 10
+    cards:
+    - count: 1
+      name: Gregory Winter
+    - count: 1
+      name: Vagabond Mystic
+    - count: 2
+      name: Vozhd of Gravesend, The
+    - count: 1
+      name: Vozhd of Juiz de Fora, The
+    - count: 1
+      name: Vozhd of Sofia, The
+    - count: 2
+      name: Vozhd of Szczecin, The
+    - count: 2
+      name: War Ghoul
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 3
+      name: Living Manse
+    - count: 1
+      name: Unlicensed Taxicab
+  - name: Retainer
+    count: 11
+    cards:
+    - count: 1
+      name: Crypt's Sons
+    - count: 8
+      name: Szlachta Assistant
+    - count: 2
+      name: Szlachta Bodyguard
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 2
+      name: Beast Meld
+    - count: 4
+      name: Earth Control
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Rapid Change
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Form of the Bat
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 8
+      name: Deflection
+    - count: 4
+      name: On the Qui Vive
+  - name: Combat
+    count: 8
+    cards:
+    - count: 3
+      name: Fake Out
+    - count: 5
+      name: Form of Mist
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+    - count: 1
+      name: Unmasking, The

@@ -1,0 +1,140 @@
+name: New Years Bleebs
+location: Leeds, United Kingdom
+date_start: 2024-01-20
+rounds_format: 3R+F
+players_count: 16
+winner: Hugh Angseesing
+vekn_number: 8180022
+event_url: https://www.vekn.net/event-calendar/event/11201
+event_id: 11201
+vp_comment: 1GW5 + 1.5
+forum_post_url: https://www.vekn.net/event-calendar/event/11201
+deck:
+  name: I want to stick you with my third-eye, again!
+  description: ''
+  crypt_count: 12
+  crypt_min: 14
+  crypt_max: 31
+  crypt_avg: 5.58
+  crypt:
+  - count: 3
+    name: Dela Eden
+    capacity: 8
+    disciplines: cel dom AUS FOR VAL
+    clan: Salubri antitribu
+    grouping: 3
+  - count: 3
+    name: Adonai
+    capacity: 7
+    disciplines: for AUS VAL
+    clan: Salubri antitribu
+    grouping: 2
+  - count: 1
+    name: Maldavis
+    capacity: 4
+    disciplines: for pre AUS
+    clan: Caitiff
+    grouping: 3
+  - count: 1
+    name: Remilliard, Devout Crusader
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador antitribu
+    grouping: 2
+  - count: 1
+    name: Richard Tauber, Ayelea's Puppet
+    capacity: 4
+    disciplines: tha AUS
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: Wolf Valentine
+    capacity: 4
+    disciplines: for VAL
+    clan: Salubri antitribu
+    grouping: 2
+  - count: 1
+    name: Isabel de Leon
+    capacity: 3
+    disciplines: AUS
+    clan: Toreador
+    grouping: 2
+  - count: 1
+    name: Zöe
+    capacity: 3
+    disciplines: cel obf AUS
+    clan: Malkavian
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 3
+      name: Blood Doll
+    - count: 1
+      name: Depravity
+    - count: 2
+      name: Fame
+    - count: 1
+      name: Giant's Blood
+    - count: 3
+      name: Path of Retribution, The
+    - count: 3
+      name: Vessel
+  - name: Action
+    count: 10
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 1
+      name: Blessing of the Name
+    - count: 8
+      name: Sense Death
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Argent Baton
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 2
+      name: Enhanced Senses
+    - count: 3
+      name: Eyes of Argus
+    - count: 1
+      name: My Enemy's Enemy
+    - count: 4
+      name: On the Qui Vive
+    - count: 8
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 48
+    cards:
+    - count: 8
+      name: Armor of Caine's Fury
+    - count: 2
+      name: Aura Reading
+    - count: 2
+      name: Blissful Agony
+    - count: 2
+      name: Eye of Unforgiving Heaven
+    - count: 2
+      name: Skin of Steel
+    - count: 2
+      name: Superior Mettle
+    - count: 2
+      name: Sword of the Righteous
+    - count: 2
+      name: Target Vitals
+    - count: 6
+      name: Taste of Vitae
+    - count: 6
+      name: Telepathic Tracking
+    - count: 6
+      name: Trap
+    - count: 2
+      name: Vengeance of Samiel
+    - count: 6
+      name: Weighted Walking Stick

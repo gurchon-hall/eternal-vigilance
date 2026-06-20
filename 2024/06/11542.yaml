@@ -1,0 +1,161 @@
+name: SIX ROUNDS
+location: Vila Velha, Es, Brazil
+date_start: 2024-06-30
+rounds_format: 2R+F
+players_count: 12
+winner: Felipe Fiuza
+vekn_number: 6040042
+event_url: https://www.vekn.net/event-calendar/event/11542
+event_id: 11542
+vp_comment: This was a special event, Felipe "SIX ROUNDS" Fiuza is a player here
+  in our city who moved to the USA a few years ago.
+forum_post_url: https://www.vekn.net/event-calendar/event/11542
+deck:
+  name: O Syd Faz Falta (We miss you Syd)
+  description: ''
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 30
+  crypt_avg: 6.58
+  crypt:
+  - count: 3
+    name: Massimiliano
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 3
+    name: Casey Snyder
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 3
+    name: Kuyén
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Keegan
+    capacity: 8
+    disciplines: aus cel ANI FOR PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Ragnar Nordstrom
+    capacity: 8
+    disciplines: cel pot ANI FOR PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Martina Srnankova
+    capacity: 6
+    disciplines: ani FOR PRO
+    clan: Gangrel
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Anarch Railroad
+    - count: 1
+      name: Archon Investigation
+    - count: 1
+      name: Backways
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Ecoterrorists
+    - count: 1
+      name: Ennoia's Theater
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Haven Uncovered
+    - count: 1
+      name: Heidelberg Castle, Germany
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Rack, The
+    - count: 1
+      name: Smiling Jack, The Anarch
+    - count: 4
+      name: Vessel
+    - count: 1
+      name: Zoo Hunting Ground
+  - name: Action
+    count: 13
+    cards:
+    - count: 7
+      name: Deep Song
+    - count: 1
+      name: Rewilding
+    - count: 5
+      name: Thing
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Double Deuce
+  - name: Retainer
+    count: 7
+    cards:
+    - count: 1
+      name: Dog Pack
+    - count: 2
+      name: Murder of Crows
+    - count: 2
+      name: Raptor
+    - count: 2
+      name: Raven Spy
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 3
+      name: Earth Control
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Form of the Bat
+  - name: Reaction
+    count: 21
+    cards:
+    - count: 4
+      name: Bait and Switch
+    - count: 2
+      name: Cats' Guidance
+    - count: 7
+      name: Deep Ecology
+    - count: 5
+      name: Eyes of the Wild
+    - count: 3
+      name: Protection Racket
+  - name: Combat
+    count: 25
+    cards:
+    - count: 6
+      name: Bear's Skin
+    - count: 6
+      name: Carrion Crows
+    - count: 2
+      name: Claws of the Dead
+    - count: 3
+      name: Donnybrook
+    - count: 1
+      name: Drawing Out the Beast
+    - count: 2
+      name: Flesh of Marble
+    - count: 3
+      name: Hidden Strength
+    - count: 2
+      name: Pack Alpha

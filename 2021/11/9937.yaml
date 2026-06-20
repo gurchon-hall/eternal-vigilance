@@ -1,0 +1,129 @@
+name: No estaba muerto, estaba de parranda
+location: Palma de Mallorca, Spain
+date_start: 2021-11-14
+rounds_format: 3R+F
+players_count: 19
+winner: Jordi Bestard
+vekn_number: 3190089
+event_url: https://www.vekn.net/event-calendar/event/9937
+event_id: 9937
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9937
+deck:
+  name: Toreador antitribu
+  description: ''
+  crypt_count: 12
+  crypt_min: 8
+  crypt_max: 19
+  crypt_avg: 3.42
+  crypt:
+  - count: 2
+    name: Justine Chen, Innocent
+    capacity: 2
+    disciplines: pre
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 2
+    name: Nicholas Chang
+    capacity: 2
+    disciplines: aus
+    clan: Toreador antitribu
+    grouping: 3
+  - count: 1
+    name: Creamy Jade
+    capacity: 5
+    disciplines: aus cel vic PRE
+    clan: Toreador antitribu
+    grouping: 3
+  - count: 1
+    name: Cristos Mantigo
+    capacity: 5
+    disciplines: aus cel dom obf pre
+    clan: Toreador antitribu
+    grouping: 3
+  - count: 1
+    name: Gabriel de Cambrai
+    capacity: 5
+    disciplines: aus cel dem obf pre
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: L'Épuisette
+    capacity: 4
+    disciplines: aus cel pro
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Loonar
+    capacity: 4
+    disciplines: cel PRE
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Sabrina
+    capacity: 4
+    disciplines: aus cel pre
+    clan: Toreador antitribu
+    grouping: 3
+  - count: 1
+    name: Jonathan Gursel
+    capacity: 3
+    disciplines: aus pre
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Monique Kim
+    capacity: 3
+    disciplines: aus cel
+    clan: Toreador antitribu
+    grouping: 4
+  library_count: 60
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Fetish Club Hunting Ground
+    - count: 6
+      name: Foundation Exhibit
+    - count: 3
+      name: Palla Grande
+    - count: 1
+      name: Pentex(TM) Subversion
+  - name: Action
+    count: 15
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 4
+      name: Art Scam
+    - count: 10
+      name: Embrace, The
+  - name: Political Action
+    count: 23
+    cards:
+    - count: 10
+      name: Consanguineous Boon
+    - count: 2
+      name: Conservative Agitation
+    - count: 11
+      name: Kine Resources Contested
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 4
+      name: Change of Target
+    - count: 1
+      name: Cryptic Rider
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Dodge
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The

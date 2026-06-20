@@ -1,0 +1,179 @@
+name: Nilceu Galvão
+location: Fortaleza (CE), Brazil
+date_start: 2024-02-18
+rounds_format: 2R+F
+players_count: 22
+winner: Diego Rodrigues
+vekn_number: 7301917
+event_url: https://www.vekn.net/event-calendar/event/11169
+event_id: 11169
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11169
+deck:
+  name: Bram Pro Barons
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 30
+  crypt_avg: 6.08
+  crypt:
+  - count: 2
+    name: Casey Snyder
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 2
+    name: Kuyén
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Saku Pihlajamäki
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Sergio Bueno
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Massimiliano
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Vivian VI
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Indira
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Joseph Fischer
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel antitribu
+    grouping: 5
+  library_count: 89
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 1
+      name: Blood Doll
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Club Illusion
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Smiling Jack, The Anarch
+    - count: 2
+      name: Vessel
+    - count: 6
+      name: Villein
+  - name: Action
+    count: 11
+    cards:
+    - count: 9
+      name: Bum's Rush
+    - count: 2
+      name: Open War
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Ivory Bow
+    - count: 1
+      name: Kevlar Vest
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Reckless Agitation
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: Dog Pack
+    - count: 1
+      name: Mr. Winthrop
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Ritual of the Bitter Rose
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Form of the Bat
+  - name: Reaction
+    count: 20
+    cards:
+    - count: 6
+      name: Bait and Switch
+    - count: 4
+      name: Deep Ecology
+    - count: 10
+      name: Organized Resistance
+  - name: Combat
+    count: 29
+    cards:
+    - count: 6
+      name: Amaranth
+    - count: 4
+      name: Body Flare
+    - count: 2
+      name: Claws of the Dead
+    - count: 11
+      name: Donnybrook
+    - count: 4
+      name: Flesh of Marble
+    - count: 2
+      name: Groundfighting

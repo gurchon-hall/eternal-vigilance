@@ -1,0 +1,119 @@
+name: The Fifth Tradition, ACC 2025
+location: Metro Manila, Philippines
+date_start: 2025-09-06
+rounds_format: 3R+F
+players_count: 39
+winner: Micon Garcia
+vekn_number: 1001891
+event_url: https://www.vekn.net/event-calendar/event/12291
+event_id: 12291
+vp_comment: 3GW12 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12291
+deck:
+  name: Leveraging my Hacking Skills
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 8
+  crypt_avg: 1.42
+  crypt:
+  - count: 1
+    name: Christine Boscacci
+    capacity: 2
+    disciplines: dom vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Mustafa Rahman
+    capacity: 2
+    disciplines: dom
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Ohanna
+    capacity: 2
+    disciplines: dom
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Samson
+    capacity: 2
+    disciplines: dom
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
+    name: Antoinette DuChamp
+    capacity: 1
+    disciplines: cel pre
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Franciscus
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Julius
+    capacity: 1
+    disciplines: qui ser
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Navar McClaren
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 1
+  - count: 1
+    name: Royce
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  library_count: 62
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 2
+      name: Anarch Revolt
+    - count: 2
+      name: Antediluvian Awakening
+    - count: 6
+      name: Effective Management
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 2
+      name: Sudden Reversal
+  - name: Action
+    count: 20
+    cards:
+    - count: 20
+      name: Computer Hacking
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Ancient Influence
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 6
+      name: Leverage
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 4
+      name: Deflection
+    - count: 3
+      name: Delaying Tactics
+    - count: 3
+      name: Wake with Evening's Freshness
+  - name: Combat
+    count: 10
+    cards:
+    - count: 10
+      name: Dodge

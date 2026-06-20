@@ -1,0 +1,147 @@
+name: 'European Grand Prix: Hyvinkää'
+location: Hyvinkää, Finland
+date_start: 2022-06-11
+rounds_format: 3R+F
+players_count: 25
+winner: Noora Hirvonen
+vekn_number: 3530105
+event_url: https://www.vekn.net/event-calendar/event/10182
+event_id: 10182
+vp_comment: 1GW4 + 1.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10182
+deck:
+  name: Girls will find... Inner Circles
+  description: Mostly after Jorge Delgado's EC2019 Day 1 winning deck - added 
+    Archon Investigation, some differentiating stealth, swapped Lucian to 
+    Mistress Fanchon, and totally forgot to put in Information Highway (which 
+    would have been very nice).
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 10.0
+  crypt:
+  - count: 4
+    name: Cybele
+    capacity: 10
+    disciplines: ANI DAI OBF PRE SER THA
+    clan: Baali
+    grouping: 4
+  - count: 4
+    name: Aksinya Daclau
+    capacity: 9
+    disciplines: cel tha ANI FOR PRE PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Adana de Sforza
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Lutz von Hohenzollern
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Mistress Fanchon
+    capacity: 11
+    disciplines: AUS CEL DOM OBF THA VIC
+    title: Inner Circle
+    clan: Tremere
+    grouping: 4
+  - count: 1
+    name: Rafael de Corazon
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  library_count: 78
+  library_sections:
+  - name: Master
+    count: 50
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 15
+      name: Ashur Tablets
+    - count: 1
+      name: Coven, The
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: 'Golconda: Inner Peace'
+    - count: 1
+      name: Jake Washington
+    - count: 7
+      name: Liquidation
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Monastery of Shadows
+    - count: 2
+      name: Parthenon, The
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 6
+      name: Villein
+    - count: 2
+      name: Wider View
+    - count: 7
+      name: Zillah's Valley
+  - name: Action
+    count: 4
+    cards:
+    - count: 2
+      name: Entrancement
+    - count: 2
+      name: Unleash Hell's Fury
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 3
+      name: Aire of Elation
+    - count: 2
+      name: Elder Impersonation
+    - count: 1
+      name: Enkil Cog
+    - count: 2
+      name: Faceless Night
+    - count: 3
+      name: Into Thin Air
+    - count: 1
+      name: Lost in Crowds
+    - count: 2
+      name: Spying Mission
+    - count: 1
+      name: Veil the Legions
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 4
+    cards:
+    - count: 1
+      name: Guard Dogs
+    - count: 2
+      name: Lost in Translation
+    - count: 1
+      name: Rat's Warning
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Majesty
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians

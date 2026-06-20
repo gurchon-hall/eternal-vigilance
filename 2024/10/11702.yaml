@@ -1,0 +1,144 @@
+name: Jornada Liga Galaico-Portuguesa
+location: Vigo, Spain
+date_start: 2024-10-13
+rounds_format: 2R+F
+players_count: 17
+winner: Luis Santos
+vekn_number: 3260051
+event_url: https://www.vekn.net/event-calendar/event/11702
+event_id: 11702
+forum_post_url: https://www.vekn.net/event-calendar/event/11702
+deck:
+  name: The dragon says no! v1.1
+  description: ''
+  crypt_count: 12
+  crypt_min: 7
+  crypt_max: 16
+  crypt_avg: 2.92
+  crypt:
+  - count: 1
+    name: Idalia, Prophet of Guadalajara
+    capacity: 4
+    disciplines: dem AUS
+    clan: Malkavian antitribu
+    grouping: 2
+  - count: 1
+    name: Maldavis (ADV)
+    capacity: 4
+    disciplines: for pre AUS
+    clan: Caitiff
+    grouping: 3
+  - count: 1
+    name: Remilliard, Devout Crusader
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador antitribu
+    grouping: 2
+  - count: 1
+    name: Richard Tauber, Ayelea's Puppet
+    capacity: 4
+    disciplines: tha AUS
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: David Morgan, The Scourge
+    capacity: 3
+    disciplines: aus pot
+    clan: Malkavian
+    grouping: 3
+  - count: 1
+    name: Isabel de Leon
+    capacity: 3
+    disciplines: AUS
+    clan: Toreador
+    grouping: 2
+  - count: 1
+    name: Martin Franckel
+    capacity: 3
+    disciplines: tha AUS
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Milo, The Invisible Horror
+    capacity: 3
+    disciplines: aus obf
+    clan: Malkavian
+    grouping: 3
+  - count: 1
+    name: Zöe
+    capacity: 3
+    disciplines: cel obf AUS
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Almiro Suarez
+    capacity: 2
+    disciplines: aus
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Feo Ramos
+    capacity: 1
+    disciplines: aus
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Franciscus
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Academic Hunting Ground
+    - count: 1
+      name: Asylum Hunting Ground
+    - count: 1
+      name: Fragment of the Book of Nod
+    - count: 2
+      name: Millicent Smith, Puritan Vampire Hunter
+    - count: 3
+      name: 'Powerbase: Montreal'
+    - count: 2
+      name: Rack, The
+    - count: 3
+      name: Smiling Jack, The Anarch
+    - count: 6
+      name: Vessel
+  - name: Equipment
+    count: 11
+    cards:
+    - count: 11
+      name: Saturday-Night Special
+  - name: Reaction
+    count: 41
+    cards:
+    - count: 6
+      name: Eagle's Sight
+    - count: 5
+      name: Enhanced Senses
+    - count: 4
+      name: Eyes of Argus
+    - count: 4
+      name: Forced Awakening
+    - count: 4
+      name: My Enemy's Enemy
+    - count: 4
+      name: On the Qui Vive
+    - count: 4
+      name: Precognition
+    - count: 4
+      name: Spirit's Touch
+    - count: 6
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 19
+    cards:
+    - count: 11
+      name: Concealed Weapon
+    - count: 8
+      name: Dragon's Breath Rounds

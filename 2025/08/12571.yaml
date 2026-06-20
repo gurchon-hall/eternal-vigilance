@@ -1,0 +1,138 @@
+name: No Secrets from the Farsta 2025
+location: Stockholm, Sweden
+date_start: 2025-08-17
+rounds_format: 3R+F
+players_count: 15
+winner: Gustaf Gröning
+vekn_number: 8090063
+event_url: https://www.vekn.net/event-calendar/event/12571
+event_id: 12571
+vp_comment: 1,5vp in final. Congrats Gustaf!
+forum_post_url: https://www.vekn.net/event-calendar/event/12571
+deck:
+  description: 
+    https://vtesdecks.com/deck/user-tocki4-a4b77f2ceb9a4c9c8fe888400c498ae7
+  crypt_count: 12
+  crypt_min: 13
+  crypt_max: 30
+  crypt_avg: 5.42
+  crypt:
+  - count: 2
+    name: '"Mother" Anja Giovanni'
+    capacity: 8
+    disciplines: dom pot AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Mora, the Death Seer
+    capacity: 7
+    disciplines: ani AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Gebeyehu Abdu
+    capacity: 5
+    disciplines: for AUS OBL
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Alek König
+    capacity: 3
+    disciplines: OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Lenelle, Mambo of Birmingham
+    capacity: 6
+    disciplines: aus FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Monica Giovanni
+    capacity: 6
+    disciplines: AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Holliday "Burgundy" Hall
+    capacity: 5
+    disciplines: aus FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Peter St. John
+    capacity: 2
+    disciplines: obl
+    clan: Hecata
+    grouping: 6
+  library_count: 85
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Barrens, The
+    - count: 1
+      name: Biotech Company Hunting Ground
+    - count: 3
+      name: Blood Doll
+    - count: 1
+      name: Cappadocian Crypt
+    - count: 1
+      name: Coven, The
+    - count: 7
+      name: Family Gathering
+    - count: 1
+      name: 'Powerbase: Munich'
+    - count: 2
+      name: Villein
+  - name: Action
+    count: 19
+    cards:
+    - count: 15
+      name: Shroud of Decay
+    - count: 4
+      name: Split the Veil
+  - name: Ally
+    count: 10
+    cards:
+    - count: 6
+      name: Aggressive Corpse
+    - count: 4
+      name: Spectral Servitor
+  - name: Action Modifier
+    count: 20
+    cards:
+    - count: 1
+      name: Consign to Oblivion
+    - count: 6
+      name: Shadow Cast
+    - count: 3
+      name: Shadow Cloak
+    - count: 4
+      name: Stygian Shroud
+    - count: 6
+      name: Where the Veil Thins
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 2
+      name: Delaying Tactics
+    - count: 3
+      name: Eyes of Argus
+    - count: 3
+      name: My Enemy's Enemy
+    - count: 2
+      name: Shadow Sentinel
+    - count: 4
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Pass Through Shadow
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Unmasking, The

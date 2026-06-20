@@ -1,0 +1,157 @@
+name: Elder Impersonation
+location: Ephrata (PA), USA
+date_start: 2025-01-19
+rounds_format: 2R+F
+players_count: 10
+winner: Alex Romano
+event_url: https://www.vekn.net/event-calendar/event/11918
+event_id: 11918
+vp_comment: "Description: This Deck is a ton of fun to play, but certainly isn't optimized.
+  Papillon, while a super powerful card is always an auto discard I've discovered.
+  Another question mark card for me is Revolutionary Council, in theory it should
+  be really good here since I make so many minions and would be devastating, but I
+  just always seem to discard it and then don't get it back when my Ashur's fire.
+  The final was seated as follows:"
+forum_post_url: https://www.vekn.net/event-calendar/event/11918
+deck:
+  name: Blue Eyed Boy
+  created_by: Alex Romano
+  description: "This Deck is a ton of fun to play, but certainly isn't optimized.
+    Papillon, while a super powerful card is always an auto discard I've discovered.
+    Another question mark card for me is Revolutionary Council, in theory it should
+    be really good here since I make so many minions and would be devastating, but
+    I just always seem to discard it and then don't get it back when my Ashur's fire.
+    The final was seated as follows:"
+  crypt_count: 12
+  crypt_min: 11
+  crypt_max: 28
+  crypt_avg: 5.33
+  crypt:
+  - count: 3
+    name: Aline Gädeke
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Anita Wainwright
+    capacity: 3
+    disciplines: cel pre
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Ariane
+    capacity: 3
+    disciplines: cel pot pre
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Laura Goldman
+    capacity: 3
+    disciplines: cel pre
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Rayne
+    capacity: 2
+    disciplines: pot
+    clan: Brujah
+    grouping: 6
+  library_count: 75
+  library_sections:
+  - name: Master
+    count: 26
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 1
+      name: Anarch Railroad
+    - count: 1
+      name: Archon Investigation
+    - count: 6
+      name: Ashur Tablets
+    - count: 6
+      name: Brujah Debate
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Frontal Assault
+    - count: 2
+      name: New Carthage
+    - count: 1
+      name: Papillon
+    - count: 2
+      name: Parthenon, The
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+    - count: 3
+      name: Vessel
+  - name: Action
+    count: 12
+    cards:
+    - count: 2
+      name: Ambush
+    - count: 2
+      name: Bum's Rush
+    - count: 5
+      name: Childe of the Revolution
+    - count: 2
+      name: Harass
+    - count: 1
+      name: Open War
+  - name: Political Action
+    count: 7
+    cards:
+    - count: 6
+      name: Consanguineous Boon
+    - count: 1
+      name: Revolutionary Council
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 4
+      name: Bait and Switch
+    - count: 10
+      name: Organized Resistance
+    - count: 2
+      name: Protection Racket
+  - name: Combat
+    count: 10
+    cards:
+    - count: 6
+      name: Taste of Vitae
+    - count: 4
+      name: Trap
+  - name: Event
+    count: 4
+    cards:
+    - count: 1
+      name: Blood Weakens
+    - count: 1
+      name: Dragonbound
+    - count: 1
+      name: Slow Withering, The
+    - count: 1
+      name: Veil of Darkness

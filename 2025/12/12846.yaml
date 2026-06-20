@@ -1,0 +1,128 @@
+name: Torneio mensal Curitiba
+location: Curitiba (PR), Brazil
+date_start: 2025-12-20
+rounds_format: 2R+F
+players_count: 13
+winner: Daniel Valente de Oliveira
+vekn_number: 7060113
+event_url: https://www.vekn.net/event-calendar/event/12846
+event_id: 12846
+vp_comment: 0GW2 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12846
+deck:
+  name: Unnamed
+  description: ''
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 40
+  crypt_avg: 6.83
+  crypt:
+  - count: 5
+    name: unnamed, The
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 4
+    name: Horde, The
+    capacity: 3
+    disciplines: dai obf pre
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Xeper, Sultan of Lepers
+    capacity: 7
+    disciplines: ani dai pro OBF PRE
+    clan: Baali
+    grouping: 6
+  - count: 1
+    name: Arishat
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 vote
+    clan: Baali
+    grouping: 6
+  library_count: 70
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Blood Doll
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Elder Library
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Path of Evil Revelations
+    - count: 2
+      name: Perfectionist
+    - count: 6
+      name: Tend the Flock
+    - count: 1
+      name: Villein
+    - count: 2
+      name: Zillah's Valley
+  - name: Action
+    count: 11
+    cards:
+    - count: 4
+      name: Entrancement
+    - count: 4
+      name: Intimidation
+    - count: 3
+      name: Unleash Hell's Fury
+  - name: Ally
+    count: 5
+    cards:
+    - count: 3
+      name: Infernal Servitor
+    - count: 1
+      name: Mylan Horseed
+    - count: 1
+      name: Veneficti
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Homunculus
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+    - count: 3
+      name: Elder Impersonation
+    - count: 3
+      name: Enkil Cog
+    - count: 1
+      name: Faceless Night
+    - count: 3
+      name: I am Legion
+    - count: 6
+      name: Instantaneous Transformation
+    - count: 3
+      name: Lost in Crowds
+    - count: 2
+      name: Psychomachia
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Sense the Sin
+  - name: Combat
+    count: 4
+    cards:
+    - count: 2
+      name: Earth Meld
+    - count: 2
+      name: Form of Mist

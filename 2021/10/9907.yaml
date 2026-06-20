@@ -1,0 +1,145 @@
+name: Zillah's Tears V - Rapid Healing
+location: Vantaa, Finland
+date_start: 2021-10-31
+rounds_format: 3R+F
+players_count: 15
+winner: Joona Tuominen
+vekn_number: 9350038
+event_url: https://www.vekn.net/event-calendar/event/9907
+event_id: 9907
+vp_comment: 'The final table seating was:'
+forum_post_url: https://www.vekn.net/event-calendar/event/9907
+deck:
+  name: AAA
+  description: A pretty basic Triple-A using Grand ball and voting a bunch
+  crypt_count: 12
+  crypt_min: 22
+  crypt_max: 42
+  crypt_avg: 8.25
+  crypt:
+  - count: 4
+    name: Anson
+    capacity: 8
+    disciplines: aus dom CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 1
+  - count: 2
+    name: Alexandra
+    capacity: 11
+    disciplines: dom ANI AUS CEL PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 2
+  - count: 2
+    name: Anneke
+    capacity: 10
+    disciplines: dom AUS CEL PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 1
+  - count: 2
+    name: Isabel de Leon
+    capacity: 3
+    disciplines: AUS
+    clan: Toreador
+    grouping: 2
+  - count: 1
+    name: François Villon
+    capacity: 10
+    disciplines: chi obf pot AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 2
+  - count: 1
+    name: Klaus van der Veken
+    capacity: 9
+    disciplines: aus obf tha CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 2
+  library_count: 79
+  library_sections:
+  - name: Master
+    count: 25
+    cards:
+    - count: 1
+      name: Art Museum
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Jake Washington
+    - count: 1
+      name: Monastery of Shadows
+    - count: 4
+      name: Toreador Grand Ball
+    - count: 6
+      name: Villein
+    - count: 1
+      name: Wider View
+    - count: 6
+      name: Zillah's Valley
+  - name: Action
+    count: 5
+    cards:
+    - count: 3
+      name: Entrancement
+    - count: 2
+      name: 'Judgment: Camarilla Segregation'
+  - name: Political Action
+    count: 17
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancient Influence
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 2
+      name: Banishment
+    - count: 5
+      name: Kine Resources Contested
+    - count: 1
+      name: Neonate Breach
+    - count: 5
+      name: Parity Shift
+    - count: 1
+      name: Reins of Power
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 2
+      name: Aire of Elation
+    - count: 1
+      name: Awe
+    - count: 2
+      name: Bewitching Oration
+    - count: 2
+      name: Perfect Paragon
+    - count: 6
+      name: Voter Captivation
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Scalpel Tongue
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 3
+      name: Deflection
+    - count: 2
+      name: On the Qui Vive
+    - count: 4
+      name: 'Second Tradition: Domain'
+    - count: 3
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty

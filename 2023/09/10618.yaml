@@ -1,0 +1,153 @@
+name: Décimo Quarto Dia
+location: Fortaleza (CE), Brazil
+date_start: 2023-09-17
+rounds_format: 2R+F
+players_count: 23
+winner: Valdemir Santos
+vekn_number: 7301303
+event_url: https://www.vekn.net/event-calendar/event/10618
+event_id: 10618
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10618
+deck:
+  name: Angélica "Thriller"
+  description: ''
+  crypt_count: 12
+  crypt_min: 21
+  crypt_max: 36
+  crypt_avg: 7.42
+  crypt:
+  - count: 5
+    name: Angelique
+    capacity: 9
+    disciplines: AUS FOR NEC SER THA
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 2
+    name: Mordechai Ben-Nun
+    capacity: 8
+    disciplines: ANI AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 2
+    name: La Viuda Blanca
+    capacity: 6
+    disciplines: for obf AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: Alcoan
+    capacity: 7
+    disciplines: for AUS CEL NEC
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: Hecate
+    capacity: 6
+    disciplines: AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 1
+    name: Veejay Vinod
+    capacity: 3
+    disciplines: AUS
+    clan: Nagaraja
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Barrens, The
+    - count: 2
+      name: Blood Doll
+    - count: 1
+      name: Charisma
+    - count: 1
+      name: Direct Intervention
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Fragment of the Book of Nod
+    - count: 1
+      name: Line, The
+    - count: 2
+      name: Liquidation
+    - count: 1
+      name: Mob Connections
+    - count: 1
+      name: Perfectionist
+    - count: 1
+      name: Vessel
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Divine Sign
+  - name: Ally
+    count: 22
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+    - count: 6
+      name: Emerald Legionnaire
+    - count: 1
+      name: Repo Man
+    - count: 14
+      name: Shambling Hordes
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Unlicensed Taxicab
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 5
+      name: Acheron Vortex
+    - count: 5
+      name: Call of the Hungry Dead
+    - count: 1
+      name: Inevitability of the Void
+    - count: 2
+      name: Trochomancy
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Breath of Thanatos
+  - name: Action Modifier/Reaction
+    count: 5
+    cards:
+    - count: 5
+      name: Spectral Divination
+  - name: Reaction
+    count: 19
+    cards:
+    - count: 1
+      name: Delaying Tactics
+    - count: 2
+      name: Enhanced Senses
+    - count: 3
+      name: Eyes of Argus
+    - count: 3
+      name: On the Qui Vive
+    - count: 3
+      name: Spirit's Touch
+    - count: 7
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Spiritual Intervention
+  - name: Event
+    count: 2
+    cards:
+    - count: 2
+      name: Unmasking, The

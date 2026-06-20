@@ -1,0 +1,160 @@
+name: 1st Game of Malkav
+location: Helsinki, Finland
+date_start: 2024-04-04
+rounds_format: 2R+F
+players_count: 10
+winner: Bram Van Stappen
+vekn_number: 1820002
+event_url: https://www.vekn.net/event-calendar/event/11371
+event_id: 11371
+vp_comment: 'The final round featured the following decks: Bram (Tremere Embrace swarm
+  bleed) -> Matias (Lasombra S/B) -> Teemu (Anarch Banu rush) -> Niko (Mono Potence)
+  -> Marko (Lucian bleed)'
+forum_post_url: https://www.vekn.net/event-calendar/event/11371
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 8
+  crypt_max: 20
+  crypt_avg: 3.42
+  crypt:
+  - count: 1
+    name: Thomas Thorne
+    capacity: 6
+    disciplines: ani aus cel tha DOM
+    clan: Tremere
+    grouping: 1
+  - count: 1
+    name: Aisling Sturbridge
+    capacity: 5
+    disciplines: dom AUS THA
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Sabine Lafitte
+    capacity: 5
+    disciplines: aus dom pot tha
+    clan: Tremere
+    grouping: 1
+  - count: 1
+    name: Ignatius
+    capacity: 4
+    disciplines: aus dom tha
+    clan: Tremere
+    grouping: 1
+  - count: 1
+    name: Sarah Cobbler
+    capacity: 4
+    disciplines: dom THA
+    clan: Tremere
+    grouping: 1
+  - count: 1
+    name: Blythe Candeleria
+    capacity: 3
+    disciplines: aus THA
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Dr. John Casey
+    capacity: 3
+    disciplines: aus tha
+    clan: Tremere
+    grouping: 1
+  - count: 1
+    name: Jing Wei
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere
+    grouping: 1
+  - count: 1
+    name: Mustafa Rahman
+    capacity: 2
+    disciplines: dom
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Ohanna
+    capacity: 2
+    disciplines: dom
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Roreca Quaid
+    capacity: 2
+    disciplines: tha
+    clan: Tremere
+    grouping: 1
+  library_count: 64
+  library_sections:
+  - name: Master
+    count: 30
+    cards:
+    - count: 1
+      name: Academic Hunting Ground
+    - count: 1
+      name: Arcane Library
+    - count: 6
+      name: Ashur Tablets
+    - count: 1
+      name: Barrens, The
+    - count: 1
+      name: Chantry
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: 'Elysium: The Arboretum'
+    - count: 1
+      name: Giant's Blood
+    - count: 5
+      name: Life in the City
+    - count: 1
+      name: Line, The
+    - count: 4
+      name: Parthenon, The
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 3
+      name: 'Powerbase: Savannah'
+    - count: 1
+      name: 'Powerbase: Zürich'
+    - count: 1
+      name: Rack, The
+    - count: 1
+      name: Tribute to the Master
+  - name: Action
+    count: 10
+    cards:
+    - count: 9
+      name: Embrace, The
+    - count: 1
+      name: Soul Scan
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Gran Madre di Dio, Italy
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 3
+      name: Mirror Walk
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 7
+      name: Deflection
+    - count: 1
+      name: Delaying Tactics
+    - count: 3
+      name: On the Qui Vive
+    - count: 1
+      name: Poison Pill
+    - count: 6
+      name: Salt of Thoth
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The

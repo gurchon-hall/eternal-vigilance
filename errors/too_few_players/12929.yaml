@@ -1,0 +1,114 @@
+name: Pillars Fall
+location: Sydney, Australia
+date_start: 2026-02-21
+rounds_format: 2R+F
+players_count: 10
+winner: Steve Wedd
+vekn_number: 4010018
+event_url: https://www.vekn.net/event-calendar/event/12929
+event_id: 12929
+vp_comment: 0GW1.5 + 2.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12929
+deck:
+  name: Inevitable Slaughter
+  description: Do you hear that Mr. Anderson?
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 31
+  crypt_avg: 6.75
+  crypt:
+  - count: 3
+    name: Mordechai Ben-Nun
+    capacity: 8
+    disciplines: ANI AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 3
+    name: Babalawo Alafin
+    capacity: 7
+    disciplines: ani AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 4
+  - count: 3
+    name: Hecate
+    capacity: 6
+    disciplines: AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 3
+    name: Zygodat
+    capacity: 6
+    disciplines: pot AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 4
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 2
+      name: Blood Doll
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Jake Washington
+    - count: 2
+      name: Life in the City
+    - count: 1
+      name: Maabara
+    - count: 1
+      name: Perfectionist
+    - count: 4
+      name: Slaughterhouse, The
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 1
+      name: Kevlar Vest
+    - count: 1
+      name: Leather Jacket
+  - name: Retainer
+    count: 3
+    cards:
+    - count: 3
+      name: Vengeful Spirit
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 8
+      name: Acheron Vortex
+    - count: 6
+      name: Call of the Hungry Dead
+    - count: 1
+      name: Freak Drive
+    - count: 8
+      name: Inevitability of the Void
+  - name: Action Modifier/Reaction
+    count: 7
+    cards:
+    - count: 7
+      name: Spectral Divination
+  - name: Reaction
+    count: 19
+    cards:
+    - count: 10
+      name: Eyes of Argus
+    - count: 9
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 10
+    cards:
+    - count: 2
+      name: Resilience
+    - count: 5
+      name: Rolling with the Punches
+    - count: 3
+      name: Spiritual Intervention

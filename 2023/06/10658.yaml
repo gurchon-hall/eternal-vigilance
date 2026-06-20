@@ -1,0 +1,151 @@
+name: 'WoN event 2 - Märzen: Columbus'
+location: Columbus (OH), USA
+date_start: 2023-06-19
+rounds_format: 2R+F
+players_count: 25
+winner: Mark Loughman
+vekn_number: 2120044
+event_url: https://www.vekn.net/event-calendar/event/10658
+event_id: 10658
+vp_comment: 2GW6 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10658
+deck:
+  name: Secret Treaties
+  description: Stolen from Vincent and Gines
+  crypt_count: 12
+  crypt_min: 28
+  crypt_max: 44
+  crypt_avg: 9.08
+  crypt:
+  - count: 5
+    name: Giotto Verducci
+    capacity: 7
+    disciplines: for pot pre DAI OBF
+    clan: Baali
+    grouping: 2
+  - count: 3
+    name: Arika
+    capacity: 11
+    disciplines: aus cel DOM FOR OBF PRE
+    title: Inner Circle
+    clan: Ventrue
+    grouping: 2
+  - count: 1
+    name: Etrius
+    capacity: 11
+    disciplines: pro AUS DOM OBF THA
+    title: Inner Circle
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Harrod
+    capacity: 11
+    disciplines: aus pre ANI CEL OBF POT
+    title: Inner Circle
+    clan: Nosferatu
+    grouping: 2
+  - count: 1
+    name: Leandro
+    capacity: 11
+    disciplines: cel dom AUS OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Gratiano
+    capacity: 8
+    disciplines: obf pot DOM OBT
+    title: Priscus
+    clan: Lasombra
+    grouping: 2
+  library_count: 68
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 4
+      name: Ashur Tablets
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Perfectionist
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Presence
+    - count: 3
+      name: Villein
+    - count: 2
+      name: Wider View
+  - name: Action
+    count: 4
+    cards:
+    - count: 1
+      name: 'Condemnation: Mute'
+    - count: 3
+      name: Unleash Hell's Fury
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Veneficti
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 6
+      name: Kaymakli Fragment
+  - name: Political Action
+    count: 10
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 3
+      name: Banishment
+    - count: 3
+      name: Kine Resources Contested
+    - count: 1
+      name: Reckless Agitation
+    - count: 1
+      name: Reins of Power
+  - name: Action Modifier
+    count: 22
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+    - count: 1
+      name: Elder Impersonation
+    - count: 2
+      name: Faceless Night
+    - count: 1
+      name: Forgotten Labyrinth
+    - count: 8
+      name: Freak Drive
+    - count: 2
+      name: Into Thin Air
+    - count: 2
+      name: Perfect Paragon
+    - count: 1
+      name: Spying Mission
+    - count: 3
+      name: Voter Captivation
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 4
+    cards:
+    - count: 2
+      name: Deflection
+    - count: 2
+      name: Wake with Evening's Freshness
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Majesty

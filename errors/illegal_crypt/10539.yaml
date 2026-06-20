@@ -1,0 +1,91 @@
+name: Veil the Legions Pt.1.
+location: Budapest, Hungary
+date_start: 2023-02-04
+rounds_format: 3R+F
+players_count: 27
+winner: Milos Krstic
+vekn_number: 5940007
+event_url: https://www.vekn.net/event-calendar/event/10539
+event_id: 10539
+vp_comment: 2.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10539
+deck:
+  name: Girls WILL Find YOU!
+  description: '"Struggling for the emancipation of all Ashur Tablets across the World!"'
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 39
+  crypt_avg: 6.42
+  crypt:
+  - count: 3
+    name: Cybele
+    capacity: 10
+    disciplines: ANI DAI OBF PRE SER THA
+    clan: Baali
+    grouping: 4
+  - count: 3
+    name: Aksinya Daclau
+    capacity: 9
+    disciplines: cel tha ANI FOR PRE PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 2
+    name: Nana Buruku
+    capacity: 8
+    disciplines: ANI POT PRE
+    clan: Guruhi
+    grouping: 4
+  library_count: 75
+  library_sections:
+  - name: Master
+    count: 42
+    cards:
+    - count: 5
+      name: Anarch Revolt
+    - count: 1
+      name: Archon Investigation
+    - count: 12
+      name: Ashur Tablets
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Information Highway
+    - count: 6
+      name: Liquidation
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Parthenon, The
+    - count: 1
+      name: Tension in the Ranks
+    - count: 5
+      name: Villein
+    - count: 8
+      name: Zillah's Valley
+  - name: Action
+    count: 9
+    cards:
+    - count: 7
+      name: Deep Song
+    - count: 2
+      name: Unleash Hell's Fury
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 1
+      name: Guard Dogs
+    - count: 1
+      name: Lost in Translation
+  - name: Combat
+    count: 22
+    cards:
+    - count: 8
+      name: Aid from Bats
+    - count: 7
+      name: Carrion Crows
+    - count: 2
+      name: Glancing Blow
+    - count: 3
+      name: Taste of Vitae
+    - count: 2
+      name: Terror Frenzy

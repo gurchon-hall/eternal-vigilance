@@ -1,0 +1,150 @@
+name: Niver do Biell
+location: Fortaleza (CE), Brazil
+date_start: 2021-08-28
+rounds_format: 2R+F
+players_count: 12
+winner: Bruno Hobbit
+vekn_number: 6050017
+event_url: https://www.vekn.net/event-calendar/event/9869
+event_id: 9869
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9869
+deck:
+  name: Salubri
+  description: ''
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 38
+  crypt_avg: 6.33
+  crypt:
+  - count: 3
+    name: Nahum Enosh
+    capacity: 10
+    disciplines: for pre AUS OBE OBF VAL
+    clan: Salubri
+    grouping: 6
+  - count: 2
+    name: Serenna the White
+    capacity: 8
+    disciplines: ani dem AUS FOR OBE
+    clan: Salubri
+    grouping: 6
+  - count: 2
+    name: Matthew
+    capacity: 7
+    disciplines: cel AUS FOR OBE
+    clan: Salubri
+    grouping: 6
+  - count: 1
+    name: America Johnson
+    capacity: 4
+    disciplines: vic AUS
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Pearl
+    capacity: 4
+    disciplines: obf AUS
+    clan: Malkavian antitribu
+    grouping: 5
+  - count: 1
+    name: Tyler McGill
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Veejay Vinod
+    capacity: 3
+    disciplines: AUS
+    clan: Nagaraja
+    grouping: 6
+  - count: 1
+    name: Donald Cargill
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Fortitude
+    - count: 3
+      name: Heidelberg Castle, Germany
+    - count: 4
+      name: Minion Tap
+    - count: 1
+      name: Secure Haven
+    - count: 3
+      name: Vessel
+    - count: 1
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 17
+    cards:
+    - count: 3
+      name: Ailing Spirit, The
+    - count: 1
+      name: Lord of Serenity
+    - count: 1
+      name: Pulse of the Canaille
+    - count: 4
+      name: Renewed Vigor
+    - count: 7
+      name: Spirit Marionette
+    - count: 1
+      name: Unburdening the Bestial Soul
+  - name: Action Modifier
+    count: 18
+    cards:
+    - count: 2
+      name: Conditioning
+    - count: 2
+      name: Daring the Dawn
+    - count: 1
+      name: Enkil Cog
+    - count: 6
+      name: Freak Drive
+    - count: 1
+      name: Kiss of Ra, The
+    - count: 3
+      name: Repulsion
+    - count: 3
+      name: Safe Passage
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Penitent Resilience
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Gift of Sleep
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 1
+      name: Delaying Tactics
+    - count: 6
+      name: Eyes of Argus
+    - count: 2
+      name: On the Qui Vive
+    - count: 7
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 17
+    cards:
+    - count: 7
+      name: Anesthetic Touch
+    - count: 2
+      name: Target Vitals
+    - count: 4
+      name: Unflinching Persistence
+    - count: 4
+      name: Vitae Block

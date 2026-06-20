@@ -1,0 +1,148 @@
+name: Swallowed by the Labyrinth
+location: Tilburg, Netherlands
+date_start: 2025-06-22
+rounds_format: 3R+F
+players_count: 17
+winner: Eric Godthelp
+vekn_number: 8580067
+event_url: https://www.vekn.net/event-calendar/event/12140
+event_id: 12140
+forum_post_url: https://www.vekn.net/event-calendar/event/12140
+deck:
+  name: Zombie
+  created_by: DeHeilige (Eric Godthelp)
+  description: Won Tournament Tilburg the Labyrinth
+  crypt_count: 12
+  crypt_min: 10
+  crypt_max: 30
+  crypt_avg: 5.0
+  crypt:
+  - count: 2
+    name: Parijat, the Dark Oracle
+    capacity: 7
+    disciplines: AUS DOM FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Alek König
+    capacity: 3
+    disciplines: OBL
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Peter St. John
+    capacity: 2
+    disciplines: obl
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Hel-Blá
+    capacity: 9
+    disciplines: obf AUS FOR OBL POT
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Tommaso Sforza
+    capacity: 7
+    disciplines: dom for AUS OBL THA
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Monica Giovanni
+    capacity: 6
+    disciplines: AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Gebeyehu Abdu
+    capacity: 5
+    disciplines: for AUS OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Holliday "Burgundy" Hall
+    capacity: 5
+    disciplines: aus FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Hiromitsu Asano
+    capacity: 4
+    disciplines: aus for obl
+    clan: Hecata
+    grouping: 6
+  library_count: 89
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 2
+      name: Biotech Company Hunting Ground
+    - count: 2
+      name: Cappadocian Crypt
+    - count: 1
+      name: Channel 10
+    - count: 2
+      name: Charisma
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 6
+      name: Family Gathering
+    - count: 2
+      name: 'Powerbase: Munich'
+    - count: 3
+      name: Vessel
+  - name: Action
+    count: 8
+    cards:
+    - count: 8
+      name: Split the Veil
+  - name: Ally
+    count: 10
+    cards:
+    - count: 6
+      name: Aggressive Corpse
+    - count: 1
+      name: Ponticulus
+    - count: 3
+      name: Rotting Behemoth
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 2
+      name: Paths in Two Worlds
+    - count: 4
+      name: Shadow Cast
+    - count: 4
+      name: Stygian Shroud
+    - count: 4
+      name: Where the Veil Thins
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 2
+      name: Delaying Tactics
+    - count: 8
+      name: Shadow Sentinel
+    - count: 4
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 20
+    cards:
+    - count: 4
+      name: Fake Out
+    - count: 6
+      name: Martyr's Resilience
+    - count: 2
+      name: Target Head
+    - count: 4
+      name: Target Vitals
+    - count: 4
+      name: Trap
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: Dragonbound
+    - count: 2
+      name: Unmasking, The

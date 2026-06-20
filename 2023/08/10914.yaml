@@ -1,0 +1,148 @@
+name: VI Torneio Paraibano
+location: Campina Grande, Brazil
+date_start: 2023-08-06
+rounds_format: 3R+F
+players_count: 21
+winner: Rafael Barbosa da Silva
+vekn_number: 7060055
+event_url: https://www.vekn.net/event-calendar/event/10914
+event_id: 10914
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10914
+deck:
+  name: Record Ragnarok
+  description: ''
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 32
+  crypt_avg: 5.58
+  crypt:
+  - count: 7
+    name: Valkyrie
+    capacity: 4
+    disciplines: for pre pro
+    clan: Gangrel
+    grouping: 3
+  - count: 4
+    name: Brunhilde (ADV)
+    capacity: 8
+    disciplines: pre ANI FOR PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Vulture
+    capacity: 7
+    disciplines: for pre ANI POT PRO
+    clan: Gangrel
+    grouping: 2
+  library_count: 88
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 1
+      name: Anarch Railroad
+    - count: 3
+      name: Anarch Revolt
+    - count: 1
+      name: Backways
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Ecoterrorists
+    - count: 1
+      name: Ennoia's Theater
+    - count: 1
+      name: Gangrel Revel
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Protean
+    - count: 1
+      name: Rack, The
+    - count: 2
+      name: Smiling Jack, The Anarch
+    - count: 3
+      name: Vessel
+    - count: 1
+      name: Villein
+    - count: 1
+      name: Wash
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 13
+    cards:
+    - count: 2
+      name: Constant Revolution
+    - count: 3
+      name: Field Training
+    - count: 2
+      name: Rewilding
+    - count: 6
+      name: Thing
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 1
+      name: Sport Bike
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 1
+      name: Earth Control
+    - count: 3
+      name: Monkey Wrench
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Rapid Change
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Form of the Bat
+  - name: Reaction
+    count: 19
+    cards:
+    - count: 6
+      name: Bait and Switch
+    - count: 5
+      name: Deep Ecology
+    - count: 6
+      name: Eyes of the Wild
+    - count: 2
+      name: Protection Racket
+  - name: Combat
+    count: 25
+    cards:
+    - count: 7
+      name: Diversion
+    - count: 3
+      name: Donnybrook
+    - count: 8
+      name: Earth Meld
+    - count: 2
+      name: Form of Mist
+    - count: 1
+      name: Indomitability
+    - count: 2
+      name: Rolling with the Punches
+    - count: 2
+      name: Superior Mettle

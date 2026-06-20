@@ -1,0 +1,141 @@
+name: 'Tampere Law: Retribution'
+location: Tampere, Finland
+date_start: 2022-08-27
+rounds_format: 3R+F
+players_count: 20
+winner: Antti Penttilä
+vekn_number: 3070129
+event_url: https://www.vekn.net/event-calendar/event/10326
+event_id: 10326
+forum_post_url: https://www.vekn.net/event-calendar/event/10326
+deck:
+  name: BM
+  description: I had talks about the concept with many awesome players during 
+    the EC. Those discussions helped me decide to go up to 90 cards, so that 
+    there is enough gas for the end game. To include the Segregations, because 
+    they are simply awesome just now. The rest is just math that helps the deck 
+    flow. It's all about the cardflow, because eventho you will discard stuff to
+    HL:R, you still want to have the hand that wins the combats. Rego Motum is 
+    just better than Sideslip, Soul Burn delays the problem-> Fast Hands solves 
+    it. Kasim is too big for the deck
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 26
+  crypt_avg: 5.33
+  crypt:
+  - count: 3
+    name: Kassandra Tassaki
+    capacity: 6
+    disciplines: obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 3
+    name: Warmaksan
+    capacity: 5
+    disciplines: cel obf THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Farah Sarroub
+    capacity: 7
+    disciplines: aus obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Khadija Al-Kindi
+    capacity: 6
+    disciplines: CEL OBF THA
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Greg Mazouni
+    capacity: 4
+    disciplines: cel obf tha
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Nayarana
+    capacity: 4
+    disciplines: cel THA
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Bijou
+    capacity: 3
+    disciplines: cel tha
+    clan: Banu Haqim
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 6
+      name: "Haqim's Law: Retribution"
+    - count: 1
+      name: 'Khabar: Community, The'
+    - count: 1
+      name: Market Square
+    - count: 3
+      name: Priority Contract
+    - count: 4
+      name: Villein
+  - name: Action
+    count: 8
+    cards:
+    - count: 4
+      name: Hunter's Mark
+    - count: 4
+      name: 'Judgment: Camarilla Segregation'
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Disputed Territory
+  - name: Action Modifier/Combat
+    count: 9
+    cards:
+    - count: 4
+      name: Resist Earth's Grasp
+    - count: 5
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 8
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 44
+    cards:
+    - count: 2
+      name: Blood Rage
+    - count: 5
+      name: Blur
+    - count: 2
+      name: Fast Hands
+    - count: 14
+      name: Hunger of Marduk
+    - count: 5
+      name: Psyche!
+    - count: 8
+      name: Pursuit
+    - count: 4
+      name: Quickness
+    - count: 4
+      name: Rego Motum
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds

@@ -1,0 +1,133 @@
+name: The Eve before the Night
+location: Vilnius, Lithuania
+date_start: 2025-02-28
+rounds_format: 2R+F
+players_count: 31
+winner: Bram Van Stappen
+vekn_number: 1820002
+event_url: https://www.vekn.net/event-calendar/event/11950
+event_id: 11950
+forum_post_url: https://www.vekn.net/event-calendar/event/11950
+deck:
+  name: Yesterday's Brutalism
+  description: don't try this at home unless it's yesterday
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 40
+  crypt_avg: 5.08
+  crypt:
+  - count: 5
+    name: Shalmath
+    capacity: 10
+    disciplines: POT PRE TEM
+    clan: True Brujah
+    grouping: 6
+  - count: 1
+    name: Andre LeRoux
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Alu
+    capacity: 2
+    disciplines: obf
+    clan: Banu Haqim
+    grouping: 5
+  - count: 1
+    name: Alex Wilkins
+    capacity: 1
+    disciplines: cel
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Donald Cargill
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Freddy Gage
+    capacity: 1
+    disciplines: pot
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Walker Grimes
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 5
+  library_count: 69
+  library_sections:
+  - name: Master
+    count: 9
+    cards:
+    - count: 6
+      name: Ashur Tablets
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Tabriz Assembly
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 12
+    cards:
+    - count: 1
+      name: Ambush
+    - count: 1
+      name: Big Game
+    - count: 1
+      name: Bum's Rush
+    - count: 1
+      name: Dark Mirror of the Mind
+    - count: 1
+      name: Hourglass of the Mind
+    - count: 7
+      name: Summon History
+  - name: Ally
+    count: 4
+    cards:
+    - count: 1
+      name: Gregory Winter
+    - count: 1
+      name: Mylan Horseed
+    - count: 1
+      name: Nephandus
+    - count: 1
+      name: Tye Cooper
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Eye of Hazimel
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 1
+      name: Talbot's Chainsaw
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 6
+      name: Domain of Evernight
+    - count: 2
+      name: Enkil Cog
+  - name: Combat
+    count: 32
+    cards:
+    - count: 3
+      name: Decapitate
+    - count: 7
+      name: Disarm
+    - count: 8
+      name: Majesty
+    - count: 10
+      name: Outside the Hourglass
+    - count: 4
+      name: Taste of Vitae

@@ -1,0 +1,169 @@
+name: Sede de Vitae Part 26
+location: Online
+date_start: 2021-12-13
+date_end: 2021-12-15
+rounds_format: 2R+F
+players_count: 16
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/10008
+event_id: 10008
+forum_post_url: https://www.vekn.net/event-calendar/event/10008
+deck:
+  name: Tributo a Paulão
+  description: ''
+  crypt_count: 12
+  crypt_min: 11
+  crypt_max: 22
+  crypt_avg: 4.0
+  crypt:
+  - count: 2
+    name: Nathan Turner
+    capacity: 4
+    disciplines: ani PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 2
+    name: Indira
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Casey Snyder
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Martina Srnankova
+    capacity: 6
+    disciplines: ani FOR PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Dario Ziggler
+    capacity: 5
+    disciplines: ani pro tha FOR
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Kamile Paukstys
+    capacity: 5
+    disciplines: ani for PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Hanna Nokelainen
+    capacity: 4
+    disciplines: ani for pro
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Joaquín de Cádiz
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Joseph Fischer
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel antitribu
+    grouping: 5
+  - count: 1
+    name: Ruslan Fedorenko
+    capacity: 2
+    disciplines: pro
+    clan: Gangrel
+    grouping: 6
+  library_count: 89
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 1
+      name: Anarch Railroad
+    - count: 1
+      name: Backways
+    - count: 1
+      name: Blood Doll
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Ecoterrorists
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Rack, The
+    - count: 4
+      name: Smiling Jack, The Anarch
+    - count: 2
+      name: Vessel
+  - name: Action
+    count: 15
+    cards:
+    - count: 4
+      name: Constant Revolution
+    - count: 3
+      name: Deep Song
+    - count: 3
+      name: Rewilding
+    - count: 5
+      name: Thing
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Double Deuce
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Laptop Computer
+  - name: Retainer
+    count: 5
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+    - count: 1
+      name: Mr. Winthrop
+    - count: 2
+      name: Raven Spy
+    - count: 1
+      name: Tasha Morgan
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 6
+      name: Earth Control
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Form of the Bat
+  - name: Reaction
+    count: 19
+    cards:
+    - count: 3
+      name: Deep Ecology
+    - count: 6
+      name: Eyes of the Wild
+    - count: 2
+      name: On the Qui Vive
+    - count: 3
+      name: Party Out Of Bounds
+    - count: 5
+      name: Protection Racket
+  - name: Combat
+    count: 24
+    cards:
+    - count: 6
+      name: Donnybrook
+    - count: 15
+      name: Earth Meld
+    - count: 3
+      name: Form of Mist

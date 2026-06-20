@@ -1,0 +1,132 @@
+name: Zombies are everywhere
+location: Online
+date_start: 2025-04-27
+rounds_format: 2R+F
+players_count: 23
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/12301
+event_id: 12301
+vp_comment: 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12301
+deck:
+  name: Mono animalismo Anarch
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 29
+  crypt_avg: 6.0
+  crypt:
+  - count: 2
+    name: Ángel Guerrero
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Massimiliano
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 2
+    name: Branimira
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Kuyén
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Adrino Manauara
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Doc Martina
+    capacity: 6
+    disciplines: for pre ANI OBF
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Susie Kano
+    capacity: 3
+    disciplines: ani dom
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Trung Chau Pham
+    capacity: 3
+    disciplines: ANI
+    clan: Ravnos
+    grouping: 7
+  library_count: 85
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 8
+      name: Anarch Revolt
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Fame
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Rack, The
+    - count: 1
+      name: Tension in the Ranks
+    - count: 3
+      name: Vessel
+    - count: 2
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 12
+    cards:
+    - count: 12
+      name: Deep Song
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Ivory Bow
+  - name: Retainer
+    count: 3
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+    - count: 2
+      name: Raven Spy
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 6
+      name: Bait and Switch
+    - count: 8
+      name: Organized Resistance
+  - name: Combat
+    count: 36
+    cards:
+    - count: 12
+      name: Aid from Bats
+    - count: 10
+      name: Carrion Crows
+    - count: 6
+      name: Drawing Out the Beast
+    - count: 4
+      name: Taste of Vitae
+    - count: 4
+      name: Terror Frenzy

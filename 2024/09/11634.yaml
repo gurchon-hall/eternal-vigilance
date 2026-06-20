@@ -1,0 +1,181 @@
+name: Bem vindo Ben Peal
+location: Campina Grande (PB), Brazil
+date_start: 2024-09-04
+rounds_format: 2R+F
+players_count: 18
+winner: Rafael Barbosa da Silva
+vekn_number: 7060055
+event_url: https://www.vekn.net/event-calendar/event/11634
+event_id: 11634
+forum_post_url: https://www.vekn.net/event-calendar/event/11634
+deck:
+  name: The Roar of the Spark
+  description: ''
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 28
+  crypt_avg: 5.0
+  crypt:
+  - count: 2
+    name: Ferox, The Rock Lord (ADV)
+    capacity: 7
+    disciplines: ani FOR POT VIS
+    clan: Gargoyle
+    grouping: 2
+  - count: 1
+    name: Ferox, The Rock Lord
+    capacity: 7
+    disciplines: ani FOR POT VIS
+    clan: Gargoyle
+    grouping: 2
+  - count: 1
+    name: Ublo-Satha
+    capacity: 7
+    disciplines: cel FOR POT VIS
+    clan: Gargoyle
+    grouping: 2
+  - count: 1
+    name: Saxum, Master of Slaves
+    capacity: 6
+    disciplines: pot pre FOR VIS
+    clan: Gargoyle
+    grouping: 2
+  - count: 1
+    name: Luma, Stone Beauty
+    capacity: 5
+    disciplines: aus pot vis FOR
+    clan: Gargoyle
+    grouping: 2
+  - count: 1
+    name: Obsidian
+    capacity: 5
+    disciplines: for pot VIS
+    clan: Gargoyle
+    grouping: 2
+  - count: 1
+    name: Fidus, The Shrunken Beast
+    capacity: 4
+    disciplines: for tha vis
+    clan: Gargoyle
+    grouping: 2
+  - count: 1
+    name: Ignatius
+    capacity: 4
+    disciplines: aus dom tha
+    clan: Tremere
+    grouping: 1
+  - count: 1
+    name: Erinyi
+    capacity: 3
+    disciplines: pot vis
+    clan: Gargoyle
+    grouping: 2
+  - count: 1
+    name: Jing Wei
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere
+    grouping: 1
+  - count: 1
+    name: Roreca Quaid
+    capacity: 2
+    disciplines: tha
+    clan: Tremere
+    grouping: 1
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 1
+      name: Academic Hunting Ground
+    - count: 1
+      name: Blood Doll
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Haven Uncovered
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Sudden Reversal
+    - count: 1
+      name: Tension in the Ranks
+    - count: 2
+      name: Vessel
+    - count: 1
+      name: Villein
+    - count: 2
+      name: Wider View
+  - name: Action
+    count: 9
+    cards:
+    - count: 1
+      name: Ambush
+    - count: 1
+      name: Children of Stone
+    - count: 6
+      name: Dive Bomb
+    - count: 1
+      name: Harass
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Stone Dog
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 3
+      name: As the Crow
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 2
+      name: On the Qui Vive
+    - count: 2
+      name: Voices of the Castle
+    - count: 2
+      name: Wake with Evening's Freshness
+  - name: Combat
+    count: 57
+    cards:
+    - count: 5
+      name: Brick by Brick
+    - count: 1
+      name: Crawling Chamber
+    - count: 1
+      name: Disarm
+    - count: 9
+      name: Immortal Grapple
+    - count: 1
+      name: Lead Fist
+    - count: 4
+      name: Pounce
+    - count: 8
+      name: Raking Talons
+    - count: 2
+      name: Rolling with the Punches
+    - count: 4
+      name: Roundhouse
+    - count: 1
+      name: Skin of Rock
+    - count: 1
+      name: Skin of Steel
+    - count: 8
+      name: Stonestrength
+    - count: 1
+      name: Superior Mettle
+    - count: 2
+      name: Taste of Vitae
+    - count: 8
+      name: Torn Signpost
+    - count: 1
+      name: Unflinching Persistence
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound

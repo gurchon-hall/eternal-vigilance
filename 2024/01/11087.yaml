@@ -1,0 +1,149 @@
+name: Domain Established tournament
+location: Bratislava, Slovakia
+date_start: 2024-01-20
+rounds_format: 2R+F
+players_count: 20
+winner: Robert Dvoran
+vekn_number: 3030024
+event_url: https://www.vekn.net/event-calendar/event/11087
+event_id: 11087
+forum_post_url: https://www.vekn.net/event-calendar/event/11087
+deck:
+  name: Fat & Suave
+  description: ''
+  crypt_count: 12
+  crypt_min: 31
+  crypt_max: 40
+  crypt_avg: 9.08
+  crypt:
+  - count: 3
+    name: Ambrosio Luis Monçada, Plenipotentiary
+    capacity: 10
+    disciplines: aus for DOM OBT POT PRE
+    title: Cardinal
+    clan: Lasombra
+    grouping: 2
+  - count: 2
+    name: Marcus Vitel
+    capacity: 10
+    disciplines: DOM FOR OBF OBT PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Marcus Vitel (ADV)
+    capacity: 10
+    disciplines: DOM FOR OBF OBT POT PRE
+    clan: Lasombra
+    grouping: 3
+  - count: 2
+    name: Francisco Domingo de Polonia
+    capacity: 9
+    disciplines: pro DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 2
+    name: Tobias Smith
+    capacity: 7
+    disciplines: pot DOM OBT PRE
+    clan: Lasombra
+    grouping: 3
+  - count: 1
+    name: Alvaro, The Scion of Angelica
+    capacity: 9
+    disciplines: dom pre OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Gratiano
+    capacity: 8
+    disciplines: obf pot DOM OBT
+    title: Priscus
+    clan: Lasombra
+    grouping: 2
+  library_count: 83
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Black Forest Base
+    - count: 4
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Elysian Fields
+    - count: 6
+      name: Minion Tap
+    - count: 1
+      name: Monastery of Shadows
+    - count: 5
+      name: Zillah's Valley
+  - name: Action
+    count: 7
+    cards:
+    - count: 2
+      name: Entrancement
+    - count: 5
+      name: Govern the Unaligned
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Zaire River Ferry
+  - name: Political Action
+    count: 12
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancient Influence
+    - count: 2
+      name: Banishment
+    - count: 2
+      name: Cardinal Benediction
+    - count: 1
+      name: Conservative Agitation
+    - count: 4
+      name: Kine Resources Contested
+    - count: 1
+      name: Political Stranglehold
+  - name: Action Modifier
+    count: 26
+    cards:
+    - count: 2
+      name: Bewitching Oration
+    - count: 1
+      name: Enkil Cog
+    - count: 4
+      name: Freak Drive
+    - count: 4
+      name: Iron Glare
+    - count: 4
+      name: Shadow Play
+    - count: 3
+      name: Shroud of Absence
+    - count: 3
+      name: Tenebrous Form
+    - count: 5
+      name: Voter Captivation
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 6
+      name: Deflection
+    - count: 5
+      name: Obedience
+    - count: 3
+      name: On the Qui Vive
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Majesty

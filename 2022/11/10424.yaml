@@ -1,0 +1,144 @@
+name: English NC 2022
+location: Leeds, England
+date_start: 2022-11-12
+rounds_format: 3R+F
+players_count: 21
+winner: Tibor Morocz
+vekn_number: 3540011
+event_url: https://www.vekn.net/event-calendar/event/10424
+event_id: 10424
+vp_comment: 2GW7 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10424
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 29
+  crypt_avg: 6.67
+  crypt:
+  - count: 4
+    name: Aline Gädeke
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Carlak
+    capacity: 8
+    disciplines: dom pot CEL PRE
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Tara
+    capacity: 6
+    disciplines: cel POT PRE
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Anarch Railroad
+    - count: 1
+      name: Anarch Troublemaker
+    - count: 1
+      name: Carfax Abbey
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 2
+      name: Grooming the Protégé
+      comment: was a bad idea - include Blood Doll instead
+    - count: 5
+      name: New Carthage
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+    - count: 6
+      name: Villein
+    - count: 2
+      name: Wider View
+  - name: Action
+    count: 12
+    cards:
+    - count: 1
+      name: Anarch Secession
+    - count: 2
+      name: Field Training
+      comment: misread, useless in this deck - remove this!!!
+    - count: 9
+      name: Illegalism
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Political Action
+    count: 19
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 4
+      name: Consanguineous Boon
+    - count: 1
+      name: Firebrand
+    - count: 7
+      name: Kine Resources Contested
+    - count: 1
+      name: My Kin Against the World
+    - count: 1
+      name: Patsy
+    - count: 3
+      name: Reckless Agitation
+    - count: 1
+      name: Revolutionary Council
+  - name: Action Modifier
+    count: 18
+    cards:
+    - count: 1
+      name: Perfect Paragon
+    - count: 10
+      name: Power of One
+    - count: 7
+      name: Voter Captivation
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Scalpel Tongue
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 6
+      name: Bait and Switch
+    - count: 4
+      name: On the Qui Vive
+  - name: Combat
+    count: 8
+    cards:
+    - count: 8
+      name: Majesty

@@ -1,0 +1,151 @@
+name: Tournoi Vitrolles
+location: Vitrolles, France
+date_start: 2022-03-20
+rounds_format: 3R+F
+players_count: 10
+winner: Orian Gissler
+vekn_number: 8350023
+event_url: https://www.vekn.net/event-calendar/event/10098
+event_id: 10098
+vp_comment: 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10098
+deck:
+  name: Enkidu
+  created_by: Ankha
+  description: ''
+  crypt_count: 13
+  crypt_min: 7
+  crypt_max: 44
+  crypt_avg: 6.23
+  crypt:
+  - count: 5
+    name: Enkidu, The Noah
+    capacity: 11
+    disciplines: for ANI CEL OBF POT PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 2
+    name: Andre LeRoux
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Matasuntha
+    capacity: 10
+    disciplines: ANI AUS CEL FOR PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: T.J.
+    capacity: 3
+    disciplines: cel for
+    clan: Gangrel
+    grouping: 4
+  - count: 1
+    name: Clifton Derrik
+    capacity: 2
+    disciplines: cel
+    clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Leo Washington
+    capacity: 2
+    disciplines: cel pro
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Sean Andrews
+    capacity: 2
+    disciplines: cel
+    clan: Toreador
+    grouping: 4
+  - count: 1
+    name: Iris Bennett
+    capacity: 1
+    disciplines: pro
+    clan: Caitiff
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 2
+      name: Archon Investigation
+    - count: 1
+      name: Fame
+    - count: 2
+      name: Guardian Angel
+    - count: 1
+      name: Monster
+    - count: 1
+      name: Sudden Reversal
+    - count: 4
+      name: Vessel
+    - count: 2
+      name: Wider View
+  - name: Action
+    count: 9
+    cards:
+    - count: 1
+      name: Abbot
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 1
+      name: Bum's Rush
+    - count: 1
+      name: Deep Song
+    - count: 1
+      name: Heroic Might
+    - count: 1
+      name: Marked Territory
+    - count: 1
+      name: Rumble
+    - count: 1
+      name: Sense Death
+    - count: 1
+      name: Taunt the Caged Beast
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: Homunculus
+    - count: 1
+      name: Raven Spy
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Enkil Cog
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Sense the Savage Way
+  - name: Combat
+    count: 57
+    cards:
+    - count: 2
+      name: Canine Horde
+    - count: 2
+      name: Claws of the Dead
+    - count: 9
+      name: Earth Meld
+    - count: 2
+      name: Flesh of Marble
+    - count: 16
+      name: Psyche!
+    - count: 11
+      name: Pursuit
+    - count: 2
+      name: Skin of Steel
+    - count: 4
+      name: Stutter-Step
+    - count: 9
+      name: Taste of Vitae

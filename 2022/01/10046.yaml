@@ -1,0 +1,140 @@
+name: Retaliação
+location: Online
+date_start: 2022-01-16
+rounds_format: 2R+F
+players_count: 13
+winner: Delmar Sittoni
+vekn_number: 1003691
+event_url: https://www.vekn.net/event-calendar/event/10046
+event_id: 10046
+forum_post_url: https://www.vekn.net/event-calendar/event/10046
+deck:
+  name: Brujah 5.0
+  description: ''
+  crypt_count: 12
+  crypt_min: 19
+  crypt_max: 32
+  crypt_avg: 6.5
+  crypt:
+  - count: 4
+    name: Theo Bell
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Aline Gädeke
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Octane
+    capacity: 6
+    disciplines: CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Elen Kamjian
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Ariane
+    capacity: 3
+    disciplines: cel pot pre
+    clan: Brujah
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 6
+      name: Anarch Revolt
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Rack, The
+    - count: 7
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 9
+    cards:
+    - count: 2
+      name: Line Brawl
+    - count: 7
+      name: Show of Force
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 2
+      name: Iron Glare
+    - count: 2
+      name: Power of One
+    - count: 2
+      name: Zephyr
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Resist Earth's Grasp
+  - name: Reaction
+    count: 13
+    cards:
+    - count: 6
+      name: Bait and Switch
+    - count: 7
+      name: Organized Resistance
+  - name: Combat
+    count: 39
+    cards:
+    - count: 2
+      name: Bollix
+    - count: 5
+      name: Dust Up
+    - count: 6
+      name: Hell-for-Leather
+    - count: 7
+      name: Immortal Grapple
+    - count: 4
+      name: Pursuit
+    - count: 3
+      name: Quickness
+    - count: 2
+      name: Roundhouse
+    - count: 5
+      name: Taste of Vitae
+    - count: 5
+      name: Torn Signpost

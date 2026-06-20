@@ -1,0 +1,168 @@
+name: Nosferatu Hosting Loughman's Birthday
+location: Heath (OH), USA
+date_start: 2021-12-05
+rounds_format: 2R+F
+players_count: 13
+winner: Karl Schaefer
+vekn_number: 1003455
+event_url: https://www.vekn.net/event-calendar/event/9953
+event_id: 9953
+vp_comment: 2GW8 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9953
+deck:
+  name: Shambling into the Void
+  description: I was hoping to play the new Ministry today, but with so many 
+    others planning to do
+  crypt_count: 13
+  crypt_min: 15
+  crypt_max: 36
+  crypt_avg: 6.46
+  crypt:
+  - count: 5
+    name: Angelique
+    capacity: 9
+    disciplines: AUS FOR NEC SER THA
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 2
+    name: Hecate
+    capacity: 6
+    disciplines: AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 2
+    name: La Viuda Blanca
+    capacity: 6
+    disciplines: for obf AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: America Johnson
+    capacity: 4
+    disciplines: vic AUS
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Pearl
+    capacity: 4
+    disciplines: obf AUS
+    clan: Malkavian antitribu
+    grouping: 5
+  - count: 1
+    name: Tyler McGill
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Veejay Vinod
+    capacity: 3
+    disciplines: AUS
+    clan: Nagaraja
+    grouping: 6
+  library_count: 72
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Barrens, The
+    - count: 2
+      name: Blood Doll
+    - count: 1
+      name: Direct Intervention
+    - count: 4
+      name: Dreams of the Sphinx
+      comment: this is from a phase of my deckbuilding where I relied on Dreams 
+        too much; 2 of these should be Villeins
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: Mob Connections
+    - count: 2
+      name: Perfectionist
+    - count: 1
+      name: Wider View
+  - name: Ally
+    count: 21
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+    - count: 7
+      name: Emerald Legionnaire
+      comment: always try to recruit; I usually never recycle more than 3
+    - count: 1
+      name: Mylan Horseed
+      comment: never saw today; could probably be something else the unlock 
+        isn't critical, but the cheap bleeding is
+    - count: 12
+      name: Shambling Hordes
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      comment: discarded every time I saw it; smaller decks seems good without 
+        it
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 4
+      name: Call of the Hungry Dead
+      comment: the stealth package is light, so you have to time actions 
+        depending on potential blockers
+    - count: 2
+      name: Trochomancy
+      comment: ousts mostly with lots of bleeds for 1, these are to throw off 
+        the math
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Breath of Thanatos
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Spectral Divination
+      comment: was more useful for intercept today; if intending to block a NEC 
+        vampire is usually the better choice for more intercept options
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 3
+      name: Eyes of Argus
+    - count: 2
+      name: Funeral Wake
+      comment: free with Angelique's special; so good when it's free
+    - count: 3
+      name: My Enemy's Enemy
+    - count: 3
+      name: On the Qui Vive
+    - count: 3
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 5
+    cards:
+    - count: 2
+      name: Fake Out
+    - count: 2
+      name: Target Vitals
+      comment: just enough surprises to make them think
+    - count: 1
+      name: Trap
+  - name: Event
+    count: 4
+    cards:
+    - count: 1
+      name: Dragonbound
+      comment: managed my final oust in round 1 with this; sometimes important, 
+        sometimes not
+    - count: 1
+      name: FBI Special Affairs Division
+      comment: so critical against the Fortitude vampires I encountered
+    - count: 2
+      name: Unmasking, The
+      comment: this card is broken

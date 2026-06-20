@@ -1,0 +1,168 @@
+name: 1° campeonato Amontadence
+location: Amontada (CE), Brazil
+date_start: 2023-07-02
+rounds_format: 2R+F
+players_count: 14
+winner: Roner Oliveira
+vekn_number: 7300001
+event_url: https://www.vekn.net/event-calendar/event/10795
+event_id: 10795
+forum_post_url: https://www.vekn.net/event-calendar/event/10795
+deck:
+  name: Dia de Los Muertos
+  description: Invasão Sabbat
+  crypt_count: 15
+  crypt_min: 4
+  crypt_max: 9
+  crypt_avg: 1.6
+  crypt:
+  - count: 1
+    name: Caroline Bishops
+    capacity: 3
+    disciplines: cel for pot
+    clan: Pander
+    grouping: 4
+  - count: 1
+    name: Bloodfeud
+    capacity: 2
+    disciplines: obf
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Jacob, The Glitch
+    capacity: 2
+    disciplines: THA
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Jesús Alcalá
+    capacity: 2
+    disciplines: cel
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 1
+    name: Justine Chen, Innocent
+    capacity: 2
+    disciplines: pre
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Mary Johnson
+    capacity: 2
+    disciplines: for pre
+    clan: Pander
+    grouping: 4
+  - count: 1
+    name: Old Neddacka
+    capacity: 2
+    disciplines: obf
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 1
+    name: Feo Ramos
+    capacity: 1
+    disciplines: aus
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Jaggedy Andy
+    capacity: 1
+    disciplines: pot
+    clan: Pander
+    grouping: 4
+  - count: 1
+    name: Kai Simmons
+    capacity: 1
+    disciplines: cel
+    clan: Pander
+    grouping: 4
+  - count: 1
+    name: Margarite
+    capacity: 1
+    disciplines: obt
+    clan: Pander
+    grouping: 4
+  - count: 1
+    name: Olga Triminov
+    capacity: 1
+    disciplines: vic
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Schuyler
+    capacity: 1
+    disciplines: tha
+    clan: Pander
+    grouping: 4
+  library_count: 73
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Antediluvian Awakening
+    - count: 1
+      name: Barrens, The
+    - count: 3
+      name: Blood Doll
+    - count: 1
+      name: Día de los Muertos
+    - count: 2
+      name: Direct Intervention
+    - count: 4
+      name: Effective Management
+    - count: 4
+      name: Information Highway
+    - count: 1
+      name: Sudden Reversal
+  - name: Political Action
+    count: 56
+    cards:
+    - count: 1
+      name: Banishment
+    - count: 5
+      name: Consanguineous Boon
+    - count: 14
+      name: Conservative Agitation
+    - count: 1
+      name: 'Crusade: Amsterdam'
+    - count: 1
+      name: 'Crusade: Aragon'
+    - count: 1
+      name: 'Crusade: Atlanta'
+    - count: 1
+      name: 'Crusade: Berlin'
+    - count: 1
+      name: 'Crusade: Chicago'
+    - count: 1
+      name: 'Crusade: Detroit'
+    - count: 1
+      name: 'Crusade: Dublin'
+    - count: 1
+      name: 'Crusade: Frankfurt'
+    - count: 1
+      name: 'Crusade: Geneva'
+    - count: 1
+      name: 'Crusade: Houston'
+    - count: 1
+      name: 'Crusade: Istanbul'
+    - count: 1
+      name: 'Crusade: London'
+    - count: 1
+      name: 'Crusade: Miami'
+    - count: 1
+      name: 'Crusade: Paris'
+    - count: 1
+      name: 'Crusade: Philadelphia'
+    - count: 1
+      name: 'Crusade: Pittsburgh'
+    - count: 1
+      name: 'Crusade: Washington, D.C.'
+    - count: 1
+      name: Disputed Territory
+    - count: 1
+      name: Kindred Segregation
+    - count: 16
+      name: Kine Resources Contested
+    - count: 1
+      name: Peace Treaty

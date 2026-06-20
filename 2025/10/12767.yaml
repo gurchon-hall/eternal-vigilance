@@ -1,0 +1,139 @@
+name: Alexandre Koch
+location: Fortaleza (CE), Brazil
+date_start: 2025-10-25
+rounds_format: 2R+F
+players_count: 18
+winner: Vinicius Holanda
+vekn_number: 7304002
+event_url: https://www.vekn.net/event-calendar/event/12767
+event_id: 12767
+vp_comment: 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12767
+deck:
+  name: As Sentinelas Tremere
+  description: ''
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 28
+  crypt_avg: 5.67
+  crypt:
+  - count: 4
+    name: Alabástrom
+    capacity: 7
+    disciplines: aus cel for POT VIS
+    clan: Gargoyle
+    grouping: 6
+  - count: 4
+    name: Chalcedony
+    capacity: 7
+    disciplines: FOR POT THA VIS
+    clan: Gargoyle
+    grouping: 6
+  - count: 4
+    name: Monica Chang
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 2
+      name: Anarch Revolt
+    - count: 2
+      name: Blood Doll
+    - count: 1
+      name: Direct Intervention
+    - count: 1
+      name: Elder Library
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Heidelberg Castle, Germany
+    - count: 1
+      name: Parthenon, The
+    - count: 1
+      name: Path of Service, The
+    - count: 1
+      name: Perfectionist
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Protected Resources
+    - count: 1
+      name: Rack, The
+    - count: 1
+      name: Smiling Jack, The Anarch
+    - count: 1
+      name: Vessel
+  - name: Action
+    count: 11
+    cards:
+    - count: 1
+      name: Armor of Terra
+    - count: 7
+      name: Children of Stone
+    - count: 1
+      name: Constant Revolution
+    - count: 1
+      name: Dive Bomb
+    - count: 1
+      name: Preternatural Strength
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Kevlar Vest
+  - name: Retainer
+    count: 9
+    cards:
+    - count: 8
+      name: Razor Bat
+    - count: 1
+      name: Stone Dog
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 3
+      name: As the Crow
+    - count: 2
+      name: Conscripted Statue
+    - count: 2
+      name: Skin of the Chameleon
+  - name: Reaction
+    count: 21
+    cards:
+    - count: 3
+      name: Deflection
+    - count: 2
+      name: Delaying Tactics
+    - count: 7
+      name: Forced Awakening
+    - count: 4
+      name: On the Qui Vive
+    - count: 2
+      name: Scry the Hearthstone
+    - count: 3
+      name: Voices of the Castle
+  - name: Combat
+    count: 24
+    cards:
+    - count: 5
+      name: Brick by Brick
+    - count: 3
+      name: Diversion
+    - count: 5
+      name: Immortal Grapple
+    - count: 4
+      name: Raking Talons
+    - count: 5
+      name: Rockheart
+    - count: 2
+      name: Stonestrength
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound

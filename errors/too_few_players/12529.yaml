@@ -1,0 +1,177 @@
+name: Sem hora pra parar 01
+location: Campina Grande (PB), Brazil
+date_start: 2025-07-25
+rounds_format: 2R+F
+players_count: 10
+winner: José Roberio Barbosa da Silva
+vekn_number: 1004066
+event_url: https://www.vekn.net/event-calendar/event/12529
+event_id: 12529
+vp_comment: 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12529
+deck:
+  name: Mono Aus
+  description: ''
+  crypt_count: 12
+  crypt_min: 8
+  crypt_max: 16
+  crypt_avg: 3.0
+  crypt:
+  - count: 1
+    name: Aleph
+    capacity: 4
+    disciplines: dom AUS
+    clan: Malkavian
+    grouping: 1
+  - count: 1
+    name: Dorian Strack
+    capacity: 4
+    disciplines: cel AUS
+    clan: Toreador
+    grouping: 1
+  - count: 1
+    name: Idalia, Prophet of Guadalajara
+    capacity: 4
+    disciplines: dem AUS
+    clan: Malkavian antitribu
+    grouping: 2
+  - count: 1
+    name: Remilliard, Devout Crusader
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador antitribu
+    grouping: 2
+  - count: 1
+    name: Dan Murdock
+    capacity: 3
+    disciplines: aus obf
+    clan: Caitiff
+    grouping: 1
+  - count: 1
+    name: Dollface
+    capacity: 3
+    disciplines: aus obf
+    clan: Malkavian
+    grouping: 1
+  - count: 1
+    name: Isabel de Leon
+    capacity: 3
+    disciplines: AUS
+    clan: Toreador
+    grouping: 2
+  - count: 1
+    name: Regilio, The Seeker of Akhenaten
+    capacity: 3
+    disciplines: aus obf
+    clan: Nosferatu
+    grouping: 2
+  - count: 1
+    name: Zöe
+    capacity: 3
+    disciplines: cel obf AUS
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Brazil
+    capacity: 2
+    disciplines: aus
+    clan: Malkavian
+    grouping: 1
+  - count: 1
+    name: Dieter Kleist
+    capacity: 2
+    disciplines: aus
+    clan: Toreador
+    grouping: 1
+  - count: 1
+    name: Franciscus
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 27
+    cards:
+    - count: 1
+      name: Archon Investigation
+    - count: 1
+      name: Asylum Hunting Ground
+    - count: 1
+      name: Auspex
+    - count: 1
+      name: Club Zombie
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Elder Library
+    - count: 1
+      name: Humanitas
+    - count: 1
+      name: KRCG News Radio
+    - count: 1
+      name: Parthenon, The
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Rack, The
+    - count: 6
+      name: Smiling Jack, The Anarch
+    - count: 4
+      name: Sudden Reversal
+    - count: 1
+      name: Tribute to the Master
+    - count: 4
+      name: Vessel
+    - count: 1
+      name: Wall Street Night, Financial Newspaper
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Muddled Vampire Hunter
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 1
+      name: .44 Magnum
+    - count: 1
+      name: Bowl of Convergence
+    - count: 4
+      name: Sniper Rifle
+  - name: Reaction
+    count: 47
+    cards:
+    - count: 7
+      name: Eagle's Sight
+    - count: 6
+      name: Enhanced Senses
+    - count: 8
+      name: Eyes of Argus
+    - count: 4
+      name: Forced Awakening
+    - count: 2
+      name: Melange
+    - count: 2
+      name: On the Qui Vive
+    - count: 7
+      name: Precognition
+    - count: 3
+      name: Spirit's Touch
+    - count: 8
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 8
+    cards:
+    - count: 3
+      name: Concealed Weapon
+    - count: 2
+      name: Fake Out
+    - count: 3
+      name: Read Intentions
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Fourth Cycle, The

@@ -1,0 +1,149 @@
+name: Joel Oliveira
+location: Fortaleza (CE), Brazil
+date_start: 2024-10-06
+rounds_format: 2R+F
+players_count: 16
+winner: Mailton Silva
+vekn_number: 4790003
+event_url: https://www.vekn.net/event-calendar/event/11735
+event_id: 11735
+vp_comment: 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11735
+deck:
+  name: Guabiru ( SÓ TENHO UM DECK )
+  description: Esse deck foi pra provar ao Thiago Rafael que os Nosferatus podem
+    ganhar também.
+  crypt_count: 12
+  crypt_min: 23
+  crypt_max: 40
+  crypt_avg: 8.17
+  crypt:
+  - count: 4
+    name: Servius Marius Pustula
+    capacity: 10
+    disciplines: obf ANI CHI DOM OBT POT
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 3
+    name: Julio Martinez
+    capacity: 9
+    disciplines: nec ANI DOM OBF POT
+    title: Bishop
+    clan: Nosferatu antitribu
+    grouping: 3
+  - count: 2
+    name: Len Konopka
+    capacity: 8
+    disciplines: dom ser ANI OBF POT
+    clan: Nosferatu antitribu
+    grouping: 3
+  - count: 1
+    name: Gustaphe Brunnelle
+    capacity: 8
+    disciplines: obf ANI DOM POT
+    title: Primogen
+    clan: Nosferatu
+    grouping: 4
+  - count: 1
+    name: Joseph Cambridge
+    capacity: 6
+    disciplines: ani dom obf POT
+    title: Bishop
+    clan: Nosferatu antitribu
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 6
+      name: Ashur Tablets
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Fame
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Information Network
+    - count: 1
+      name: Nosferatu Kingdom
+    - count: 1
+      name: Perfectionist
+    - count: 1
+      name: Shanty Town Hunting Ground
+    - count: 1
+      name: Using the Advantage
+    - count: 3
+      name: Vessel
+    - count: 2
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 15
+    cards:
+    - count: 1
+      name: Abbot
+    - count: 1
+      name: Black Metamorphosis
+    - count: 5
+      name: Deep Song
+    - count: 6
+      name: Govern the Unaligned
+    - count: 1
+      name: Sensory Deprivation
+    - count: 1
+      name: Under Siege
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 2
+      name: Conditioning
+    - count: 1
+      name: Enkil Cog
+    - count: 2
+      name: Gang Tactics
+    - count: 1
+      name: Hidden Lurker
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Shadow Boxing
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 1
+      name: Cats' Guidance
+    - count: 1
+      name: Confusion of the Eye
+    - count: 7
+      name: Deflection
+    - count: 1
+      name: Delaying Tactics
+    - count: 2
+      name: Guard Dogs
+    - count: 2
+      name: On the Qui Vive
+    - count: 2
+      name: Rat's Warning
+  - name: Combat
+    count: 31
+    cards:
+    - count: 2
+      name: Apparition
+    - count: 2
+      name: Behind You!
+    - count: 1
+      name: Canine Horde
+    - count: 6
+      name: Carrion Crows
+    - count: 8
+      name: Immortal Grapple
+    - count: 2
+      name: Song of Serenity
+    - count: 4
+      name: Taste of Vitae
+    - count: 6
+      name: Torn Signpost

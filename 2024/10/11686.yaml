@@ -1,0 +1,162 @@
+name: Australian New Zealand 2024 VTES Continental Championship
+location: Sydney, Australia
+date_start: 2024-10-26
+rounds_format: 3R+F
+players_count: 36
+winner: Keith Lim
+vekn_number: 4100033
+event_url: https://www.vekn.net/event-calendar/event/11686
+event_id: 11686
+forum_post_url: https://www.vekn.net/event-calendar/event/11686
+deck:
+  name: Fiend Nights at the Museum
+  description: ''
+  crypt_count: 12
+  crypt_min: 19
+  crypt_max: 30
+  crypt_avg: 6.08
+  crypt:
+  - count: 2
+    name: Adrino Manauara
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Ángel Guerrero
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Branimira
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Neserian
+    capacity: 6
+    disciplines: cel pro ANI DOM
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Clara Hjortshøj
+    capacity: 5
+    disciplines: ani aus dom PRO
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Marialena
+    capacity: 5
+    disciplines: ani DOM PRO
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Whisper
+    capacity: 5
+    disciplines: pro ANI DOM
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Prentis Derby
+    capacity: 4
+    disciplines: ani dom pro
+    clan: Tzimisce
+    grouping: 6
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 5
+      name: British Museum, London, The
+    - count: 1
+      name: Carfax Abbey
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Heidelberg Castle, Germany
+    - count: 2
+      name: Two Wrongs
+    - count: 3
+      name: Villein
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 8
+    cards:
+    - count: 8
+      name: Govern the Unaligned
+  - name: Equipment
+    count: 12
+    cards:
+    - count: 1
+      name: Blood Tears of Kephran
+    - count: 2
+      name: Heart of Nizchetus
+    - count: 1
+      name: Incriminating Videotape
+    - count: 7
+      name: Living Manse
+    - count: 1
+      name: Signet of King Saul, The
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Eat the Rich
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+    - count: 1
+      name: Tasha Morgan
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 2
+      name: Conditioning
+    - count: 4
+      name: Earth Control
+    - count: 1
+      name: Foreshadowing Destruction
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Obedient Flesh
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Form of the Bat
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 4
+      name: Bait and Switch
+    - count: 4
+      name: Deep Ecology
+    - count: 6
+      name: Deflection
+    - count: 4
+      name: Guard Dogs
+  - name: Combat
+    count: 8
+    cards:
+    - count: 4
+      name: Earth Meld
+    - count: 4
+      name: Form of Mist
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: NRA PAC

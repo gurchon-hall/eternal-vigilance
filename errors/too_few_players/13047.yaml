@@ -1,0 +1,149 @@
+name: Tenha Fé
+location: Teresina, Brazil
+date_start: 2026-02-22
+rounds_format: 2R+F
+players_count: 10
+winner: David Adriano Silva Resende Leite
+vekn_number: 3560001
+event_url: https://www.vekn.net/event-calendar/event/13047
+event_id: 13047
+vp_comment: 2GW6 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13047
+deck:
+  name: Holte & Draper Lawfirm
+  description: version of ventrue lawfirm, fun deck to play
+  crypt_count: 12
+  crypt_min: 26
+  crypt_max: 32
+  crypt_avg: 7.17
+  crypt:
+  - count: 2
+    name: Alexa Draper
+    capacity: 8
+    disciplines: for pot DOM PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Lodin (Olaf Holte)
+    capacity: 8
+    disciplines: aus pro DOM FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 2
+    name: Alice Chen
+    capacity: 7
+    disciplines: dom obf FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Graham Gottesman
+    capacity: 7
+    disciplines: obf pre tha DOM FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 2
+    name: Sybren van Oosten
+    capacity: 7
+    disciplines: dom tha FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Horst von Brühl
+    capacity: 6
+    disciplines: aus dom pre FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+    - count: 2
+      name: Blood Doll
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Jake Washington
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Sudden Reversal
+    - count: 1
+      name: Uptown Hunting Ground
+    - count: 1
+      name: Ventrue Headquarters
+    - count: 2
+      name: Villein
+  - name: Action
+    count: 12
+    cards:
+    - count: 1
+      name: Dominate Kine
+    - count: 6
+      name: Enchant Kindred
+    - count: 1
+      name: Entrancement
+    - count: 4
+      name: Govern the Unaligned
+  - name: Political Action
+    count: 12
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 1
+      name: Banishment
+    - count: 3
+      name: Camarilla's Iron Fist
+    - count: 1
+      name: Expulsion
+    - count: 3
+      name: Kine Resources Contested
+    - count: 3
+      name: Parity Shift
+  - name: Action Modifier
+    count: 21
+    cards:
+    - count: 4
+      name: Bewitching Oration
+    - count: 3
+      name: Conditioning
+    - count: 2
+      name: Daring the Dawn
+    - count: 7
+      name: Freak Drive
+    - count: 3
+      name: Seduction
+    - count: 2
+      name: Voter Captivation
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 5
+      name: Deflection
+    - count: 2
+      name: On the Qui Vive
+    - count: 4
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 10
+    cards:
+    - count: 2
+      name: Hidden Strength
+    - count: 6
+      name: Majesty
+    - count: 2
+      name: Rolling with the Punches

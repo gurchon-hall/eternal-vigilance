@@ -1,0 +1,163 @@
+name: LigaFesta Campeão dos Campeões
+location: São Paulo/SP, Brazil
+date_start: 2025-12-13
+rounds_format: 2R+F
+players_count: 25
+winner: Francisco Mantovanini Carvalho
+vekn_number: 6010104
+event_url: https://www.vekn.net/event-calendar/event/12863
+event_id: 12863
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12863
+deck:
+  name: Ouvindo a VOZ
+  description: ''
+  crypt_count: 12
+  crypt_min: 31
+  crypt_max: 40
+  crypt_avg: 8.92
+  crypt:
+  - count: 4
+    name: Aaradhya, The Callous Tyrant
+    capacity: 10
+    disciplines: ANI DOM FOR POT PRE
+    title: Cardinal
+    clan: Ventrue
+    grouping: 6
+  - count: 3
+    name: Věnceslava, The Implacable
+    capacity: 9
+    disciplines: cel DOM FOR POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Dark Selina
+    capacity: 9
+    disciplines: dom for CEL POT PRE
+    title: Cardinal
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 1
+    name: Damian
+    capacity: 8
+    disciplines: for pre DOM OBL POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 6
+  - count: 1
+    name: Rexton "Savage" Abernathy
+    capacity: 8
+    disciplines: cel DOM POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Üresség
+    capacity: 8
+    disciplines: dom for CEL POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Khin Aye
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Black Forest Base
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Privileged Position
+    - count: 1
+      name: Secure Haven
+    - count: 1
+      name: Ventrue Headquarters
+    - count: 5
+      name: Villein
+  - name: Action
+    count: 8
+    cards:
+    - count: 1
+      name: Eternal Vigilance
+    - count: 6
+      name: Govern the Unaligned
+    - count: 1
+      name: Under Siege
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Ancient Influence
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 4
+      name: Banishment
+    - count: 5
+      name: Cold War
+    - count: 3
+      name: Kine Resources Contested
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reins of Power
+  - name: Action Modifier
+    count: 33
+    cards:
+    - count: 1
+      name: Daring the Dawn
+    - count: 3
+      name: Dominant Personality
+    - count: 1
+      name: Enkil Cog
+    - count: 5
+      name: Freak Drive
+    - count: 2
+      name: Iron Glare
+    - count: 2
+      name: Magnetic Authority
+    - count: 5
+      name: Perfect Paragon
+    - count: 4
+      name: Relentlessness
+    - count: 4
+      name: Unthinkable Humiliation
+    - count: 6
+      name: Voter Captivation
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Absolute Tyranny
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 6
+      name: Deflection
+    - count: 4
+      name: Obedience
+    - count: 1
+      name: On the Qui Vive
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Majesty

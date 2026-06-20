@@ -1,0 +1,165 @@
+name: 3rd Road to Pulled Fang
+location: Lichnov, Czech Republic
+date_start: 2026-02-14
+rounds_format: 3R+F
+players_count: 16
+winner: Martin Weinmayer
+vekn_number: 3340035
+event_url: https://www.vekn.net/event-calendar/event/13012
+event_id: 13012
+vp_comment: 2GW8 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13012
+deck:
+  name: The Evil Marko Experience
+  description: Deck inspired by Marko Saari
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 32
+  crypt_avg: 7.08
+  crypt:
+  - count: 3
+    name: Sergio Bueno
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Vivian VI
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Adrino Manauara
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Saku Pihlajamäki
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Ángel Guerrero
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Branimira
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Casey Snyder
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Kuyén
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 1
+      name: Anarch Railroad
+    - count: 2
+      name: Carfax Abbey
+    - count: 2
+      name: Club Illusion
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Dark Influences
+    - count: 1
+      name: Ferraille
+    - count: 2
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Opium Den
+    - count: 2
+      name: Papillon
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+    - count: 6
+      name: Villein
+  - name: Action
+    count: 6
+    cards:
+    - count: 6
+      name: Chameleon
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+    - count: 1
+      name: Sport Bike
+  - name: Political Action
+    count: 8
+    cards:
+    - count: 6
+      name: Banishment
+    - count: 2
+      name: Revolutionary Council
+  - name: Retainer
+    count: 3
+    cards:
+    - count: 2
+      name: Crypt's Sons
+    - count: 1
+      name: Mr. Winthrop
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 2
+      name: Earth Control
+    - count: 2
+      name: Monkey Wrench
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Form of the Bat
+  - name: Reaction
+    count: 22
+    cards:
+    - count: 10
+      name: Bait and Switch
+    - count: 12
+      name: Organized Resistance
+  - name: Combat
+    count: 16
+    cards:
+    - count: 10
+      name: Earth Meld
+    - count: 6
+      name: Form of Mist

@@ -1,0 +1,155 @@
+name: Crow
+location: Fortaleza (CE), Brazil
+date_start: 2025-02-09
+rounds_format: 2R+F
+players_count: 29
+winner: Vinicius Holanda
+vekn_number: 7304002
+event_url: https://www.vekn.net/event-calendar/event/11968
+event_id: 11968
+forum_post_url: https://www.vekn.net/event-calendar/event/11968
+deck:
+  name: VAMPIRE ROYALTY
+  description: ''
+  crypt_count: 12
+  crypt_min: 22
+  crypt_max: 40
+  crypt_avg: 7.67
+  crypt:
+  - count: 4
+    name: Mary Anne Blaire
+    capacity: 10
+    disciplines: ani pot AUS DOM FOR PRE
+    title: Justicar
+    clan: Ventrue
+    grouping: 5
+  - count: 3
+    name: Sybren van Oosten
+    capacity: 7
+    disciplines: dom tha FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Lodin (Olaf Holte)
+    capacity: 8
+    disciplines: aus pro DOM FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 2
+    name: Horst von Brühl
+    capacity: 6
+    disciplines: aus dom pre FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Brock Sterling
+    capacity: 3
+    disciplines: FOR
+    clan: Ventrue
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Auspex
+    - count: 2
+      name: Blood Doll
+    - count: 2
+      name: Camarilla Conclave
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Jake Washington
+    - count: 1
+      name: Misdirection
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Perfectionist
+    - count: 1
+      name: Secure Haven
+    - count: 1
+      name: Sudden Reversal
+    - count: 1
+      name: Ventrue Headquarters
+    - count: 1
+      name: Vessel
+  - name: Action
+    count: 12
+    cards:
+    - count: 5
+      name: Enchant Kindred
+    - count: 2
+      name: Entrancement
+    - count: 2
+      name: 'Judgment: Camarilla Segregation'
+    - count: 3
+      name: Scouting Mission
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Signet of King Saul, The
+  - name: Political Action
+    count: 13
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 1
+      name: Camarilla's Iron Fist
+    - count: 1
+      name: Kindred Segregation
+    - count: 5
+      name: Kine Resources Contested
+    - count: 1
+      name: Neonate Breach
+    - count: 4
+      name: Parity Shift
+  - name: Action Modifier
+    count: 27
+    cards:
+    - count: 2
+      name: Bewitching Oration
+    - count: 2
+      name: Bonding
+    - count: 2
+      name: Change of Target
+    - count: 1
+      name: Conditioning
+    - count: 1
+      name: Daring the Dawn
+    - count: 7
+      name: Freak Drive
+    - count: 2
+      name: Kiss of Ra, The
+    - count: 2
+      name: Perfect Paragon
+    - count: 4
+      name: Seduction
+    - count: 4
+      name: Voter Captivation
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 6
+      name: Deflection
+    - count: 2
+      name: 'Second Tradition: Domain'
+  - name: Combat
+    count: 12
+    cards:
+    - count: 5
+      name: Charismatic Aura
+    - count: 7
+      name: Majesty

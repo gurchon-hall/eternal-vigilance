@@ -1,0 +1,128 @@
+name: Torneio Mensal Curitiba
+location: Curitiba (PR), Brazil
+date_start: 2024-07-27
+rounds_format: 2R+F
+players_count: 12
+winner: Alex Demian
+vekn_number: 7060087
+event_url: https://www.vekn.net/event-calendar/event/11606
+event_id: 11606
+vp_comment: 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11606
+deck:
+  name: Nosferatu !Royalty
+  description: ''
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 30
+  crypt_avg: 6.5
+  crypt:
+  - count: 3
+    name: Oskar Anasov
+    capacity: 8
+    disciplines: cel pot ANI OBF
+    clan: Nosferatu
+    grouping: 6
+  - count: 3
+    name: Benedito, a Lanterna
+    capacity: 6
+    disciplines: ani aus obf POT
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  - count: 3
+    name: Jacques Rouge
+    capacity: 6
+    disciplines: ani pot pre OBF
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  - count: 3
+    name: Medic, The
+    capacity: 6
+    disciplines: dem for OBF POT
+    clan: Nosferatu
+    grouping: 5
+  library_count: 78
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+    - count: 1
+      name: Carfax Abbey
+    - count: 2
+      name: Hackerspace
+    - count: 1
+      name: Labyrinth, The
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Twilight Camp
+    - count: 3
+      name: Vessel
+    - count: 2
+      name: Villein
+    - count: 2
+      name: Warsaw Station
+  - name: Action
+    count: 8
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+    - count: 1
+      name: Army of Rats
+    - count: 6
+      name: Creeping Sabotage
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+  - name: Equipment
+    count: 9
+    cards:
+    - count: 3
+      name: .44 Magnum
+    - count: 1
+      name: Ivory Bow
+    - count: 3
+      name: Sniper Rifle
+    - count: 2
+      name: Sport Bike
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Monkey Wrench
+  - name: Action Modifier/Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Swallowed by the Night
+  - name: Reaction
+    count: 28
+    cards:
+    - count: 7
+      name: Bait and Switch
+    - count: 5
+      name: On the Qui Vive
+    - count: 9
+      name: Organized Resistance
+    - count: 2
+      name: Protection Racket
+    - count: 5
+      name: Warrens, The
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Disguised Weapon

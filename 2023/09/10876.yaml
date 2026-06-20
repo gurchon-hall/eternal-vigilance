@@ -1,0 +1,150 @@
+name: Torneio Juizdeforano 2023
+location: Juiz de Fora, Brazil
+date_start: 2023-09-02
+rounds_format: 3R+F
+players_count: 21
+winner: Leonardo Villela
+vekn_number: 6130006
+event_url: https://www.vekn.net/event-calendar/event/10876
+event_id: 10876
+vp_comment: 3GW9 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10876
+deck:
+  name: Legião Caveira
+  description: ''
+  crypt_count: 12
+  crypt_min: 21
+  crypt_max: 40
+  crypt_avg: 7.33
+  crypt:
+  - count: 4
+    name: Erlik
+    capacity: 10
+    disciplines: AUS CEL FOR NEC THN
+    clan: Harbinger of Skulls
+    grouping: 3
+  - count: 2
+    name: Erebus
+    capacity: 7
+    disciplines: dem AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 3
+  - count: 2
+    name: Nicomedes
+    capacity: 5
+    disciplines: aus for nec vic
+    clan: Harbinger of Skulls
+    grouping: 4
+  - count: 1
+    name: Babalawo Alafin
+    capacity: 7
+    disciplines: ani AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 4
+  - count: 1
+    name: Mina Grotius
+    capacity: 6
+    disciplines: cel FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 3
+  - count: 1
+    name: Zygodat
+    capacity: 6
+    disciplines: pot AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 4
+  - count: 1
+    name: Solomon Batanea
+    capacity: 5
+    disciplines: nec AUS FOR
+    clan: Harbinger of Skulls
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Barrens, The
+    - count: 2
+      name: Direct Intervention
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Jake Washington
+    - count: 5
+      name: Liquidation
+    - count: 1
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 2
+      name: Villein
+  - name: Ally
+    count: 8
+    cards:
+    - count: 8
+      name: Emerald Legionnaire
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 1
+      name: Ivory Bow
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 3
+      name: Call of the Hungry Dead
+    - count: 4
+      name: Trochomancy
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Breath of Thanatos
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Spectral Divination
+  - name: Reaction
+    count: 17
+    cards:
+    - count: 6
+      name: Eyes of Argus
+    - count: 2
+      name: My Enemy's Enemy
+    - count: 2
+      name: On the Qui Vive
+    - count: 7
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 29
+    cards:
+    - count: 2
+      name: Fake Out
+    - count: 3
+      name: Glancing Blow
+    - count: 5
+      name: Hidden Strength
+    - count: 5
+      name: Indomitability
+    - count: 3
+      name: Rolling with the Punches
+    - count: 5
+      name: Target Vitals
+    - count: 2
+      name: Taste of Vitae
+    - count: 4
+      name: Weighted Walking Stick
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+    - count: 2
+      name: Unmasking, The
