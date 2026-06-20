@@ -89,9 +89,9 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
     - count: 4
-      name: The British Museum, London
+      name: British Museum, London, The
     - count: 1
       name: Direct Intervention
     - count: 1
@@ -101,7 +101,7 @@ deck:
     - count: 1
       name: Jake Washington
     - count: 1
-      name: The Line
+      name: Line, The
     - count: 1
       name: Metro Underground
     - count: 1
@@ -142,7 +142,7 @@ deck:
     - count: 5
       name: Sawed-Off Shotgun
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
   - name: Action Modifier
     count: 17
     cards:

@@ -63,7 +63,7 @@ deck:
     - count: 1
       name: Archon Investigation
     - count: 1
-      name: The Coven
+      name: Coven, The
     - count: 1
       name: Dark Influences
     - count: 2
@@ -75,7 +75,7 @@ deck:
     - count: 1
       name: Misdirection
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
     - count: 2
       name: Perfectionist
     - count: 2
@@ -110,11 +110,11 @@ deck:
     - count: 4
       name: Freak Drive
     - count: 1
-      name: The Kiss of Ra
+      name: Kiss of Ra, The
     - count: 6
       name: Seduction
     - count: 2
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
     - count: 6
       name: Unleashing the Bestial Soul
   - name: Action Modifier/Reaction
