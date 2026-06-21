@@ -18,13 +18,13 @@ deck:
   crypt_avg: 5.92
   crypt:
   - count: 7
-    name: Horde, The
+    name: The Horde
     capacity: 3
     disciplines: dai obf pre
     clan: Baali
     grouping: 6
   - count: 5
-    name: unnamed, The
+    name: The unnamed
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
@@ -41,7 +41,7 @@ deck:
     - count: 1
       name: Monastery of Shadows
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Perfectionist
     - count: 2

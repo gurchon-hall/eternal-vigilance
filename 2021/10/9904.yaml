@@ -22,7 +22,7 @@ deck:
   crypt_avg: 10.92
   crypt:
   - count: 4
-    name: Capuchin, The
+    name: The Capuchin
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
@@ -34,13 +34,13 @@ deck:
     clan: Salubri
     grouping: 4
   - count: 2
-    name: Baba Yaga, The Iron Hag
+    name: Baba Yaga, the Iron Hag
     capacity: 11
     disciplines: ANI AUS FOR OBF POT THA
     clan: Nosferatu
     grouping: 5
   - count: 1
-    name: Dracon, The
+    name: The Dracon
     capacity: 11
     disciplines: ANI AUS POT THA VIC
     clan: Tzimisce
@@ -57,17 +57,17 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 2
       name: Giant's Blood
     - count: 1
       name: Metro Underground
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Sight Beyond Sight
     - count: 1
@@ -102,7 +102,7 @@ deck:
     - count: 1
       name: Enkil Cog
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
   - name: Reaction
     count: 36
     cards:

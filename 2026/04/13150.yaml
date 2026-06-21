@@ -86,7 +86,7 @@ deck:
     - count: 1
       name: Art Museum
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Dreams of the Sphinx
     - count: 1
@@ -94,7 +94,7 @@ deck:
     - count: 3
       name: Misdirection
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Society Hunting Ground
   - name: Action

@@ -78,7 +78,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 1
@@ -109,7 +109,7 @@ deck:
     - count: 2
       name: Entrancement
     - count: 14
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Retainer
     count: 2
     cards:

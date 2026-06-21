@@ -18,13 +18,13 @@ deck:
   crypt_avg: 6.83
   crypt:
   - count: 5
-    name: unnamed, The
+    name: The unnamed
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
     grouping: 6
   - count: 4
-    name: Horde, The
+    name: The Horde
     capacity: 3
     disciplines: dai obf pre
     clan: Baali

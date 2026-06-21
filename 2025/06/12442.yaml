@@ -97,7 +97,7 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 3
       name: Blood Doll
     - count: 1
@@ -126,7 +126,7 @@ deck:
     - count: 3
       name: Legal Manipulations
     - count: 10
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
     - count: 5
       name: Public Trust
   - name: Political Action

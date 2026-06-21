@@ -71,7 +71,7 @@ deck:
     count: 23
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 2
       name: Charisma
     - count: 1
@@ -89,7 +89,7 @@ deck:
     - count: 1
       name: Morgue Hunting Ground
     - count: 2
-      name: Path of Bone, The
+      name: The Path of Bone
     - count: 2
       name: Perfectionist
     - count: 1
@@ -179,4 +179,4 @@ deck:
     - count: 1
       name: Scourge of the Enochians
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

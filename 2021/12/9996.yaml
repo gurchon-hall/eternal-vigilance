@@ -80,7 +80,7 @@ deck:
     - count: 2
       name: Anarch Troublemaker
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Giant's Blood
     - count: 1
@@ -90,7 +90,7 @@ deck:
     - count: 2
       name: Misdirection
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Uptown Hunting Ground
     - count: 4
@@ -145,6 +145,6 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
     - count: 1
       name: Scourge of the Enochians

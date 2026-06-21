@@ -110,11 +110,11 @@ deck:
     - count: 1
       name: KRCG News Radio
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 6
       name: Smiling Jack, The Anarch
     - count: 4
@@ -173,4 +173,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Fourth Cycle, The
+      name: The Fourth Cycle

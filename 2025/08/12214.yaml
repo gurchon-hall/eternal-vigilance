@@ -44,7 +44,7 @@ deck:
     clan: Ventrue
     grouping: 2
   - count: 1
-    name: Baron, The
+    name: The Baron
     capacity: 9
     disciplines: dom FOR NEC OBF THN
     title: 2 votes
@@ -68,7 +68,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Direct Intervention
     - count: 1

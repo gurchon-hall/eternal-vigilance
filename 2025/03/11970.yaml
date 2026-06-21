@@ -79,7 +79,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 1
@@ -87,7 +87,7 @@ deck:
     - count: 1
       name: Backways
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 2
       name: Blood Doll
     - count: 1
@@ -101,7 +101,7 @@ deck:
     - count: 1
       name: Perfectionist
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 3
       name: Smiling Jack, The Anarch
     - count: 1

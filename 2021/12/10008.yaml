@@ -84,7 +84,7 @@ deck:
     count: 14
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 1
@@ -98,7 +98,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 4
       name: Smiling Jack, The Anarch
     - count: 2

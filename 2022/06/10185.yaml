@@ -87,7 +87,7 @@ deck:
     - count: 1
       name: Misdirection
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 4
       name: Sudden Reversal
     - count: 1
@@ -160,4 +160,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story

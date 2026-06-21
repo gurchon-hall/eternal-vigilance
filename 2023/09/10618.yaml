@@ -59,7 +59,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 2
       name: Blood Doll
     - count: 1
@@ -73,7 +73,7 @@ deck:
     - count: 1
       name: Fragment of the Book of Nod
     - count: 1
-      name: Line, The
+      name: The Line
     - count: 2
       name: Liquidation
     - count: 1
@@ -150,4 +150,4 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

@@ -88,11 +88,11 @@ deck:
     - count: 5
       name: Liquidation
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: Secure Haven
     - count: 2
-      name: Shard, London, The
+      name: The Shard, London
     - count: 4
       name: Vessel
     - count: 1
@@ -151,4 +151,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

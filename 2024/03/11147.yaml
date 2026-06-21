@@ -72,7 +72,7 @@ deck:
     count: 27
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 6
       name: Ashur Tablets
     - count: 1
@@ -94,7 +94,7 @@ deck:
     - count: 1
       name: Papillon
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 2
@@ -142,6 +142,6 @@ deck:
     - count: 1
       name: Break the Code
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
     - count: 1
       name: Thirst

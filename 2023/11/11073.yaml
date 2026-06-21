@@ -80,7 +80,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 1
@@ -96,7 +96,7 @@ deck:
     - count: 1
       name: Gangrel Revel
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1

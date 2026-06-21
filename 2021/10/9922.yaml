@@ -90,7 +90,7 @@ deck:
     - count: 1
       name: Asylum Hunting Ground
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
       name: Effective Management
     - count: 1
@@ -109,7 +109,7 @@ deck:
     count: 24
     cards:
     - count: 3
-      name: Call, The
+      name: The Call
     - count: 14
       name: Kindred Spirits
     - count: 2

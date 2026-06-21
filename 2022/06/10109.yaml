@@ -93,7 +93,7 @@ deck:
       name: Anarch Troublemaker
       comment: key to finals win
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Frontal Assault
     - count: 6
@@ -101,14 +101,14 @@ deck:
     - count: 1
       name: Haven Uncovered
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Priority Contract
   - name: Action
     count: 11
     cards:
     - count: 9
-      name: Embrace, The
+      name: The Embrace
     - count: 2
       name: 'Khabar: Glory'
   - name: Ally

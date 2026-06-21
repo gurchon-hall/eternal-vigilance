@@ -71,7 +71,7 @@ deck:
     - count: 1
       name: Anarch Railroad
     - count: 5
-      name: British Museum, London, The
+      name: The British Museum, London
     - count: 1
       name: Carfax Abbey
     - count: 1
@@ -83,7 +83,7 @@ deck:
     - count: 1
       name: Library Hunting Ground
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Savannah'
     - count: 3
@@ -113,7 +113,7 @@ deck:
     - count: 1
       name: Palatial Estate
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
   - name: Action Modifier
     count: 6
     cards:

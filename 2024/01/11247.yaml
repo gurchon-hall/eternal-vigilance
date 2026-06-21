@@ -101,9 +101,9 @@ deck:
     - count: 2
       name: Dreams of the Sphinx
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 5
       name: Villein
     - count: 1
@@ -135,12 +135,12 @@ deck:
     - count: 2
       name: Guarded Rubrics
     - count: 2
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
   - name: Action Modifier
     count: 7
     cards:
     - count: 3
-      name: Art of Memory, The
+      name: The Art of Memory
     - count: 4
       name: Seraph's Second
   - name: Reaction

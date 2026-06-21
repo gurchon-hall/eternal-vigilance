@@ -82,7 +82,7 @@ deck:
     - count: 2
       name: Blood Doll
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 4
       name: Dabbler
     - count: 2
@@ -101,7 +101,7 @@ deck:
     - count: 2
       name: Field Training
     - count: 17
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Ally
     count: 1
     cards:

@@ -18,7 +18,7 @@ deck:
   crypt_avg: 9.17
   crypt:
   - count: 6
-    name: Capuchin, The
+    name: The Capuchin
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
@@ -61,7 +61,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 2
       name: Secure Haven
     - count: 3
@@ -104,7 +104,7 @@ deck:
     - count: 1
       name: Palatial Estate
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
   - name: Action Modifier
     count: 22
     cards:

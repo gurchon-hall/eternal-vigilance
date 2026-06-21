@@ -60,7 +60,7 @@ deck:
     count: 31
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
       name: Channel 10
     - count: 1
@@ -82,9 +82,9 @@ deck:
     - count: 1
       name: Morgue Hunting Ground
     - count: 5
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
-      name: Path of Bone, The
+      name: The Path of Bone
     - count: 1
       name: 'Powerbase: Cape Verde'
     - count: 1
@@ -168,4 +168,4 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

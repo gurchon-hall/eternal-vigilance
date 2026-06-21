@@ -42,7 +42,7 @@ deck:
     count: 21
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 3
@@ -62,7 +62,7 @@ deck:
     - count: 1
       name: Protean
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 2
       name: Smiling Jack, The Anarch
     - count: 3

@@ -93,7 +93,7 @@ deck:
     - count: 1
       name: Jake Washington
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 5
       name: Villein
   - name: Action
@@ -139,4 +139,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking

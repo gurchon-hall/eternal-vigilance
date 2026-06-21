@@ -118,7 +118,7 @@ deck:
     - count: 4
       name: Mesu Bedshet
     - count: 12
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Action Modifier
     count: 29
     cards:
@@ -143,4 +143,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story

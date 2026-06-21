@@ -48,7 +48,7 @@ deck:
     clan: Tzimisce
     grouping: 3
   - count: 1
-    name: Rose, The
+    name: The Rose
     capacity: 5
     disciplines: aus PRE VIC
     clan: Tzimisce
@@ -77,7 +77,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 3
       name: Rötschreck
     - count: 1

@@ -112,12 +112,12 @@ deck:
     - count: 3
       name: Not to Be
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
   - name: Action
     count: 2
     cards:
     - count: 2
-      name: Embrace, The
+      name: The Embrace
   - name: Ally
     count: 2
     cards:
@@ -153,10 +153,10 @@ deck:
     count: 4
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
     - count: 1
       name: Blood Weakens
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
     - count: 1
       name: Veil of Darkness

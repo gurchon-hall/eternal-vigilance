@@ -65,7 +65,7 @@ deck:
     - count: 6
       name: Liquidation
     - count: 7
-      name: Parthenon, The
+      name: The Parthenon
     - count: 2
       name: 'Powerbase: Montreal'
     - count: 1
@@ -113,6 +113,6 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking

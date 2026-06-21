@@ -71,9 +71,9 @@ deck:
     count: 28
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Creepshow Casino
     - count: 1
@@ -87,9 +87,9 @@ deck:
     - count: 1
       name: Monastery of Shadows
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 3
       name: Protected Resources
     - count: 1

@@ -58,7 +58,7 @@ deck:
     - count: 1
       name: Ephor
     - count: 1
-      name: Mithraeum, London, The
+      name: The Mithraeum, London
     - count: 4
       name: Mithraic Cultist
     - count: 1
@@ -86,7 +86,7 @@ deck:
     - count: 1
       name: Ritual Goblet
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
   - name: Political Action
     count: 15
     cards:

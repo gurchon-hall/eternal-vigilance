@@ -17,7 +17,7 @@ deck:
   crypt_avg: 5.5
   crypt:
   - count: 2
-    name: Dowager, The
+    name: The Dowager
     capacity: 6
     disciplines: aus pot ANI OBF
     title: Primogen
@@ -85,7 +85,7 @@ deck:
     - count: 1
       name: Information Highway
     - count: 2
-      name: Labyrinth, The
+      name: The Labyrinth
     - count: 1
       name: Saulot's Guiding Wisdom
     - count: 7

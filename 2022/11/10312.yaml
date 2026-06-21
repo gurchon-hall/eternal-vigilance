@@ -84,9 +84,9 @@ deck:
     - count: 1
       name: Opium Den
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Villein
     - count: 1
@@ -99,7 +99,7 @@ deck:
     - count: 1
       name: Entrancement
     - count: 7
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Political Action
     count: 5
     cards:

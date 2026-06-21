@@ -91,11 +91,11 @@ deck:
     - count: 1
       name: Papillon
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Rebel
     - count: 1
@@ -112,7 +112,7 @@ deck:
     - count: 4
       name: Constant Revolution
     - count: 6
-      name: Embrace, The
+      name: The Embrace
   - name: Ally
     count: 1
     cards:

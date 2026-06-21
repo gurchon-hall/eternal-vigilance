@@ -79,7 +79,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: British Museum, London, The
+      name: The British Museum, London
     - count: 1
       name: Camarilla Conclave
     - count: 1
@@ -112,7 +112,7 @@ deck:
     - count: 1
       name: Palatial Estate
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
   - name: Political Action
     count: 14
     cards:

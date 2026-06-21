@@ -90,11 +90,11 @@ deck:
     - count: 1
       name: Giant's Blood
     - count: 1
-      name: Line, The
+      name: The Line
     - count: 1
       name: Papillon
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 3
       name: Perfectionist
     - count: 1
@@ -158,4 +158,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking

@@ -97,7 +97,7 @@ deck:
     - count: 1
       name: Aranthebes, The Immortal
     - count: 18
-      name: Embrace, The
+      name: The Embrace
     - count: 12
       name: Mozambique Allure
   - name: Equipment
@@ -127,7 +127,7 @@ deck:
     count: 12
     cards:
     - count: 12
-      name: Eldest Are Kholo, The
+      name: The Eldest Are Kholo
   - name: Reaction
     count: 2
     cards:
@@ -139,4 +139,4 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Uncoiling, The
+      name: The Uncoiling

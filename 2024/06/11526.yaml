@@ -81,17 +81,17 @@ deck:
     - count: 1
       name: Archon Investigation
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
       name: Chantry
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Direct Intervention
     - count: 1
       name: Elder Library
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 4
       name: Vessel
   - name: Action

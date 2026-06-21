@@ -61,7 +61,7 @@ deck:
     clan: Tzimisce
     grouping: 3
   - count: 1
-    name: Rose, The
+    name: The Rose
     capacity: 5
     disciplines: aus PRE VIC
     clan: Tzimisce
@@ -102,13 +102,13 @@ deck:
     - count: 1
       name: Channel 10
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
     - count: 1
       name: KRCG News Radio
     - count: 1
       name: Library Hunting Ground
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Rötschreck
     - count: 1
@@ -172,4 +172,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling

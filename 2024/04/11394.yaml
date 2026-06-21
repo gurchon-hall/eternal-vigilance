@@ -71,7 +71,7 @@ deck:
     - count: 1
       name: Anarch Troublemaker
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Dreams of the Sphinx
     - count: 1
@@ -87,7 +87,7 @@ deck:
     - count: 1
       name: Jake Washington
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
   - name: Action
     count: 16
     cards:

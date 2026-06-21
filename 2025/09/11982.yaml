@@ -87,7 +87,7 @@ deck:
     - count: 6
       name: Minion Tap
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
     - count: 3
       name: Piper
     - count: 1
@@ -131,7 +131,7 @@ deck:
     - count: 3
       name: Freak Drive
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
     - count: 1
       name: Monkey Wrench
   - name: Action Modifier/Combat
@@ -172,4 +172,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking

@@ -102,7 +102,7 @@ deck:
     - count: 1
       name: Mind Numb
     - count: 6
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Ally
     count: 1
     cards:
@@ -125,7 +125,7 @@ deck:
     - count: 1
       name: Kine Resources Contested
     - count: 1
-      name: Meddling of Semsith, The
+      name: The Meddling of Semsith
     - count: 1
       name: Patsy
     - count: 2

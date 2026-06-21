@@ -82,7 +82,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 1
@@ -111,7 +111,7 @@ deck:
     - count: 1
       name: Make the Misere
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
   - name: Equipment
     count: 7
     cards:

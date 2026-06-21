@@ -36,7 +36,7 @@ deck:
     clan: Kiasyd
     grouping: 4
   - count: 1
-    name: Arcadian, The
+    name: The Arcadian
     capacity: 8
     disciplines: chi for DOM MYT OBT
     clan: Kiasyd
@@ -62,9 +62,9 @@ deck:
     - count: 1
       name: Anarch Troublemaker
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Elder Library
     - count: 1
@@ -74,9 +74,9 @@ deck:
     - count: 1
       name: Obtenebration
     - count: 2
-      name: Path of Night, The
+      name: The Path of Night
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Secure Haven
     - count: 5
@@ -145,4 +145,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling

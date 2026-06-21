@@ -107,7 +107,7 @@ deck:
     - count: 1
       name: Opium Den
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 3
       name: Vessel
     - count: 2
@@ -122,7 +122,7 @@ deck:
     - count: 1
       name: Entrancement
     - count: 14
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Ally
     count: 1
     cards:
@@ -172,6 +172,6 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
     - count: 1
       name: Narrow Minds

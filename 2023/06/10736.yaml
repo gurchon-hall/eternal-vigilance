@@ -68,7 +68,7 @@ deck:
     count: 14
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 4
       name: Blood Doll
     - count: 1
@@ -82,7 +82,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rumor Mill, Tabloid Newspaper, The
+      name: The Rumor Mill, Tabloid Newspaper
     - count: 1
       name: Tension in the Ranks
     - count: 1

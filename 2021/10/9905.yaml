@@ -64,9 +64,9 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Direct Intervention
     - count: 1
@@ -80,7 +80,7 @@ deck:
     - count: 2
       name: Perfectionist
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Smiling Jack, The Anarch
     - count: 2

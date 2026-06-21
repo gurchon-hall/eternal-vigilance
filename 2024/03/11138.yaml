@@ -97,7 +97,7 @@ deck:
     - count: 1
       name: Opium Den
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Secure Haven
     - count: 2
@@ -106,7 +106,7 @@ deck:
     count: 14
     cards:
     - count: 7
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
     - count: 7
       name: Waters of Duat
   - name: Ally

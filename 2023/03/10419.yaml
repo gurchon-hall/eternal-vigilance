@@ -100,9 +100,9 @@ deck:
     - count: 1
       name: Anarch Troublemaker
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 3
       name: Dreams of the Sphinx
     - count: 1
@@ -114,7 +114,7 @@ deck:
     - count: 1
       name: Misdirection
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 3
       name: Wash
   - name: Action
@@ -167,4 +167,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story

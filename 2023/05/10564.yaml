@@ -74,7 +74,7 @@ deck:
     clan: Tzimisce
     grouping: 3
   - count: 1
-    name: Rose, The
+    name: The Rose
     capacity: 5
     disciplines: aus PRE VIC
     clan: Tzimisce
@@ -97,23 +97,23 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Giant's Blood
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
     - count: 1
       name: Jake Washington
     - count: 1
       name: Library Hunting Ground
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Barranquilla'
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 3
       name: Rötschreck
     - count: 1

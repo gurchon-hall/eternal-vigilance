@@ -67,9 +67,9 @@ deck:
     - count: 9
       name: Liquidation
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 2
       name: Vessel
   - name: Ally
@@ -134,4 +134,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking

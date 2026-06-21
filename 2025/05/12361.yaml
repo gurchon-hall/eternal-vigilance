@@ -72,9 +72,9 @@ deck:
     - count: 5
       name: Angel of Berlin
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
-      name: Church of Vindicated Faith, The
+      name: The Church of Vindicated Faith
     - count: 2
       name: Fortschritt Library
     - count: 1
@@ -140,7 +140,7 @@ deck:
     - count: 1
       name: Blood Weakens
     - count: 1
-      name: New Inquisition, The
+      name: The New Inquisition
     - count: 1
       name: Nightmares upon Nightmares
     - count: 1
@@ -148,12 +148,12 @@ deck:
     - count: 1
       name: Restricted Vitae
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
     - count: 1
       name: Thirst
     - count: 1
       name: Torpid Blood
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
     - count: 3
       name: Wormwood

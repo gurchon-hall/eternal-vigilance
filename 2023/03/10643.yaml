@@ -91,7 +91,7 @@ deck:
     - count: 1
       name: Opium Den
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 5
       name: Villein
   - name: Action
@@ -100,7 +100,7 @@ deck:
     - count: 2
       name: Entrancement
     - count: 18
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
   - name: Ally
     count: 1
     cards:

@@ -69,9 +69,9 @@ deck:
     - count: 1
       name: Anarch Railroad
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 5
-      name: British Museum, London, The
+      name: The British Museum, London
     - count: 1
       name: Carfax Abbey
     - count: 1
@@ -89,7 +89,7 @@ deck:
     - count: 1
       name: Libertas
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Perfectionist
     - count: 3

@@ -66,7 +66,7 @@ deck:
     - count: 1
       name: Obfuscate
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 7
       name: Villein
     - count: 7
@@ -86,7 +86,7 @@ deck:
     - count: 3
       name: Helicopter
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
   - name: Political Action
     count: 14
     cards:

@@ -17,7 +17,7 @@ deck:
   crypt_avg: 6.5
   crypt:
   - count: 3
-    name: Arcadian, The
+    name: The Arcadian
     capacity: 8
     disciplines: chi for DOM MYT OBT
     clan: Kiasyd
@@ -72,7 +72,7 @@ deck:
     count: 13
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Direct Intervention
     - count: 1
@@ -86,7 +86,7 @@ deck:
     - count: 1
       name: Misdirection
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Perfectionist
     - count: 1
@@ -158,4 +158,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story

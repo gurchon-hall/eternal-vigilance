@@ -25,7 +25,7 @@ deck:
     clan: Nosferatu
     grouping: 5
   - count: 3
-    name: Dowager, The
+    name: The Dowager
     capacity: 6
     disciplines: aus pot ANI OBF
     title: Primogen
@@ -55,9 +55,9 @@ deck:
     - count: 1
       name: Fame
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Slum Hunting Ground
     - count: 2
@@ -99,7 +99,7 @@ deck:
     - count: 8
       name: Protected District
     - count: 2
-      name: Warrens, The
+      name: The Warrens
   - name: Combat
     count: 28
     cards:

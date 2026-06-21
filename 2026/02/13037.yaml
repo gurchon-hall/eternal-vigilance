@@ -79,7 +79,7 @@ deck:
     - count: 6
       name: Liquidation
     - count: 5
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Munich'
     - count: 1
@@ -139,4 +139,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking

@@ -75,13 +75,13 @@ deck:
     - count: 1
       name: Papillon
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 3
       name: Priority Contract
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 5
       name: Villein
   - name: Action

@@ -59,7 +59,7 @@ deck:
     count: 20
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 2
       name: Direct Intervention
     - count: 2
@@ -128,4 +128,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

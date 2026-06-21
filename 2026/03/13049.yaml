@@ -77,7 +77,7 @@ deck:
     - count: 1
       name: Club Illusion
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Fame
     - count: 1
@@ -93,7 +93,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Shard, London, The
+      name: The Shard, London
     - count: 1
       name: Vampiric Disease
     - count: 3
@@ -111,13 +111,13 @@ deck:
     - count: 1
       name: Vagabond Mystic
     - count: 2
-      name: Vozhd of Gravesend, The
+      name: The Vozhd of Gravesend
     - count: 1
-      name: Vozhd of Juiz de Fora, The
+      name: The Vozhd of Juiz de Fora
     - count: 1
-      name: Vozhd of Sofia, The
+      name: The Vozhd of Sofia
     - count: 2
-      name: Vozhd of Szczecin, The
+      name: The Vozhd of Szczecin
     - count: 2
       name: War Ghoul
   - name: Equipment
@@ -175,4 +175,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking

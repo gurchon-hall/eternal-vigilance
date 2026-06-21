@@ -86,7 +86,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 2
@@ -100,7 +100,7 @@ deck:
     - count: 1
       name: Ecoterrorists
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 4
       name: Rötschreck
     - count: 3

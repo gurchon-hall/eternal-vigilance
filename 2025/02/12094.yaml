@@ -114,13 +114,13 @@ deck:
     count: 5
     cards:
     - count: 1
-      name: Ankara Citadel, Turkey, The
+      name: The Ankara Citadel, Turkey
     - count: 2
       name: Changeling Skin Mask
     - count: 1
       name: Heart of Nizchetus
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
   - name: Political Action
     count: 16
     cards:

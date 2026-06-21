@@ -38,7 +38,7 @@ deck:
     clan: Nosferatu
     grouping: 6
   - count: 2
-    name: Dowager, The
+    name: The Dowager
     capacity: 6
     disciplines: aus pot ANI OBF
     title: Primogen
@@ -60,9 +60,9 @@ deck:
     - count: 1
       name: Dreams of the Sphinx
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Slum Hunting Ground
     - count: 1

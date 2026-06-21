@@ -68,7 +68,7 @@ deck:
     - count: 2
       name: Archon Investigation
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Dreams of the Sphinx
     - count: 2
@@ -119,6 +119,6 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
     - count: 1
       name: Narrow Minds

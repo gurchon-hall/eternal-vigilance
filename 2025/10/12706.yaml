@@ -76,9 +76,9 @@ deck:
     - count: 1
       name: Anarch Railroad
     - count: 6
-      name: British Museum, London, The
+      name: The British Museum, London
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 2
       name: Dreams of the Sphinx
     - count: 1
@@ -125,7 +125,7 @@ deck:
     - count: 1
       name: Palatial Estate
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
   - name: Political Action
     count: 2
     cards:

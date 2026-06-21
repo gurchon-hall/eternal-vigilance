@@ -70,7 +70,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 3
@@ -82,15 +82,15 @@ deck:
     - count: 1
       name: Club Illusion
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Direct Intervention
     - count: 1
       name: Garibaldi-Meucci Museum
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 2
       name: Vessel
     - count: 1

@@ -119,13 +119,13 @@ deck:
     - count: 1
       name: Chantry
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Humanitas
     - count: 2
       name: Life in the City
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 2
@@ -133,14 +133,14 @@ deck:
     - count: 1
       name: 'Powerbase: Zürich'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 5
       name: Villein
   - name: Action
     count: 6
     cards:
     - count: 1
-      name: Embrace, The
+      name: The Embrace
     - count: 2
       name: Magic of the Smith
     - count: 3

@@ -99,7 +99,7 @@ deck:
     count: 25
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Anarch Railroad
     - count: 1
@@ -107,7 +107,7 @@ deck:
     - count: 1
       name: Carfax Abbey
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Direct Intervention
     - count: 1
@@ -171,4 +171,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling

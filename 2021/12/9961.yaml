@@ -63,9 +63,9 @@ deck:
     count: 9
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Dreams of the Sphinx
     - count: 1
@@ -73,7 +73,7 @@ deck:
     - count: 4
       name: Life in the City
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
   - name: Action
     count: 14
     cards:

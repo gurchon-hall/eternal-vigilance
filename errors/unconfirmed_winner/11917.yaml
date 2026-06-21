@@ -4,6 +4,7 @@ date_start: 2025-01-18
 rounds_format: 3R+F
 players_count: 20
 winner: Albert Presto
+vekn_number: 2970005
 event_url: https://www.vekn.net/event-calendar/event/11917
 event_id: 11917
 vp_comment: Will Matson (Malgorzata) 2vp >
@@ -75,7 +76,7 @@ deck:
     count: 14
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 2
       name: Blood Doll
     - count: 1

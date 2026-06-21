@@ -59,7 +59,7 @@ deck:
     - count: 9
       name: Liquidation
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Wider View
   - name: Political Action
@@ -118,4 +118,4 @@ deck:
     - count: 2
       name: FBI Special Affairs Division
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking

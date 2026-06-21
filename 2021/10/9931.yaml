@@ -19,7 +19,7 @@ deck:
   crypt_avg: 8.92
   crypt:
   - count: 6
-    name: Lucian, The Perfect
+    name: Lucian, the Perfect
     capacity: 11
     disciplines: ANI AUS DOM OBF POT PRE
     clan: Guruhi
@@ -68,7 +68,7 @@ deck:
     - count: 1
       name: Palace Hunting Ground
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Secure Haven
   - name: Action
@@ -134,7 +134,7 @@ deck:
     count: 3
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
     - count: 1
       name: Narrow Minds
     - count: 1

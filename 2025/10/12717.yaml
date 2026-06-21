@@ -88,7 +88,7 @@ deck:
     - count: 1
       name: Dreams of the Sphinx
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Fame
     - count: 1
@@ -96,7 +96,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Smiling Jack, The Anarch
     - count: 3
@@ -114,7 +114,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Vozhd of Sofia, The
+      name: The Vozhd of Sofia
     - count: 1
       name: War Ghoul
   - name: Equipment

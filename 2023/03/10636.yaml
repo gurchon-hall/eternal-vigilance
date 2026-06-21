@@ -91,7 +91,7 @@ deck:
     - count: 1
       name: Anarch Troublemaker
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 1
       name: Fortschritt Library
     - count: 1
@@ -101,18 +101,18 @@ deck:
     - count: 1
       name: Haven Uncovered
     - count: 1
-      name: 'Khabar: Community, The'
+      name: 'The Khabar: Community'
     - count: 1
       name: Not to Be
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: Priority Contract
   - name: Action
     count: 11
     cards:
     - count: 9
-      name: Embrace, The
+      name: The Embrace
     - count: 2
       name: 'Khabar: Glory'
   - name: Ally
@@ -168,6 +168,6 @@ deck:
     - count: 1
       name: Narrow Minds
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
     - count: 1
       name: Veil of Darkness

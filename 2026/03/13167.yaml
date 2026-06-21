@@ -100,11 +100,11 @@ deck:
     count: 9
     cards:
     - count: 1
-      name: Book of Going Forth by Night, The
+      name: The Book of Going Forth by Night
     - count: 1
       name: Bowl of Convergence
     - count: 1
-      name: Crimson Sentinel, The
+      name: The Crimson Sentinel
     - count: 4
       name: Righteous Blade
     - count: 1

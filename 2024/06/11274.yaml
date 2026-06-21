@@ -80,7 +80,7 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
     - count: 1
       name: Carfax Abbey
     - count: 2
@@ -98,7 +98,7 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Smiling Jack, The Anarch
     - count: 4

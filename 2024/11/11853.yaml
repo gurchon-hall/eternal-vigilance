@@ -63,7 +63,7 @@ deck:
     - count: 1
       name: Asylum Hunting Ground
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 3
       name: Blood Doll
     - count: 2
@@ -80,7 +80,7 @@ deck:
     count: 17
     cards:
     - count: 2
-      name: Call, The
+      name: The Call
     - count: 15
       name: Kindred Spirits
   - name: Action Modifier

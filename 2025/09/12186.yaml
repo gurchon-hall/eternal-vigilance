@@ -61,7 +61,7 @@ deck:
     - count: 2
       name: Dreams of the Sphinx
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
     - count: 1
       name: Giant's Blood
     - count: 2
@@ -127,4 +127,4 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

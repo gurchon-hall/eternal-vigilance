@@ -54,11 +54,11 @@ deck:
     - count: 1
       name: Heidelberg Castle, Germany
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
-      name: Rack, The
+      name: The Rack
     - count: 1
       name: Smiling Jack, The Anarch
     - count: 6
@@ -92,7 +92,7 @@ deck:
     - count: 1
       name: Horrific Countenance
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
   - name: Action Modifier/Combat
     count: 4
     cards:

@@ -107,7 +107,7 @@ deck:
     count: 30
     cards:
     - count: 20
-      name: Embrace, The
+      name: The Embrace
     - count: 10
       name: Mozambique Allure
   - name: Political Action
@@ -128,7 +128,7 @@ deck:
     count: 12
     cards:
     - count: 12
-      name: Eldest Are Kholo, The
+      name: The Eldest Are Kholo
   - name: Combat
     count: 6
     cards:
@@ -138,4 +138,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling

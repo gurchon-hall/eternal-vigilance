@@ -32,7 +32,7 @@ deck:
     clan: Nosferatu
     grouping: 6
   - count: 2
-    name: Dowager, The
+    name: The Dowager
     capacity: 6
     disciplines: aus pot ANI OBF
     title: Primogen
@@ -62,13 +62,13 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 5
       name: Blood Doll
     - count: 1
       name: Direct Intervention
     - count: 2
-      name: Labyrinth, The
+      name: The Labyrinth
     - count: 1
       name: 'Powerbase: Montreal'
     - count: 1
@@ -121,7 +121,7 @@ deck:
     - count: 6
       name: Protected District
     - count: 3
-      name: Warrens, The
+      name: The Warrens
   - name: Combat
     count: 29
     cards:

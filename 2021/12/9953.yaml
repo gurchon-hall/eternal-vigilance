@@ -66,7 +66,7 @@ deck:
     count: 14
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 2
       name: Blood Doll
     - count: 1
@@ -164,5 +164,5 @@ deck:
       name: FBI Special Affairs Division
       comment: so critical against the Fortitude vampires I encountered
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       comment: this card is broken
