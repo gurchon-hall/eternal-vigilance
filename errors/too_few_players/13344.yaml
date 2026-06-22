@@ -1,0 +1,148 @@
+name: Jogos de Guerra - A Sangria Junina
+location: São Paulo (SP), Brazil
+date_start: 2026-06-13
+rounds_format: 2R+F
+players_count: 10
+winner: Morgana Gomes
+vekn_number: 7060155
+event_url: https://www.vekn.net/event-calendar/event/13344
+event_id: 13344
+vp_comment: 2GW7 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13344
+deck:
+  name: Chatuba da louquinha
+  description: ''
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 36
+  crypt_avg: 7.58
+  crypt:
+  - count: 4
+    name: Juliet Parr
+    capacity: 9
+    disciplines: cel pot AUS DOM OBF
+    title: Justicar
+    clan: Malkavian
+    grouping: 7
+  - count: 3
+    name: Alexander Silverson
+    capacity: 8
+    disciplines: pre AUS DOM OBF
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  - count: 2
+    name: Andi Liu
+    capacity: 6
+    disciplines: aus obf pre DOM
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  - count: 1
+    name: Jason "Son" Newberry
+    capacity: 7
+    disciplines: pre AUS DOM OBF
+    title: Primogen
+    clan: Malkavian
+    grouping: 6
+  - count: 1
+    name: Belinde
+    capacity: 6
+    disciplines: ani aus pot OBF
+    title: Prince
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Donny Kowalczyk
+    capacity: 6
+    disciplines: cel dom obf AUS
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 2
+      name: Camarilla Conclave
+    - count: 1
+      name: Coven, The
+    - count: 1
+      name: Direct Intervention
+    - count: 3
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Jake Washington
+    - count: 2
+      name: Pentex(TM) Subversion
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 14
+    cards:
+    - count: 13
+      name: Govern the Unaligned
+    - count: 1
+      name: 'Judgment: Camarilla Segregation'
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 1
+      name: Ivory Bow
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 4
+      name: Camarilla's Iron Fist
+    - count: 1
+      name: Expulsion
+    - count: 5
+      name: Kine Resources Contested
+    - count: 4
+      name: Parity Shift
+  - name: Action Modifier
+    count: 24
+    cards:
+    - count: 2
+      name: Bonding
+    - count: 3
+      name: Conditioning
+    - count: 5
+      name: Elder Impersonation
+    - count: 2
+      name: Faceless Night
+    - count: 1
+      name: Foreshadowing Destruction
+    - count: 4
+      name: Forgotten Labyrinth
+    - count: 5
+      name: Lost in Crowds
+    - count: 2
+      name: Telepathic Vote Counting
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Hide the Mind
+  - name: Reaction
+    count: 21
+    cards:
+    - count: 8
+      name: Deflection
+    - count: 2
+      name: Eyes of Argus
+    - count: 5
+      name: Obedience
+    - count: 2
+      name: On the Qui Vive
+    - count: 4
+      name: 'Second Tradition: Domain'
