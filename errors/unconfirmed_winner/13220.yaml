@@ -1,0 +1,152 @@
+name: North American Championship 2026
+location: Greater Columbus Convention Center
+date_start: 2026-06-20
+rounds_format: 3R+F
+players_count: 59
+winner: Standard Constructed
+event_url: https://www.vekn.net/event-calendar/event/13220
+event_id: 13220
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83059-twd-north-american-championship-nac-2026-columbus-oh-20-june-2026
+deck:
+  name: Oderint dum metuant
+  created_by: apoapsis
+  description: '"Let them hate, so long as they fear"'
+  crypt_count: 12
+  crypt_min: 29
+  crypt_max: 40
+  crypt_avg: 8.75
+  crypt:
+  - count: 4
+    name: Aaradhya, The Callous Tyrant
+    capacity: 10
+    disciplines: ANI DOM FOR POT PRE
+    title: Cardinal
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Dark Selina
+    capacity: 9
+    disciplines: dom for CEL POT PRE
+    title: Cardinal
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 2
+    name: Věnceslava, The Implacable
+    capacity: 9
+    disciplines: cel DOM FOR POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Rexton "Savage" Abernathy
+    capacity: 8
+    disciplines: cel DOM POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Üresség
+    capacity: 8
+    disciplines: dom for CEL POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Khin Aye
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Concordia
+    capacity: 6
+    disciplines: for pot DOM PRE
+    title: Bishop
+    clan: Ventrue
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 26
+    cards:
+    - count: 1
+      name: Creepshow Casino
+    - count: 1
+      name: Dark Influences
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Elder Library
+    - count: 1
+      name: Giant's Blood
+    - count: 1
+      name: Gurchon Hall
+    - count: 1
+      name: Information Highway
+    - count: 1
+      name: Monastery of Shadows
+    - count: 1
+      name: Papillon
+    - count: 1
+      name: Privileged Position
+    - count: 1
+      name: Secure Haven
+    - count: 4
+      name: Unholy Sacrament
+    - count: 2
+      name: Ventrue Headquarters
+    - count: 6
+      name: Villein
+    - count: 2
+      name: Wash
+  - name: Action
+    count: 8
+    cards:
+    - count: 8
+      name: Govern the Unaligned
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+    - count: 1
+      name: Ancient Influence
+    - count: 1
+      name: Ancilla Empowerment
+    - count: 4
+      name: Banishment
+    - count: 6
+      name: Cold War
+    - count: 2
+      name: Kine Resources Contested
+    - count: 1
+      name: Political Stranglehold
+  - name: Action Modifier
+    count: 28
+    cards:
+    - count: 4
+      name: Dominant Personality
+    - count: 2
+      name: Enkil Cog
+    - count: 4
+      name: Iron Glare
+    - count: 4
+      name: Perfect Paragon
+    - count: 4
+      name: Relentlessness
+    - count: 6
+      name: Unthinkable Humiliation
+    - count: 4
+      name: Voter Captivation
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Deflection
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty
