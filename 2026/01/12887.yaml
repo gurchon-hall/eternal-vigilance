@@ -25,72 +25,84 @@ deck:
     title: Cardinal
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Abderrahim, Death's Hand
     capacity: 9
     disciplines: tha AUS DOM OBL POT
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Eulogio Sánchez de los Reyes
     capacity: 8
     disciplines: AUS DOM OBL THA
     clan: Tremere
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Huldu, The Desecrator
     capacity: 8
     disciplines: obf tha AUS FOR OBL
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Frau Schädel
     capacity: 7
     disciplines: aus dom for OBL THA
     clan: Tremere
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Sakura, The Merciless
     capacity: 7
     disciplines: aus pot DOM OBL THA
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Aitana, The Unholy
     capacity: 6
     disciplines: for tha AUS OBL
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Anxo Vilela
     capacity: 6
     disciplines: dom obl AUS THA
     clan: Tremere
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Zbigniew, Hunter of Mekhet
     capacity: 5
     disciplines: aus dom tha OBL
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: El Monseñor
     capacity: 4
     disciplines: dom OBL
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Nadezhda
     capacity: 3
     disciplines: aus obl
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Yurena, The Boor
     capacity: 2
     disciplines: tha
     clan: Tremere
     grouping: 6
+    path: Death and the Soul
   library_count: 86
   library_sections:
   - name: Master

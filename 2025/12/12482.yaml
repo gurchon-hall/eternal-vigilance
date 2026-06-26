@@ -26,6 +26,7 @@ deck:
     title: Cardinal
     clan: Ventrue
     grouping: 6
+    path: Power and the Inner Voice
   - count: 2
     name: Věnceslava, The Implacable
     capacity: 9
@@ -33,6 +34,7 @@ deck:
     title: Archbishop
     clan: Brujah
     grouping: 6
+    path: Power and the Inner Voice
   - count: 3
     name: Rexton "Savage" Abernathy
     capacity: 8
@@ -40,6 +42,7 @@ deck:
     title: Archbishop
     clan: Brujah
     grouping: 6
+    path: Power and the Inner Voice
   - count: 3
     name: Üresség
     capacity: 8
@@ -47,6 +50,7 @@ deck:
     title: Archbishop
     clan: Brujah
     grouping: 6
+    path: Power and the Inner Voice
   - count: 2
     name: Khin Aye
     capacity: 7
@@ -54,6 +58,7 @@ deck:
     title: Priscus
     clan: Ventrue
     grouping: 6
+    path: Power and the Inner Voice
   library_count: 90
   library_sections:
   - name: Master

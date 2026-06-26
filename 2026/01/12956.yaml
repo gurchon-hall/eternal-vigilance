@@ -25,6 +25,7 @@ deck:
     title: Cardinal
     clan: Ventrue
     grouping: 6
+    path: Power and the Inner Voice
   - count: 4
     name: Dark Selina
     capacity: 9
@@ -39,6 +40,7 @@ deck:
     title: Archbishop
     clan: Brujah
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: De Sade
     capacity: 9
@@ -53,6 +55,7 @@ deck:
     title: Archbishop
     clan: Brujah
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: Üresség
     capacity: 8
@@ -60,6 +63,7 @@ deck:
     title: Archbishop
     clan: Brujah
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: Khin Aye
     capacity: 7
@@ -67,6 +71,7 @@ deck:
     title: Priscus
     clan: Ventrue
     grouping: 6
+    path: Power and the Inner Voice
   library_count: 83
   library_sections:
   - name: Master

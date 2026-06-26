@@ -36,6 +36,7 @@ deck:
     disciplines: dom OBL
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: María del Toro
     capacity: 7
@@ -62,6 +63,7 @@ deck:
     disciplines: aus dom tha OBL
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Braden White
     capacity: 4
@@ -80,7 +82,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
     - count: 3
       name: Direct Intervention
     - count: 2
@@ -94,7 +96,7 @@ deck:
     - count: 1
       name: Jake Washington
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
     - count: 2
       name: Perfectionist
     - count: 1
@@ -150,4 +152,4 @@ deck:
     - count: 1
       name: FBI Special Affairs Division
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking

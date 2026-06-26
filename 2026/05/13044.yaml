@@ -97,7 +97,7 @@ deck:
     - count: 2
       name: New Carthage
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
     - count: 1
       name: Poacher's Hunting Ground
     - count: 1
@@ -155,6 +155,6 @@ deck:
     - count: 1
       name: Nightmares upon Nightmares
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
     - count: 1
       name: Thirst

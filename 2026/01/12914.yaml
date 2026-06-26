@@ -31,6 +31,7 @@ deck:
     disciplines: for tha AUS OBL
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 2
     name: Lenelle, Mambo of Birmingham
     capacity: 6
@@ -61,6 +62,7 @@ deck:
     disciplines: aus obl
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Peter St. John
     capacity: 2

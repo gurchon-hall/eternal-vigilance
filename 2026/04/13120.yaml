@@ -33,6 +33,7 @@ deck:
     title: Archbishop
     clan: Lasombra
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: Yewon Ong
     capacity: 8
@@ -71,12 +72,14 @@ deck:
     disciplines: aus dom tha OBL
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: El Monseñor
     capacity: 4
     disciplines: dom OBL
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Araceli "Celia" Rivera
     capacity: 3

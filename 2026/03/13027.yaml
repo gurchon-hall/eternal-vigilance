@@ -23,6 +23,7 @@ deck:
     disciplines: obf tha AUS FOR OBL
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 3
     name: Tommaso Sforza
     capacity: 7
@@ -47,6 +48,7 @@ deck:
     disciplines: aus obl
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Peter St. John
     capacity: 2

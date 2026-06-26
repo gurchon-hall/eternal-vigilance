@@ -83,7 +83,7 @@ deck:
     - count: 1
       name: Archon Investigation
     - count: 1
-      name: Barrens, The
+      name: The Barrens
     - count: 1
       name: Club Illusion
     - count: 1
@@ -144,6 +144,6 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
     - count: 1
       name: Narrow Minds
