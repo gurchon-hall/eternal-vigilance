@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 1
     name: Kasim Bayar
+    id: 201598
     capacity: 9
     disciplines: aus pot CEL OBF THA
     title: Justicar
@@ -27,6 +28,7 @@ deck:
     grouping: 6
   - count: 4
     name: Oluwafunmilayo
+    id: 201656
     capacity: 8
     disciplines: AUS CEL OBF THA
     title: Prince
@@ -34,6 +36,7 @@ deck:
     grouping: 6
   - count: 2
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
@@ -41,6 +44,7 @@ deck:
     grouping: 6
   - count: 2
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -48,6 +52,7 @@ deck:
     grouping: 6
   - count: 3
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince

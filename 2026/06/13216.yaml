@@ -20,66 +20,77 @@ deck:
   crypt:
   - count: 1
     name: Noluthando
+    id: 201785
     capacity: 8
     disciplines: aus cel ANI OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Sreelekha
+    id: 201687
     capacity: 8
     disciplines: ANI FOR OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Hafthor Thorsteinsson
+    id: 201783
     capacity: 7
     disciplines: pot ANI OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Doc Martina
+    id: 201670
     capacity: 6
     disciplines: for pre ANI OBF
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Luciano Carvalho
+    id: 201675
     capacity: 6
     disciplines: pre ANI OBF
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Roberto Rivamonte
+    id: 201683
     capacity: 6
     disciplines: ANI OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 2
     name: Phaibun
+    id: 201681
     capacity: 5
     disciplines: ani OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Gathii
+    id: 201672
     capacity: 5
     disciplines: obf ANI PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Jean-François
+    id: 201674
     capacity: 4
     disciplines: ani obf pre
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Zafira
+    id: 201692
     capacity: 4
     disciplines: obf PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Oleg Kaprizov
+    id: 201679
     capacity: 3
     disciplines: obf pre
     clan: Ravnos

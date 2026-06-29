@@ -21,30 +21,35 @@ deck:
   crypt:
   - count: 5
     name: Mambo Jeanne
+    id: 200908
     capacity: 9
     disciplines: FOR NEC OBF THN
     clan: Samedi
     grouping: 6
   - count: 3
     name: Jean Lisle
+    id: 200685
     capacity: 8
     disciplines: pot FOR OBF THN
     clan: Samedi
     grouping: 6
   - count: 2
     name: Baroque
+    id: 200169
     capacity: 7
     disciplines: aus for obf NEC THN
     clan: Samedi
     grouping: 5
   - count: 2
     name: Marie-Pierre
+    id: 200928
     capacity: 4
     disciplines: for nec THN
     clan: Samedi
     grouping: 6
   - count: 1
     name: Angel Chavarria
+    id: 200089
     capacity: 3
     disciplines: THN
     clan: Samedi

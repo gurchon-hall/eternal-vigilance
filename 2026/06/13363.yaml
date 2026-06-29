@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 2
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -27,6 +28,7 @@ deck:
     grouping: 6
   - count: 3
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -34,18 +36,21 @@ deck:
     grouping: 6
   - count: 2
     name: Saankaláxt
+    id: 201786
     capacity: 7
     disciplines: aus ANI DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Máddji, Mistress of Szlachtas
+    id: 201784
     capacity: 7
     disciplines: for ANI DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -53,12 +58,14 @@ deck:
     grouping: 6
   - count: 2
     name: Marialena
+    id: 201677
     capacity: 5
     disciplines: ani DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Clara Hjortshøj
+    id: 201669
     capacity: 5
     disciplines: ani aus dom PRO
     clan: Tzimisce
@@ -69,7 +76,7 @@ deck:
     count: 15
     cards:
     - count: 5
-      name: The British Museum, London
+      name: British Museum, London, The
     - count: 1
       name: Carfax Abbey
     - count: 1
@@ -81,7 +88,7 @@ deck:
     - count: 1
       name: Library Hunting Ground
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
     - count: 3
       name: Villein
   - name: Action

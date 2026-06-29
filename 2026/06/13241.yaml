@@ -21,6 +21,7 @@ deck:
   crypt:
   - count: 4
     name: Kalinda
+    id: 201596
     capacity: 6
     disciplines: tha CEL OBF
     title: Primogen
@@ -28,6 +29,7 @@ deck:
     grouping: 6
   - count: 2
     name: Khadija Al-Kindi
+    id: 201599
     capacity: 6
     disciplines: CEL OBF THA
     title: Primogen
@@ -35,6 +37,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -42,6 +45,7 @@ deck:
     grouping: 6
   - count: 1
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -49,24 +53,28 @@ deck:
     grouping: 6
   - count: 1
     name: Wise Frog
+    id: 201472
     capacity: 5
     disciplines: aus cel qui OBF
     clan: Banu Haqim
     grouping: 6
   - count: 1
     name: Greg Mazouni
+    id: 201589
     capacity: 4
     disciplines: cel obf tha
     clan: Banu Haqim
     grouping: 6
   - count: 1
     name: Adisa
+    id: 201636
     capacity: 3
     disciplines: cel obf
     clan: Banu Haqim
     grouping: 6
   - count: 1
     name: Alu
+    id: 200062
     capacity: 2
     disciplines: obf
     clan: Banu Haqim
@@ -83,7 +91,7 @@ deck:
     - count: 6
       name: Ashur Tablets
     - count: 1
-      name: The Coven
+      name: Coven, The
     - count: 5
       name: "Haqim's Law: Retribution"
     - count: 4

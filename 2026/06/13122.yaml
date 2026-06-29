@@ -22,6 +22,7 @@ deck:
   crypt:
   - count: 5
     name: Lucinde, Alastor
+    id: 201700
     capacity: 10
     disciplines: obf pot tha DOM FOR PRE
     title: Justicar
@@ -29,6 +30,7 @@ deck:
     grouping: 7
   - count: 1
     name: Ian Carfax
+    id: 201697
     capacity: 9
     disciplines: for pro AUS DOM THA
     title: Justicar
@@ -36,6 +38,7 @@ deck:
     grouping: 7
   - count: 1
     name: Alexa Draper
+    id: 201529
     capacity: 8
     disciplines: for pot DOM PRE
     title: Prince
@@ -43,6 +46,7 @@ deck:
     grouping: 6
   - count: 1
     name: Dafina Hanganu
+    id: 201729
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
@@ -50,6 +54,7 @@ deck:
     grouping: 6
   - count: 1
     name: Yewon Ong
+    id: 201716
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
@@ -57,6 +62,7 @@ deck:
     grouping: 6
   - count: 1
     name: Alice Chen
+    id: 201531
     capacity: 7
     disciplines: dom obf FOR PRE
     title: Prince
@@ -64,6 +70,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kevin Jackson
+    id: 201629
     capacity: 7
     disciplines: DOM FOR PRE
     title: Prince
@@ -71,6 +78,7 @@ deck:
     grouping: 7
   - count: 1
     name: Sybren van Oosten
+    id: 201570
     capacity: 7
     disciplines: dom tha FOR PRE
     title: Prince
@@ -78,6 +86,7 @@ deck:
     grouping: 6
   - count: 1
     name: Horst von Brühl
+    id: 201550
     capacity: 6
     disciplines: aus dom pre FOR
     title: Prince
@@ -89,9 +98,9 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
     - count: 4
-      name: The British Museum, London
+      name: British Museum, London, The
     - count: 1
       name: Direct Intervention
     - count: 1
@@ -101,7 +110,7 @@ deck:
     - count: 1
       name: Jake Washington
     - count: 1
-      name: The Line
+      name: Line, The
     - count: 1
       name: Metro Underground
     - count: 1
@@ -142,7 +151,7 @@ deck:
     - count: 5
       name: Sawed-Off Shotgun
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
   - name: Action Modifier
     count: 17
     cards:

@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 4
     name: Alexandra
+    id: 200049
     capacity: 11
     disciplines: dom ANI AUS CEL PRE
     title: Inner Circle
@@ -27,6 +28,7 @@ deck:
     grouping: 2
   - count: 4
     name: Anneke
+    id: 200106
     capacity: 10
     disciplines: dom AUS CEL PRE
     title: Justicar
@@ -34,6 +36,7 @@ deck:
     grouping: 1
   - count: 4
     name: Anson
+    id: 200107
     capacity: 8
     disciplines: aus dom CEL PRE
     title: Prince

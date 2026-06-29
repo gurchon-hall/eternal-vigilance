@@ -20,12 +20,14 @@ deck:
   crypt:
   - count: 2
     name: Fakir al Sidi
+    id: 200455
     capacity: 11
     disciplines: abo ANI FOR PRE PRO THA
     clan: Gangrel
     grouping: 4
   - count: 1
     name: Umdava
+    id: 201406
     capacity: 9
     disciplines: vic ABO ANI FOR PRE
     title: Magaji
@@ -33,24 +35,28 @@ deck:
     grouping: 4
   - count: 3
     name: Amavi
+    id: 200066
     capacity: 8
     disciplines: pre pro ABO ANI FOR
     clan: Akunanse
     grouping: 4
   - count: 1
     name: Aisata Swanou
+    id: 200028
     capacity: 7
     disciplines: abo ANI FOR VIC
     clan: Akunanse
     grouping: 5
   - count: 1
     name: Nestor Kaba
+    id: 201050
     capacity: 4
     disciplines: abo ani for
     clan: Akunanse
     grouping: 4
   - count: 1
     name: Dolie
+    id: 200353
     capacity: 3
     disciplines: abo ani
     clan: Akunanse

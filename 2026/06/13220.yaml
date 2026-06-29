@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 4
     name: Aaradhya, The Callous Tyrant
+    id: 201733
     capacity: 10
     disciplines: ANI DOM FOR POT PRE
     title: Cardinal
@@ -28,6 +29,7 @@ deck:
     path: Power and the Inner Voice
   - count: 2
     name: Dark Selina
+    id: 200321
     capacity: 9
     disciplines: dom for CEL POT PRE
     title: Cardinal
@@ -35,6 +37,7 @@ deck:
     grouping: 5
   - count: 2
     name: Věnceslava, The Implacable
+    id: 201776
     capacity: 9
     disciplines: cel DOM FOR POT PRE
     title: Archbishop
@@ -43,6 +46,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Rexton "Savage" Abernathy
+    id: 201770
     capacity: 8
     disciplines: cel DOM POT PRE
     title: Archbishop
@@ -51,6 +55,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Üresség
+    id: 201775
     capacity: 8
     disciplines: dom for CEL POT PRE
     title: Archbishop
@@ -59,6 +64,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Khin Aye
+    id: 201760
     capacity: 7
     disciplines: dom for POT PRE
     title: Priscus
@@ -67,6 +73,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Concordia
+    id: 201744
     capacity: 6
     disciplines: for pot DOM PRE
     title: Bishop

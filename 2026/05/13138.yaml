@@ -24,24 +24,28 @@ deck:
   crypt:
   - count: 3
     name: Marciana Giovanni, Investigator
+    id: 200913
     capacity: 2
     disciplines: dom
     clan: Giovanni
     grouping: 2
   - count: 1
     name: Catherine du Bois
+    id: 200256
     capacity: 5
     disciplines: for obf pre DOM
     clan: Ventrue
     grouping: 3
   - count: 1
     name: Edward Vignes
+    id: 200403
     capacity: 6
     disciplines: for DOM PRE
     clan: Ventrue
     grouping: 3
   - count: 1
     name: Gracis Nostinus
+    id: 200532
     capacity: 7
     disciplines: aus for DOM PRE
     title: Primogen
@@ -49,36 +53,42 @@ deck:
     grouping: 3
   - count: 1
     name: Horatio Ballard
+    id: 200604
     capacity: 7
     disciplines: aus DOM FOR PRE
     clan: Ventrue
     grouping: 3
   - count: 1
     name: Ilyana Ravidovich
+    id: 200629
     capacity: 5
     disciplines: aus dom for pre
     clan: Ventrue
     grouping: 3
   - count: 1
     name: Ingrid Russo
+    id: 200635
     capacity: 4
     disciplines: for DOM
     clan: Ventrue antitribu
     grouping: 2
   - count: 1
     name: Lana Butcher
+    id: 200812
     capacity: 3
     disciplines: dom for
     clan: Ventrue
     grouping: 3
   - count: 1
     name: Ranjan Rishi, Camarilla Scholar
+    id: 201162
     capacity: 5
     disciplines: for DOM PRE
     clan: Ventrue
     grouping: 2
   - count: 1
     name: Royce
+    id: 201208
     capacity: 1
     disciplines: dom
     clan: Pander
@@ -105,7 +115,7 @@ deck:
     - count: 1
       name: Misdirection
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
     - count: 1
       name: Storage Annex
     - count: 1

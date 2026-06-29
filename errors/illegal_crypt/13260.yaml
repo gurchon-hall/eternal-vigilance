@@ -23,36 +23,42 @@ deck:
   crypt:
   - count: 3
     name: Aksinya Daclau
+    id: 200034
     capacity: 9
     disciplines: cel tha ANI FOR PRE PRO
     clan: Gangrel antitribu
     grouping: 4
   - count: 1
     name: Nostoket
+    id: 201066
     capacity: 8
     disciplines: for obt ANI DEM PRO
     clan: Gangrel antitribu
     grouping: 4
   - count: 2
     name: Doyle Fincher
+    id: 200372
     capacity: 7
     disciplines: aus for obf ANI PRO
     clan: Gangrel antitribu
     grouping: 4
   - count: 2
     name: Luke Fellows
+    id: 200881
     capacity: 7
     disciplines: CEL OBF PRO
     clan: Gangrel antitribu
     grouping: 4
   - count: 1
     name: Spider
+    id: 201308
     capacity: 6
     disciplines: ani for CEL PRO
     clan: Gangrel antitribu
     grouping: 4
   - count: 1
     name: Céleste Lamontagne
+    id: 200259
     capacity: 5
     disciplines: for ANI PRO
     clan: Gangrel antitribu

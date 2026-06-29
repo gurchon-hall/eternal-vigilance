@@ -21,24 +21,28 @@ deck:
   crypt:
   - count: 5
     name: Qawiyya el-Ghaduba
+    id: 201138
     capacity: 9
     disciplines: aus pre FOR POT VAL
     clan: Salubri antitribu
     grouping: 5
   - count: 3
     name: Andre LeRoux
+    id: 200080
     capacity: 3
     disciplines: aus
     clan: Toreador
     grouping: 5
   - count: 1
     name: Donald Cargill
+    id: 200365
     capacity: 1
     disciplines: aus
     clan: Caitiff
     grouping: 5
   - count: 1
     name: Walker Grimes
+    id: 201462
     capacity: 1
     disciplines: ani
     clan: Caitiff

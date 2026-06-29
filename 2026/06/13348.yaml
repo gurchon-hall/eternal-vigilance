@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 2
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -25,6 +26,7 @@ deck:
     grouping: 6
   - count: 2
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 1
     name: Massimiliano
+    id: 201602
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
@@ -39,6 +42,7 @@ deck:
     grouping: 6
   - count: 1
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -46,12 +50,14 @@ deck:
     grouping: 6
   - count: 1
     name: André the Manipulator
+    id: 200081
     capacity: 6
     disciplines: FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 1
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -59,24 +65,28 @@ deck:
     grouping: 6
   - count: 1
     name: Kamile Paukstys
+    id: 201597
     capacity: 5
     disciplines: ani for PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Nathan Turner
+    id: 201606
     capacity: 4
     disciplines: ani PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Indira
+    id: 201592
     capacity: 3
     disciplines: PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Ruslan Fedorenko
+    id: 201611
     capacity: 2
     disciplines: pro
     clan: Gangrel
@@ -111,7 +121,7 @@ deck:
     - count: 1
       name: Information Highway
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
     - count: 1
       name: 'Powerbase: Montreal'
   - name: Action

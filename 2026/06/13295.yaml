@@ -23,6 +23,7 @@ deck:
   crypt:
   - count: 3
     name: Rodolfo
+    id: 201196
     capacity: 8
     disciplines: pro AUS DEM OBF
     title: Bishop
@@ -30,6 +31,7 @@ deck:
     grouping: 3
   - count: 3
     name: Korah
+    id: 200791
     capacity: 7
     disciplines: ani AUS DEM OBF
     title: Priscus
@@ -37,6 +39,7 @@ deck:
     grouping: 2
   - count: 2
     name: Kite
+    id: 200786
     capacity: 7
     disciplines: obf pre AUS DEM
     title: Bishop
@@ -44,6 +47,7 @@ deck:
     grouping: 2
   - count: 1
     name: Marie Faucigny
+    id: 200927
     capacity: 7
     disciplines: dem tha AUS OBF
     title: Archbishop
@@ -51,12 +55,14 @@ deck:
     grouping: 3
   - count: 1
     name: Dolphin Black
+    id: 200355
     capacity: 6
     disciplines: AUS DEM OBF
     clan: Malkavian antitribu
     grouping: 2
   - count: 1
     name: General Perfidio Díos
+    id: 200500
     capacity: 5
     disciplines: dem obf AUS
     title: Bishop
@@ -64,6 +70,7 @@ deck:
     grouping: 3
   - count: 1
     name: Uncle George
+    id: 201408
     capacity: 5
     disciplines: aus dom obf DEM
     clan: Malkavian antitribu
@@ -93,7 +100,7 @@ deck:
     - count: 1
       name: Blessing of Chaos
     - count: 6
-      name: The Call
+      name: Call, The
     - count: 13
       name: Kindred Spirits
     - count: 1

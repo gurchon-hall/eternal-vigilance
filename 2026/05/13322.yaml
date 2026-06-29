@@ -21,6 +21,7 @@ deck:
   crypt:
   - count: 1
     name: Lazverinus, Thrall of Lambach
+    id: 200823
     capacity: 10
     disciplines: pro AUS DOM FOR POT
     title: Archbishop
@@ -28,6 +29,7 @@ deck:
     grouping: 2
   - count: 4
     name: Quentin
+    id: 201140
     capacity: 9
     disciplines: cel obt AUS DOM FOR
     title: Bishop
@@ -35,6 +37,7 @@ deck:
     grouping: 2
   - count: 3
     name: Kyle Strathcona, Cardinal of Canada
+    id: 200797
     capacity: 9
     disciplines: for AUS DOM POT PRE
     title: Cardinal
@@ -42,6 +45,7 @@ deck:
     grouping: 2
   - count: 2
     name: Lachlan, Noddist
+    id: 200802
     capacity: 8
     disciplines: dom AUS CEL PRE
     title: Archbishop
@@ -49,6 +53,7 @@ deck:
     grouping: 2
   - count: 1
     name: Gratiano
+    id: 200534
     capacity: 8
     disciplines: obf pot DOM OBT
     title: Priscus
@@ -56,6 +61,7 @@ deck:
     grouping: 2
   - count: 1
     name: Dr. Julius Sutphen
+    id: 200378
     capacity: 5
     disciplines: dom obt POT
     title: Bishop
