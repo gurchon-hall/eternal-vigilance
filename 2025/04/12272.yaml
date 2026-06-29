@@ -1,0 +1,151 @@
+name: Acidente no Laboratório
+location: Teresina, Brazil
+date_start: 2025-04-27
+rounds_format: 2R+F
+players_count: 10
+winner: Cláudio Torcato
+vekn_number: 1930003
+event_url: https://www.vekn.net/event-calendar/event/12272
+event_id: 12272
+vp_comment: 2vp in final (2nd seed)
+forum_post_url: https://www.vekn.net/event-calendar/event/12272
+deck:
+  name: Museu Vivo no Inferno  (Living museum in hell)
+  description: ''
+  crypt_count: 12
+  crypt_min: 19
+  crypt_max: 30
+  crypt_avg: 6.08
+  crypt:
+  - count: 2
+    name: Adrino Manauara
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Ángel Guerrero
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Branimira
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Neserian
+    capacity: 6
+    disciplines: cel pro ANI DOM
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Clara Hjortshøj
+    capacity: 5
+    disciplines: ani aus dom PRO
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Marialena
+    capacity: 5
+    disciplines: ani DOM PRO
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Whisper
+    capacity: 5
+    disciplines: pro ANI DOM
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Prentis Derby
+    capacity: 4
+    disciplines: ani dom pro
+    clan: Tzimisce
+    grouping: 6
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 5
+      name: The British Museum, London
+    - count: 1
+      name: Carfax Abbey
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: Heidelberg Castle, Germany
+    - count: 2
+      name: Two Wrongs
+    - count: 3
+      name: Villein
+    - count: 2
+      name: Wider View
+  - name: Action
+    count: 8
+    cards:
+    - count: 8
+      name: Govern the Unaligned
+  - name: Equipment
+    count: 12
+    cards:
+    - count: 2
+      name: Cooler
+    - count: 2
+      name: Heart of Nizchetus
+    - count: 1
+      name: Incriminating Videotape
+    - count: 6
+      name: Living Manse
+    - count: 1
+      name: The Signet of King Saul
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Eat the Rich
+  - name: Action Modifier
+    count: 9
+    cards:
+    - count: 2
+      name: Conditioning
+    - count: 6
+      name: Earth Control
+    - count: 1
+      name: Foreshadowing Destruction
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Obedient Flesh
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Form of the Bat
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 4
+      name: Bait and Switch
+    - count: 4
+      name: Deep Ecology
+    - count: 6
+      name: Deflection
+    - count: 4
+      name: Guard Dogs
+  - name: Combat
+    count: 8
+    cards:
+    - count: 4
+      name: Earth Meld
+    - count: 4
+      name: Form of Mist

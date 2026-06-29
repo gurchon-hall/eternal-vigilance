@@ -39,6 +39,7 @@ deck:
     title: Archbishop
     clan: Lasombra
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: María del Toro
     capacity: 7
@@ -72,6 +73,7 @@ deck:
     disciplines: dom for obl POT
     clan: Lasombra
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: Braden White
     capacity: 4

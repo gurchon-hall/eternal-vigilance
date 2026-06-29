@@ -24,6 +24,7 @@ deck:
     disciplines: aus pot DOM OBL THA
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Parijat, the Dark Oracle
     capacity: 7
@@ -36,6 +37,7 @@ deck:
     disciplines: for tha AUS OBL
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Azucena
     capacity: 5
@@ -48,12 +50,14 @@ deck:
     disciplines: aus dom tha OBL
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 3
     name: El Monseñor
     capacity: 4
     disciplines: dom OBL
     clan: Lasombra
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Alek König
     capacity: 3

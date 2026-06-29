@@ -43,6 +43,7 @@ deck:
     disciplines: for tha AUS OBL
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Hiromitsu Asano
     capacity: 4
@@ -67,6 +68,7 @@ deck:
     disciplines: aus obl
     clan: Hecata
     grouping: 6
+    path: Death and the Soul
   - count: 1
     name: Peter St. John
     capacity: 2
@@ -144,4 +146,4 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking

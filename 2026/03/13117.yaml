@@ -24,6 +24,7 @@ deck:
     title: Cardinal
     clan: Ventrue
     grouping: 6
+    path: Power and the Inner Voice
   - count: 2
     name: Věnceslava, The Implacable
     capacity: 9
@@ -31,6 +32,7 @@ deck:
     title: Archbishop
     clan: Brujah
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: Carolina Vález
     capacity: 9
@@ -59,6 +61,7 @@ deck:
     title: Archbishop
     clan: Brujah
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: Khin Aye
     capacity: 7
@@ -66,6 +69,7 @@ deck:
     title: Priscus
     clan: Ventrue
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: Concordia
     capacity: 6
@@ -73,6 +77,7 @@ deck:
     title: Bishop
     clan: Ventrue
     grouping: 6
+    path: Power and the Inner Voice
   library_count: 90
   library_sections:
   - name: Master

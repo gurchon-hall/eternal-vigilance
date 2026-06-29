@@ -31,6 +31,7 @@ deck:
     title: Cardinal
     clan: Malkavian
     grouping: 6
+    path: Cathari
   - count: 2
     name: Abraham Mellon
     capacity: 8
@@ -43,12 +44,14 @@ deck:
     disciplines: for pot AUS DOM OBF
     clan: Malkavian
     grouping: 6
+    path: Cathari
   - count: 1
     name: Coco Thorn
     capacity: 4
     disciplines: dom for obf
     clan: Malkavian
     grouping: 6
+    path: Cathari
   - count: 1
     name: Ashley
     capacity: 3

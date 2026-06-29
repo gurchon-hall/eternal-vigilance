@@ -24,6 +24,7 @@ deck:
     title: Cardinal
     clan: Ventrue
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: Mary Anne Blaire
     capacity: 10
@@ -73,6 +74,7 @@ deck:
     title: Priscus
     clan: Ventrue
     grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: Sybren van Oosten
     capacity: 7

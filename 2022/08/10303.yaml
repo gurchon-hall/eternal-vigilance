@@ -1,0 +1,126 @@
+name: The Bitter and Sweet Story
+location: Mexico City, Mexico
+date_start: 2022-08-21
+rounds_format: 3R+F
+players_count: 10
+winner: Edgar David Caudillo Garrido
+vekn_number: 7400011
+event_url: https://www.vekn.net/event-calendar/event/10303
+event_id: 10303
+forum_post_url: https://www.vekn.net/event-calendar/event/10303
+deck:
+  name: Malgormistress
+  description: ''
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 10.17
+  crypt:
+  - count: 5
+    name: Malgorzata
+    capacity: 9
+    disciplines: pre AUS DOM THA VIC
+    title: Priscus
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 3
+    name: Lord Tremere
+    capacity: 11
+    disciplines: obe ANI AUS DOM THA VIC
+    clan: Tremere
+    grouping: 5
+  - count: 3
+    name: Mistress Fanchon
+    capacity: 11
+    disciplines: AUS CEL DOM OBF THA VIC
+    title: Inner Circle
+    clan: Tremere
+    grouping: 4
+  - count: 1
+    name: Sha-Ennu
+    capacity: 11
+    disciplines: obf tha ANI AUS CHI VIC
+    title: Regent
+    clan: Tzimisce
+    grouping: 4
+  library_count: 69
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Giant's Blood
+    - count: 2
+      name: Information Highway
+    - count: 1
+      name: Metro Underground
+    - count: 1
+      name: Monastery of Shadows
+    - count: 3
+      name: Rötschreck
+    - count: 4
+      name: Villein
+    - count: 4
+      name: Zillah's Valley
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Magic of the Smith
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+    - count: 1
+      name: Heart of Nizchetus
+    - count: 1
+      name: Helicopter
+    - count: 1
+      name: The Sargon Fragment
+    - count: 1
+      name: Sire's Index Finger
+  - name: Political Action
+    count: 3
+    cards:
+    - count: 1
+      name: Ancient Influence
+    - count: 1
+      name: Political Stranglehold
+    - count: 1
+      name: Reins of Power
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 3
+      name: Changeling
+    - count: 1
+      name: Enkil Cog
+  - name: Reaction
+    count: 13
+    cards:
+    - count: 3
+      name: Eagle's Sight
+    - count: 4
+      name: Eyes of Argus
+    - count: 3
+      name: Precognition
+    - count: 3
+      name: Telepathic Misdirection
+  - name: Combat
+    count: 25
+    cards:
+    - count: 4
+      name: Amaranth
+    - count: 3
+      name: Blood Fury
+    - count: 4
+      name: Breath of the Dragon
+    - count: 7
+      name: Chiropteran Marauder
+    - count: 4
+      name: Rego Motum
+    - count: 3
+      name: Thoughts Betrayed

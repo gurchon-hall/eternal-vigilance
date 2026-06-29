@@ -18,7 +18,7 @@ deck:
   crypt_avg: 7.42
   crypt:
   - count: 6
-    name: unnamed, The
+    name: The unnamed
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
@@ -27,11 +27,11 @@ deck:
     name: Arishat
     capacity: 6
     disciplines: DAI OBF PRE
-    title: 1 vote
+    title: 1 Vote
     clan: Baali
     grouping: 6
   - count: 2
-    name: Horde, The
+    name: The Horde
     capacity: 3
     disciplines: dai obf pre
     clan: Baali

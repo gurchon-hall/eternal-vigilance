@@ -21,7 +21,7 @@ deck:
     name: Tegyrius, Vizier
     capacity: 10
     disciplines: AUS CEL FOR PRE THA
-    title: 2 votes
+    title: 2 Votes
     clan: Banu Haqim
     grouping: 6
   - count: 2
@@ -45,6 +45,7 @@ deck:
     title: Bishop
     clan: Banu Haqim
     grouping: 6
+    path: Caine
   - count: 1
     name: Farah Sarroub
     capacity: 7
@@ -59,6 +60,7 @@ deck:
     title: Bishop
     clan: Banu Haqim
     grouping: 6
+    path: Caine
   - count: 1
     name: Khadija Al-Kindi
     capacity: 6
@@ -72,6 +74,7 @@ deck:
     disciplines: cel POT THA
     clan: Banu Haqim
     grouping: 6
+    path: Caine
   - count: 1
     name: Warmaksan
     capacity: 5

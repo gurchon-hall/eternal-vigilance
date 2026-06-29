@@ -23,7 +23,7 @@ deck:
     name: Scout Youngwood
     capacity: 8
     disciplines: for qui MEL OBF PRE
-    title: 2 votes
+    title: 2 Votes
     clan: Daughter of Cacophony
     grouping: 6
   - count: 1
@@ -51,7 +51,7 @@ deck:
     name: Arishat
     capacity: 6
     disciplines: DAI OBF PRE
-    title: 1 vote
+    title: 1 Vote
     clan: Baali
     grouping: 6
   - count: 1

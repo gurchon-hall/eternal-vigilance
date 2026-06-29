@@ -23,14 +23,14 @@ deck:
     name: Annazir
     capacity: 9
     disciplines: DAI OBF POT PRE
-    title: 2 votes
+    title: 2 Votes
     clan: Baali
     grouping: 5
   - count: 4
     name: Arishat
     capacity: 6
     disciplines: DAI OBF PRE
-    title: 1 vote
+    title: 1 Vote
     clan: Baali
     grouping: 6
   - count: 4

@@ -1,0 +1,120 @@
+name: Subversão da Pentex
+location: Vila Velha, Brazil
+date_start: 2022-03-06
+rounds_format: 3R+F
+players_count: 11
+winner: Gabriel Waichert
+vekn_number: 6040012
+event_url: https://www.vekn.net/event-calendar/event/10105
+event_id: 10105
+vp_comment: 1 - Tiago Honorato (Baltimore Montano) - 2GW8
+forum_post_url: https://www.vekn.net/event-calendar/event/10105
+deck:
+  name: (SA) Fadinhas
+  description: ''
+  crypt_count: 12
+  crypt_min: 23
+  crypt_max: 31
+  crypt_avg: 6.83
+  crypt:
+  - count: 3
+    name: The Arcadian
+    capacity: 8
+    disciplines: chi for DOM MYT OBT
+    clan: Kiasyd
+    grouping: 5
+  - count: 3
+    name: Omme Enberbenight
+    capacity: 7
+    disciplines: cel dom MYT OBT
+    title: Priscus
+    clan: Kiasyd
+    grouping: 4
+  - count: 3
+    name: Isanwayen
+    capacity: 6
+    disciplines: DOM MYT OBT
+    clan: Kiasyd
+    grouping: 4
+  - count: 2
+    name: Roderick Phillips March
+    capacity: 7
+    disciplines: cel obt tha DOM MYT
+    clan: Kiasyd
+    grouping: 4
+  - count: 1
+    name: Dame Hollerton
+    capacity: 5
+    disciplines: myt DOM OBT
+    clan: Kiasyd
+    grouping: 4
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Dominate
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Great Symposium
+    - count: 2
+      name: Inbase Discotek, Frankfurt
+    - count: 2
+      name: Perfectionist
+    - count: 2
+      name: Ravager
+    - count: 1
+      name: Secure Haven
+    - count: 5
+      name: Vessel
+    - count: 2
+      name: Wider View
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: Far Mastery
+    - count: 6
+      name: Govern the Unaligned
+    - count: 6
+      name: Gremlins
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+  - name: Action Modifier
+    count: 20
+    cards:
+    - count: 6
+      name: Conditioning
+    - count: 4
+      name: Shadow Play
+    - count: 4
+      name: Shroud of Absence
+    - count: 6
+      name: Stone Travel
+  - name: Action Modifier/Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Fae Contortion
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Aura Absorption
+  - name: Reaction
+    count: 13
+    cards:
+    - count: 6
+      name: Deflection
+    - count: 7
+      name: On the Qui Vive
+  - name: Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Oubliette
