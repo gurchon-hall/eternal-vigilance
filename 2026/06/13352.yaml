@@ -1,0 +1,132 @@
+name: Floripa Mensal
+location: Florianópolis, Brasil
+date_start: 2026-06-14
+rounds_format: 2R+F
+players_count: 10
+winner: Fernando Fiorin
+vekn_number: 7060126
+event_url: https://www.vekn.net/event-calendar/event/13352
+event_id: 13352
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83062-twd-floripa-mensal-florianopolis-sc-brazil-14-062026
+deck:
+  name: Nephandus Nephandorum
+  created_by: Fernando Fiorin
+  description: ''
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 20
+  crypt_avg: 4.33
+  crypt:
+  - count: 5
+    name: Antonio d'Erlette
+    capacity: 5
+    disciplines: dom for pot THA
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 2
+    name: Frondator
+    capacity: 5
+    disciplines: dom tha AUS
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Esoara
+    capacity: 5
+    disciplines: aus for pot DOM
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Janine
+    capacity: 4
+    disciplines: aus dom tha
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Ember Wright
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Lectora
+    capacity: 3
+    disciplines: aus tha
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Jacob, The Glitch
+    capacity: 2
+    disciplines: THA
+    clan: Tremere antitribu
+    grouping: 3
+  library_count: 81
+  library_sections:
+  - name: Master
+    count: 10
+    cards:
+    - count: 1
+      name: Channel 10
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: KRCG News Radio
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 3
+      name: The Shard, London
+    - count: 2
+      name: Wider View
+  - name: Action
+    count: 18
+    cards:
+    - count: 6
+      name: Ambush
+    - count: 2
+      name: Bum's Rush
+    - count: 4
+      name: Computer Hacking
+    - count: 2
+      name: Govern the Unaligned
+    - count: 4
+      name: Harass
+  - name: Ally
+    count: 9
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+    - count: 8
+      name: Nephandus
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 4
+      name: Conditioning
+    - count: 4
+      name: Mirror Walk
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 6
+      name: Deflection
+    - count: 6
+      name: On the Qui Vive
+  - name: Combat
+    count: 21
+    cards:
+    - count: 6
+      name: Fake Out
+    - count: 6
+      name: Molotov Cocktail
+    - count: 4
+      name: Target Vitals
+    - count: 5
+      name: Trap
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+    - count: 2
+      name: The Unmasking

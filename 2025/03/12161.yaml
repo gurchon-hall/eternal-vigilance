@@ -1,0 +1,144 @@
+name: Torneio Mensal Curitiba
+location: Curitiba (PR), Brazil
+date_start: 2025-03-22
+rounds_format: 2R+F
+players_count: 10
+winner: Rodrigo Guebur
+vekn_number: 6070055
+event_url: https://www.vekn.net/event-calendar/event/12161
+event_id: 12161
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12161
+deck:
+  name: CoffeeBreak
+  description: ''
+  crypt_count: 12
+  crypt_min: 22
+  crypt_max: 32
+  crypt_avg: 6.75
+  crypt:
+  - count: 4
+    name: Saku Pihlajamäki
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Aline Gädeke
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Atiena
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Leumeah
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Octane
+    capacity: 6
+    disciplines: CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Elen Kamjian
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: The Anarch Free Press
+    - count: 1
+      name: Archon Investigation
+    - count: 1
+      name: Carfax Abbey
+    - count: 2
+      name: Dreams of the Sphinx
+    - count: 1
+      name: Garibaldi-Meucci Museum
+    - count: 1
+      name: KRCG News Radio
+    - count: 1
+      name: New Carthage
+    - count: 1
+      name: 'Powerbase: Montreal'
+    - count: 1
+      name: Smiling Jack, The Anarch
+    - count: 2
+      name: Vessel
+    - count: 3
+      name: Villein
+    - count: 1
+      name: Warzone Hunting Ground
+    - count: 2
+      name: Wash
+    - count: 1
+      name: Wider View
+  - name: Action
+    count: 12
+    cards:
+    - count: 1
+      name: Constant Revolution
+    - count: 8
+      name: Enchant Kindred
+    - count: 2
+      name: Line Brawl
+    - count: 1
+      name: Open War
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 5
+      name: .44 Magnum
+  - name: Action Modifier
+    count: 1
+    cards:
+    - count: 1
+      name: Monkey Wrench
+  - name: Reaction
+    count: 26
+    cards:
+    - count: 8
+      name: Bait and Switch
+    - count: 2
+      name: Delaying Tactics
+    - count: 14
+      name: Organized Resistance
+    - count: 2
+      name: Protection Racket
+  - name: Combat
+    count: 17
+    cards:
+    - count: 3
+      name: Blur
+    - count: 5
+      name: Concealed Weapon
+    - count: 2
+      name: Dust Up
+    - count: 5
+      name: Psyche!
+    - count: 2
+      name: Taste of Vitae

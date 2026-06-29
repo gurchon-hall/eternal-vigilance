@@ -40,14 +40,14 @@ deck:
     name: Neferu
     capacity: 9
     disciplines: dom nec OBF PRE SER THA
-    title: 2 votes
+    title: 2 Votes
     clan: Ministry
     grouping: 4
   - count: 1
     name: Shemti
     capacity: 9
     disciplines: vic OBF POT PRE SER
-    title: 1 vote
+    title: 1 Vote
     clan: Ministry
     grouping: 5
   - count: 1

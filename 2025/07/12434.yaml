@@ -93,7 +93,7 @@ deck:
     count: 3
     cards:
     - count: 2
-      name: Anarch Manifesto, An
+      name: An Anarch Manifesto
     - count: 1
       name: Stolen Police Cruiser
   - name: Political Action

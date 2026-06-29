@@ -35,7 +35,7 @@ deck:
     name: Kahina the Sorceress
     capacity: 9
     disciplines: nec pre AUS DOM OBF SER
-    title: 1 vote
+    title: 1 Vote
     clan: Ministry
     grouping: 3
   - count: 2
@@ -48,7 +48,7 @@ deck:
     name: Kephamos, High Priest of Marrakech
     capacity: 8
     disciplines: dom obf pre SER
-    title: 2 votes
+    title: 2 Votes
     clan: Ministry
     grouping: 2
   - count: 1

@@ -10,7 +10,7 @@ event_id: 12374
 forum_post_url: https://www.vekn.net/event-calendar/event/12374
 deck:
   name: Arishat Barons
-  description: Classic Arishat - Barons deck, nothing too tricky or unexpected.  
+  description: Classic Arishat - Barons deck, nothing too tricky or unexpected. 
     Deliberately avoiding bleeding with this version to jam my prey on flick as 
     best I can, previous versions have had 3 copies of Protected Resources but 
     it's not always a good investment of 2 pool, two copies might be better 
@@ -24,7 +24,7 @@ deck:
     name: Arishat
     capacity: 6
     disciplines: DAI OBF PRE
-    title: 1 vote
+    title: 1 Vote
     clan: Baali
     grouping: 6
   - count: 2
