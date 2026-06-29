@@ -1,0 +1,176 @@
+name: Czech Nationals 2025
+location: Sázava, Czech Republic
+date_start: 2025-09-06
+rounds_format: 3R+F
+players_count: 57
+winner: Matej Lenarth
+vekn_number: 3090027
+event_url: https://www.vekn.net/event-calendar/event/12421
+event_id: 12421
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/82570-twd-pulled-fang-14
+deck:
+  name: Czech nationals 2025 - BarAni
+  created_by: Matej Lenarth (credits to Jozef Patrnciak)
+  description: ''
+  crypt_count: 12
+  crypt_min: 10
+  crypt_max: 29
+  crypt_avg: 5.25
+  crypt:
+  - count: 1
+    name: Adrino Manauara
+    id: 201664
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Massimiliano
+    id: 201602
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Ángel Guerrero
+    id: 201665
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Branimira
+    id: 201667
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Kuyén
+    id: 201574
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Whisper
+    id: 201690
+    capacity: 5
+    disciplines: pro ANI DOM
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Trung Chau Pham
+    id: 201689
+    capacity: 3
+    disciplines: ANI
+    clan: Ravnos
+    grouping: 7
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 6
+      name: Anarch Revolt
+      id: 100055
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Poacher's Hunting Ground
+      id: 101404
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: The Rack
+      id: 101536
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 12
+    cards:
+    - count: 12
+      name: Deep Song
+      id: 100515
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Retainer
+    count: 3
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 2
+      name: Raven Spy
+      id: 101550
+  - name: Reaction
+    count: 19
+    cards:
+    - count: 6
+      name: Bait and Switch
+      id: 102218
+    - count: 3
+      name: Deep Ecology
+      id: 102219
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 9
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 34
+    cards:
+    - count: 12
+      name: Aid from Bats
+      id: 100029
+    - count: 12
+      name: Carrion Crows
+      id: 100301
+    - count: 2
+      name: Drawing Out the Beast
+      id: 100585
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+    - count: 4
+      name: Terror Frenzy
+      id: 101960
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: NSA Trio
+      id: 101306

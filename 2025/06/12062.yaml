@@ -1,0 +1,155 @@
+name: WoN Event 1 2025
+location: Comic Shop Plus, Newark, Ohio, United States
+date_start: 2025-06-15
+rounds_format: 2R+F
+players_count: 35
+winner: Norm Brown
+vekn_number: 2810001
+event_url: https://www.vekn.net/event-calendar/event/12062
+event_id: 12062
+vp_comment: 1GW5 + 2.5 in final
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/82446-twda-week-of-nightmares-event-1
+deck:
+  name: Ring that Bell v2.0
+  description: ''
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 32
+  crypt_avg: 6.42
+  crypt:
+  - count: 3
+    name: Dafina Hanganu
+    id: 201729
+    capacity: 8
+    disciplines: for DOM OBL POT
+    title: Prince
+    clan: Lasombra
+    grouping: 6
+  - count: 3
+    name: Theo Bell
+    id: 201613
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 3
+    name: Nathaniel Bordruff
+    id: 201632
+    capacity: 7
+    disciplines: ani DOM OBF POT
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Braden White
+    id: 201711
+    capacity: 4
+    disciplines: dom obl pot
+    clan: Lasombra
+    grouping: 6
+  - count: 1
+    name: Fergus Alexander
+    id: 200463
+    capacity: 3
+    disciplines: pot pro
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 2
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 2
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Carver's Meat Packing and Storage
+      id: 100303
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dominate
+      id: 100572
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 6
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 17
+    cards:
+    - count: 14
+      name: Govern the Unaligned
+      id: 100845
+    - count: 1
+      name: Heroic Might
+      id: 100913
+    - count: 2
+      name: Preternatural Strength
+      id: 101483
+  - name: Political Action
+    count: 6
+    cards:
+    - count: 1
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 1
+      name: Nosferatu Justicar
+      id: 101299
+    - count: 4
+      name: Parity Shift
+      id: 101353
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 12
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 31
+    cards:
+    - count: 2
+      name: Disarm
+      id: 100549
+    - count: 10
+      name: Immortal Grapple
+      id: 100959
+    - count: 10
+      name: Roundhouse
+      id: 102215
+    - count: 6
+      name: Taste of Vitae
+      id: 101945
+    - count: 3
+      name: Torn Signpost
+      id: 101993
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697

@@ -1,0 +1,189 @@
+name: Nose of the hound
+location: Online
+date_start: 2022-07-25
+rounds_format: 2R+F
+players_count: 14
+winner: Rafael Barbosa da Silva
+vekn_number: 7060055
+event_url: https://www.vekn.net/event-calendar/event/10285
+event_id: 10285
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/79953-twda-nose-of-the-hound
+deck:
+  name: ravnos snow
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 29
+  crypt_avg: 4.83
+  crypt:
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 3
+    name: Delizbieta of the Dark Eyes
+    id: 200332
+    capacity: 7
+    disciplines: ANI CHI FOR PRE
+    clan: Ravnos
+    grouping: 3
+  - count: 2
+    name: Tatiana Stepanova, Alastor
+    id: 201348
+    capacity: 7
+    disciplines: ani for obf CHI PRE
+    clan: Ravnos
+    grouping: 4
+  - count: 1
+    name: Devyn
+    id: 200340
+    capacity: 4
+    disciplines: ani chi pre
+    clan: Ravnos
+    grouping: 4
+  - count: 1
+    name: Jeremy MacNeil (ADV)
+    id: 200694
+    capacity: 8
+    disciplines: cel chi AUS POT PRE
+    clan: Brujah
+    grouping: 3
+  - count: 1
+    name: Rain
+    id: 201154
+    capacity: 7
+    disciplines: cel chi dem pot pre AUS
+    clan: Toreador antitribu
+    grouping: 4
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fortune Teller Shop
+      id: 100777
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Park Hunting Ground
+      id: 101354
+    - count: 2
+      name: The Path of Paradox
+      id: 101366
+    - count: 1
+      name: Svadharma
+      id: 101912
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Week of Nightmares
+      id: 102166
+  - name: Action
+    count: 5
+    cards:
+    - count: 1
+      name: Bujo
+      id: 100265
+    - count: 3
+      name: Illegalism
+      id: 100952
+    - count: 1
+      name: Patshiv
+      id: 101376
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Karavalanisha Vrana
+      id: 101033
+    - count: 1
+      name: Treasured Samadji
+      id: 102015
+  - name: Political Action
+    count: 10
+    cards:
+    - count: 3
+      name: Consanguineous Boon
+      id: 100410
+    - count: 6
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Year of Fortune
+      id: 102200
+  - name: Action Modifier
+    count: 34
+    cards:
+    - count: 5
+      name: Adhocracy
+      id: 100022
+    - count: 3
+      name: Awe
+      id: 100119
+    - count: 3
+      name: Bewitching Oration
+      id: 100157
+    - count: 2
+      name: False Resonance
+      id: 100697
+    - count: 4
+      name: Fata Morgana
+      id: 100707
+    - count: 5
+      name: Freak Drive
+      id: 100788
+    - count: 2
+      name: Mirror's Visage
+      id: 101224
+    - count: 3
+      name: Propaganda of the Deed
+      id: 101496
+    - count: 2
+      name: Smoke and Mirrors
+      id: 101813
+    - count: 5
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 6
+    cards:
+    - count: 3
+      name: Mirror Image
+      id: 101222
+    - count: 3
+      name: Occlusion
+      id: 101313
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 3
+      name: Deep Ecology
+      id: 102219
+    - count: 1
+      name: Forced Awakening
+      id: 100760
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Wake with Evening's Freshness
+      id: 102137

@@ -1,0 +1,198 @@
+name: Fee Stake Itaquaquecetuba
+location: Itaquaquecetuba, Brasil
+date_start: 2023-11-12
+rounds_format: 2R+F
+players_count: 15
+winner: Desso Alastor
+vekn_number: 6010151
+event_url: https://www.vekn.net/event-calendar/event/11037
+event_id: 11037
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/80976-twda-fee-stake-itaquaquecetuba-itaquaquecetuba-brasil-12-november-2023
+deck:
+  name: Capela Tremere
+  description: ''
+  crypt_count: 12
+  crypt_min: 5
+  crypt_max: 28
+  crypt_avg: 4.0
+  crypt:
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 2
+    name: Carna, The Princess Witch
+    id: 200248
+    capacity: 7
+    disciplines: AUS DOM THA
+    title: Primogen
+    clan: Tremere
+    grouping: 3
+  - count: 2
+    name: Martin Franckel
+    id: 200943
+    capacity: 3
+    disciplines: tha AUS
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Almiro Suarez
+    id: 200058
+    capacity: 2
+    disciplines: aus
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Blythe Candeleria
+    id: 200210
+    capacity: 3
+    disciplines: aus THA
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Eugenio Estevez
+    id: 200442
+    capacity: 6
+    disciplines: dom for AUS THA
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Rebekka, Chantry Elder of Munich
+    id: 201171
+    capacity: 8
+    disciplines: pot AUS PRE THA
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Valois Sang, The Watcher
+    id: 201424
+    capacity: 6
+    disciplines: nec tha AUS DOM
+    clan: Tremere
+    grouping: 3
+  library_count: 72
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Academic Hunting Ground
+      id: 100015
+    - count: 1
+      name: Arcane Library
+      id: 100081
+    - count: 2
+      name: Chantry
+      id: 100329
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Guardian Angel
+      id: 100866
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Pentex™ Subversion
+      id: 101384
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 2
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 4
+    cards:
+    - count: 2
+      name: Anima Gathering
+      id: 100068
+    - count: 2
+      name: Constant Revolution
+      id: 100416
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Ponticulus
+      id: 101419
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 4
+      name: Sniper Rifle
+      id: 101816
+  - name: Reaction
+    count: 30
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: Eagle's Sight
+      id: 100598
+    - count: 3
+      name: Enhanced Senses
+      id: 100644
+    - count: 5
+      name: Eyes of Argus
+      id: 100680
+    - count: 3
+      name: Forced Awakening
+      id: 100760
+    - count: 4
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Precognition
+      id: 101475
+    - count: 2
+      name: Spirit's Touch
+      id: 101850
+    - count: 1
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 12
+    cards:
+    - count: 4
+      name: Concealed Weapon
+      id: 100392
+    - count: 4
+      name: Rego Motum
+      id: 101588
+    - count: 2
+      name: Target Vitals
+      id: 101942
+    - count: 2
+      name: Taste of Vitae
+      id: 101945

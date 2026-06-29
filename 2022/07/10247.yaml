@@ -1,0 +1,190 @@
+name: Week of Nightmares Helsinki 2022 Monday
+location: Vantaa, Finland
+date_start: 2022-07-25
+rounds_format: 2R+F
+players_count: 17
+winner: Jyri Puhakka
+vekn_number: 3530097
+event_url: https://www.vekn.net/event-calendar/event/10247
+event_id: 10247
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/79935-twd-week-of-nightmares-helsinki-2022-monday-vantaa-finland-25-jul-2022
+deck:
+  name: Anson Gun
+  created_by: Jyrkkä
+  description: ''
+  crypt_count: 12
+  crypt_min: 31
+  crypt_max: 29
+  crypt_avg: 6.75
+  crypt:
+  - count: 2
+    name: Anneke
+    id: 200106
+    capacity: 10
+    disciplines: dom AUS CEL PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 1
+  - count: 2
+    name: François Villon
+    id: 200478
+    capacity: 10
+    disciplines: chi obf pot AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 2
+  - count: 3
+    name: Anson
+    id: 200107
+    capacity: 8
+    disciplines: aus dom CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 1
+  - count: 1
+    name: Black Cat
+    id: 200201
+    capacity: 5
+    disciplines: pot pre CEL
+    clan: Brujah
+    grouping: 1
+  - count: 1
+    name: Volker, The Puppet Prince
+    id: 201458
+    capacity: 5
+    disciplines: pot CEL
+    title: Prince
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Jimmy Dunn
+    id: 200705
+    capacity: 4
+    disciplines: for CEL POT
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 25
+    cards:
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Blind Spot
+      id: 100188
+    - count: 1
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 3
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 5
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 6
+    cards:
+    - count: 4
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Entrancement
+      id: 100652
+    - count: 1
+      name: Intimidation
+      id: 100999
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 6
+      name: .44 Magnum
+      id: 100001
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Kine Resources Contested
+      id: 101056
+  - name: Action Modifier
+    count: 1
+    cards:
+    - count: 1
+      name: Aire of Elation
+      id: 100031
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Resist Earth's Grasp
+      id: 101610
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 7
+      name: 'Second Tradition: Domain'
+      id: 101706
+    - count: 1
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 31
+    cards:
+    - count: 1
+      name: Blur
+      id: 100227
+    - count: 6
+      name: Concealed Weapon
+      id: 100392
+    - count: 7
+      name: Infernal Pursuit
+      id: 100980
+    - count: 6
+      name: Psyche!
+      id: 101507
+    - count: 5
+      name: Pursuit
+      id: 101523
+    - count: 1
+      name: Side Strike
+      id: 101778
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581

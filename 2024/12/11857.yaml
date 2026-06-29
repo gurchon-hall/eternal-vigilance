@@ -1,0 +1,189 @@
+name: Mellandagsturnering
+location: Örebro, Sweden
+date_start: 2024-12-28
+rounds_format: 3R+F
+players_count: 17
+winner: Erik Wallgren
+vekn_number: 8090039
+event_url: https://www.vekn.net/event-calendar/event/11857
+event_id: 11857
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/81983-twda-mellandagsturnering-oerebro-sweden-28-dec-2024
+deck:
+  name: Huitzilopochtli & Giotto 2.0
+  created_by: Carakkaz
+  description: ''
+  crypt_count: 13
+  crypt_min: 5
+  crypt_max: 40
+  crypt_avg: 6.46
+  crypt:
+  - count: 5
+    name: Huitzilopochtli
+    id: 200611
+    capacity: 10
+    disciplines: AUS DAI DOM OBF POT PRE
+    clan: Baali
+    grouping: 2
+  - count: 1
+    name: High Priest Angra Mainyu
+    id: 200597
+    capacity: 8
+    disciplines: dem ser DAI OBF PRE
+    clan: Baali
+    grouping: 2
+  - count: 3
+    name: Giotto Verducci
+    id: 200520
+    capacity: 7
+    disciplines: for pot pre DAI OBF
+    clan: Baali
+    grouping: 2
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 36
+    cards:
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Blind Spot
+      id: 100188
+    - count: 1
+      name: The Coven
+      id: 100435
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Life Boon
+      id: 101103
+    - count: 4
+      name: Liquidation
+      id: 101112
+    - count: 2
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: The Parthenon
+      id: 101355
+    - count: 2
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 4
+      name: Tend the Flock
+      id: 101956
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 6
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 1
+      name: Entrancement
+      id: 100652
+    - count: 4
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 19
+    cards:
+    - count: 1
+      name: Approximation of Loyalty
+      id: 100078
+    - count: 4
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 1
+      name: Faceless Night
+      id: 100687
+    - count: 1
+      name: I am Legion
+      id: 100947
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 4
+      name: Psychomachia
+      id: 101511
+    - count: 2
+      name: Tangle Atropos' Hand
+      id: 101935
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Sense the Sin
+      id: 101718
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 4
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: Obedience
+      id: 101309
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Majesty
+      id: 101144

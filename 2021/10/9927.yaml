@@ -1,0 +1,134 @@
+name: Guard Dogs
+location: Campina Grande, Brasil
+date_start: 2021-10-10
+rounds_format: 3R+F
+players_count: 10
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/9927
+event_id: 9927
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/79773-twda-guard-dogs-campina-grande-brasil-10-october-2021
+deck:
+  name: estraga corpo
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 36
+  crypt_avg: 5.25
+  crypt:
+  - count: 5
+    name: Mambo Jeanne
+    id: 200908
+    capacity: 9
+    disciplines: FOR NEC OBF THN
+    clan: Samedi
+    grouping: 6
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Angel Chavarria
+    id: 200089
+    capacity: 3
+    disciplines: THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Baroque
+    id: 200169
+    capacity: 7
+    disciplines: aus for obf NEC THN
+    clan: Samedi
+    grouping: 5
+  - count: 1
+    name: Marie-Pierre
+    id: 200928
+    capacity: 4
+    disciplines: for nec THN
+    clan: Samedi
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 2
+      name: Blessings of the Loa
+      id: 100186
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 12
+    cards:
+    - count: 3
+      name: Ambush
+      id: 100046
+    - count: 3
+      name: Bum's Rush
+      id: 100266
+    - count: 3
+      name: Charge of the Buffalo
+      id: 100330
+    - count: 3
+      name: Harass
+      id: 100886
+  - name: Ally
+    count: 5
+    cards:
+    - count: 5
+      name: Reanimated Corpse
+      id: 101563
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 10
+      name: Freak Drive
+      id: 100788
+  - name: Combat
+    count: 44
+    cards:
+    - count: 12
+      name: Groaning Corpse
+      id: 100859
+    - count: 10
+      name: Relentless Reaper
+      id: 101595
+    - count: 8
+      name: Rolling with the Punches
+      id: 101649
+    - count: 7
+      name: Taste of Vitae
+      id: 101945
+    - count: 7
+      name: Unflinching Persistence
+      id: 102071
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581

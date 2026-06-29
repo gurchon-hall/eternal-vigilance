@@ -1,0 +1,163 @@
+name: Unleashing the Bestial Soul
+location: Florence, Italy
+date_start: 2024-05-12
+rounds_format: 2R+F
+players_count: 15
+winner: Luca Turicchi
+vekn_number: 4740029
+event_url: https://www.vekn.net/event-calendar/event/11431
+event_id: 11431
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/81555-twd-unleashing-the-bestial-soul-florence-italy-12-may-2024
+deck:
+  name: This Girl Has No Name
+  created_by: Nekros
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 40
+  crypt_avg: 4.67
+  crypt:
+  - count: 4
+    name: The unnamed
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 4
+    name: The Horde
+    id: 200605
+    capacity: 3
+    disciplines: dai obf pre
+    clan: Baali
+    grouping: 6
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 70
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 3
+      name: Dabbler
+      id: 100485
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Libertas
+      id: 101100
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 10
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 6
+      name: The Platinum Protocol
+      id: 102232
+    - count: 3
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 3
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Retainer
+    count: 3
+    cards:
+    - count: 3
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 27
+    cards:
+    - count: 2
+      name: Approximation of Loyalty
+      id: 100078
+    - count: 2
+      name: CrimethInc.
+      id: 100446
+    - count: 3
+      name: Earth Control
+      id: 100600
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Enchanting Gaze
+      id: 102221
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: I am Legion
+      id: 100947
+    - count: 6
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 3
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Revelation of the Serpent
+      id: 102233
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Sense the Sin
+      id: 101718
+  - name: Reaction
+    count: 5
+    cards:
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 5
+    cards:
+    - count: 2
+      name: Earth Meld
+      id: 100601
+    - count: 3
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265

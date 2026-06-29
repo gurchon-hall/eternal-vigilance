@@ -1,0 +1,185 @@
+name: Invitacional de la Liga Catalana 2023
+location: Riudoms, Spain
+date_start: 2023-08-12
+rounds_format: 2R+F
+players_count: 37
+winner: Tomàs López Jiménez
+vekn_number: 1003983
+event_url: https://www.vekn.net/event-calendar/event/10852
+event_id: 10852
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/80767-twd-invitacional-de-la-liga-catalana-2023
+deck:
+  name: Salubri 06 Legionarios
+  created_by: Tomàs López Jiménez
+  description: ''
+  crypt_count: 12
+  crypt_min: 19
+  crypt_max: 32
+  crypt_avg: 6.58
+  crypt:
+  - count: 4
+    name: Serenna the White
+    id: 201266
+    capacity: 8
+    disciplines: ani dem AUS FOR OBE
+    clan: Salubri
+    grouping: 6
+  - count: 1
+    name: Khurshid
+    id: 200781
+    capacity: 8
+    disciplines: AUS FOR NEC POT
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: Alcoan
+    id: 200042
+    capacity: 7
+    disciplines: for AUS CEL NEC
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: Matthew
+    id: 200961
+    capacity: 7
+    disciplines: cel AUS FOR OBE
+    clan: Salubri
+    grouping: 6
+  - count: 2
+    name: Hecate
+    id: 200580
+    capacity: 6
+    disciplines: AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 2
+    name: La Viuda Blanca
+    id: 200801
+    capacity: 6
+    disciplines: for obf AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 27
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: The Barrens
+      id: 100135
+    - count: 3
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Frontal Assault
+      id: 100794
+    - count: 2
+      name: Heidelberg Castle, Germany
+      id: 100908
+    - count: 9
+      name: Liquidation
+      id: 101112
+    - count: 2
+      name: The Parthenon
+      id: 101355
+    - count: 1
+      name: Pentex™ Subversion
+      id: 101384
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Vox Domini
+      id: 102132
+  - name: Action
+    count: 10
+    cards:
+    - count: 4
+      name: Renewed Vigor
+      id: 101603
+    - count: 6
+      name: Spirit Marionette
+      id: 101848
+  - name: Ally
+    count: 13
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 12
+      name: Emerald Legionnaire
+      id: 100634
+  - name: Action Modifier
+    count: 11
+    cards:
+    - count: 2
+      name: Call of the Hungry Dead
+      id: 100279
+    - count: 2
+      name: Change of Target
+      id: 100323
+    - count: 1
+      name: Daring the Dawn
+      id: 100492
+    - count: 4
+      name: Freak Drive
+      id: 100788
+    - count: 2
+      name: Repulsion
+      id: 101606
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Breath of Thanatos
+      id: 100249
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Spectral Divination
+      id: 101843
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 4
+      name: Delaying Tactics
+      id: 100519
+    - count: 3
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Heaven's Gate
+      id: 100907
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: The Unmasking
+      id: 102079

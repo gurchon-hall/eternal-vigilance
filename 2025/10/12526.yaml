@@ -1,0 +1,189 @@
+name: European Championship Day 2
+location: Aarhus, Denmark
+date_start: 2025-10-19
+rounds_format: 3R+F
+players_count: 50
+winner: Nerijus Mikalajunas
+vekn_number: 1005069
+event_url: https://www.vekn.net/event-calendar/event/12526
+event_id: 12526
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/82640-twd-ec2025-day-2-aarhus-denmark
+deck:
+  name: Yesterday's Brutalism [72]
+  created_by: Bram Van Stappen
+  description: This is a slightly modified version of the deck that Bram won the
+    "Eve before the night" tournament  (30+ players)  in Vilnius, Lithuania, 
+    February 25, 2025. The crypt was slightly modified, and the additions to the
+    library include Omael Kuman (suggested by Lech Ivanov) and the Book of Going
+    Forth by Night, Secure Heaven, Direct Intervention and Archon Investigation 
+    (all four - Nerijus Mikalajūnas). This version, played by Nerijus, won the 
+    EC2025 day two tournament in Aarhus, Denmark, October 19 2025.
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 40
+  crypt_avg: 5.08
+  crypt:
+  - count: 5
+    name: Shalmath
+    id: 201274
+    capacity: 10
+    disciplines: POT PRE TEM
+    clan: True Brujah
+    grouping: 6
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Alu
+    id: 200062
+    capacity: 2
+    disciplines: obf
+    clan: Banu Haqim
+    grouping: 5
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Alex Wilkins
+    id: 200048
+    capacity: 1
+    disciplines: cel
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Donald Cargill
+    id: 200365
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Walker Grimes
+    id: 201462
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 5
+  library_count: 72
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Tabriz Assembly
+      id: 101924
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 11
+    cards:
+    - count: 1
+      name: Ambush
+      id: 100046
+    - count: 1
+      name: Big Game
+      id: 100159
+    - count: 1
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Hourglass of the Mind
+      id: 100941
+    - count: 7
+      name: Summon History
+      id: 101897
+  - name: Ally
+    count: 3
+    cards:
+    - count: 1
+      name: Gregory Winter
+      id: 100855
+    - count: 1
+      name: Nephandus
+      id: 101272
+    - count: 1
+      name: Tye Cooper
+      id: 102053
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: The Book of Going Forth by Night
+      id: 100239
+    - count: 1
+      name: Eye of Hazimel
+      id: 100678
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Talbot's Chainsaw
+      id: 101931
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 1
+      name: Omael Kuman
+      id: 101320
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 6
+      name: Domain of Evernight
+      id: 100571
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+  - name: Combat
+    count: 32
+    cards:
+    - count: 3
+      name: Decapitate
+      id: 100511
+    - count: 7
+      name: Disarm
+      id: 100549
+    - count: 8
+      name: Majesty
+      id: 101144
+    - count: 10
+      name: Outside the Hourglass
+      id: 101338
+    - count: 4
+      name: Taste of Vitae
+      id: 101945

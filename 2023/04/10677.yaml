@@ -1,0 +1,186 @@
+name: 'Fee Stake: Jyväskylä'
+location: Jyväskylä, Finland
+date_start: 2023-04-29
+rounds_format: 3R+F
+players_count: 14
+winner: Noora Hirvonen
+vekn_number: 3530105
+event_url: https://www.vekn.net/event-calendar/event/10677
+event_id: 10677
+vp_comment: "Description: MMPA and revolts. The final round was very different to
+  the preliminary ones, since the heaviest SB decks made it there with most of the
+  vps along with my not that reactive girls. I chose the deck expecting toolboxyish
+  meta, which was mostly right in the prelim. I managed to bloat through the heavy
+  SB in the finals (regret for not including Archon investigation this time), and
+  having enough rushes was key, even if I didn't drawn any acceleration and had to
+  be very careful with my actions. My plan from the start was to go the salmon way,
+  since I knew I could not leave my back open for any of the other decks in the table
+  and my own prey was a lower seed if they happened to get 2 vps in the process (which
+  is what happened, so I won draw with higher seed). I played most of the round with
+  Nana and Aksinya, only getting Cybele up on the latter half of time limit, and risking
+  being ousted by the malk94, but the +1 stealth bleeds of three with Monastery of
+  shadows was the critical finishing touch in the end."
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/80501-twd-fee-stake-jyvaeskylae-jyvaeskylae-finland-29-apr-2023
+deck:
+  name: Burn down the patriarchy
+  created_by: Noora Hirvonen
+  description: MMPA and revolts. The final round was very different to the 
+    preliminary ones, since the heaviest SB decks made it there with most of the
+    vps along with my not that reactive girls. I chose the deck expecting 
+    toolboxyish meta, which was mostly right in the prelim. I managed to bloat 
+    through the heavy SB in the finals (regret for not including Archon 
+    investigation this time), and having enough rushes was key, even if I didn't
+    drawn any acceleration and had to be very careful with my actions. My plan 
+    from the start was to go the salmon way, since I knew I could not leave my 
+    back open for any of the other decks in the table and my own prey was a 
+    lower seed if they happened to get 2 vps in the process (which is what 
+    happened, so I won draw with higher seed). I played most of the round with 
+    Nana and Aksinya, only getting Cybele up on the latter half of time limit, 
+    and risking being ousted by the malk94, but the +1 stealth bleeds of three 
+    with Monastery of shadows was the critical finishing touch in the end.
+  crypt_count: 14
+  crypt_min: 4
+  crypt_max: 39
+  crypt_avg: 5.64
+  crypt:
+  - count: 3
+    name: Cybele
+    id: 200305
+    capacity: 10
+    disciplines: ANI DAI OBF PRE SER THA
+    clan: Baali
+    grouping: 4
+  - count: 2
+    name: Aksinya Daclau
+    id: 200034
+    capacity: 9
+    disciplines: cel tha ANI FOR PRE PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 2
+    name: Nana Buruku
+    id: 201035
+    capacity: 8
+    disciplines: ANI POT PRE
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Talbot
+    id: 201336
+    capacity: 7
+    disciplines: for ANI NEC PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Stick
+    id: 201318
+    capacity: 3
+    disciplines: ANI
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 5
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 78
+  library_sections:
+  - name: Master
+    count: 39
+    cards:
+    - count: 5
+      name: Anarch Revolt
+      id: 100055
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 4
+      name: Liquidation
+      id: 101112
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: The Parthenon
+      id: 101355
+    - count: 1
+      name: Vessel
+      id: 102113
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+    - count: 6
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 8
+    cards:
+    - count: 7
+      name: Deep Song
+      id: 100515
+    - count: 1
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 1
+      name: Cats' Guidance
+      id: 100308
+    - count: 1
+      name: Guard Dogs
+      id: 100863
+    - count: 4
+      name: Sense the Savage Way
+      id: 101717
+  - name: Combat
+    count: 24
+    cards:
+    - count: 8
+      name: Aid from Bats
+      id: 100029
+    - count: 1
+      name: Canine Horde
+      id: 100290
+    - count: 7
+      name: Carrion Crows
+      id: 100301
+    - count: 2
+      name: Rego Motum
+      id: 101588
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+    - count: 2
+      name: Terror Frenzy
+      id: 101960
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265

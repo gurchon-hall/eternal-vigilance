@@ -1,0 +1,239 @@
+name: Pszczyna Strikes Again - Back from the Dead
+location: Pszczyna, Poland
+date_start: 2024-11-23
+rounds_format: 3R+F
+players_count: 23
+winner: Alexander Roman
+vekn_number: 4441012
+event_url: https://www.vekn.net/event-calendar/event/11713
+event_id: 11713
+vp_comment: 1GW6vp + 3vp in the final
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/82232-twd-pszczyna-strikes-again-back-from-the-dead-pszczyna-poland-23-11-25
+deck:
+  name: Active deck
+  description: I would remove Misdirection and Thin-Blooded Seer. I definitely 
+    need one more Pentex(TM) Subversion. And maybe one more On the Qui Vive in 
+    order to block rushes with empty vampires.
+  crypt_count: 17
+  crypt_min: 4
+  crypt_max: 8
+  crypt_avg: 1.29
+  crypt:
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Antoinette DuChamp
+    id: 200112
+    capacity: 1
+    disciplines: cel pre
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Basil
+    id: 200173
+    capacity: 1
+    disciplines: obf
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Christine Boscacci
+    id: 200273
+    capacity: 2
+    disciplines: dom vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Franciscus
+    id: 200477
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Huang, Blood Cultist
+    id: 200609
+    capacity: 1
+    disciplines: pro
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Igo the Hungry
+    id: 200625
+    capacity: 1
+    disciplines: pre pro
+    clan: Caitiff
+    grouping: 1
+  - count: 1
+    name: Julius
+    id: 200737
+    capacity: 1
+    disciplines: qui ser
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: March Halcyon
+    id: 200911
+    capacity: 1
+    disciplines: for
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Mustafa Rahman
+    id: 201027
+    capacity: 2
+    disciplines: dom
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Navar McClaren
+    id: 201039
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 1
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Nik
+    id: 201059
+    capacity: 1
+    disciplines: cel
+    clan: Caitiff
+    grouping: 1
+  - count: 1
+    name: Ohanna
+    id: 201073
+    capacity: 2
+    disciplines: dom
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Royce
+    id: 201208
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Samson
+    id: 201231
+    capacity: 2
+    disciplines: dom
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
+    name: Smudge the Ignored
+    id: 201301
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: 1
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 34
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Antediluvian Awakening
+      id: 100073
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: The Barrens
+      id: 100135
+    - count: 5
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 7
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: From a Sinking Ship
+      id: 100793
+    - count: 3
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 3
+      name: Life in the City
+      id: 101104
+    - count: 1
+      name: Misdirection
+      id: 101225
+    - count: 5
+      name: The Parthenon
+      id: 101355
+    - count: 2
+      name: Pentex™ Subversion
+      id: 101384
+    - count: 2
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 29
+    cards:
+    - count: 28
+      name: Computer Hacking
+      id: 100390
+    - count: 1
+      name: Thin-Blooded Seer
+      id: 101971
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 2
+      name: Change of Target
+      id: 100323
+    - count: 3
+      name: Conditioning
+      id: 100401
+    - count: 9
+      name: Leverage
+      id: 101098
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 2
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Poison Pill
+      id: 101406
+  - name: Combat
+    count: 6
+    cards:
+    - count: 4
+      name: Dodge
+      id: 100567
+    - count: 2
+      name: Fake Out
+      id: 100693

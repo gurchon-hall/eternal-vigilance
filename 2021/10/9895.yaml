@@ -1,0 +1,202 @@
+name: Third Tradition
+location: Nancy, France
+date_start: 2021-10-30
+rounds_format: 3R+F
+players_count: 30
+winner: Vincent Ripoll
+vekn_number: 3200188
+event_url: https://www.vekn.net/event-calendar/event/9895
+event_id: 9895
+vp_comment: GW 5 + 3 VP in finals
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/79454-twd-third-tradition-nancy-france-october-30th-2021
+deck:
+  name: With a little help from Giotto
+  created_by: Ankha
+  description: ''
+  crypt_count: 12
+  crypt_min: 23
+  crypt_max: 44
+  crypt_avg: 8.5
+  crypt:
+  - count: 5
+    name: Giotto Verducci
+    id: 200520
+    capacity: 7
+    disciplines: for pot pre DAI OBF
+    clan: Baali
+    grouping: 2
+  - count: 3
+    name: Arika
+    id: 200135
+    capacity: 11
+    disciplines: aus cel DOM FOR OBF PRE
+    title: Inner Circle
+    clan: Ventrue
+    grouping: 2
+  - count: 2
+    name: Leandro
+    id: 200826
+    capacity: 11
+    disciplines: cel dom AUS OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Jaroslav Pascek
+    id: 200678
+    capacity: 10
+    disciplines: for obf CEL POT PRE
+    title: Justicar
+    clan: Brujah
+    grouping: 3
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 85
+  library_sections:
+  - name: Master
+    count: 29
+    cards:
+    - count: 3
+      name: Archon Investigation
+      id: 100085
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: The Coven
+      id: 100435
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: The Parthenon
+      id: 101355
+    - count: 2
+      name: Pentex™ Subversion
+      id: 101384
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 2
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 5
+    cards:
+    - count: 1
+      name: 'Condemnation: Mute'
+      id: 100400
+    - count: 1
+      name: Entrancement
+      id: 100652
+    - count: 1
+      name: Revelations
+      id: 101627
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Equipment
+    count: 8
+    cards:
+    - count: 8
+      name: Kaymakli Fragment
+      id: 101035
+  - name: Political Action
+    count: 9
+    cards:
+    - count: 2
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Domain Challenge
+      id: 100570
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Action Modifier
+    count: 19
+    cards:
+    - count: 1
+      name: Conditioning
+      id: 100401
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 7
+      name: Freak Drive
+      id: 100788
+    - count: 6
+      name: Lost in Crowds
+      id: 101125
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Swallowed by the Night
+      id: 101913
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Scalpel Tongue
+      id: 101686
+  - name: Reaction
+    count: 4
+    cards:
+    - count: 2
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Majesty
+      id: 101144
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+    - count: 1
+      name: The Uncoiling
+      id: 102057

@@ -1,0 +1,216 @@
+name: No duermas
+location: Badia del Valles, Spain
+date_start: 2023-03-05
+rounds_format: 3R+F
+players_count: 27
+winner: Albert Dulcet Belmonte
+vekn_number: 4960023
+event_url: https://www.vekn.net/event-calendar/event/10597
+event_id: 10597
+vp_comment: 3VP in final
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/80361-twd-no-duermas-2023-badia-del-valles-spain-5-march-2023
+deck:
+  name: Nobody expects the Spanish Inquisition
+  created_by: Albert Dulcet Belmonte
+  description: ''
+  crypt_count: 12
+  crypt_min: 6
+  crypt_max: 32
+  crypt_avg: 3.83
+  crypt:
+  - count: 4
+    name: Anson
+    id: 200107
+    capacity: 8
+    disciplines: aus dom CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 1
+  - count: 1
+    name: Christine Boscacci
+    id: 200273
+    capacity: 2
+    disciplines: dom vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Marciana Giovanni, Investigator
+    id: 200913
+    capacity: 2
+    disciplines: dom
+    clan: Giovanni
+    grouping: 2
+  - count: 1
+    name: Mustafa Rahman
+    id: 201027
+    capacity: 2
+    disciplines: dom
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Ohanna
+    id: 201073
+    capacity: 2
+    disciplines: dom
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Samson
+    id: 201231
+    capacity: 2
+    disciplines: dom
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
+    name: Royce
+    id: 201208
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Smudge the Ignored
+    id: 201301
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: 1
+  library_count: 75
+  library_sections:
+  - name: Master
+    count: 35
+    cards:
+    - count: 12
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Charisma
+      id: 100332
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fortschritt Library
+      id: 100775
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: KRCG News Radio
+      id: 101067
+    - count: 4
+      name: Liquidation
+      id: 101112
+    - count: 2
+      name: Mobile HQ, Operation Antigen
+      id: 102242
+    - count: 1
+      name: Not to Be
+      id: 101303
+    - count: 3
+      name: The Parthenon
+      id: 101355
+    - count: 1
+      name: Pentex™ Subversion
+      id: 101384
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 1
+      name: Sunset Strip, Hollywood
+      id: 101904
+    - count: 1
+      name: Vampiric Disease
+      id: 102088
+  - name: Action
+    count: 1
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+  - name: Ally
+    count: 11
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 5
+      name: ECTU Operative
+      id: 102237
+    - count: 1
+      name: Gregory Winter
+      id: 100855
+    - count: 1
+      name: Michael Harris, the Incinerator
+      id: 102239
+    - count: 1
+      name: Ossian
+      id: 101333
+    - count: 1
+      name: Vagabond Mystic
+      id: 102087
+    - count: 1
+      name: Valerie Diaz, Antigen Commander
+      id: 102245
+  - name: Equipment
+    count: 7
+    cards:
+    - count: 3
+      name: Camera Phone
+      id: 100287
+    - count: 4
+      name: Enhanced Coagulant
+      id: 102238
+  - name: Action Modifier
+    count: 1
+    cards:
+    - count: 1
+      name: Conditioning
+      id: 100401
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 8
+    cards:
+    - count: 3
+      name: Concealed Weapon
+      id: 100392
+    - count: 5
+      name: Target Vitals
+      id: 101942
+  - name: Event
+    count: 4
+    cards:
+    - count: 1
+      name: Blood Weakens
+      id: 100217
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 1
+      name: The Slow Withering
+      id: 101807
+    - count: 1
+      name: The Unmasking
+      id: 102079

@@ -1,0 +1,152 @@
+name: Italian Tour 2023 - Barga
+location: Barga, Italy
+date_start: 2023-09-03
+rounds_format: 2R+F
+players_count: 29
+winner: Giulio De Cicco
+vekn_number: 9970003
+event_url: https://www.vekn.net/event-calendar/event/10855
+event_id: 10855
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/80980-twd-italian-tour-2023-barga
+deck:
+  name: perfetto, khurshid wall
+  created_by: Giulio De Cicco
+  description: Classic Legionnaire Wall Deck
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 32
+  crypt_avg: 4.92
+  crypt:
+  - count: 3
+    name: Khurshid
+    id: 200781
+    capacity: 8
+    disciplines: AUS FOR NEC POT
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 2
+    name: Mordechai Ben-Nun
+    id: 201009
+    capacity: 8
+    disciplines: ANI AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 2
+    name: Anu Diptinatpa
+    id: 200119
+    capacity: 7
+    disciplines: aus vic DOM NEC
+    clan: Nagaraja
+    grouping: 6
+  - count: 5
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 23
+    cards:
+    - count: 1
+      name: Anachronism
+      id: 100050
+    - count: 3
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Fragment of the Book of Nod
+      id: 100785
+    - count: 1
+      name: Haven Uncovered
+      id: 100897
+    - count: 6
+      name: Liquidation
+      id: 101112
+    - count: 6
+      name: Piper
+      id: 101401
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 5
+    cards:
+    - count: 4
+      name: Gear Up
+      id: 100813
+    - count: 1
+      name: Soul Feasting
+      id: 101831
+  - name: Ally
+    count: 10
+    cards:
+    - count: 10
+      name: Emerald Legionnaire
+      id: 100634
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Vengeful Spirit
+      id: 102107
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 3
+      name: Trochomancy
+      id: 102026
+  - name: Reaction
+    count: 26
+    cards:
+    - count: 3
+      name: Eagle's Sight
+      id: 100598
+    - count: 3
+      name: Eluding the Arms of Morpheus
+      id: 100628
+    - count: 8
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: Guardian Vigil
+      id: 100868
+    - count: 3
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 7
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 18
+    cards:
+    - count: 3
+      name: Aura Reading
+      id: 100113
+    - count: 6
+      name: Hidden Strength
+      id: 100918
+    - count: 2
+      name: Rolling with the Punches
+      id: 101649
+    - count: 5
+      name: Target Vitals
+      id: 101942
+    - count: 2
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: The Unmasking
+      id: 102079

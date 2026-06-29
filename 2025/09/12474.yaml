@@ -1,0 +1,200 @@
+name: Zillah's Tears VII - Blood Siege
+location: Vantaa, Finland
+date_start: 2025-09-14
+rounds_format: 2R+F
+players_count: 17
+winner: Tommi Hakomaa
+vekn_number: 3530067
+event_url: https://www.vekn.net/event-calendar/event/12474
+event_id: 12474
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/82581-twd-zillah-s-tears-vii-blood-siege-vantaa-finland-14-september-2025
+deck:
+  name: Bram's Matasuntha Multirush
+  created_by: Gotcha
+  description: Once again, credit where credit is due. Bram, it's scary how well
+    your decklists usually fit my playstyle. I made some marginal changes to the
+    list I received from Bram. Some of them felt good (Beast Meld), while others
+    were such that I would cut them if I were to play the deck again.
+  crypt_count: 13
+  crypt_min: 5
+  crypt_max: 40
+  crypt_avg: 5.69
+  crypt:
+  - count: 6
+    name: Matasuntha
+    id: 200956
+    capacity: 10
+    disciplines: ANI AUS CEL FOR PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 2
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: T.J.
+    id: 201334
+    capacity: 3
+    disciplines: cel for
+    clan: Gangrel
+    grouping: 4
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Donald Cargill
+    id: 200365
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Walker Grimes
+    id: 201462
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 5
+  library_count: 86
+  library_sections:
+  - name: Master
+    count: 11
+    cards:
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: Ambush
+      id: 100046
+    - count: 1
+      name: Big Game
+      id: 100159
+    - count: 1
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Charge of the Buffalo
+      id: 100330
+    - count: 1
+      name: Deep Song
+      id: 100515
+    - count: 1
+      name: Fleetness
+      id: 100747
+    - count: 1
+      name: Harass
+      id: 100886
+    - count: 1
+      name: Mantle of the Bestial Majesty
+      id: 101161
+    - count: 1
+      name: Nose of the Hound
+      id: 101296
+    - count: 1
+      name: Rewilding
+      id: 101632
+    - count: 1
+      name: Sense Death
+      id: 101716
+    - count: 1
+      name: Shadow of the Beast
+      id: 101740
+    - count: 1
+      name: Taunt the Caged Beast
+      id: 101947
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Eye of Hazimel
+      id: 100678
+    - count: 1
+      name: Flak Jacket
+      id: 100739
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Dog Pack
+      id: 100568
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 1
+      name: Beast Meld
+      id: 100146
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 3
+      name: Forced March
+      id: 100761
+    - count: 14
+      name: Freak Drive
+      id: 100788
+    - count: 4
+      name: Instantaneous Transformation
+      id: 100994
+  - name: Combat
+    count: 32
+    cards:
+    - count: 7
+      name: Bear's Skin
+      id: 100145
+    - count: 2
+      name: Flesh of Marble
+      id: 100749
+    - count: 5
+      name: Infernal Pursuit
+      id: 100980
+    - count: 4
+      name: Psyche!
+      id: 101507
+    - count: 5
+      name: Pursuit
+      id: 101523
+    - count: 7
+      name: Taste of Vitae
+      id: 101945
+    - count: 2
+      name: Voracious Vermin
+      id: 102266
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581

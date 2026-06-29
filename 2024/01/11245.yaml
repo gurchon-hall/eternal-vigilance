@@ -1,0 +1,154 @@
+name: King's Rising
+location: Paris, France
+date_start: 2024-01-20
+rounds_format: 3R+F
+players_count: 19
+winner: Christophe Baltazar
+vekn_number: 3200114
+event_url: https://www.vekn.net/event-calendar/event/11245
+event_id: 11245
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/81226-twd-king-s-rising-paris-france-2024-01-20
+deck:
+  name: 197_Weenie DBR
+  created_by: berlin_tremere
+  description: ''
+  crypt_count: 14
+  crypt_min: 4
+  crypt_max: 9
+  crypt_avg: 1.5
+  crypt:
+  - count: 1
+    name: Watenda
+    id: 201464
+    capacity: 3
+    disciplines: obf
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Christine Boscacci
+    id: 200273
+    capacity: 2
+    disciplines: dom vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Marciana Giovanni, Investigator
+    id: 200913
+    capacity: 2
+    disciplines: dom
+    clan: Giovanni
+    grouping: 2
+  - count: 1
+    name: Mustafa Rahman
+    id: 201027
+    capacity: 2
+    disciplines: dom
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Ohanna
+    id: 201073
+    capacity: 2
+    disciplines: dom
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Samson
+    id: 201231
+    capacity: 2
+    disciplines: dom
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 2
+    name: Smudge the Ignored
+    id: 201301
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: 1
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Antoinette DuChamp
+    id: 200112
+    capacity: 1
+    disciplines: cel pre
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Huang, Blood Cultist
+    id: 200609
+    capacity: 1
+    disciplines: pro
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: March Halcyon
+    id: 200911
+    capacity: 1
+    disciplines: for
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Nik
+    id: 201059
+    capacity: 1
+    disciplines: cel
+    clan: Caitiff
+    grouping: 1
+  - count: 1
+    name: Royce
+    id: 201208
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  library_count: 60
+  library_sections:
+  - name: Master
+    count: 8
+    cards:
+    - count: 3
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 3
+      name: Storage Annex
+      id: 101877
+      comment: when all the  Dreams of The Sphinx are in other decks and you 
+        don't want to move them around
+  - name: Action
+    count: 19
+    cards:
+    - count: 14
+      name: Bum's Rush
+      id: 100266
+    - count: 5
+      name: Graverobbing
+      id: 100852
+  - name: Equipment
+    count: 12
+    cards:
+    - count: 12
+      name: Saturday-Night Special
+      id: 101682
+  - name: Combat
+    count: 21
+    cards:
+    - count: 10
+      name: Concealed Weapon
+      id: 100392
+    - count: 11
+      name: Dragon's Breath Rounds
+      id: 100580

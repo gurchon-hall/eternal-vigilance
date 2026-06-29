@@ -1,0 +1,222 @@
+name: Origins - Friday 2
+location: Columbus (OH), USA
+date_start: 2023-06-23
+rounds_format: 2R+F
+players_count: 32
+winner: Karl Schaefer
+vekn_number: 1003455
+event_url: https://www.vekn.net/event-calendar/event/10733
+event_id: 10733
+vp_comment: 2GW7 + 2 vps in the final, won on seeding
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/80634-origins-friday-2
+deck:
+  name: Death Star (Setite Version)
+  description: Another of my Death Star variants based on Matt Morgan's design.
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 25
+  crypt_avg: 3.67
+  crypt:
+  - count: 1
+    name: Qufur am-Heru
+    id: 201143
+    capacity: 7
+    disciplines: cel tha OBF PRE SER
+    clan: Ministry
+    grouping: 2
+  - count: 1
+    name: Ezekiel, Lord of Montreal
+    id: 200449
+    capacity: 6
+    disciplines: obf pot PRE SER
+    clan: Ministry
+    grouping: 3
+  - count: 1
+    name: Hesha Ruhadze
+    id: 200594
+    capacity: 6
+    disciplines: ani obf pre SER
+    clan: Ministry
+    grouping: 2
+  - count: 1
+    name: Samat Ramal-Ra, Archon
+    id: 201229
+    capacity: 6
+    disciplines: pre ser tha OBF
+    clan: Ministry
+    grouping: 2
+  - count: 1
+    name: Count Ormonde
+    id: 200295
+    capacity: 5
+    disciplines: dom pre ser OBF
+    clan: Ministry
+    grouping: 2
+  - count: 1
+    name: Sir Marriot D'Urban
+    id: 201290
+    capacity: 5
+    disciplines: aus obf ser PRE
+    clan: Ministry
+    grouping: 2
+  - count: 1
+    name: Elizabeth Dimitros
+    id: 200414
+    capacity: 4
+    disciplines: obf SER
+    clan: Ministry
+    grouping: 3
+  - count: 5
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 78
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: The Barrens
+      id: 100135
+    - count: 2
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: The Coven
+      id: 100435
+    - count: 1
+      name: Fear of Mekhet
+      id: 100710
+    - count: 1
+      name: Ferraille
+      id: 100722
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 3
+      name: Obfuscate
+      id: 101310
+    - count: 1
+      name: Opium Den
+      id: 101326
+    - count: 3
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 19
+    cards:
+    - count: 2
+      name: Entrancement
+      id: 100652
+    - count: 1
+      name: 'Fee Stake: Boston'
+      id: 100712
+    - count: 1
+      name: 'Fee Stake: Corte'
+      id: 100713
+    - count: 1
+      name: 'Fee Stake: Los Angeles'
+      id: 100714
+    - count: 1
+      name: 'Fee Stake: New York'
+      id: 100715
+    - count: 1
+      name: 'Fee Stake: Perth'
+      id: 100716
+    - count: 1
+      name: 'Fee Stake: Seattle'
+      id: 100717
+    - count: 4
+      name: Temptation
+      id: 101954
+    - count: 7
+      name: Waters of Duat
+      id: 102159
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Saatet-ta
+      id: 101665
+  - name: Political Action
+    count: 15
+    cards:
+    - count: 4
+      name: Consanguineous Boon
+      id: 100410
+    - count: 1
+      name: Domain Challenge
+      id: 100570
+    - count: 2
+      name: Eat the Rich
+      id: 100605
+    - count: 1
+      name: Exclusion Principle
+      id: 100671
+    - count: 2
+      name: Firebrand
+      id: 100736
+    - count: 1
+      name: Kine Resources Contested
+      id: 101056
+    - count: 2
+      name: Reckless Agitation
+      id: 101567
+    - count: 2
+      name: Revolutionary Council
+      id: 101631
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 2
+      name: Bewitching Oration
+      id: 100157
+    - count: 1
+      name: CrimethInc.
+      id: 100446
+    - count: 2
+      name: Cryptic Rider
+      id: 100478
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Faceless Night
+      id: 100687
+    - count: 2
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Memory Rift
+      id: 101199
+    - count: 3
+      name: Perfect Paragon
+      id: 101387
+    - count: 2
+      name: Spying Mission
+      id: 101857
+    - count: 3
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+      id: 101913
+  - name: Event
+    count: 2
+    cards:
+    - count: 2
+      name: The Uncoiling
+      id: 102057

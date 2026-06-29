@@ -1,0 +1,148 @@
+name: Week of Nightmares Helsinki 2022 Wednesday
+location: Espoo, Finland
+date_start: 2022-07-27
+rounds_format: 2R+F
+players_count: 14
+winner: Tero Aalto
+vekn_number: 8460002
+event_url: https://www.vekn.net/event-calendar/event/10201
+event_id: 10201
+vp_comment: The last leg of the WoN Helsinki tour took things even further into 
+  the depths of Espoo, all the way to the end of the metro line, Matinkylä. The 
+  venue was familiar from the Tragic Love Affair tournament series, and also 
+  functions as my home. Because our apartment contains 15 chairs exactly, that 
+  was the maximum number of participants we could accomodate. After a 
+  last-minute cancellation, the final figure settled at 14 players.
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/79925-twd-week-of-nightmares-helsinki-2022-wednesday
+deck:
+  name: '(Sem título): I Lost My Senses'
+  description: A variation of the original "(Sem título)" with optimized card 
+    flow.
+  crypt_count: 12
+  crypt_min: 10
+  crypt_max: 40
+  crypt_avg: 6.33
+  crypt:
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 5
+    name: The Horde
+    id: 200605
+    capacity: 3
+    disciplines: dai obf pre
+    clan: Baali
+    grouping: 6
+  - count: 6
+    name: The unnamed
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  library_count: 66
+  library_sections:
+  - name: Master
+    count: 8
+    cards:
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 3
+      name: Secure Haven
+      id: 101711
+  - name: Action
+    count: 14
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 4
+      name: Entrancement
+      id: 100652
+    - count: 6
+      name: Flurry of Action
+      id: 100752
+    - count: 3
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 5
+    cards:
+    - count: 5
+      name: Infernal Servitor
+      id: 100981
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 26
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 4
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 3
+      name: I am Legion
+      id: 100947
+    - count: 7
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 1
+      name: Psychomachia
+      id: 101511
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Sense the Sin
+      id: 101718
+  - name: Combat
+    count: 4
+    cards:
+    - count: 2
+      name: Earth Meld
+      id: 100601
+    - count: 2
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697

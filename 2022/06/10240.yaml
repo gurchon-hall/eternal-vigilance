@@ -1,0 +1,214 @@
+name: Game of the instinct
+location: Online
+date_start: 2022-06-27
+rounds_format: 2R+F
+players_count: 12
+winner: Bruno Patrício Silva Pontes
+vekn_number: 1001905
+event_url: https://www.vekn.net/event-calendar/event/10240
+event_id: 10240
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/79947-twda-game-of-the-instinct
+deck:
+  name: bruno pontes, the crow
+  description: ''
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 30
+  crypt_avg: 5.75
+  crypt:
+  - count: 2
+    name: The Dowager
+    id: 201545
+    capacity: 6
+    disciplines: aus pot ANI OBF
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Larissa Moreira
+    id: 201553
+    capacity: 6
+    disciplines: pot ANI OBF
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Lenny Burkhead
+    id: 201555
+    capacity: 6
+    disciplines: obf pot pre ANI
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Baixinho
+    id: 201536
+    capacity: 3
+    disciplines: ani obf
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Horace Radcliffe
+    id: 201549
+    capacity: 5
+    disciplines: obf ANI POT
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Iago Castille
+    id: 200615
+    capacity: 8
+    disciplines: ANI CHI FOR OBT
+    clan: Ravnos
+    grouping: 6
+  - count: 1
+    name: Mordechai Ben-Nun
+    id: 201009
+    capacity: 8
+    disciplines: ANI AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 1
+    name: Zelios
+    id: 201504
+    capacity: 8
+    disciplines: pro ANI OBF POT
+    title: Primogen
+    clan: Nosferatu
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 25
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: The Labyrinth
+      id: 101070
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: The Rack
+      id: 101536
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 3
+      name: Warsaw Station
+      id: 102149
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 6
+    cards:
+    - count: 2
+      name: Army of Rats
+      id: 100093
+    - count: 4
+      name: Creeping Sabotage
+      id: 102213
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Rumors of Gehenna
+      id: 101663
+  - name: Retainer
+    count: 6
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 5
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Veil the Legions
+      id: 102097
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 2
+      name: Cats' Guidance
+      id: 100308
+    - count: 3
+      name: Forced Awakening
+      id: 100760
+    - count: 5
+      name: On the Qui Vive
+      id: 101321
+    - count: 3
+      name: Protected District
+      id: 102214
+    - count: 1
+      name: Wake with Evening's Freshness
+      id: 102137
+  - name: Combat
+    count: 30
+    cards:
+    - count: 10
+      name: Aid from Bats
+      id: 100029
+    - count: 1
+      name: Canine Horde
+      id: 100290
+    - count: 9
+      name: Carrion Crows
+      id: 100301
+    - count: 2
+      name: Pack Alpha
+      id: 101342
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+    - count: 3
+      name: Terror Frenzy
+      id: 101960
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697

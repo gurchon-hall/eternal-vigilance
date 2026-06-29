@@ -1,0 +1,149 @@
+name: Shell Break Espoo
+location: Espoo, Finland
+date_start: 2022-04-17
+rounds_format: 2R+F
+players_count: 14
+winner: Tero Aalto
+vekn_number: 8460002
+event_url: https://www.vekn.net/event-calendar/event/10139
+event_id: 10139
+vp_comment: We got two new players, my first personal neonates, in fact, one of 
+  whom even made it to the final. A retired Hall of Fame player had donated 
+  several boxes of useful cards to share at the event, most of which naturally 
+  went to the new players and their friends.
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/79738-twd-shell-break-espoo-2022-04-17
+deck:
+  name: '(Sem título): Maximum Security'
+  description: A variation of the original "(Sem título)" tuned for a 
+    combat-heavy meta.
+  crypt_count: 12
+  crypt_min: 10
+  crypt_max: 40
+  crypt_avg: 6.33
+  crypt:
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 5
+    name: The Horde
+    id: 200605
+    capacity: 3
+    disciplines: dai obf pre
+    clan: Baali
+    grouping: 6
+  - count: 6
+    name: The unnamed
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  library_count: 65
+  library_sections:
+  - name: Master
+    count: 8
+    cards:
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Pentex™ Subversion
+      id: 101384
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 3
+      name: Secure Haven
+      id: 101711
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 4
+      name: Entrancement
+      id: 100652
+    - count: 5
+      name: Flurry of Action
+      id: 100752
+    - count: 3
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 4
+    cards:
+    - count: 4
+      name: Infernal Servitor
+      id: 100981
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 24
+    cards:
+    - count: 4
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 3
+      name: I am Legion
+      id: 100947
+    - count: 7
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 1
+      name: Psychomachia
+      id: 101511
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+      id: 101913
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Sense the Sin
+      id: 101718
+  - name: Combat
+    count: 4
+    cards:
+    - count: 2
+      name: Earth Meld
+      id: 100601
+    - count: 2
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265

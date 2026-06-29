@@ -1,0 +1,158 @@
+name: Dawn Operation
+location: Benidorm, Spain
+date_start: 2022-10-23
+rounds_format: 2R+F
+players_count: 47
+winner: Tero Aalto
+vekn_number: 8460002
+event_url: https://www.vekn.net/event-calendar/event/10272
+event_id: 10272
+vp_comment: In the second round, I sat between Brujah barons combat (predator) 
+  and something that was either Saulot or Shalmath, the specifics escape me at 
+  this point (it's been three months and I didn't take notes). The game seemed 
+  quite hopeless, as my predator played erratically and an Arika deck across the
+  table seemed to be getting away with everything. I was protected by S. Haven, 
+  so I could concentrate on just gradually chipping at my prey's pool. My 
+  grandpredator, a Gangrel horde deck, somehow managed to survive until I 
+  finally got rid of Arika, and started playing at this point. He had simply too
+  many minions and I didn't have enough time, so he ran over the hapless Brujah 
+  and myself. Six points in total was enough to reach the final.
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/80273-twd-dawn-operation-2022-10-13
+deck:
+  name: '(Sem título): unnamed and chill'
+  created_by: Tero Aalto
+  description: ''
+  crypt_count: 12
+  crypt_min: 31
+  crypt_max: 12
+  crypt_avg: 6.33
+  crypt:
+  - count: 6
+    name: The unnamed
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 5
+    name: The Horde
+    id: 200605
+    capacity: 3
+    disciplines: dai obf pre
+    clan: Baali
+    grouping: 6
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 67
+  library_sections:
+  - name: Master
+    count: 8
+    cards:
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 3
+      name: Secure Haven
+      id: 101711
+  - name: Action
+    count: 14
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 4
+      name: Entrancement
+      id: 100652
+    - count: 6
+      name: Flurry of Action
+      id: 100752
+    - count: 3
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 5
+    cards:
+    - count: 5
+      name: Infernal Servitor
+      id: 100981
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 25
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 4
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 3
+      name: I am Legion
+      id: 100947
+    - count: 7
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 3
+      name: Lost in Crowds
+      id: 101125
+    - count: 1
+      name: Psychomachia
+      id: 101511
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Sense the Sin
+      id: 101718
+  - name: Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+  - name: Combat
+    count: 4
+    cards:
+    - count: 2
+      name: Earth Meld
+      id: 100601
+    - count: 2
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
