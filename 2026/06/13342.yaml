@@ -61,6 +61,13 @@ deck:
     disciplines: abo ani
     clan: Akunanse
     grouping: 4
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
   library_count: 90
   library_sections:
   - name: Master
@@ -68,77 +75,106 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Guardian Angel
+      id: 100866
     - count: 1
       name: Mapatano Utando
+      id: 101163
     - count: 1
       name: Monster
+      id: 101242
     - count: 3
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 10
     cards:
     - count: 10
       name: Deep Song
+      id: 100515
   - name: Retainer
     count: 5
     cards:
     - count: 1
       name: Owl Companion
+      id: 101340
     - count: 3
       name: Raven Spy
+      id: 101550
     - count: 1
       name: Tasha Morgan
+      id: 101943
   - name: Action Modifier
     count: 6
     cards:
     - count: 6
       name: Freak Drive
+      id: 100788
   - name: Reaction
     count: 16
     cards:
     - count: 3
       name: Cats' Guidance
+      id: 100308
     - count: 4
       name: Deep Ecology
+      id: 102219
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 7
       name: Sense the Savage Way
+      id: 101717
   - name: Combat
     count: 35
     cards:
     - count: 6
       name: Carrion Crows
+      id: 100301
     - count: 1
       name: Conquer the Beast
+      id: 100408
     - count: 4
       name: 'Devil-Channel: Hands'
+      id: 100539
     - count: 2
       name: Hidden Strength
+      id: 100918
     - count: 2
       name: Indomitability
+      id: 100973
     - count: 7
       name: Invoking the Beast
+      id: 101006
     - count: 2
       name: Rolling with the Punches
+      id: 101649
     - count: 1
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 3
       name: Undead Persistence
+      id: 102060
     - count: 3
       name: Unflinching Persistence
+      id: 102071
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

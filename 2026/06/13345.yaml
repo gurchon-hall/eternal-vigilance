@@ -61,66 +61,91 @@ deck:
     cards:
     - count: 3
       name: Blessings of the Loa
+      id: 100186
     - count: 1
       name: Carver's Meat Packing and Storage
+      id: 100303
     - count: 2
       name: Dirty Contract
+      id: 100546
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Houngan
+      id: 100940
     - count: 1
       name: Tension in the Ranks
+      id: 101958
     - count: 2
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 11
     cards:
     - count: 2
       name: Ambush
+      id: 100046
     - count: 3
       name: Big Game
+      id: 100159
     - count: 3
       name: Bum's Rush
+      id: 100266
     - count: 1
       name: Charge of the Buffalo
+      id: 100330
     - count: 2
       name: Harass
+      id: 100886
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Flamethrower
+      id: 100742
   - name: Action Modifier
     count: 10
     cards:
     - count: 10
       name: Freak Drive
+      id: 100788
   - name: Combat
     count: 52
     cards:
     - count: 12
       name: Groaning Corpse
+      id: 100859
     - count: 14
       name: Relentless Reaper
+      id: 101595
     - count: 3
       name: Rigor Mortis
+      id: 101636
     - count: 3
       name: Rolling with the Punches
+      id: 101649
     - count: 2
       name: Superior Mettle
+      id: 101905
     - count: 7
       name: Taste of Vitae
+      id: 101945
     - count: 5
       name: Unflinching Persistence
+      id: 102071
     - count: 6
       name: Withering
+      id: 102188
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

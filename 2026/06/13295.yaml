@@ -82,71 +82,97 @@ deck:
     cards:
     - count: 1
       name: Bleeding the Vine
+      id: 100178
     - count: 1
       name: Dark Influences
+      id: 100493
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 3
       name: Forward Momentum
+      id: 102323
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 6
       name: Unholy Sacrament
+      id: 102345
   - name: Action
     count: 22
     cards:
     - count: 1
       name: Blessing of Chaos
+      id: 100182
     - count: 6
       name: Call, The
+      id: 100278
     - count: 13
       name: Kindred Spirits
+      id: 101055
     - count: 1
       name: Madman's Quill
+      id: 101138
     - count: 1
       name: Under Siege
+      id: 102063
   - name: Action Modifier
     count: 26
     cards:
     - count: 8
       name: Confusion
+      id: 100405
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 4
       name: Eyes of Chaos
+      id: 100682
     - count: 4
       name: Faceless Night
+      id: 100687
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Seeds of Terror
+      id: 102338
     - count: 2
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Swift Cover
+      id: 102342
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Touch of Clarity
+      id: 101998
   - name: Reaction
     count: 14
     cards:
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
     - count: 2
       name: Wrong and Crosswise
+      id: 102197
   - name: Combat
     count: 8
     cards:
     - count: 8
       name: Kiss of Cathari
+      id: 102330

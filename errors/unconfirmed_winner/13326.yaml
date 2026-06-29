@@ -98,90 +98,121 @@ deck:
     cards:
     - count: 1
       name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 2
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 2
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Rack, The
+      id: 101536
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Zoo Hunting Ground
+      id: 102212
   - name: Action
     count: 15
     cards:
     - count: 1
       name: 'Fee Stake: Seattle'
+      id: 100717
     - count: 2
       name: Rewilding
+      id: 101632
     - count: 12
       name: Thing
+      id: 101972
   - name: Political Action
     count: 2
     cards:
     - count: 2
       name: Revolutionary Council
+      id: 101631
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Double Deuce
+      id: 102220
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Retainer
     count: 3
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
     - count: 2
       name: Raven Spy
+      id: 101550
   - name: Action Modifier
     count: 5
     cards:
     - count: 1
       name: Daring the Dawn
+      id: 100492
     - count: 3
       name: Earth Control
+      id: 100600
     - count: 1
       name: Monkey Wrench
+      id: 101239
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 24
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 6
       name: Deep Ecology
+      id: 102219
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: Eyes of the Wild
+      id: 102222
     - count: 9
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 18
     cards:
     - count: 12
       name: Earth Meld
+      id: 100601
     - count: 6
       name: Form of Mist
+      id: 100771

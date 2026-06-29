@@ -81,56 +81,73 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 3
       name: Information Highway
+      id: 100984
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Secure Haven
+      id: 101711
   - name: Action
     count: 8
     cards:
     - count: 8
       name: Graverobbing
+      id: 100852
   - name: Political Action
     count: 7
     cards:
     - count: 7
       name: Autarkis Persecution
+      id: 100115
   - name: Ally
     count: 10
     cards:
     - count: 10
       name: Rock Cat
+      id: 101645
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Hand of Conrad
+      id: 100882
   - name: Action Modifier
     count: 6
     cards:
     - count: 6
       name: As the Crow
+      id: 100102
   - name: Reaction
     count: 6
     cards:
     - count: 6
       name: Deflection
+      id: 100518
   - name: Combat
     count: 37
     cards:
     - count: 8
       name: Brick by Brick
+      id: 100252
     - count: 6
       name: Disarm
+      id: 100549
     - count: 10
       name: Immortal Grapple
+      id: 100959
     - count: 9
       name: Raking Talons
+      id: 101538
     - count: 4
       name: Roundhouse
+      id: 102215

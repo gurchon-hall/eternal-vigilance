@@ -91,68 +91,91 @@ deck:
     cards:
     - count: 1
       name: Cappadocian Crypt
+      id: 102298
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 5
       name: Family Gathering
+      id: 102289
     - count: 1
       name: 'Powerbase: Munich'
+      id: 102301
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 5
     cards:
     - count: 2
       name: Computer Hacking
+      id: 100390
     - count: 3
       name: Shroud of Decay
+      id: 102295
   - name: Ally
     count: 10
     cards:
     - count: 10
       name: Spectral Servitor
+      id: 102296
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 15
     cards:
     - count: 2
       name: Leverage
+      id: 101098
     - count: 4
       name: Shadow Cast
+      id: 102280
     - count: 3
       name: Shadow Cloak
+      id: 102281
     - count: 3
       name: Stygian Shroud
+      id: 102282
     - count: 3
       name: Where the Veil Thins
+      id: 102285
   - name: Reaction
     count: 14
     cards:
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Shadow Sentinel
+      id: 102294
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Pass Through Shadow
+      id: 102279
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Unmasking, The
+      id: 102079

@@ -77,91 +77,124 @@ deck:
     cards:
     - count: 5
       name: British Museum, London, The
+      id: 102236
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 1
       name: Pentex(TM) Subversion
+      id: 101384
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 10
     cards:
     - count: 10
       name: Govern the Unaligned
+      id: 100845
   - name: Equipment
     count: 15
     cards:
     - count: 2
       name: Blood Tears of Kephran
+      id: 100212
     - count: 1
       name: Concoction of Vitality
+      id: 100394
     - count: 2
       name: Cooler
+      id: 100422
     - count: 1
       name: Flaming Candle
+      id: 100743
     - count: 1
       name: Gran Madre di Dio, Italy
+      id: 100847
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 6
       name: Living Manse
+      id: 101114
     - count: 1
       name: Palatial Estate
+      id: 101345
   - name: Action Modifier
     count: 9
     cards:
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 4
       name: Earth Control
+      id: 100600
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
   - name: Action Modifier/Combat
     count: 8
     cards:
     - count: 4
       name: Form of the Cobra
+      id: 102224
     - count: 2
       name: Obedient Flesh
+      id: 102255
     - count: 2
       name: Rapid Change
+      id: 101542
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 16
     cards:
     - count: 2
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Deep Ecology
+      id: 102219
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: One With the Land
+      id: 102256
   - name: Combat
     count: 12
     cards:
     - count: 4
       name: Earth Meld
+      id: 100601
     - count: 6
       name: Form of Mist
+      id: 100771
     - count: 2
       name: Sculpt the Flesh
+      id: 102260
   - name: Event
     count: 1
     cards:
     - count: 1
       name: NRA PAC
+      id: 101305

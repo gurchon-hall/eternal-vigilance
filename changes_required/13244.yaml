@@ -49,82 +49,112 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 2
       name: Art Museum
+      id: 100095
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Rack, The
+      id: 101536
     - count: 6
       name: Villein
+      id: 102121
   - name: Action
     count: 2
     cards:
     - count: 1
       name: Fleetness
+      id: 100747
     - count: 1
       name: Flurry of Action
+      id: 100752
   - name: Political Action
     count: 3
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Archon
+      id: 100084
     - count: 1
       name: Banishment
+      id: 100131
   - name: Equipment
     count: 7
     cards:
     - count: 7
       name: .44 Magnum
+      id: 100001
   - name: Action Modifier
     count: 3
     cards:
     - count: 1
       name: Aire of Elation
+      id: 100031
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 1
       name: Loup
+      id: 102273
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Resist Earth's Grasp
+      id: 101610
   - name: Reaction
     count: 18
     cards:
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 1
       name: Quicken Sight
+      id: 101531
     - count: 7
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 36
     cards:
     - count: 2
       name: Charismatic Aura
+      id: 100333
     - count: 7
       name: Concealed Weapon
+      id: 100392
     - count: 1
       name: Fast Hands
+      id: 100704
     - count: 4
       name: Infernal Pursuit
+      id: 100980
     - count: 6
       name: Psyche!
+      id: 101507
     - count: 7
       name: Pursuit
+      id: 101523
     - count: 4
       name: Sideslip
+      id: 101779
     - count: 5
       name: Taste of Vitae
+      id: 101945

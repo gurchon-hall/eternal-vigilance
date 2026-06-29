@@ -87,80 +87,112 @@ deck:
     cards:
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Dark Influences
+      id: 100493
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Gurchon Hall
+      id: 100871
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: Privileged Position
+      id: 102334
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 4
       name: Unholy Sacrament
+      id: 102345
     - count: 2
       name: Ventrue Headquarters
+      id: 102109
     - count: 6
       name: Villein
+      id: 102121
     - count: 2
       name: Wash
+      id: 102151
   - name: Action
     count: 8
     cards:
     - count: 8
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 16
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 4
       name: Banishment
+      id: 100131
     - count: 6
       name: Cold War
+      id: 102312
     - count: 2
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
   - name: Action Modifier
     count: 28
     cards:
     - count: 4
       name: Dominant Personality
+      id: 102316
     - count: 2
       name: Enkil Cog
+      id: 100645
     - count: 4
       name: Iron Glare
+      id: 101008
     - count: 4
       name: Perfect Paragon
+      id: 101387
     - count: 4
       name: Relentlessness
+      id: 102337
     - count: 6
       name: Unthinkable Humiliation
+      id: 102346
     - count: 4
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 6
     cards:
     - count: 6
       name: Deflection
+      id: 100518
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Majesty
+      id: 101144

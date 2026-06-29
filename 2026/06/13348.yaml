@@ -98,79 +98,109 @@ deck:
     cards:
     - count: 6
       name: Villein
+      id: 102121
     - count: 4
       name: Effective Management
+      id: 100616
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Ennoia's Theater
+      id: 100646
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
   - name: Action
     count: 14
     cards:
     - count: 13
       name: Thing
+      id: 101972
     - count: 1
       name: Rewilding
+      id: 101632
   - name: Action Modifier
     count: 11
     cards:
     - count: 5
       name: Propaganda of the Deed
+      id: 101496
     - count: 4
       name: Earth Control
+      id: 100600
     - count: 2
       name: Monkey Wrench
+      id: 101239
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Form of the Bat
+      id: 102223
   - name: Combat
     count: 15
     cards:
     - count: 9
       name: Earth Meld
+      id: 100601
     - count: 4
       name: Form of Mist
+      id: 100771
     - count: 2
       name: Claws of the Dead
+      id: 100356
   - name: Political Action
     count: 6
     cards:
     - count: 2
       name: Consanguineous Boon
+      id: 100410
     - count: 2
       name: Eat the Rich
+      id: 100605
     - count: 2
       name: Revolutionary Council
+      id: 101631
   - name: Reaction
     count: 17
     cards:
     - count: 7
       name: Bait and Switch
+      id: 102218
     - count: 6
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: Deep Ecology
+      id: 102219

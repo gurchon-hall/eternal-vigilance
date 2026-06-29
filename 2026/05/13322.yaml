@@ -74,71 +74,97 @@ deck:
     cards:
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 2
       name: Demonstration
+      id: 100522
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Gurchon Hall
+      id: 100871
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: Privileged Position
+      id: 102334
     - count: 6
       name: Unholy Sacrament
+      id: 102345
     - count: 5
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 6
     cards:
     - count: 6
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 10
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 3
       name: Cold War
+      id: 102312
     - count: 1
       name: Empires Fall
+      id: 102318
     - count: 5
       name: Kine Resources Contested
+      id: 101056
   - name: Action Modifier
     count: 21
     cards:
     - count: 3
       name: Bonding
+      id: 100236
     - count: 2
       name: Dominant Personality
+      id: 102316
     - count: 6
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Relentlessness
+      id: 102337
     - count: 3
       name: Telepathic Vote Counting
+      id: 101951
     - count: 3
       name: Unthinkable Humiliation
+      id: 102346
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 3
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 10
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 3
     cards:
     - count: 3
       name: Superior Mettle
+      id: 101905

@@ -99,89 +99,124 @@ deck:
     cards:
     - count: 1
       name: Barrens, The
+      id: 100135
     - count: 4
       name: British Museum, London, The
+      id: 102236
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Island of Yiaros
+      id: 101013
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Line, The
+      id: 101110
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: Uptown Hunting Ground
+      id: 102084
     - count: 1
       name: Ventrue Headquarters
+      id: 102109
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 8
     cards:
     - count: 6
       name: Govern the Unaligned
+      id: 100845
     - count: 2
       name: Scouting Mission
+      id: 101698
   - name: Political Action
     count: 10
     cards:
     - count: 2
       name: Banishment
+      id: 100131
     - count: 3
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 5
       name: Parity Shift
+      id: 101353
   - name: Equipment
     count: 13
     cards:
     - count: 4
       name: Flak Jacket
+      id: 100739
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Kevlar Vest
+      id: 101040
     - count: 1
       name: Palatial Estate
+      id: 101345
     - count: 5
       name: Sawed-Off Shotgun
+      id: 101685
     - count: 1
       name: Signet of King Saul, The
+      id: 101781
   - name: Action Modifier
     count: 17
     cards:
     - count: 2
       name: Conditioning
+      id: 100401
     - count: 2
       name: Daring the Dawn
+      id: 100492
     - count: 2
       name: Enkil Cog
+      id: 100645
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
     - count: 10
       name: Freak Drive
+      id: 100788
   - name: Reaction
     count: 13
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 1
       name: On the Qui Vive
+      id: 101321
     - count: 7
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 11
     cards:
     - count: 5
       name: Concealed Weapon
+      id: 100392
     - count: 2
       name: Hidden Strength
+      id: 100918
     - count: 2
       name: Rolling with the Punches
+      id: 101649
     - count: 2
       name: Soak
+      id: 101817

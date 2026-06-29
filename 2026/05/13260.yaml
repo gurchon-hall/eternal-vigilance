@@ -63,6 +63,13 @@ deck:
     disciplines: for ANI PRO
     clan: Gangrel antitribu
     grouping: 4
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
   library_count: 90
   library_sections:
   - name: Master
@@ -70,78 +77,109 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 2
       name: Animalism
+      id: 100070
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 2
       name: Bay and Howl
+      id: 100143
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Gangrel Conspiracy
+      id: 100805
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 2
       name: Legendary Vampire
+      id: 101091
     - count: 2
       name: Path of the Feral Heart, The
+      id: 101370
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 2
       name: Sudden Reversal
+      id: 101896
     - count: 1
       name: Tension in the Ranks
+      id: 101958
     - count: 1
       name: Twisted Forest
+      id: 102050
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Yawp Court
+      id: 102199
   - name: Action
     count: 18
     cards:
     - count: 8
       name: Deep Song
+      id: 100515
     - count: 6
       name: Marked Territory
+      id: 101170
     - count: 4
       name: Tier of Souls
+      id: 101984
   - name: Action Modifier
     count: 10
     cards:
     - count: 5
       name: Earth Control
+      id: 100600
     - count: 5
       name: Freak Drive
+      id: 100788
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 17
     cards:
     - count: 6
       name: Cats' Guidance
+      id: 100308
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 5
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: Sense the Savage Way
+      id: 101717
   - name: Combat
     count: 17
     cards:
     - count: 5
       name: Earth Meld
+      id: 100601
     - count: 7
       name: Form of Mist
+      id: 100771
     - count: 5
       name: Wolf Claws
+      id: 102190

@@ -65,72 +65,100 @@ deck:
     cards:
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: Market Square
+      id: 101171
     - count: 1
       name: Monster
+      id: 101242
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 3
       name: Priority Contract
+      id: 101487
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Yoruba Shrine
+      id: 102201
   - name: Action
     count: 9
     cards:
     - count: 3
       name: Hunter's Mark
+      id: 102228
     - count: 6
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 7
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Book of Going Forth by Night, The
+      id: 100239
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Flamethrower
+      id: 100742
     - count: 1
       name: Gran Madre di Dio, Italy
+      id: 100847
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Kevlar Vest
+      id: 101040
   - name: Reaction
     count: 18
     cards:
     - count: 15
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 39
     cards:
     - count: 3
       name: Blur
+      id: 100227
     - count: 1
       name: Fast Hands
+      id: 100704
     - count: 11
       name: Hunger of Marduk
+      id: 102227
     - count: 9
       name: Psyche!
+      id: 101507
     - count: 10
       name: Pursuit
+      id: 101523
     - count: 3
       name: Rego Motum
+      id: 101588
     - count: 2
       name: Side Strike
+      id: 101778
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697
