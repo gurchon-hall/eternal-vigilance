@@ -8,7 +8,8 @@ vekn_number: 1006275
 event_url: https://www.vekn.net/event-calendar/event/13326
 event_id: 13326
 vp_comment: 2GW7vp + 2vp in final
-forum_post_url: https://www.vekn.net/event-calendar/event/13326
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83049-twd-vtes-no-norte-portugal-13-june-2026
 deck:
   name: Gangrel Thing
   description: ''
@@ -17,6 +18,14 @@ deck:
   crypt_max: 25
   crypt_avg: 5.08
   crypt:
+  - count: 1
+    name: Massimiliano
+    id: 201602
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
   - count: 2
     name: Casey Snyder
     id: 201521
@@ -30,14 +39,6 @@ deck:
     id: 201574
     capacity: 6
     disciplines: ANI PRO
-    title: Baron
-    clan: Gangrel
-    grouping: 6
-  - count: 1
-    name: Massimiliano
-    id: 201602
-    capacity: 7
-    disciplines: pro ANI FOR
     title: Baron
     clan: Gangrel
     grouping: 6
@@ -143,6 +144,12 @@ deck:
     - count: 12
       name: Thing
       id: 101972
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Revolutionary Council
+      id: 101631
   - name: Ally
     count: 1
     cards:
@@ -155,12 +162,6 @@ deck:
     - count: 1
       name: Heart of Nizchetus
       id: 100903
-  - name: Political Action
-    count: 2
-    cards:
-    - count: 2
-      name: Revolutionary Council
-      id: 101631
   - name: Retainer
     count: 3
     cards:

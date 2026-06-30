@@ -1,0 +1,173 @@
+name: Origins Friday - 1
+location: Columbus, OH
+date_start: 2026-06-19
+rounds_format: 2R+F
+players_count: 55
+winner: Alex Romano
+event_url: https://www.vekn.net/event-calendar/event/13217
+event_id: 13217
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83070-twd-origins-friday-1
+deck:
+  name: Would You Tell Picasso to Sell His Guitars?
+  created_by: Alex Romano
+  description: ''
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 24
+  crypt_avg: 4.5
+  crypt:
+  - count: 6
+    name: Henry Taylor
+    id: 200590
+    capacity: 6
+    disciplines: cel pre pro POT
+    clan: Brujah antitribu
+    grouping: 3
+  - count: 2
+    name: Regilio, The Seeker of Akhenaten
+    id: 201174
+    capacity: 3
+    disciplines: aus obf
+    clan: Nosferatu
+    grouping: 2
+  - count: 2
+    name: Zöe
+    id: 201509
+    capacity: 3
+    disciplines: cel obf AUS
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Isabel de Leon
+    id: 200642
+    capacity: 3
+    disciplines: AUS
+    clan: Toreador
+    grouping: 2
+  - count: 1
+    name: Lena Rowe
+    id: 200830
+    capacity: 3
+    disciplines: aus obf pre
+    clan: Pander
+    grouping: 2
+  library_count: 61
+  library_sections:
+  - name: Master
+    count: 49
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Antediluvian Awakening
+      id: 100073
+    - count: 1
+      name: Bleeding the Vine
+      id: 100178
+    - count: 5
+      name: Blessings of the Loa
+      id: 100186
+    - count: 1
+      name: Brothers Grimm
+      id: 100258
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 12
+      name: Dirty Contract
+      id: 100546
+    - count: 1
+      name: Fear of Mekhet
+      id: 100710
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Life Boon
+      id: 101103
+    - count: 1
+      name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
+    - count: 2
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: 'Powerbase: Barranquilla'
+      id: 101431
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 2
+      name: Protean
+      id: 101498
+    - count: 1
+      name: Protected Resources
+      id: 101500
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Rumor Mill, Tabloid Newspaper, The
+      id: 101662
+    - count: 6
+      name: Slaughterhouse, The
+      id: 101800
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
+    - count: 2
+      name: Waste Management Operation
+      id: 102153
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 3
+    cards:
+    - count: 3
+      name: Anima Gathering
+      id: 100068
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 1
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 2
+      name: Hedonism
+      id: 102328
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 3
+    cards:
+    - count: 1
+      name: Disengage
+      id: 100554
+    - count: 2
+      name: Earth Meld
+      id: 100601
