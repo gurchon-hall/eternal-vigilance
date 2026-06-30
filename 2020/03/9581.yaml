@@ -1,6 +1,6 @@
 name: 'PRAXIS SEIZURE : ORLEANS Day 2'
 location: Saint Jean de la Ruelle, France
-date_start: 2020-01-03
+date_start: 2020-03-01
 rounds_format: 3R+F
 players_count: 20
 winner: Serge Cirri
@@ -87,7 +87,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 6
-      name: Eternals of Sirius, The
+      name: The Eternals of Sirius
       id: 100667
     - count: 1
       name: Giant's Blood
@@ -99,7 +99,7 @@ deck:
       name: Opium Den
       id: 101326
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 5
       name: Villein

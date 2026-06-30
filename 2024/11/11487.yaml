@@ -1,6 +1,6 @@
 name: Portugal NC 2024
 location: Mercadia Games, Lisboa, Portugal
-date_start: 2024-02-11
+date_start: 2024-11-02
 rounds_format: 3R+F
 players_count: 33
 winner: Eduardo Manuel Mateus
@@ -81,7 +81,7 @@ deck:
       name: Antediluvian Awakening
       id: 100073
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Dabbler
@@ -99,7 +99,7 @@ deck:
       name: Fortitude
       id: 100774
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Secure Haven

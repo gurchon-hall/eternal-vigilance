@@ -1,6 +1,6 @@
 name: Floripa Mensal
 location: Florianópolis, Brasil
-date_start: 2026-05-30
+date_start: 2026-05-31
 rounds_format: 2R+F
 players_count: 10
 winner: Thiago Reis
@@ -42,7 +42,7 @@ deck:
     clan: Nosferatu
     grouping: 6
   - count: 1
-    name: Dowager, The
+    name: The Dowager
     id: 201545
     capacity: 6
     disciplines: aus pot ANI OBF
@@ -78,7 +78,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Slum Hunting Ground

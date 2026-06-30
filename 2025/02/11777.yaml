@@ -1,6 +1,6 @@
 name: Anarchist Uprising - North American Cup Event
 location: OrcCon 2025, Los Angeles, California, USA
-date_start: 2025-02-16
+date_start: 2025-02-15
 rounds_format: 2R+F
 players_count: 17
 winner: Mark Jasper
@@ -111,7 +111,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Secure Haven
@@ -126,7 +126,7 @@ deck:
     count: 14
     cards:
     - count: 2
-      name: Call, The
+      name: The Call
       id: 100278
     - count: 8
       name: Madman's Quill

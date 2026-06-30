@@ -1,6 +1,6 @@
 name: 'Liga Juiz de Forana: Julho'
 location: Pepper Pizza e Chopp, Juiz de Fora (MG), Brazil
-date_start: 2023-07-03
+date_start: 2023-07-04
 rounds_format: 2R+F
 players_count: 15
 winner: Guilherme Machado
@@ -81,7 +81,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Carfax Abbey

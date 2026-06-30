@@ -1,6 +1,6 @@
 name: 4th Road to Pulled Fangs
 location: Lichnov, Czech Republic
-date_start: 2024-03-24
+date_start: 2024-03-23
 rounds_format: 3R+F
 players_count: 17
 winner: Daniel Gargulák
@@ -78,7 +78,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Direct Intervention
@@ -99,7 +99,7 @@ deck:
       name: Mob Connections
       id: 101229
     - count: 6
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 9
       name: Piper
@@ -132,7 +132,7 @@ deck:
       name: Vagabond Mystic
       id: 102087
     - count: 3
-      name: Vozhd of Sofia, The
+      name: The Vozhd of Sofia
       id: 102267
     - count: 5
       name: War Ghoul
@@ -171,8 +171,8 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
