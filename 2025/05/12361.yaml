@@ -18,48 +18,56 @@ deck:
   crypt:
   - count: 3
     name: Jennie "Cassie247" Orne
+    id: 200689
     capacity: 5
     disciplines: inn jud viz
     clan: Visionary
     grouping: 4
   - count: 2
     name: Travis "Traveler72" Miller
+    id: 201386
     capacity: 5
     disciplines: mar def
     clan: Martyr
     grouping: 4
   - count: 2
     name: Jack "Hannibal137" Harmon
+    id: 200656
     capacity: 4
     disciplines: def jud
     clan: Defender
     grouping: 4
   - count: 1
     name: Leaf "Potter116" Pankowski
+    id: 200825
     capacity: 4
     disciplines: inn red viz
     clan: Redeemer
     grouping: 4
   - count: 1
     name: Maman Boumba
+    id: 200907
     capacity: 4
     disciplines: inn mar
     clan: Martyr
     grouping: 4
   - count: 1
     name: Paul "Sixofswords29" Moreton
+    id: 201103
     capacity: 4
     disciplines: def viz
     clan: Visionary
     grouping: 4
   - count: 1
     name: Pedro Cortez
+    id: 201108
     capacity: 4
     disciplines: mar ven
     clan: Avenger
     grouping: 4
   - count: 1
     name: François "Warden" Loehr
+    id: 200479
     capacity: 3
     disciplines: def jud
     clan: Judge
@@ -71,89 +79,121 @@ deck:
     cards:
     - count: 5
       name: Angel of Berlin
+      id: 100067
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 1
-      name: The Church of Vindicated Faith
+      name: Church of Vindicated Faith, The
+      id: 100348
     - count: 2
       name: Fortschritt Library
+      id: 100775
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
     - count: 1
       name: Not to Be
+      id: 101303
     - count: 1
       name: Society of Leopold
+      id: 101822
   - name: Conviction
     count: 18
     cards:
     - count: 6
       name: React with Conviction
+      id: 101557
     - count: 6
       name: Second Sight
+      id: 101705
     - count: 6
       name: Strike with Conviction
+      id: 101886
   - name: Action
     count: 1
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Vagabond Mystic
+      id: 102087
   - name: Equipment
     count: 4
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Flak Jacket
+      id: 100739
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Sport Bike
+      id: 101856
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Reaction
     count: 4
     cards:
     - count: 4
       name: Determine
+      id: 100534
   - name: Combat
     count: 8
     cards:
     - count: 4
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Weighted Walking Stick
+      id: 102169
   - name: Event
     count: 14
     cards:
     - count: 1
       name: Blood Trade
+      id: 100215
     - count: 1
       name: Blood Weakens
+      id: 100217
     - count: 1
-      name: The New Inquisition
+      name: New Inquisition, The
+      id: 101279
     - count: 1
       name: Nightmares upon Nightmares
+      id: 101285
     - count: 1
       name: Recalled to the Founder
+      id: 101566
     - count: 1
       name: Restricted Vitae
+      id: 101614
     - count: 1
-      name: The Slow Withering
+      name: Slow Withering, The
+      id: 101807
     - count: 1
       name: Thirst
+      id: 101974
     - count: 1
       name: Torpid Blood
+      id: 101994
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079
     - count: 3
       name: Wormwood
+      id: 102194

@@ -7,11 +7,9 @@ winner: Ricardo Marta
 vekn_number: 8671041
 event_url: https://www.vekn.net/event-calendar/event/12170
 event_id: 12170
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82261-twd-liga-gl-pt-24-25-ancient-influence-coimbra-portugal-12-apr-2025
+forum_post_url: https://www.vekn.net/event-calendar/event/12170
 deck:
   name: Lutz goes Meddling
-  created_by: Gambas
   description: ''
   crypt_count: 12
   crypt_min: 28
@@ -20,6 +18,7 @@ deck:
   crypt:
   - count: 5
     name: Lutz von Hohenzollern
+    id: 200890
     capacity: 11
     disciplines: pot AUS DEM OBF PRE
     title: Inner Circle
@@ -27,6 +26,7 @@ deck:
     grouping: 4
   - count: 3
     name: Benjamin Rose
+    id: 200190
     capacity: 7
     disciplines: ani pot AUS OBF
     title: Prince
@@ -34,6 +34,7 @@ deck:
     grouping: 5
   - count: 2
     name: Drozodny
+    id: 200389
     capacity: 7
     disciplines: pre AUS DEM OBF
     title: Bishop
@@ -41,6 +42,7 @@ deck:
     grouping: 5
   - count: 2
     name: Stavros
+    id: 201313
     capacity: 7
     disciplines: dem AUS OBF PRE
     title: Priscus
@@ -53,62 +55,88 @@ deck:
     cards:
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 6
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 7
       name: Villein
+      id: 102121
   - name: Political Action
     count: 19
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 4
       name: Banishment
+      id: 100131
     - count: 1
       name: Camarilla Threat
+      id: 100285
     - count: 1
       name: Disputed Territory
+      id: 100557
     - count: 4
       name: Kine Resources Contested
+      id: 101056
     - count: 6
-      name: The Meddling of Semsith
+      name: Meddling of Semsith, The
+      id: 101192
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 34
     cards:
     - count: 2
       name: Awe
+      id: 100119
     - count: 6
       name: Bewitching Oration
+      id: 100157
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 6
       name: Forgotten Labyrinth
+      id: 100769
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Perfect Paragon
+      id: 101387
     - count: 4
       name: Telepathic Vote Counting
+      id: 101951
     - count: 8
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 21
     cards:
     - count: 7
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Telepathic Counter
+      id: 101948
     - count: 8
       name: Telepathic Misdirection
+      id: 101949

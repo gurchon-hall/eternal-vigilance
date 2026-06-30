@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Benjamin Rose
+    id: 200190
     capacity: 7
     disciplines: ani pot AUS OBF
     title: Prince
@@ -25,18 +26,21 @@ deck:
     grouping: 5
   - count: 3
     name: Federico di Padua
+    id: 200460
     capacity: 7
     disciplines: ani AUS OBF POT
     clan: Nosferatu
     grouping: 5
   - count: 3
     name: Daria
+    id: 201639
     capacity: 5
     disciplines: ani AUS OBF
     clan: Nosferatu
     grouping: 6
   - count: 3
     name: Pearl
+    id: 201106
     capacity: 4
     disciplines: obf AUS
     clan: Malkavian antitribu
@@ -48,84 +52,115 @@ deck:
     cards:
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
     - count: 2
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Slum Hunting Ground
+      id: 101808
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 2
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
     - count: 3
       name: Warsaw Station
+      id: 102149
   - name: Action
     count: 10
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 2
       name: Army of Rats
+      id: 100093
     - count: 7
       name: Creeping Sabotage
+      id: 102213
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
   - name: Equipment
     count: 8
     cards:
     - count: 3
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 2
       name: Sniper Rifle
+      id: 101816
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Action Modifier
     count: 5
     cards:
     - count: 5
       name: Forgotten Labyrinth
+      id: 100769
   - name: Reaction
     count: 31
     cards:
     - count: 2
       name: Eagle's Sight
+      id: 100598
     - count: 5
       name: Enhanced Senses
+      id: 100644
     - count: 9
       name: Eyes of Argus
+      id: 100680
     - count: 5
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Read the Winds
+      id: 101559
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 16
     cards:
     - count: 2
       name: Behind You!
+      id: 100149
     - count: 6
       name: Disguised Weapon
+      id: 100555
     - count: 4
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Taste of Vitae
+      id: 101945

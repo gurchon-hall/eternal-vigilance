@@ -19,42 +19,49 @@ deck:
   crypt:
   - count: 5
     name: Ghede
+    id: 200512
     capacity: 10
     disciplines: FOR OBF POT PRE SER
     clan: Ministry
     grouping: 6
   - count: 2
     name: Clea Auguste d'Holford
+    id: 200282
     capacity: 6
     disciplines: pre ser OBF POT
     clan: Ministry
     grouping: 5
   - count: 1
     name: Abdelsobek
+    id: 200005
     capacity: 5
     disciplines: for nec obf pre ser
     clan: Ministry
     grouping: 5
   - count: 1
     name: Shahara al-Rashwa
+    id: 201272
     capacity: 5
     disciplines: pre OBF SER
     clan: Ministry
     grouping: 6
   - count: 1
     name: Sisocharis
+    id: 201293
     capacity: 4
     disciplines: cel obf pre
     clan: Ministry
     grouping: 5
   - count: 1
     name: Ahmose Chambers
+    id: 200024
     capacity: 3
     disciplines: obf ser
     clan: Ministry
     grouping: 5
   - count: 1
     name: Cao Nguyen
+    id: 200241
     capacity: 3
     disciplines: SER
     clan: Ministry
@@ -65,74 +72,101 @@ deck:
     count: 16
     cards:
     - count: 6
-      name: The Eternals of Sirius
+      name: Eternals of Sirius, The
+      id: 100667
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Filchware's Pawn Shop
+      id: 100728
     - count: 1
       name: Monster
+      id: 101242
     - count: 1
       name: Opium Den
+      id: 101326
     - count: 2
-      name: The Path of Typhon
+      name: Path of Typhon, The
+      id: 101373
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 13
     cards:
     - count: 1
       name: Big Game
+      id: 100159
     - count: 1
       name: Bum's Rush
+      id: 100266
     - count: 2
       name: Dream World
+      id: 100587
     - count: 1
       name: Set's Curse
+      id: 101731
     - count: 2
       name: Temptation
+      id: 101954
     - count: 6
       name: Waters of Duat
+      id: 102159
   - name: Ally
     count: 2
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
     - count: 1
       name: Saatet-ta
+      id: 101665
   - name: Equipment
     count: 4
     cards:
     - count: 4
       name: Mokolé Blood
+      id: 101232
   - name: Action Modifier
     count: 12
     cards:
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 2
       name: Inspire Greatness
+      id: 100992
     - count: 7
       name: Truth of a Thousand Lies
+      id: 102044
     - count: 2
       name: Veil the Legions
+      id: 102097
   - name: Action Modifier/Combat
     count: 10
     cards:
     - count: 3
       name: Form of the Serpent
+      id: 100773
     - count: 3
       name: Shadow Boxing
+      id: 101736
     - count: 4
       name: Swallowed by the Night
+      id: 101913
   - name: Combat
     count: 33
     cards:
     - count: 8
       name: Immortal Grapple
+      id: 100959
     - count: 2
       name: Target Vitals
+      id: 101942
     - count: 7
       name: Taste of Vitae
+      id: 101945
     - count: 16
       name: Typhonic Beast
+      id: 102054

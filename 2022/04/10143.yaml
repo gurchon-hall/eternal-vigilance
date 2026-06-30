@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Inyanga
+    id: 200638
     capacity: 9
     disciplines: dom nec ANI AUS FOR PRO
     title: Primogen
@@ -26,12 +27,14 @@ deck:
     grouping: 4
   - count: 3
     name: Matasuntha
+    id: 200956
     capacity: 10
     disciplines: ANI AUS CEL FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 3
     name: Randall
+    id: 201160
     capacity: 8
     disciplines: ANI AUS FOR PRO
     title: 1 Vote
@@ -39,12 +42,14 @@ deck:
     grouping: 4
   - count: 1
     name: Rosa Hernández
+    id: 201203
     capacity: 7
     disciplines: ANI CEL FOR PRO
     clan: Gangrel
     grouping: 4
   - count: 1
     name: Dr. Sutton Gassaway
+    id: 200384
     capacity: 6
     disciplines: ani aus FOR PRO
     clan: Gangrel
@@ -56,70 +61,94 @@ deck:
     cards:
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 6
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 16
     cards:
     - count: 4
       name: Deep Song
+      id: 100515
     - count: 2
       name: Rewilding
+      id: 101632
     - count: 10
       name: Thing
+      id: 101972
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
   - name: Retainer
     count: 2
     cards:
     - count: 2
       name: Raven Spy
+      id: 101550
   - name: Action Modifier
     count: 4
     cards:
     - count: 4
       name: Earth Control
+      id: 100600
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 3
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 36
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: Enhanced Senses
+      id: 100644
     - count: 7
       name: Eyes of Argus
+      id: 100680
     - count: 5
       name: Eyes of the Wild
+      id: 102222
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 7
       name: Sense the Savage Way
+      id: 101717
     - count: 10
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 13
     cards:
     - count: 1
       name: Claws of the Dead
+      id: 100356
     - count: 12
       name: Earth Meld
+      id: 100601

@@ -8,8 +8,7 @@ vekn_number: 3200188
 event_url: https://www.vekn.net/event-calendar/event/12564
 event_id: 12564
 vp_comment: 2GW7 + 3vp in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82594-twd-rage-of-apademak-nantes-france
+forum_post_url: https://www.vekn.net/event-calendar/event/12564
 deck:
   name: Royal with Cheese
   description: ''
@@ -20,6 +19,7 @@ deck:
   crypt:
   - count: 5
     name: Adana de Sforza
+    id: 200011
     capacity: 11
     disciplines: aus CEL OBF POT PRE PRO
     title: Inner Circle
@@ -27,25 +27,28 @@ deck:
     grouping: 4
   - count: 3
     name: Hardestadt
+    id: 200568
     capacity: 11
     disciplines: cel pro DOM FOR POT PRE
     title: Inner Circle
     clan: Ventrue
     grouping: 4
-  - count: 2
-    name: Malabranca
-    capacity: 9
-    disciplines: obf AUS CEL PRE PRO
-    title: Archbishop
-    clan: Toreador antitribu
-    grouping: 4
   - count: 3
     name: Lodin (Olaf Holte)
+    id: 200848
     capacity: 8
     disciplines: aus pro DOM FOR PRE
     title: Prince
     clan: Ventrue
     grouping: 5
+  - count: 2
+    name: Malabranca
+    id: 200900
+    capacity: 9
+    disciplines: obf AUS CEL PRE PRO
+    title: Archbishop
+    clan: Toreador antitribu
+    grouping: 4
   library_count: 90
   library_sections:
   - name: Master
@@ -53,86 +56,118 @@ deck:
     cards:
     - count: 2
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 2
       name: Protean
+      id: 101498
     - count: 7
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
     - count: 5
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 1
     cards:
     - count: 1
       name: Entrancement
+      id: 100652
   - name: Political Action
     count: 14
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 6
       name: Banishment
+      id: 100131
     - count: 4
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 23
     cards:
     - count: 1
       name: Approximation of Loyalty
+      id: 100078
     - count: 4
       name: Earth Control
+      id: 100600
     - count: 2
       name: Enchanting Gaze
+      id: 102221
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 2
       name: Horrific Countenance
+      id: 100936
     - count: 7
       name: Instantaneous Transformation
+      id: 100994
     - count: 6
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Rapid Change
+      id: 101542
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 2
       name: Form of the Bat
+      id: 102223
     - count: 1
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 8
     cards:
     - count: 3
       name: Deflection
+      id: 100518
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Visions of Zapathasura
+      id: 102265
   - name: Combat
     count: 16
     cards:
     - count: 2
       name: Claws of the Dead
+      id: 100356
     - count: 8
       name: Earth Meld
+      id: 100601
     - count: 6
       name: Form of Mist
+      id: 100771

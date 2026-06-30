@@ -7,12 +7,10 @@ winner: Ivan Marin-Rivas
 vekn_number: 1006602
 event_url: https://www.vekn.net/event-calendar/event/13122
 event_id: 13122
-vp_comment: 2GW8 + 1,5vp in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/83037-twd-path-of-triple-deuce-stockholm-sweden
+vp_comment: 2GW8 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13122
 deck:
   name: Lucinde Shotgun grinder
-  created_by: Myrdinx
   description: Played without really knowing whats in it. Looking at it after 
     the fact I would make changes, but if it works, it works.
   crypt_count: 13
@@ -142,18 +140,6 @@ deck:
     - count: 2
       name: Scouting Mission
       id: 101698
-  - name: Political Action
-    count: 10
-    cards:
-    - count: 2
-      name: Banishment
-      id: 100131
-    - count: 3
-      name: Camarilla's Iron Fist
-      id: 102270
-    - count: 5
-      name: Parity Shift
-      id: 101353
   - name: Equipment
     count: 13
     cards:
@@ -175,6 +161,18 @@ deck:
     - count: 1
       name: Signet of King Saul, The
       id: 101781
+  - name: Political Action
+    count: 10
+    cards:
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 3
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 5
+      name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 17
     cards:

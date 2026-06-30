@@ -19,60 +19,70 @@ deck:
   crypt:
   - count: 3
     name: Mora, the Death Seer
+    id: 201724
     capacity: 7
     disciplines: ani AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Marchesa Liliana
+    id: 201722
     capacity: 9
     disciplines: dom ANI AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: '"Mother" Anja Giovanni'
+    id: 201725
     capacity: 8
     disciplines: dom pot AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Tommaso Sforza
+    id: 201728
     capacity: 7
     disciplines: dom for AUS OBL THA
     clan: Hecata
     grouping: 6
   - count: 1
     name: Lenelle, Mambo of Birmingham
+    id: 201721
     capacity: 6
     disciplines: aus FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Monica Giovanni
+    id: 201723
     capacity: 6
     disciplines: AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Gebeyehu Abdu
+    id: 201718
     capacity: 5
     disciplines: for AUS OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Hiromitsu Asano
+    id: 201719
     capacity: 4
     disciplines: aus for obl
     clan: Hecata
     grouping: 6
   - count: 1
     name: Alek König
+    id: 201717
     capacity: 3
     disciplines: OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Peter St. John
+    id: 201727
     capacity: 2
     disciplines: obl
     clan: Hecata
@@ -84,81 +94,112 @@ deck:
     cards:
     - count: 1
       name: Biotech Company Hunting Ground
+      id: 102287
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Jake Washington
+      id: 101019
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 11
     cards:
     - count: 4
-      name: The Gate of Acheron
+      name: Gate of Acheron, The
+      id: 102290
     - count: 7
       name: Shroud of Decay
+      id: 102295
   - name: Ally
     count: 5
     cards:
     - count: 4
       name: Aggressive Corpse
+      id: 102286
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
   - name: Equipment
     count: 3
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Action Modifier
     count: 18
     cards:
     - count: 4
       name: Shadow Cast
+      id: 102280
     - count: 5
       name: Shadow Cloak
+      id: 102281
     - count: 4
       name: Stygian Shroud
+      id: 102282
     - count: 5
       name: Where the Veil Thins
+      id: 102285
   - name: Reaction
     count: 18
     cards:
     - count: 3
       name: Enhanced Senses
+      id: 100644
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 16
     cards:
     - count: 7
       name: Pass Through Shadow
+      id: 102279
     - count: 7
       name: Rolling with the Punches
+      id: 101649
     - count: 2
       name: Target Vitals
+      id: 101942

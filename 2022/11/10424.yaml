@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 4
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -25,6 +26,7 @@ deck:
     grouping: 6
   - count: 2
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -39,6 +42,7 @@ deck:
     grouping: 6
   - count: 2
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -46,6 +50,7 @@ deck:
     grouping: 6
   - count: 1
     name: Carlak
+    id: 200244
     capacity: 8
     disciplines: dom pot CEL PRE
     title: Prince
@@ -53,6 +58,7 @@ deck:
     grouping: 5
   - count: 1
     name: Tara
+    id: 201341
     capacity: 6
     disciplines: cel POT PRE
     title: Prince
@@ -65,80 +71,108 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 2
       name: Grooming the Protégé
+      id: 100860
       comment: was a bad idea - include Blood Doll instead
     - count: 5
       name: New Carthage
+      id: 101277
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 6
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 12
     cards:
     - count: 1
       name: Anarch Secession
+      id: 100057
     - count: 2
       name: Field Training
+      id: 100725
       comment: misread, useless in this deck - remove this!!!
     - count: 9
       name: Illegalism
+      id: 100952
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 19
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 4
       name: Consanguineous Boon
+      id: 100410
     - count: 1
       name: Firebrand
+      id: 100736
     - count: 7
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: My Kin Against the World
+      id: 101260
     - count: 1
       name: Patsy
+      id: 101377
     - count: 3
       name: Reckless Agitation
+      id: 101567
     - count: 1
       name: Revolutionary Council
+      id: 101631
   - name: Action Modifier
     count: 18
     cards:
     - count: 1
       name: Perfect Paragon
+      id: 101387
     - count: 10
       name: Power of One
+      id: 101429
     - count: 7
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 10
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 4
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 8
     cards:
     - count: 8
       name: Majesty
+      id: 101144

@@ -1,5 +1,5 @@
-name: Jogos de Guerra - Abril da Tola Camarilla
-location: São Paulo, Brasil
+name: Jogos de Guerra - Abril da tola Camarilla
+location: São Paulo, Brazil
 date_start: 2026-04-18
 rounds_format: 2R+F
 players_count: 14
@@ -7,12 +7,10 @@ winner: Francisco Mantovanini Carvalho
 vekn_number: 6010104
 event_url: https://www.vekn.net/event-calendar/event/13210
 event_id: 13210
-vp_comment: 2GW6+4VPs in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82953-twd-jogos-de-guerra-sao-paulo-brasil-18-april-2026
+vp_comment: 2GW6 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13210
 deck:
   name: Só Carta Justa
-  created_by: Francisco Mantovanini Carvalho
   description: This deck name translates from brazilian portuguese as "Only fair
     cards". I thought of this concept because I think that the newer anarch 
     cards, specially those two that recquire barons (organized resistence and 
@@ -25,29 +23,9 @@ deck:
   crypt_max: 27
   crypt_avg: 6.25
   crypt:
-  - count: 1
-    name: Aline Gädeke
-    capacity: 7
-    disciplines: cel POT PRE
-    title: Baron
-    clan: Brujah
-    grouping: 6
-  - count: 1
-    name: Ángel Guerrero
-    capacity: 7
-    disciplines: ANI DOM PRO
-    title: Baron
-    clan: Tzimisce
-    grouping: 6
-  - count: 1
-    name: Massimiliano
-    capacity: 7
-    disciplines: pro ANI FOR
-    title: Baron
-    clan: Gangrel
-    grouping: 6
   - count: 2
     name: Benedito, a Lanterna
+    id: 201524
     capacity: 6
     disciplines: ani aus obf POT
     title: Baron
@@ -55,13 +33,39 @@ deck:
     grouping: 6
   - count: 2
     name: Jacques Rouge
+    id: 201523
     capacity: 6
     disciplines: ani pot pre OBF
     title: Baron
     clan: Nosferatu
     grouping: 6
   - count: 1
+    name: Aline Gädeke
+    id: 201576
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Ángel Guerrero
+    id: 201665
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Massimiliano
+    id: 201602
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -69,6 +73,7 @@ deck:
     grouping: 6
   - count: 1
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -76,6 +81,7 @@ deck:
     grouping: 6
   - count: 1
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -83,6 +89,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -90,6 +97,7 @@ deck:
     grouping: 6
   - count: 1
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -101,91 +109,125 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 2
       name: Hackerspace
+      id: 100876
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 6
     cards:
     - count: 1
       name: Army of Rats
+      id: 100093
     - count: 1
       name: Childe of the Revolution
+      id: 102246
     - count: 1
       name: Constant Revolution
+      id: 100416
     - count: 2
       name: Creeping Sabotage
+      id: 102213
     - count: 1
-      name: The Status Perfectus
-  - name: Political Action
-    count: 2
-    cards:
-    - count: 2
-      name: Reckless Agitation
+      name: Status Perfectus, The
+      id: 101863
   - name: Equipment
     count: 6
     cards:
     - count: 3
       name: .44 Magnum
+      id: 100001
     - count: 2
       name: Deer Rifle
+      id: 100516
     - count: 1
       name: Sniper Rifle
+      id: 101816
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Reckless Agitation
+      id: 101567
   - name: Action Modifier
     count: 5
     cards:
     - count: 1
       name: Earth Control
+      id: 100600
     - count: 1
       name: Forgotten Labyrinth
+      id: 100769
     - count: 1
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Monkey Wrench
+      id: 101239
   - name: Reaction
     count: 23
     cards:
     - count: 8
       name: Bait and Switch
+      id: 102218
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 14
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 22
     cards:
     - count: 6
       name: Concealed Weapon
+      id: 100392
     - count: 3
       name: Diversion
+      id: 100563
     - count: 3
       name: Donnybrook
+      id: 100576
     - count: 4
       name: Groundfighting
+      id: 100861
     - count: 4
       name: Target Vitals
+      id: 101942
     - count: 2
       name: Taste of Vitae
+      id: 101945
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

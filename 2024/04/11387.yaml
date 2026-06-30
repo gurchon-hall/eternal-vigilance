@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 2
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -25,6 +26,7 @@ deck:
     grouping: 6
   - count: 2
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 1
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -39,18 +42,21 @@ deck:
     grouping: 6
   - count: 1
     name: Keegan
+    id: 201659
     capacity: 8
     disciplines: aus cel ANI FOR PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Ragnar Nordstrom
+    id: 201660
     capacity: 8
     disciplines: cel pot ANI FOR PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -58,6 +64,7 @@ deck:
     grouping: 6
   - count: 1
     name: Massimiliano
+    id: 201602
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
@@ -65,18 +72,21 @@ deck:
     grouping: 6
   - count: 1
     name: Talbot
+    id: 201336
     capacity: 7
     disciplines: for ANI NEC PRO
     clan: Gangrel
     grouping: 5
   - count: 1
     name: André the Manipulator
+    id: 200081
     capacity: 6
     disciplines: FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 1
     name: Martina Srnankova
+    id: 201601
     capacity: 6
     disciplines: ani FOR PRO
     clan: Gangrel
@@ -88,74 +98,100 @@ deck:
     cards:
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 2
       name: Club Illusion
+      id: 100366
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Gangrel Revel
+      id: 100807
     - count: 2
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 7
       name: Villein
+      id: 102121
   - name: Action
     count: 12
     cards:
     - count: 2
       name: Constant Revolution
+      id: 100416
     - count: 10
       name: Thing
+      id: 101972
   - name: Political Action
     count: 2
     cards:
     - count: 1
       name: Reckless Agitation
+      id: 101567
     - count: 1
       name: Revolutionary Council
+      id: 101631
   - name: Retainer
     count: 3
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
     - count: 2
       name: Raven Spy
+      id: 101550
   - name: Action Modifier
     count: 4
     cards:
     - count: 2
       name: Earth Control
+      id: 100600
     - count: 2
       name: Monkey Wrench
+      id: 101239
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 27
     cards:
     - count: 8
       name: Bait and Switch
+      id: 102218
     - count: 9
       name: Deep Ecology
+      id: 102219
     - count: 10
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 18
     cards:
     - count: 2
       name: Donnybrook
+      id: 100576
     - count: 10
       name: Earth Meld
+      id: 100601
     - count: 6
       name: Form of Mist
+      id: 100771

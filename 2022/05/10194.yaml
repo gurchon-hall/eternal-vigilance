@@ -19,36 +19,42 @@ deck:
   crypt:
   - count: 4
     name: Appius Claudius Corvus
+    id: 200124
     capacity: 10
     disciplines: cel nec DOM OBT POT
     clan: Lasombra
     grouping: 5
   - count: 2
     name: Saul Meira
+    id: 201247
     capacity: 8
     disciplines: CHI DOM OBT POT
     clan: Lasombra
     grouping: 5
   - count: 2
     name: Ermenegildo, The Rake
+    id: 200435
     capacity: 5
     disciplines: pot DOM OBT
     clan: Lasombra
     grouping: 4
   - count: 1
     name: Badr, Shadow of Granada
+    id: 200160
     capacity: 7
     disciplines: DOM OBT POT
     clan: Lasombra
     grouping: 5
   - count: 1
     name: Onaedo
+    id: 201082
     capacity: 6
     disciplines: aus pot DOM OBT
     clan: Lasombra
     grouping: 4
   - count: 1
     name: Andrew Emory
+    id: 200085
     capacity: 5
     disciplines: aus dom pot OBT
     title: Bishop
@@ -56,6 +62,7 @@ deck:
     grouping: 4
   - count: 1
     name: Dame Hollerton
+    id: 200311
     capacity: 5
     disciplines: myt DOM OBT
     clan: Kiasyd
@@ -66,66 +73,89 @@ deck:
     count: 28
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 10
       name: Corporal Reservoir
+      id: 100425
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 7
       name: Minion Tap
+      id: 101217
     - count: 6
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 21
     cards:
     - count: 7
       name: Descent into Darkness
+      id: 100528
     - count: 14
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Zaire River Ferry
+      id: 102203
   - name: Action Modifier
     count: 27
     cards:
     - count: 2
       name: Blanket of Night
+      id: 100177
     - count: 6
       name: Bonding
+      id: 100236
     - count: 2
       name: Conditioning
+      id: 100401
     - count: 4
       name: Enkil Cog
+      id: 100645
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 4
       name: Shadow Play
+      id: 101743
     - count: 3
       name: Shroud of Absence
+      id: 101774
     - count: 2
       name: Shroud of Night
+      id: 101775
     - count: 2
       name: Tenebrous Form
+      id: 101957
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 3
     cards:
     - count: 3
       name: Deflection
+      id: 100518

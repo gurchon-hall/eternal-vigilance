@@ -1,4 +1,4 @@
-name: VtES European Championship 2024 - Day 2
+name: EC 2024 - Day 2
 location: Warsaw, Poland
 date_start: 2024-09-29
 rounds_format: 3R+F
@@ -7,11 +7,9 @@ winner: Danilo Torrisi
 vekn_number: 3460018
 event_url: https://www.vekn.net/event-calendar/event/11669
 event_id: 11669
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81836-twd-vtes-european-championship-2024-day-2-warsaw-poland-29-sep-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11669
 deck:
   name: Politico Malkarishat ASHUR
-  created_by: SonofMalkav
   description: ''
   crypt_count: 12
   crypt_min: 24
@@ -20,13 +18,23 @@ deck:
   crypt:
   - count: 4
     name: Juliet Parr
+    id: 201698
     capacity: 9
     disciplines: cel pot AUS DOM OBF
     title: Justicar
     clan: Malkavian
     grouping: 7
+  - count: 4
+    name: Arishat
+    id: 200136
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 Vote
+    clan: Baali
+    grouping: 6
   - count: 2
     name: Alexander Silverson
+    id: 201530
     capacity: 8
     disciplines: pre AUS DOM OBF
     title: Prince
@@ -34,20 +42,15 @@ deck:
     grouping: 6
   - count: 1
     name: Gilbert Duane
+    id: 201617
     capacity: 7
     disciplines: AUS DOM OBF
     title: Baron
     clan: Malkavian
     grouping: 6
-  - count: 4
-    name: Arishat
-    capacity: 6
-    disciplines: DAI OBF PRE
-    title: 1 Vote
-    clan: Baali
-    grouping: 6
   - count: 1
     name: Andi Liu
+    id: 201532
     capacity: 6
     disciplines: aus obf pre DOM
     title: Prince
@@ -60,60 +63,82 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Asylum Hunting Ground
+      id: 100108
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 2
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 14
     cards:
     - count: 4
       name: 'Condemnation: Mute'
+      id: 100400
     - count: 8
       name: Govern the Unaligned
+      id: 100845
     - count: 2
       name: Unleash Hell's Fury
-  - name: Political Action
-    count: 16
-    cards:
-    - count: 1
-      name: Anarchist Uprising
-    - count: 1
-      name: Ancilla Empowerment
-    - count: 6
-      name: Kine Resources Contested
-    - count: 2
-      name: My Kin Against the World
-    - count: 6
-      name: Parity Shift
+      id: 102076
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
-      name: The Sargon Fragment
+      name: Sargon Fragment, The
+      id: 101681
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 6
+      name: Kine Resources Contested
+      id: 101056
+    - count: 2
+      name: My Kin Against the World
+      id: 101260
+    - count: 6
+      name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 16
     cards:
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 7
       name: Forgotten Labyrinth
+      id: 100769
     - count: 7
       name: Lost in Crowds
+      id: 101125
   - name: Reaction
     count: 14
     cards:
     - count: 8
       name: Deflection
+      id: 100518
     - count: 6
       name: Obedience
+      id: 101309

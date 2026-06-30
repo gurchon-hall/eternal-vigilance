@@ -7,8 +7,7 @@ winner: Dante Gagelonia
 vekn_number: 1001192
 event_url: https://www.vekn.net/event-calendar/event/12027
 event_id: 12027
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82138-twd-big-bang-sa-alabang-muntinlupa-philippines-jan-19-2025
+forum_post_url: https://www.vekn.net/event-calendar/event/12027
 deck:
   name: You Can't Sit With Us
   description: ''
@@ -19,6 +18,7 @@ deck:
   crypt:
   - count: 4
     name: Diana Iadanza
+    id: 201694
     capacity: 9
     disciplines: AUS CEL FOR PRE
     title: Justicar
@@ -26,39 +26,23 @@ deck:
     grouping: 7
   - count: 1
     name: Annabelle Triabell
+    id: 201693
     capacity: 9
     disciplines: dom for AUS CEL PRE
     title: Primogen
     clan: Toreador
     grouping: 6
   - count: 1
-    name: Carmelita Neillson
-    capacity: 5
-    disciplines: cel pre AUS
-    clan: Toreador
-    grouping: 7
-  - count: 1
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
     clan: Toreador
     grouping: 6
   - count: 1
-    name: Lady Scarlett Churchill
-    capacity: 5
-    disciplines: dom for PRE
-    clan: Ventrue
-    grouping: 6
-  - count: 1
-    name: Maila
-    capacity: 6
-    disciplines: cel AUS PRE
-    title: Primogen
-    clan: Toreador
-    grouping: 6
-  - count: 1
     name: Marcos Belegrad
+    id: 201702
     capacity: 8
     disciplines: ani AUS CEL PRE
     title: Prince
@@ -66,13 +50,37 @@ deck:
     grouping: 7
   - count: 1
     name: Modius
+    id: 201703
     capacity: 8
     disciplines: obf AUS CEL PRE
     title: Prince
     clan: Toreador
     grouping: 7
   - count: 1
+    name: Maila
+    id: 201633
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Carmelita Neillson
+    id: 201625
+    capacity: 5
+    disciplines: cel pre AUS
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Lady Scarlett Churchill
+    id: 201643
+    capacity: 5
+    disciplines: dom for PRE
+    clan: Ventrue
+    grouping: 6
+  - count: 1
     name: Regina Blake
+    id: 201648
     capacity: 5
     disciplines: AUS PRE
     clan: Toreador
@@ -84,88 +92,121 @@ deck:
     cards:
     - count: 1
       name: Aching Beauty
+      id: 100018
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 2
       name: Camarilla Conclave
+      id: 102269
     - count: 2
       name: Grooming the Protégé
+      id: 100860
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: Protected Resources
+      id: 101500
     - count: 6
       name: Toreador Grand Ball
+      id: 101989
     - count: 6
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
     - count: 4
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 4
     cards:
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 2
       name: 'Judgment: Camarilla Segregation'
-  - name: Political Action
-    count: 15
-    cards:
-    - count: 1
-      name: Ancient Influence
-    - count: 8
-      name: Camarilla's Iron Fist
-    - count: 2
-      name: Confiscation
-    - count: 1
-      name: Political Stranglehold
-    - count: 1
-      name: 'Praxis Seizure: Paris'
-    - count: 1
-      name: Reins of Power
-    - count: 1
-      name: Toreador Justicar
+      id: 101028
   - name: Ally
     count: 2
     cards:
     - count: 2
       name: Procurer
+      id: 101491
+  - name: Political Action
+    count: 15
+    cards:
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 8
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 2
+      name: Confiscation
+      id: 102271
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: 'Praxis Seizure: Paris'
+      id: 101467
+    - count: 1
+      name: Reins of Power
+      id: 101591
+    - count: 1
+      name: Toreador Justicar
+      id: 101990
   - name: Action Modifier
     count: 17
     cards:
     - count: 6
       name: Loup
+      id: 102273
     - count: 4
       name: Perfect Paragon
+      id: 101387
     - count: 1
       name: Scorn of Adonis
+      id: 101692
     - count: 6
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 10
     cards:
     - count: 2
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 10
     cards:
     - count: 4
       name: Charismatic Aura
+      id: 100333
     - count: 6
       name: Majesty
+      id: 101144

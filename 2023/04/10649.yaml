@@ -7,12 +7,10 @@ winner: Nerijus Mikalajunas
 vekn_number: 1005069
 event_url: https://www.vekn.net/event-calendar/event/10649
 event_id: 10649
-vp_comment: 1 VP, 2 VP (GW), 2 VP, 3 VP in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80507-twd-the-rocky-road-to-lublin-poland-22-april-2023
+vp_comment: 1vp + GW2 + 2vp / 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10649
 deck:
   name: Satan for President! (Baali vote)
-  created_by: Nerijus Mikalajunas
   description: ''
   crypt_count: 12
   crypt_min: 24
@@ -21,22 +19,25 @@ deck:
   crypt:
   - count: 4
     name: Annazir
+    id: 200104
     capacity: 9
     disciplines: DAI OBF POT PRE
     title: 2 Votes
     clan: Baali
     grouping: 5
   - count: 4
-    name: Arishat
-    capacity: 6
-    disciplines: DAI OBF PRE
-    title: 1 Vote
+    name: Xeper, Sultan of Lepers
+    id: 201480
+    capacity: 7
+    disciplines: ani dai pro OBF PRE
     clan: Baali
     grouping: 6
   - count: 4
-    name: Xeper, Sultan of Lepers
-    capacity: 7
-    disciplines: ani dai pro OBF PRE
+    name: Arishat
+    id: 200136
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 Vote
     clan: Baali
     grouping: 6
   library_count: 90
@@ -46,60 +47,82 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 4
       name: Dreams of the Sphinx
+      id: 100588
     - count: 3
       name: Path of Evil Revelations
+      id: 101361
     - count: 2
       name: Path of the Void
+      id: 101372
     - count: 5
       name: Tend the Flock
+      id: 101956
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 8
     cards:
     - count: 2
       name: 'Condemnation: Mute'
+      id: 100400
     - count: 6
       name: Unleash Hell's Fury
+      id: 102076
   - name: Political Action
     count: 20
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 6
       name: Kine Resources Contested
+      id: 101056
     - count: 12
       name: Reckless Agitation
+      id: 101567
   - name: Action Modifier
     count: 32
     cards:
     - count: 6
       name: Bewitching Oration
+      id: 100157
     - count: 5
       name: Elder Impersonation
+      id: 100617
     - count: 5
       name: Forgotten Labyrinth
+      id: 100769
     - count: 3
       name: I am Legion
+      id: 100947
     - count: 3
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Veil the Legions
+      id: 102097
     - count: 8
       name: Voter Captivation
+      id: 102131
   - name: Combat
     count: 8
     cards:
     - count: 8
       name: Majesty
+      id: 101144
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Uncoiling
+      name: Uncoiling, The
+      id: 102057

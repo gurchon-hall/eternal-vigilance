@@ -1,5 +1,5 @@
 name: Revelation of Wrath
-location: Gulfport, Mississippi
+location: Gulfport (MS), USA
 date_start: 2025-08-22
 rounds_format: 2R+F
 players_count: 15
@@ -7,9 +7,8 @@ winner: Kelly Lyons
 vekn_number: 1004352
 event_url: https://www.vekn.net/event-calendar/event/12183
 event_id: 12183
-vp_comment: 1GW+6VP + 2VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82533-twd-revelation-of-wrath
+vp_comment: 1GW6 + 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12183
 deck:
   name: Water Dog - Dream a Little DIRTY Dream
   created_by: Kelly Lyons and Karl Schaefer
@@ -22,8 +21,17 @@ deck:
   crypt_max: 34
   crypt_avg: 6.0
   crypt:
+  - count: 3
+    name: Greensleeves
+    id: 200536
+    capacity: 7
+    disciplines: for pot ANI OBF
+    title: Priscus
+    clan: Nosferatu antitribu
+    grouping: 4
   - count: 2
     name: Strohmann
+    id: 201320
     capacity: 9
     disciplines: dom ANI OBF POT THA
     title: Archbishop
@@ -31,44 +39,43 @@ deck:
     grouping: 5
   - count: 2
     name: Lukas
+    id: 200880
     capacity: 8
     disciplines: pre ser ANI OBF POT
     title: Archbishop
     clan: Nosferatu antitribu
     grouping: 4
-  - count: 3
-    name: Greensleeves
-    capacity: 7
-    disciplines: for pot ANI OBF
-    title: Priscus
-    clan: Nosferatu antitribu
-    grouping: 4
   - count: 1
     name: Frank Litzpar
+    id: 200480
     capacity: 5
     disciplines: ani for pot OBF
     clan: Nosferatu antitribu
     grouping: 4
   - count: 1
     name: Skulk
+    id: 201297
     capacity: 4
     disciplines: ani OBF
     clan: Nosferatu antitribu
     grouping: 5
   - count: 1
     name: Blister
+    id: 200207
     capacity: 3
     disciplines: obf pot
     clan: Nosferatu antitribu
     grouping: 4
   - count: 1
     name: Lubomira Hradok
+    id: 200865
     capacity: 3
     disciplines: OBF
     clan: Nosferatu antitribu
     grouping: 5
   - count: 1
     name: Old Neddacka
+    id: 201074
     capacity: 2
     disciplines: obf
     clan: Nosferatu antitribu
@@ -79,70 +86,98 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: The Admonitions
+      name: Admonitions, The
+      id: 100023
     - count: 1
       name: Black Forest Base
+      id: 100165
     - count: 1
       name: 'Communal Haven: Cathedral'
+      id: 100385
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 3
-      name: The Hungry Coyote
+      name: Hungry Coyote, The
+      id: 100945
     - count: 4
       name: Obfuscate
+      id: 101310
     - count: 1
       name: Shanty Town Hunting Ground
+      id: 101753
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 28
     cards:
     - count: 5
       name: Creation Rites
+      id: 100441
     - count: 6
-      name: The Embrace
+      name: Embrace, The
+      id: 100633
     - count: 12
       name: Inside Dirt
+      id: 100990
     - count: 5
       name: Night Moves
+      id: 101283
   - name: Political Action
     count: 11
     cards:
     - count: 8
       name: Consanguineous Boon
+      id: 100410
     - count: 1
       name: 'Crusade: Chicago'
+      id: 100457
     - count: 1
       name: 'Crusade: Istanbul'
+      id: 100463
     - count: 1
       name: 'Crusade: London'
+      id: 100464
   - name: Action Modifier
     count: 31
     cards:
     - count: 3
       name: Change of Target
+      id: 100323
     - count: 2
       name: Cloak the Gathering
+      id: 100362
     - count: 3
       name: Cryptic Rider
+      id: 100478
     - count: 3
       name: Elder Impersonation
+      id: 100617
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 5
       name: Forgotten Labyrinth
+      id: 100769
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 7
       name: Private Audience
+      id: 101490
     - count: 2
       name: Veil the Legions
+      id: 102097
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Uncoiling
+      name: Uncoiling, The
+      id: 102057

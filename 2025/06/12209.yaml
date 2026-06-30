@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Anneke
+    id: 200106
     capacity: 10
     disciplines: dom AUS CEL PRE
     title: Justicar
@@ -26,6 +27,7 @@ deck:
     grouping: 1
   - count: 4
     name: Anson
+    id: 200107
     capacity: 8
     disciplines: aus dom CEL PRE
     title: Prince
@@ -33,6 +35,7 @@ deck:
     grouping: 1
   - count: 1
     name: Alexandra
+    id: 200049
     capacity: 11
     disciplines: dom ANI AUS CEL PRE
     title: Inner Circle
@@ -40,6 +43,7 @@ deck:
     grouping: 2
   - count: 1
     name: Marcellus
+    id: 200910
     capacity: 8
     disciplines: pro AUS CEL
     title: Prince
@@ -47,6 +51,7 @@ deck:
     grouping: 2
   - count: 1
     name: Tatiana Romanov
+    id: 201347
     capacity: 7
     disciplines: cel pre AUS
     title: Prince
@@ -54,6 +59,7 @@ deck:
     grouping: 1
   - count: 1
     name: Zöe
+    id: 201509
     capacity: 3
     disciplines: cel obf AUS
     clan: Malkavian
@@ -65,88 +71,124 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Auspex
+      id: 100114
     - count: 1
       name: Bleeding the Vine
+      id: 100178
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Society of Leopold
+      id: 101822
     - count: 1
       name: Vessel
+      id: 102113
     - count: 6
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Equipment
     count: 10
     cards:
     - count: 8
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 1
     cards:
     - count: 1
       name: Enkil Cog
+      id: 100645
   - name: Reaction
     count: 19
     cards:
     - count: 1
       name: Deflection
+      id: 100518
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 1
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 27
     cards:
     - count: 7
       name: Concealed Weapon
+      id: 100392
     - count: 5
       name: Infernal Pursuit
+      id: 100980
     - count: 6
       name: Psyche!
+      id: 101507
     - count: 5
       name: Pursuit
+      id: 101523
     - count: 2
       name: Sideslip
+      id: 101779
     - count: 2
       name: Taste of Vitae
+      id: 101945
   - name: Event
     count: 2
     cards:
     - count: 1
       name: Nightmares upon Nightmares
+      id: 101285
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

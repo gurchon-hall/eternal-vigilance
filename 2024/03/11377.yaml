@@ -19,30 +19,35 @@ deck:
   crypt:
   - count: 5
     name: Nakhthorheb
+    id: 201033
     capacity: 10
     disciplines: OBF PRE SER
     clan: Ministry
     grouping: 4
   - count: 3
     name: Cagliostro, The Grand Copht
+    id: 200231
     capacity: 8
     disciplines: nec pot OBF PRE SER
     clan: Ministry
     grouping: 4
   - count: 3
     name: Ankh-sen-Sutekh
+    id: 200099
     capacity: 6
     disciplines: obf PRE SER
     clan: Ministry
     grouping: 4
   - count: 1
     name: Ahmose Chambers
+    id: 200024
     capacity: 3
     disciplines: obf ser
     clan: Ministry
     grouping: 5
   - count: 1
     name: Belle Equitone
+    id: 200188
     capacity: 2
     disciplines: ser
     clan: Ministry
@@ -54,78 +59,109 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Dark Influences
+      id: 100493
     - count: 8
-      name: The Eternals of Sirius
+      name: Eternals of Sirius, The
+      id: 100667
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Legendary Vampire
+      id: 101091
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Opium Den
+      id: 101326
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 3
       name: Vessel
+      id: 102113
   - name: Action
     count: 27
     cards:
     - count: 4
       name: Corruption
+      id: 100430
     - count: 6
       name: Enchant Kindred
+      id: 100640
     - count: 6
       name: Enticement
+      id: 100650
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 1
       name: Form of Corruption
+      id: 100770
     - count: 2
       name: Heart of the City
+      id: 100904
     - count: 1
       name: Lure of the Serpent
+      id: 101134
     - count: 4
       name: Revelation of Ecstasy
+      id: 101624
     - count: 2
       name: Temptation
+      id: 101954
   - name: Ally
     count: 2
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
     - count: 1
       name: Saatet-ta
+      id: 101665
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Mokolé Blood
+      id: 101232
   - name: Action Modifier
     count: 31
     cards:
     - count: 6
       name: Change of Target
+      id: 100323
     - count: 6
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Enkil Cog
+      id: 100645
     - count: 4
       name: Revelation of Desire
+      id: 101622
     - count: 6
       name: Truth of a Thousand Lies
+      id: 102044
     - count: 6
       name: Venenation
+      id: 102104
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Majesty
+      id: 101144

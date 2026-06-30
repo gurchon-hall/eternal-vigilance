@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 3
     name: Kasim Bayar
+    id: 201598
     capacity: 9
     disciplines: aus pot CEL OBF THA
     title: Justicar
@@ -27,6 +28,7 @@ deck:
     grouping: 6
   - count: 3
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -34,6 +36,7 @@ deck:
     grouping: 6
   - count: 2
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
@@ -41,6 +44,7 @@ deck:
     grouping: 6
   - count: 2
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -48,6 +52,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kalinda
+    id: 201596
     capacity: 6
     disciplines: tha CEL OBF
     title: Primogen
@@ -55,6 +60,7 @@ deck:
     grouping: 6
   - count: 1
     name: Khadija Al-Kindi
+    id: 201599
     capacity: 6
     disciplines: CEL OBF THA
     title: Primogen
@@ -67,83 +73,115 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
-      name: The Black Throne
+      name: Black Throne, The
+      id: 100172
     - count: 1
       name: Fame
+      id: 100698
     - count: 3
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: Market Square
+      id: 101171
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 3
       name: Priority Contract
+      id: 101487
     - count: 1
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 12
     cards:
     - count: 8
       name: Hunter's Mark
+      id: 102228
     - count: 3
       name: Magic of the Smith
+      id: 101143
     - count: 1
       name: Rutor's Hand
+      id: 101664
   - name: Equipment
     count: 5
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Kali's Fang
+      id: 101032
     - count: 1
       name: Kevlar Vest
+      id: 101040
     - count: 1
       name: 'Reliquary: Shango Remains'
+      id: 101598
     - count: 1
       name: Sport Bike
+      id: 101856
   - name: Political Action
     count: 6
     cards:
     - count: 5
       name: Anathema
+      id: 100060
     - count: 1
       name: Disputed Territory
+      id: 100557
   - name: Action Modifier/Combat
     count: 5
     cards:
     - count: 3
       name: Resist Earth's Grasp
+      id: 101610
     - count: 2
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 8
     cards:
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 32
     cards:
     - count: 4
       name: Blur
+      id: 100227
     - count: 2
       name: Flash
+      id: 100744
     - count: 10
       name: Hunger of Marduk
+      id: 102227
     - count: 2
       name: Psyche!
+      id: 101507
     - count: 5
       name: Pursuit
+      id: 101523
     - count: 3
       name: Quickness
+      id: 101532
     - count: 4
       name: Rego Motum
+      id: 101588
     - count: 2
       name: Sideslip
+      id: 101779

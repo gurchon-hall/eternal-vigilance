@@ -21,18 +21,21 @@ deck:
   crypt:
   - count: 5
     name: Chalcedony
+    id: 200264
     capacity: 7
     disciplines: FOR POT THA VIS
     clan: Gargoyle
     grouping: 6
   - count: 2
     name: Claus Wegener
+    id: 200280
     capacity: 5
     disciplines: aus for tha DOM
     clan: Tremere
     grouping: 5
   - count: 1
     name: Chrysanthemum
+    id: 201542
     capacity: 5
     disciplines: dom AUS THA
     title: Primogen
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 1
     name: Zane
+    id: 201501
     capacity: 5
     disciplines: aus dom THA
     title: Primogen
@@ -47,18 +51,21 @@ deck:
     grouping: 5
   - count: 1
     name: Lauren
+    id: 201554
     capacity: 4
     disciplines: aus dom tha
     clan: Tremere
     grouping: 6
   - count: 1
     name: Tarrence Moore
+    id: 201346
     capacity: 4
     disciplines: aus dom tha
     clan: Tremere
     grouping: 5
   - count: 1
     name: Monica Chang
+    id: 201003
     capacity: 3
     disciplines: dom tha
     clan: Tremere
@@ -70,83 +77,115 @@ deck:
     cards:
     - count: 1
       name: Academic Hunting Ground
+      id: 100015
     - count: 2
       name: Arcane Library
+      id: 100081
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Rack, The
+      id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 13
     cards:
     - count: 1
       name: Armor of Terra
+      id: 100088
     - count: 2
       name: Biothaumaturgic Experiment
+      id: 100162
     - count: 6
       name: Children of Stone
+      id: 100340
     - count: 2
       name: Hatchling
+      id: 100892
     - count: 2
       name: Revelations
+      id: 101627
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Ponticulus
+      id: 101419
   - name: Retainer
     count: 6
     cards:
     - count: 5
       name: Razor Bat
+      id: 101556
     - count: 1
       name: Stone Dog
+      id: 101873
   - name: Action Modifier
     count: 22
     cards:
     - count: 4
       name: As the Crow
+      id: 100102
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 5
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Mirror Walk
+      id: 101223
     - count: 3
       name: Skin of the Chameleon
+      id: 101794
     - count: 4
       name: Unleash the Hounds
+      id: 102077
   - name: Reaction
     count: 22
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 3
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: Their Master's Voice
+      id: 101967
     - count: 2
       name: Voices of the Castle
+      id: 102130
     - count: 2
       name: Wake with Evening's Freshness
+      id: 102137
   - name: Combat
     count: 15
     cards:
     - count: 3
       name: Bond with the Mountain
+      id: 100235
     - count: 3
       name: Crawling Chamber
+      id: 100439
     - count: 1
       name: Roll
+      id: 101648
     - count: 5
       name: Stonestrength
+      id: 101876
     - count: 3
       name: Theft of Vitae
+      id: 101966

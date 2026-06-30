@@ -7,36 +7,37 @@ winner: Noé Grigera Fernández
 vekn_number: 9510031
 event_url: https://www.vekn.net/event-calendar/event/10711
 event_id: 10711
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80735-twd-7th-torneo-liga-noroeste-gijon-spain-23-apr-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10711
 deck:
   name: Malgorzata
-  created_by: Noegrigera
   description: ''
   crypt_count: 12
   crypt_min: 36
   crypt_max: 44
   crypt_avg: 10.17
   crypt:
+  - count: 5
+    name: Malgorzata
+    id: 200905
+    capacity: 9
+    disciplines: pre AUS DOM THA VIC
+    title: Priscus
+    clan: Tremere antitribu
+    grouping: 4
   - count: 4
     name: Lord Tremere
+    id: 200856
     capacity: 11
     disciplines: obe ANI AUS DOM THA VIC
     clan: Tremere
     grouping: 5
   - count: 3
     name: Mistress Fanchon
+    id: 200999
     capacity: 11
     disciplines: AUS CEL DOM OBF THA VIC
     title: Inner Circle
     clan: Tremere
-    grouping: 4
-  - count: 5
-    name: Malgorzata
-    capacity: 9
-    disciplines: pre AUS DOM THA VIC
-    title: Priscus
-    clan: Tremere antitribu
     grouping: 4
   library_count: 90
   library_sections:
@@ -44,109 +45,149 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 4
       name: Information Highway
+      id: 100984
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 8
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 1
       name: Far Mastery
+      id: 100703
     - count: 4
       name: Magic of the Smith
+      id: 101143
     - count: 1
       name: Puppet Master
+      id: 101215
     - count: 1
       name: Rutor's Hand
+      id: 101664
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
   - name: Equipment
     count: 5
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Helicopter
+      id: 100909
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Political Action
     count: 5
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Banishment
+      id: 100131
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 16
     cards:
     - count: 2
       name: Bonding
+      id: 100236
     - count: 4
       name: Changeling
+      id: 100324
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 6
       name: Mirror Walk
+      id: 101223
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Plasmic Form
+      id: 101402
   - name: Reaction
     count: 28
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 6
       name: Obedience
+      id: 101309
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Redirection
+      id: 101578
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Meld with the Land
+      id: 101196
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

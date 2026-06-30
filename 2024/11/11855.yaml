@@ -1,0 +1,231 @@
+name: Hurry up!
+location: Vác, Hungary
+date_start: 2024-11-10
+rounds_format: 2R+F
+players_count: 10
+winner: David Kmotricza
+vekn_number: 4420032
+event_url: https://www.vekn.net/event-calendar/event/11855
+event_id: 11855
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11855
+deck:
+  name: Brujah Antitribu Hektor
+  created_by: László Róbert
+  description: ''
+  crypt_count: 12
+  crypt_min: 28
+  crypt_max: 38
+  crypt_avg: 8.5
+  crypt:
+  - count: 4
+    name: Hektor
+    id: 200584
+    capacity: 9
+    disciplines: for CEL POT PRE QUI
+    title: Priscus
+    clan: Brujah antitribu
+    grouping: 4
+  - count: 2
+    name: Armin Brenner
+    id: 200138
+    capacity: 10
+    disciplines: ani obf CEL FOR POT PRE
+    title: Archbishop
+    clan: Brujah antitribu
+    grouping: 4
+  - count: 2
+    name: Dark Selina
+    id: 200321
+    capacity: 9
+    disciplines: dom for CEL POT PRE
+    title: Cardinal
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 1
+    name: Jacques Molay
+    id: 200664
+    capacity: 9
+    disciplines: obf val CEL POT PRE
+    clan: Brujah antitribu
+    grouping: 4
+  - count: 1
+    name: DeSalle
+    id: 200337
+    capacity: 7
+    disciplines: CEL POT PRE
+    clan: Brujah antitribu
+    grouping: 4
+  - count: 1
+    name: Gold Pan Dan
+    id: 200527
+    capacity: 6
+    disciplines: cel POT PRE
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 1
+    name: Shawnda Dorrit
+    id: 201278
+    capacity: 6
+    disciplines: obt pot pre CEL
+    title: Priscus
+    clan: Brujah antitribu
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 1
+      name: Amusement Park Hunting Ground
+      id: 100049
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Black Forest Base
+      id: 100165
+    - count: 1
+      name: Depravity
+      id: 100526
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Gang Territory
+      id: 100803
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: Retribution
+      id: 101619
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+    - count: 1
+      name: Yawp Court
+      id: 102199
+  - name: Action
+    count: 21
+    cards:
+    - count: 1
+      name: Abbot
+      id: 100006
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 2
+      name: Enchant Kindred
+      id: 100640
+    - count: 1
+      name: Entrancement
+      id: 100652
+    - count: 5
+      name: Esprit de Corps
+      id: 100663
+    - count: 1
+      name: Eternal Vigilance
+      id: 100666
+    - count: 5
+      name: Show of Force
+      id: 101772
+    - count: 3
+      name: Under Siege
+      id: 102063
+  - name: Political Action
+    count: 9
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 5
+      name: Dogs of War
+      id: 100569
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 3
+      name: Forced March
+      id: 100761
+    - count: 2
+      name: Freak Drive
+      id: 100788
+    - count: 3
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Resist Earth's Grasp
+      id: 101610
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Unexpected Coalition
+      id: 102070
+  - name: Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Vendetta
+      id: 102101
+  - name: Combat
+    count: 25
+    cards:
+    - count: 4
+      name: Amaranth
+      id: 100043
+    - count: 1
+      name: Earthshock
+      id: 100604
+    - count: 7
+      name: Immortal Grapple
+      id: 100959
+    - count: 1
+      name: Psyche!
+      id: 101507
+    - count: 3
+      name: Side Strike
+      id: 101778
+    - count: 2
+      name: Skin of Steel
+      id: 101792
+    - count: 2
+      name: Slam
+      id: 101798
+    - count: 2
+      name: Superior Mettle
+      id: 101905
+    - count: 3
+      name: Taste of Vitae
+      id: 101945

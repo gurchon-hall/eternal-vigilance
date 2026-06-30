@@ -19,54 +19,63 @@ deck:
   crypt:
   - count: 2
     name: Arriette Sylla
+    id: 200141
     capacity: 3
     disciplines: POT
     clan: Osebo
     grouping: 4
   - count: 2
     name: Kamaria
+    id: 200747
     capacity: 3
     disciplines: aus pot
     clan: Osebo
     grouping: 4
   - count: 2
     name: Misrak
+    id: 200996
     capacity: 2
     disciplines: pot
     clan: Osebo
     grouping: 4
   - count: 1
     name: Aredhel
+    id: 200129
     capacity: 5
     disciplines: aus FOR VAL
     clan: Salubri antitribu
     grouping: 4
   - count: 1
     name: Langa
+    id: 200813
     capacity: 5
     disciplines: for VAL
     clan: Salubri antitribu
     grouping: 4
   - count: 1
     name: Titi Camara
+    id: 201373
     capacity: 5
     disciplines: pot AUS CEL
     clan: Osebo
     grouping: 5
   - count: 1
     name: Uzoma
+    id: 201419
     capacity: 5
     disciplines: aus cel vic POT
     clan: Osebo
     grouping: 4
   - count: 1
     name: Idrissa
+    id: 200621
     capacity: 4
     disciplines: aus CEL
     clan: Osebo
     grouping: 4
   - count: 1
     name: Ismitta
+    id: 200645
     capacity: 4
     disciplines: aus cel pot
     clan: Osebo
@@ -78,33 +87,46 @@ deck:
     cards:
     - count: 6
       name: Brainwash
+      id: 100245
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 2
       name: Effective Management
+      id: 100616
     - count: 4
       name: Information Highway
+      id: 100984
     - count: 4
       name: Kaymakli Nightmares
+      id: 101036
     - count: 2
       name: Last Stand
+      id: 101074
     - count: 4
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 3
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 2
       name: Wash
+      id: 102151
   - name: Action
     count: 22
     cards:
     - count: 22
       name: 419 Operation
+      id: 100002
   - name: Reaction
     count: 5
     cards:
     - count: 5
       name: Hide the Heart
+      id: 100920

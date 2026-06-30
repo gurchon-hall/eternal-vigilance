@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 5
     name: Adana de Sforza
+    id: 200011
     capacity: 11
     disciplines: aus CEL OBF POT PRE PRO
     title: Inner Circle
@@ -26,6 +27,7 @@ deck:
     grouping: 4
   - count: 5
     name: Rafael de Corazon
+    id: 201151
     capacity: 11
     disciplines: AUS CEL DOM OBF PRE
     title: Inner Circle
@@ -33,18 +35,21 @@ deck:
     grouping: 4
   - count: 1
     name: Maldavis
+    id: 200903
     capacity: 4
     disciplines: for pre AUS
     clan: Caitiff
     grouping: 3
   - count: 1
     name: Maldavis (ADV)
+    id: 200904
     capacity: 4
     disciplines: for pre AUS
     clan: Caitiff
     grouping: 3
   - count: 1
     name: Martin Franckel
+    id: 200943
     capacity: 3
     disciplines: tha AUS
     clan: Tremere
@@ -56,64 +61,88 @@ deck:
     cards:
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 7
       name: Villein
+      id: 102121
     - count: 8
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 8
     cards:
     - count: 8
       name: Flurry of Action
+      id: 100752
   - name: Political Action
     count: 14
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Banishment
+      id: 100131
     - count: 9
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 31
     cards:
     - count: 3
       name: Awe
+      id: 100119
     - count: 2
       name: Cloak the Gathering
+      id: 100362
     - count: 3
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 2
       name: Forgotten Labyrinth
+      id: 100769
     - count: 1
       name: Instantaneous Transformation
+      id: 100994
     - count: 4
       name: Into Thin Air
+      id: 101001
     - count: 6
       name: Perfect Paragon
+      id: 101387
     - count: 7
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 10
     cards:
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 10
     cards:
     - count: 10
       name: Majesty
+      id: 101144

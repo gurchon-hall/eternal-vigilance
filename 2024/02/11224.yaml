@@ -7,25 +7,18 @@ winner: Daniel Motta
 vekn_number: 6130008
 event_url: https://www.vekn.net/event-calendar/event/11224
 event_id: 11224
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81253-twd-liga-juiz-de-forana-fev-24
+forum_post_url: https://www.vekn.net/event-calendar/event/11224
 deck:
   name: Lasombra Vote/Bleed
-  created_by: Daniel Motta
   description: ''
   crypt_count: 12
   crypt_min: 31
   crypt_max: 38
-  crypt_avg: 8.25
+  crypt_avg: 8.5
   crypt:
-  - count: 1
-    name: Badr, Shadow of Granada
-    capacity: 7
-    disciplines: DOM OBT POT
-    clan: Lasombra
-    grouping: 5
   - count: 2
     name: Carolina Vález
+    id: 200249
     capacity: 9
     disciplines: aus DOM OBT POT PRE
     title: Archbishop
@@ -33,6 +26,7 @@ deck:
     grouping: 5
   - count: 2
     name: Charles Delmare
+    id: 201513
     capacity: 8
     disciplines: cel DOM OBT POT
     title: Cardinal
@@ -40,6 +34,7 @@ deck:
     grouping: 5
   - count: 2
     name: Lord Leopold Valdemar
+    id: 201517
     capacity: 8
     disciplines: cel dom obf OBT POT
     title: Priscus
@@ -47,32 +42,43 @@ deck:
     grouping: 5
   - count: 2
     name: Percival
+    id: 201518
     capacity: 8
     disciplines: aus dom FOR OBT POT
     title: Archbishop
     clan: Lasombra
     grouping: 5
   - count: 1
-    name: Antón de Concepción
-    capacity: 9
-    disciplines: aus ANI DOM OBT POT
-    title: Archbishop
-    clan: Lasombra
+    name: Bruce de Guy
+    id: 200222
+    capacity: 10
+    disciplines: AUS DOM FOR OBT
+    title: Cardinal
+    clan: Ventrue antitribu
     grouping: 4
   - count: 1
     name: Luca Italicus
+    id: 200867
     capacity: 10
     disciplines: tha DOM FOR NEC OBT POT
     title: Archbishop
     clan: Lasombra
     grouping: 4
   - count: 1
-    name: Bruce de Guy
-    capacity: 10
-    disciplines: AUS DOM FOR OBT
-    title: Cardinal
-    clan: Ventrue antitribu
+    name: Antón de Concepción
+    id: 200114
+    capacity: 9
+    disciplines: aus ANI DOM OBT POT
+    title: Archbishop
+    clan: Lasombra
     grouping: 4
+  - count: 1
+    name: Badr, Shadow of Granada
+    id: 200160
+    capacity: 7
+    disciplines: DOM OBT POT
+    clan: Lasombra
+    grouping: 5
   library_count: 84
   library_sections:
   - name: Master
@@ -80,85 +86,118 @@ deck:
     cards:
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: Political Hunting Ground
+      id: 101415
     - count: 1
       name: Power Structure
+      id: 101430
     - count: 1
       name: 'Powerbase: Madrid'
+      id: 101437
     - count: 4
       name: Villein
+      id: 102121
     - count: 5
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 8
     cards:
     - count: 8
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 2
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Political Action
     count: 12
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Banishment
+      id: 100131
     - count: 7
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 25
     cards:
     - count: 2
       name: Blanket of Night
+      id: 100177
     - count: 4
       name: Conditioning
+      id: 100401
     - count: 4
       name: Seduction
+      id: 101712
     - count: 4
       name: Shadow Play
+      id: 101743
     - count: 5
       name: Shroud of Absence
+      id: 101774
     - count: 4
       name: Shroud of Night
+      id: 101775
     - count: 2
       name: Tenebrous Form
+      id: 101957
   - name: Reaction
     count: 11
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Wake with Evening's Freshness
+      id: 102137
   - name: Combat
     count: 7
     cards:
     - count: 4
       name: Oubliette
+      id: 101334
     - count: 3
       name: Shadow Body
+      id: 101735

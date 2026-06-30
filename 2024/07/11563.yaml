@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -26,12 +27,14 @@ deck:
     grouping: 6
   - count: 2
     name: André the Manipulator
+    id: 200081
     capacity: 6
     disciplines: FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 2
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -39,6 +42,7 @@ deck:
     grouping: 6
   - count: 1
     name: Massimiliano
+    id: 201602
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
@@ -46,36 +50,42 @@ deck:
     grouping: 6
   - count: 1
     name: Kamile Paukstys
+    id: 201597
     capacity: 5
     disciplines: ani for PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Mickey Wheeler
+    id: 201644
     capacity: 5
     disciplines: ani cel for pro
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Hanna Nokelainen
+    id: 201590
     capacity: 4
     disciplines: ani for pro
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Nathan Turner
+    id: 201606
     capacity: 4
     disciplines: ani PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Joaquín de Cádiz
+    id: 201595
     capacity: 3
     disciplines: for pro
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Ruslan Fedorenko
+    id: 201611
     capacity: 2
     disciplines: pro
     clan: Gangrel
@@ -87,86 +97,118 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 2
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Zoo Hunting Ground
+      id: 102212
   - name: Action
     count: 20
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 2
       name: Army of Rats
+      id: 100093
     - count: 2
       name: Constant Revolution
+      id: 100416
     - count: 2
       name: Deep Song
+      id: 100515
     - count: 1
       name: Rewilding
+      id: 101632
     - count: 12
       name: Thing
+      id: 101972
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Raven Spy
+      id: 101550
   - name: Action Modifier
     count: 9
     cards:
     - count: 3
       name: Earth Control
+      id: 100600
     - count: 4
       name: Freak Drive
+      id: 100788
     - count: 2
       name: Monkey Wrench
+      id: 101239
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 24
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Cats' Guidance
+      id: 100308
     - count: 6
       name: Deep Ecology
+      id: 102219
     - count: 6
       name: Eyes of the Wild
+      id: 102222
     - count: 5
       name: Organized Resistance
+      id: 102230
     - count: 1
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 21
     cards:
     - count: 2
       name: Body Flare
+      id: 100230
     - count: 2
       name: Claws of the Dead
+      id: 100356
     - count: 11
       name: Earth Meld
+      id: 100601
     - count: 4
       name: Form of Mist
+      id: 100771
     - count: 2
       name: Wolf Claws
+      id: 102190

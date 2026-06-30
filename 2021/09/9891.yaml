@@ -1,0 +1,199 @@
+name: Sede de Vitae Part 17
+location: Online
+date_start: 2021-09-13
+date_end: 2021-09-16
+rounds_format: 2R+F
+players_count: 18
+winner: Desso Alastor
+vekn_number: 6010151
+event_url: https://www.vekn.net/event-calendar/event/9891
+event_id: 9891
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9891
+deck:
+  name: Fogo no Parkinho
+  description: ''
+  crypt_count: 18
+  crypt_min: 4
+  crypt_max: 14
+  crypt_avg: 2.22
+  crypt:
+  - count: 7
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: C.J.
+    id: 200230
+    capacity: 4
+    disciplines: pro FOR
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Lorrie Dunsirn
+    id: 200859
+    capacity: 4
+    disciplines: for nec POT
+    clan: Abomination
+    grouping: 4
+  - count: 1
+    name: Abu Nuwasi
+    id: 200009
+    capacity: 3
+    disciplines: cel for
+    clan: Ishtarri
+    grouping: 4
+  - count: 1
+    name: Calvin Cleaver
+    id: 200238
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel
+    grouping: 4
+  - count: 1
+    name: Lula Burch
+    id: 200882
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Mr. Noir
+    id: 201016
+    capacity: 3
+    disciplines: for obe
+    clan: Salubri
+    grouping: 4
+  - count: 1
+    name: Rashiel
+    id: 201167
+    capacity: 3
+    disciplines: for val
+    clan: Salubri antitribu
+    grouping: 4
+  - count: 1
+    name: Rosemarie
+    id: 201206
+    capacity: 3
+    disciplines: mel FOR
+    clan: Daughter of Cacophony
+    grouping: 4
+  - count: 1
+    name: T.J.
+    id: 201334
+    capacity: 3
+    disciplines: cel for
+    clan: Gangrel
+    grouping: 4
+  - count: 1
+    name: Aimee Laroux
+    id: 200026
+    capacity: 2
+    disciplines: for pre
+    clan: Daughter of Cacophony
+    grouping: 4
+  - count: 1
+    name: Rico Loco
+    id: 201189
+    capacity: 2
+    disciplines: FOR
+    clan: Ventrue antitribu
+    grouping: 4
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 25
+    cards:
+    - count: 5
+      name: Anarch Revolt
+      id: 100055
+    - count: 2
+      name: Archon Investigation
+      id: 100085
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Fortitude
+      id: 100774
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 11
+    cards:
+    - count: 2
+      name: Ambush
+      id: 100046
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 3
+      name: Big Game
+      id: 100159
+    - count: 3
+      name: Bum's Rush
+      id: 100266
+    - count: 2
+      name: Charge of the Buffalo
+      id: 100330
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Bomb
+      id: 100233
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 5
+      name: Freak Drive
+      id: 100788
+  - name: Combat
+    count: 34
+    cards:
+    - count: 5
+      name: Diversion
+      id: 100563
+    - count: 3
+      name: Hidden Strength
+      id: 100918
+    - count: 3
+      name: Indomitability
+      id: 100973
+    - count: 7
+      name: Molotov Cocktail
+      id: 101235
+    - count: 2
+      name: Rolling with the Punches
+      id: 101649
+    - count: 2
+      name: Soak
+      id: 101817
+    - count: 7
+      name: Trap
+      id: 102012
+    - count: 5
+      name: Unflinching Persistence
+      id: 102071
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581

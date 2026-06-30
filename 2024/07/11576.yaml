@@ -20,12 +20,14 @@ deck:
   crypt:
   - count: 16
     name: Valkyrie
+    id: 201423
     capacity: 4
     disciplines: for pre pro
     clan: Gangrel
     grouping: 3
   - count: 3
     name: Brunhilde (ADV)
+    id: 200224
     capacity: 8
     disciplines: pre ANI FOR PRO
     title: Baron
@@ -38,44 +40,61 @@ deck:
     cards:
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 2
       name: Gangrel Revel
+      id: 100807
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 2
       name: Protected Resources
+      id: 101500
     - count: 1
       name: Seattle Committee
+      id: 101704
     - count: 3
       name: Tribute to the Master
+      id: 102023
     - count: 2
       name: Visit from the Capuchin
+      id: 102126
     - count: 1
       name: Vox Domini
+      id: 102132
   - name: Action
     count: 55
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 10
       name: Gramle
+      id: 100846
     - count: 44
       name: Thing
+      id: 101972
   - name: Reaction
     count: 6
     cards:
     - count: 3
       name: Delaying Tactics
+      id: 100519
     - count: 3
       name: Poison Pill
+      id: 101406
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265

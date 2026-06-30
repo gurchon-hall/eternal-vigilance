@@ -1,0 +1,172 @@
+name: 3rd Game of Malkav - Helsinki, Finland
+location: Helsinki, Finland
+date_start: 2024-07-03
+rounds_format: 2R+F
+players_count: 10
+winner: Jyri Puhakka
+vekn_number: 3530097
+event_url: https://www.vekn.net/event-calendar/event/11543
+event_id: 11543
+vp_comment: 0GW1 + 1.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11543
+deck:
+  name: Anson Gun with Brujah
+  description: The idea behind this version of the most iconic combat decks in 
+    the game is to make it easier to manage the mid-game. Lowering the crypt cap
+    from 10 to 8 makes a big difference in bringing up the third vampire. To 
+    impact the whole table, you only need to perform 1 or 2 segregations. These 
+    actions either burn vampires or burn pool, both of which benefit this deck. 
+    With decks like this, you should focus on securing your own back, which 
+    usually means rushing backwards and allowing the other players to act fairly
+    freely. After removing any threats from the back, it's time to take control 
+    of the table with three vampires with votes and equipped with guns.
+  crypt_count: 12
+  crypt_min: 13
+  crypt_max: 32
+  crypt_avg: 6.17
+  crypt:
+  - count: 3
+    name: Anson
+    id: 200107
+    capacity: 8
+    disciplines: aus dom CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 1
+  - count: 2
+    name: Constanza Vinti
+    id: 200289
+    capacity: 8
+    disciplines: CEL DOM POT
+    title: Prince
+    clan: Brujah
+    grouping: 2
+  - count: 2
+    name: Dónal O'Connor
+    id: 200364
+    capacity: 8
+    disciplines: CEL DOM POT
+    title: Prince
+    clan: Brujah
+    grouping: 2
+  - count: 2
+    name: Volker, The Puppet Prince
+    id: 201458
+    capacity: 5
+    disciplines: pot CEL
+    title: Prince
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Black Cat
+    id: 200201
+    capacity: 5
+    disciplines: pot pre CEL
+    clan: Brujah
+    grouping: 1
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 24
+    cards:
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 4
+      name: Haven Uncovered
+      id: 100897
+    - count: 5
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 6
+    cards:
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Intimidation
+      id: 100999
+    - count: 3
+      name: 'Judgment: Camarilla Segregation'
+      id: 101028
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 6
+      name: .44 Magnum
+      id: 100001
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Parity Shift
+      id: 101353
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Resist Earth's Grasp
+      id: 101610
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 7
+      name: 'Second Tradition: Domain'
+      id: 101706
+  - name: Combat
+    count: 34
+    cards:
+    - count: 2
+      name: Blur
+      id: 100227
+    - count: 6
+      name: Concealed Weapon
+      id: 100392
+    - count: 7
+      name: Infernal Pursuit
+      id: 100980
+    - count: 6
+      name: Psyche!
+      id: 101507
+    - count: 6
+      name: Pursuit
+      id: 101523
+    - count: 1
+      name: Side Strike
+      id: 101778
+    - count: 1
+      name: Sideslip
+      id: 101779
+    - count: 5
+      name: Taste of Vitae
+      id: 101945

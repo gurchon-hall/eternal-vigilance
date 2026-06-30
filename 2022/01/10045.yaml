@@ -19,36 +19,42 @@ deck:
   crypt:
   - count: 5
     name: Mambo Jeanne
+    id: 200908
     capacity: 9
     disciplines: FOR NEC OBF THN
     clan: Samedi
     grouping: 6
   - count: 3
     name: Jean Lisle
+    id: 200685
     capacity: 8
     disciplines: pot FOR OBF THN
     clan: Samedi
     grouping: 6
   - count: 2
     name: Marie-Pierre
+    id: 200928
     capacity: 4
     disciplines: for nec THN
     clan: Samedi
     grouping: 6
   - count: 1
     name: Baroque
+    id: 200169
     capacity: 7
     disciplines: aus for obf NEC THN
     clan: Samedi
     grouping: 5
   - count: 1
     name: Mister Schwartz
+    id: 200998
     capacity: 6
     disciplines: for obf NEC THN
     clan: Samedi
     grouping: 6
   - count: 1
     name: Angel Chavarria
+    id: 200089
     capacity: 3
     disciplines: THN
     clan: Samedi
@@ -60,64 +66,88 @@ deck:
     cards:
     - count: 3
       name: Blessings of the Loa
+      id: 100186
     - count: 1
       name: Carver's Meat Packing and Storage
+      id: 100303
     - count: 1
       name: Coroner's Contact
+      id: 100424
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Houngan
+      id: 100940
     - count: 1
       name: Monster
+      id: 101242
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 3
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 17
     cards:
     - count: 5
       name: Ambush
+      id: 100046
     - count: 2
       name: Big Game
+      id: 100159
     - count: 6
       name: Bum's Rush
+      id: 100266
     - count: 4
       name: Harass
+      id: 100886
   - name: Equipment
     count: 2
     cards:
     - count: 2
       name: Ambulance
+      id: 100045
   - name: Action Modifier
     count: 10
     cards:
     - count: 10
       name: Freak Drive
+      id: 100788
   - name: Combat
     count: 44
     cards:
     - count: 4
       name: Compress
+      id: 100389
     - count: 3
       name: Dust to Dust
+      id: 100596
     - count: 10
       name: Groaning Corpse
+      id: 100859
     - count: 15
       name: Relentless Reaper
+      id: 101595
     - count: 6
       name: Rolling with the Punches
+      id: 101649
     - count: 6
       name: Taste of Vitae
+      id: 101945
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

@@ -7,11 +7,9 @@ winner: Federico Ferrarini
 vekn_number: 3020081
 event_url: https://www.vekn.net/event-calendar/event/12316
 event_id: 12316
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82387-twd-it25-massa-italian-tour-italy
+forum_post_url: https://www.vekn.net/event-calendar/event/12316
 deck:
   name: shpalman
-  created_by: Federico Ferrarini
   description: ''
   crypt_count: 12
   crypt_min: 11
@@ -20,36 +18,42 @@ deck:
   crypt:
   - count: 5
     name: Shalmath
+    id: 201274
     capacity: 10
     disciplines: POT PRE TEM
     clan: True Brujah
     grouping: 6
-  - count: 1
-    name: Zafira
-    capacity: 4
-    disciplines: obf PRE
-    clan: Ravnos
-    grouping: 7
   - count: 2
     name: '"Coach" Tyrone Soros'
+    id: 201661
     capacity: 3
     disciplines: obf pre
     clan: Ministry
     grouping: 6
   - count: 2
     name: Valentina Osako
+    id: 201707
     capacity: 3
     disciplines: PRE
     clan: Toreador
     grouping: 7
   - count: 1
+    name: Zafira
+    id: 201692
+    capacity: 4
+    disciplines: obf PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
     name: Oleg Kaprizov
+    id: 201679
     capacity: 3
     disciplines: obf pre
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Mateo García
+    id: 201631
     capacity: 2
     disciplines: pre
     clan: Toreador
@@ -60,73 +64,101 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 1
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 3
       name: Tabriz Assembly
+      id: 101924
     - count: 1
       name: Tension in the Ranks
+      id: 101958
   - name: Action
     count: 28
     cards:
     - count: 1
       name: Big Game
+      id: 100159
     - count: 5
       name: Bum's Rush
+      id: 100266
     - count: 3
       name: Clotho's Gift
+      id: 100365
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 1
       name: Heart of the City
+      id: 100904
     - count: 1
       name: Hourglass of the Mind
+      id: 100941
     - count: 8
       name: Legal Manipulations
+      id: 101089
     - count: 7
       name: Vaticination
+      id: 102093
   - name: Action Modifier
     count: 16
     cards:
     - count: 10
       name: Domain of Evernight
+      id: 100571
     - count: 3
       name: Enkil Cog
+      id: 100645
     - count: 3
       name: Iron Glare
+      id: 101008
   - name: Action Modifier/Combat
     count: 7
     cards:
     - count: 7
       name: Force of Personality
+      id: 100758
   - name: Reaction
     count: 4
     cards:
     - count: 1
       name: Lost in Translation
+      id: 101126
     - count: 3
       name: Rewind Time
+      id: 101633
   - name: Combat
     count: 20
     cards:
     - count: 2
       name: Decapitate
+      id: 100511
     - count: 6
       name: Disarm
+      id: 100549
     - count: 12
       name: Outside the Hourglass
+      id: 101338

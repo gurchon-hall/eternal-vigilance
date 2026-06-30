@@ -18,12 +18,14 @@ deck:
   crypt:
   - count: 8
     name: Valkyrie
+    id: 201423
     capacity: 4
     disciplines: for pre pro
     clan: Gangrel
     grouping: 3
   - count: 4
     name: Brunhilde (ADV)
+    id: 200224
     capacity: 8
     disciplines: pre ANI FOR PRO
     title: Baron
@@ -31,6 +33,7 @@ deck:
     grouping: 3
   - count: 2
     name: Danielle Diron (ADV)
+    id: 200317
     capacity: 7
     disciplines: aus cel chi for ANI PRO
     clan: Gangrel
@@ -41,95 +44,131 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 2
       name: Anarch Revolt
+      id: 100055
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Ennoia's Theater
+      id: 100646
     - count: 1
       name: Frontal Assault
+      id: 100794
     - count: 1
       name: Gangrel Revel
+      id: 100807
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 9
     cards:
     - count: 2
       name: Constant Revolution
+      id: 100416
     - count: 1
       name: Rewilding
+      id: 101632
     - count: 6
       name: Thing
+      id: 101972
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Action Modifier
     count: 6
     cards:
     - count: 1
       name: Daring the Dawn
+      id: 100492
     - count: 1
       name: Earth Control
+      id: 100600
     - count: 2
       name: Freak Drive
+      id: 100788
     - count: 2
       name: Monkey Wrench
+      id: 101239
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 18
     cards:
     - count: 7
       name: Bait and Switch
+      id: 102218
     - count: 3
       name: Eyes of the Wild
+      id: 102222
     - count: 5
       name: Organized Resistance
+      id: 102230
     - count: 3
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 30
     cards:
     - count: 12
       name: Diversion
+      id: 100563
     - count: 2
       name: Donnybrook
+      id: 100576
     - count: 7
       name: Earth Meld
+      id: 100601
     - count: 3
       name: Form of Mist
+      id: 100771
     - count: 3
       name: Indomitability
+      id: 100973
     - count: 3
       name: Unflinching Persistence
+      id: 102071

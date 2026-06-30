@@ -7,34 +7,35 @@ winner: Martin Weinmayer
 vekn_number: 3340035
 event_url: https://www.vekn.net/event-calendar/event/12110
 event_id: 12110
-vp_comment: 2GW6VP + 2.5VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82573-twd-grand-prix-germany-herne-germany-16-august-2025
+vp_comment: 2GW6 + 2.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12110
 deck:
   name: The Endless Dance
-  created_by: Martin Weinmayer
   description: ''
   crypt_count: 12
   crypt_min: 27
   crypt_max: 37
   crypt_avg: 8.17
   crypt:
-  - count: 1
-    name: François Villon
-    capacity: 10
-    disciplines: ani obf pot AUS CEL PRE
-    title: Prince
-    clan: Toreador
-    grouping: 6
   - count: 5
     name: Diana Iadanza
+    id: 201694
     capacity: 9
     disciplines: AUS CEL FOR PRE
     title: Justicar
     clan: Toreador
     grouping: 7
   - count: 1
+    name: François Villon
+    id: 201696
+    capacity: 10
+    disciplines: ani obf pot AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -42,6 +43,7 @@ deck:
     grouping: 6
   - count: 1
     name: Marcos Belegrad
+    id: 201702
     capacity: 8
     disciplines: ani AUS CEL PRE
     title: Prince
@@ -49,6 +51,7 @@ deck:
     grouping: 7
   - count: 1
     name: Modius
+    id: 201703
     capacity: 8
     disciplines: obf AUS CEL PRE
     title: Prince
@@ -56,6 +59,7 @@ deck:
     grouping: 7
   - count: 1
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -63,6 +67,7 @@ deck:
     grouping: 6
   - count: 1
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
@@ -70,6 +75,7 @@ deck:
     grouping: 6
   - count: 1
     name: Mkhokheli
+    id: 201561
     capacity: 6
     disciplines: aus cel for PRE
     title: Prince
@@ -81,84 +87,116 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: The British Museum, London
+      name: British Museum, London, The
+      id: 102236
     - count: 1
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: 'Elysium: The Palace of Versailles'
+      id: 100632
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Monastery of Shadows
+      id: 101238
     - count: 2
       name: Papillon
+      id: 101350
     - count: 2
       name: Toreador Grand Ball
+      id: 101989
     - count: 6
       name: Villein
-  - name: Political Action
-    count: 14
-    cards:
-    - count: 2
-      name: Anarchist Uprising
-    - count: 1
-      name: Ancilla Empowerment
-    - count: 3
-      name: Camarilla's Iron Fist
-    - count: 7
-      name: Parity Shift
-    - count: 1
-      name: Political Stranglehold
+      id: 102121
   - name: Equipment
     count: 6
     cards:
     - count: 2
       name: Bowl of Convergence
+      id: 100243
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Palatial Estate
+      id: 101345
     - count: 1
-      name: The Sargon Fragment
+      name: Sargon Fragment, The
+      id: 101681
+  - name: Political Action
+    count: 14
+    cards:
+    - count: 2
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 3
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 7
+      name: Parity Shift
+      id: 101353
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
   - name: Action Modifier
     count: 16
     cards:
     - count: 1
       name: Aire of Elation
+      id: 100031
     - count: 5
       name: Forced March
+      id: 100761
     - count: 4
       name: Loup
+      id: 102273
     - count: 2
       name: Perfect Paragon
+      id: 101387
     - count: 4
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 14
     cards:
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 4
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 16
     cards:
     - count: 7
       name: Charismatic Aura
+      id: 100333
     - count: 9
       name: Majesty
+      id: 101144

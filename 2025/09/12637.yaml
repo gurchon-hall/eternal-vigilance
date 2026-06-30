@@ -7,12 +7,10 @@ winner: Joscar Gamaliel Malacaman
 vekn_number: 9430007
 event_url: https://www.vekn.net/event-calendar/event/12637
 event_id: 12637
-vp_comment: 1GW 5.5VP with 1.5 VP in the Finals
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82807-twd-pacc-it-up-mandaluyong-philippines-sep-07-25
+vp_comment: 1GW5.5 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12637
 deck:
   name: Disarming Majesty
-  created_by: Joscar Malacaman
   description: Based on a decklist sent by Keith Lim
   crypt_count: 12
   crypt_min: 4
@@ -26,6 +24,13 @@ deck:
     disciplines: POT PRE TEM
     clan: True Brujah
     grouping: 6
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
   - count: 1
     name: Andre LeRoux
     id: 200080
@@ -46,13 +51,6 @@ deck:
     capacity: 2
     disciplines: san
     clan: Blood Brother
-    grouping: ANY
-  - count: 2
-    name: Anarch Convert
-    id: 200076
-    capacity: 1
-    disciplines: ''
-    clan: Caitiff
     grouping: ANY
   - count: 1
     name: Donald Cargill
@@ -131,7 +129,7 @@ deck:
     count: 5
     cards:
     - count: 1
-      name: The Ankara Citadel, Turkey
+      name: Ankara Citadel, Turkey, The
       id: 100071
     - count: 1
       name: Eye of Hazimel

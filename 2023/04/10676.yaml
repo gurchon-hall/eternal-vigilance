@@ -7,8 +7,7 @@ winner: Jan Liska
 vekn_number: 3510071
 event_url: https://www.vekn.net/event-calendar/event/10676
 event_id: 10676
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80485-twd-4th-road-to-pulled-fang-12
+forum_post_url: https://www.vekn.net/event-calendar/event/10676
 deck:
   name: Carna Triumphans
   description: ''
@@ -19,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Carna, The Princess Witch
+    id: 200248
     capacity: 7
     disciplines: AUS DOM THA
     title: Primogen
@@ -26,54 +26,63 @@ deck:
     grouping: 3
   - count: 1
     name: Elena Mendoza Vasquez
+    id: 200408
     capacity: 6
     disciplines: dom obt AUS THA
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Eugenio Estevez
+    id: 200442
     capacity: 6
     disciplines: dom for AUS THA
     clan: Tremere
     grouping: 3
   - count: 1
     name: Selena
+    id: 201261
     capacity: 6
     disciplines: AUS DOM THA
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Valois Sang, The Watcher
+    id: 201424
     capacity: 6
     disciplines: nec tha AUS DOM
     clan: Tremere
     grouping: 3
   - count: 1
     name: Yasmin the Black
+    id: 201483
     capacity: 6
     disciplines: dom pre AUS THA
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Aisling Sturbridge
+    id: 200031
     capacity: 5
     disciplines: dom AUS THA
     clan: Tremere
     grouping: 2
   - count: 1
     name: Hannigan
+    id: 200567
     capacity: 5
     disciplines: dom AUS THA
     clan: Tremere antitribu
     grouping: 2
   - count: 1
     name: Blythe Candeleria
+    id: 200210
     capacity: 3
     disciplines: aus THA
     clan: Tremere
     grouping: 2
   - count: 1
     name: Masika St. John
+    id: 200952
     capacity: 3
     disciplines: THA
     clan: Tremere
@@ -85,96 +94,133 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 1
       name: Arcane Library
+      id: 100081
     - count: 1
       name: Chantry
+      id: 100329
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Failsafe
+      id: 100691
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Jake Washington
+      id: 101019
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 5
       name: Vessel
+      id: 102113
     - count: 1
       name: Wasserschloss Anif, Austria
+      id: 102152
   - name: Action
     count: 9
     cards:
     - count: 5
       name: Govern the Unaligned
+      id: 100845
     - count: 4
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 5
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Action Modifier
     count: 10
     cards:
     - count: 2
       name: Bonding
+      id: 100236
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 4
       name: Mirror Walk
+      id: 101223
     - count: 1
       name: Seduction
+      id: 101712
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 29
     cards:
     - count: 2
       name: Deflection
+      id: 100518
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 9
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 6
       name: On the Qui Vive
+      id: 101321
     - count: 1
       name: Redirection
+      id: 101578
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 16
     cards:
     - count: 5
       name: Apportation
+      id: 100077
     - count: 2
       name: Rego Motum
+      id: 101588
     - count: 8
       name: Theft of Vitae
+      id: 101966
     - count: 1
       name: Wind Dance
+      id: 102185
   - name: Event
     count: 1
     cards:
     - count: 1
       name: NRA PAC
+      id: 101305

@@ -1,5 +1,5 @@
-name: ITAQUAQUECETUBENSE 2024
-location: Itaquaquecetuba, Brasil
+name: Itaquaquecetubense 2024
+location: Itaquaquecetuba, Brazil
 date_start: 2024-08-18
 rounds_format: 2R+F
 players_count: 28
@@ -7,68 +7,75 @@ winner: Kleber Martins
 vekn_number: 7060046
 event_url: https://www.vekn.net/event-calendar/event/11598
 event_id: 11598
-vp_comment: 1 GW 5VP with 3VP in the Final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81897-twd-itaquaquecetubense-2024-itaquaquecetuba-brasil-august-18-2024
+vp_comment: 1GW5 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11598
 deck:
   name: Laço quebrado
-  created_by: Kleber Matins
   description: ''
   crypt_count: 12
   crypt_min: 16
   crypt_max: 26
   crypt_avg: 5.25
   crypt:
-  - count: 1
-    name: Sreelekha
-    capacity: 8
-    disciplines: ANI FOR OBF PRE
-    clan: Ravnos
-    grouping: 7
   - count: 2
     name: Roberto Rivamonte
+    id: 201683
     capacity: 6
     disciplines: ANI OBF PRE
     clan: Ravnos
     grouping: 7
-  - count: 1
-    name: Doc Martina
-    capacity: 6
-    disciplines: for pre ANI OBF
-    clan: Ravnos
-    grouping: 7
-  - count: 1
-    name: Luciano Carvalho
-    capacity: 6
-    disciplines: pre ANI OBF
-    clan: Ravnos
-    grouping: 7
   - count: 2
     name: Gathii
+    id: 201672
     capacity: 5
     disciplines: obf ANI PRE
     clan: Ravnos
     grouping: 7
   - count: 2
     name: Phaibun
+    id: 201681
     capacity: 5
     disciplines: ani OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 1
+    name: Sreelekha
+    id: 201687
+    capacity: 8
+    disciplines: ANI FOR OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Doc Martina
+    id: 201670
+    capacity: 6
+    disciplines: for pre ANI OBF
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Luciano Carvalho
+    id: 201675
+    capacity: 6
+    disciplines: pre ANI OBF
+    clan: Ravnos
+    grouping: 7
+  - count: 1
     name: Jean-François
+    id: 201674
     capacity: 4
     disciplines: ani obf pre
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Zafira
+    id: 201692
     capacity: 4
     disciplines: obf PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Oleg Kaprizov
+    id: 201679
     capacity: 3
     disciplines: obf pre
     clan: Ravnos
@@ -80,70 +87,94 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 4
       name: Dabbler
+      id: 100485
     - count: 3
       name: Effective Management
+      id: 100616
     - count: 1
       name: Fortune Teller Shop
+      id: 100777
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Week of Nightmares
+      id: 102166
   - name: Action
     count: 18
     cards:
     - count: 13
       name: Break the Bonds
+      id: 102247
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 3
       name: Field Training
+      id: 100725
   - name: Equipment
     count: 2
     cards:
     - count: 2
       name: Shilmulo Tarot
+      id: 101767
   - name: Action Modifier
     count: 31
     cards:
     - count: 3
       name: Cloak the Gathering
+      id: 100362
     - count: 4
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Faceless Night
+      id: 100687
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 8
       name: Memory Rift
+      id: 101199
     - count: 4
       name: Power of One
+      id: 101429
     - count: 7
       name: Visions of Gehenna
+      id: 102264
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 10
     cards:
     - count: 3
       name: Guard Dogs
+      id: 100863
     - count: 7
       name: Visions of Zapathasura
+      id: 102265
   - name: Combat
     count: 3
     cards:
     - count: 3
       name: Majesty
+      id: 101144
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265

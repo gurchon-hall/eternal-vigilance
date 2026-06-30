@@ -7,11 +7,9 @@ winner: Héctor Javier Ordóñez García
 vekn_number: 4960048
 event_url: https://www.vekn.net/event-calendar/event/11580
 event_id: 11580
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81853-twd-blood-in-the-labyrinth-tilburg-netherlands-october-13th-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11580
 deck:
   name: The Return of the Panyum MK2
-  created_by: Héctor Ordóñez
   description: ''
   crypt_count: 12
   crypt_min: 22
@@ -20,6 +18,7 @@ deck:
   crypt:
   - count: 2
     name: Saku Pihlajamäki
+    id: 201658
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
@@ -27,6 +26,7 @@ deck:
     grouping: 6
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -34,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -41,6 +42,7 @@ deck:
     grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -48,6 +50,7 @@ deck:
     grouping: 6
   - count: 2
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -55,12 +58,14 @@ deck:
     grouping: 6
   - count: 1
     name: Theo Bell
+    id: 201613
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
@@ -71,63 +76,86 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 2
       name: New Carthage
+      id: 101277
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 11
     cards:
     - count: 10
       name: Line Brawl
+      id: 102229
     - count: 1
       name: Open War
+      id: 101324
   - name: Equipment
     count: 7
     cards:
     - count: 7
       name: .44 Magnum
+      id: 100001
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Reaction
     count: 16
     cards:
     - count: 7
       name: Bait and Switch
+      id: 102218
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 25
     cards:
     - count: 1
       name: Blur
+      id: 100227
     - count: 7
       name: Concealed Weapon
+      id: 100392
     - count: 3
       name: Diversion
+      id: 100563
     - count: 3
       name: Dust Up
+      id: 100597
     - count: 3
       name: Infernal Pursuit
+      id: 100980
     - count: 5
       name: Psyche!
+      id: 101507
     - count: 1
       name: Quickness
+      id: 101532
     - count: 2
       name: Taste of Vitae
+      id: 101945

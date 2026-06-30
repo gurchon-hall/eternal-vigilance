@@ -7,9 +7,8 @@ winner: Tomas Wallmur
 vekn_number: 3385001
 event_url: https://www.vekn.net/event-calendar/event/12145
 event_id: 12145
-vp_comment: 3 VP in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82186-twd-howler-stockholm-2025-stockholm-sweden-22-march-2025
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12145
 deck:
   name: The Dark
   created_by: Ivan Marin-Rivas
@@ -21,6 +20,7 @@ deck:
   crypt:
   - count: 4
     name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
     capacity: 10
     disciplines: aus for DOM OBT POT PRE
     title: Cardinal
@@ -28,6 +28,7 @@ deck:
     grouping: 2
   - count: 4
     name: Angelica, The Canonicus
+    id: 200092
     capacity: 10
     disciplines: cel obf DOM OBT POT
     title: Cardinal
@@ -35,6 +36,7 @@ deck:
     grouping: 2
   - count: 1
     name: Ayelea, The Manipulator
+    id: 200152
     capacity: 10
     disciplines: pre AUS DOM OBT THA
     title: Cardinal
@@ -42,6 +44,7 @@ deck:
     grouping: 2
   - count: 1
     name: Antonio Delgado
+    id: 200117
     capacity: 9
     disciplines: tha DOM OBT POT
     title: Archbishop
@@ -49,6 +52,7 @@ deck:
     grouping: 2
   - count: 1
     name: Francisco Domingo de Polonia
+    id: 200476
     capacity: 9
     disciplines: pro DOM OBT POT PRE
     title: Archbishop
@@ -56,6 +60,7 @@ deck:
     grouping: 2
   - count: 1
     name: Gratiano
+    id: 200534
     capacity: 8
     disciplines: obf pot DOM OBT
     title: Priscus
@@ -68,88 +73,124 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Black Forest Base
+      id: 100165
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: Power Structure
+      id: 101430
     - count: 7
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
     - count: 7
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 2
     cards:
     - count: 2
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 9
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 1
       name: Conservative Agitation
+      id: 100414
     - count: 3
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
   - name: Action Modifier
     count: 23
     cards:
     - count: 5
       name: Amici Noctis
+      id: 102274
     - count: 1
       name: Bewitching Oration
+      id: 100157
     - count: 1
       name: Conditioning
+      id: 100401
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 1
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Private Audience
+      id: 101490
     - count: 4
       name: Shadow Play
+      id: 101743
     - count: 2
       name: Shroud of Absence
+      id: 101774
     - count: 2
       name: Shroud of Night
+      id: 101775
     - count: 2
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 5
     cards:
     - count: 1
       name: Murmur of the False Will
+      id: 101256
     - count: 4
       name: Ominous Chorus
+      id: 102278
   - name: Reaction
     count: 9
     cards:
     - count: 4
       name: Deflection
+      id: 100518
     - count: 5
       name: Obedience
+      id: 101309

@@ -1,4 +1,4 @@
-name: Portuguese National Championship 2026
+name: Portuguese NC 2026
 location: Coimbra, Portugal
 date_start: 2026-03-07
 rounds_format: 3R+F
@@ -7,8 +7,8 @@ winner: Augusto Ponce de León
 vekn_number: 3830054
 event_url: https://www.vekn.net/event-calendar/event/12879
 event_id: 12879
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82886-twd-portuguese-nc-2026-coimbra-portugal-7-mar-2026
+vp_comment: 2GW11 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12879
 deck:
   name: Malkavian Pols
   description: ''
@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Juliet Parr
+    id: 201698
     capacity: 9
     disciplines: cel pot AUS DOM OBF
     title: Justicar
@@ -26,6 +27,7 @@ deck:
     grouping: 7
   - count: 3
     name: Alexander Silverson
+    id: 201530
     capacity: 8
     disciplines: pre AUS DOM OBF
     title: Prince
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Jason "Son" Newberry
+    id: 201628
     capacity: 7
     disciplines: pre AUS DOM OBF
     title: Primogen
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Andi Liu
+    id: 201532
     capacity: 6
     disciplines: aus obf pre DOM
     title: Prince
@@ -47,6 +51,7 @@ deck:
     grouping: 6
   - count: 1
     name: Donny Kowalczyk
+    id: 201544
     capacity: 6
     disciplines: cel dom obf AUS
     title: Prince
@@ -59,81 +64,112 @@ deck:
     cards:
     - count: 2
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Dark Influences
+      id: 100493
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
   - name: Action
     count: 14
     cards:
     - count: 14
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 17
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 5
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 1
       name: Expulsion
+      id: 102276
     - count: 4
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: My Kin Against the World
+      id: 101260
     - count: 4
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 24
     cards:
     - count: 2
       name: Bonding
+      id: 100236
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 5
       name: Elder Impersonation
+      id: 100617
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
     - count: 4
       name: Forgotten Labyrinth
+      id: 100769
     - count: 5
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Telepathic Vote Counting
+      id: 101951
   - name: Action Modifier/Combat
     count: 1
     cards:
     - count: 1
       name: Hide the Mind
+      id: 100921
   - name: Reaction
     count: 23
     cards:
     - count: 8
       name: Deflection
+      id: 100518
     - count: 2
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: Mental Maze
+      id: 101201
     - count: 4
       name: Obedience
+      id: 101309
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 1
       name: Redirection
+      id: 101578
     - count: 4
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Waiting Game
+      id: 102136

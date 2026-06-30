@@ -17,6 +17,7 @@ deck:
   crypt:
   - count: 4
     name: Annabelle Triabell
+    id: 201693
     capacity: 9
     disciplines: dom for AUS CEL PRE
     title: Primogen
@@ -24,6 +25,7 @@ deck:
     grouping: 6
   - count: 3
     name: Diana Iadanza
+    id: 201694
     capacity: 9
     disciplines: AUS CEL FOR PRE
     title: Justicar
@@ -31,6 +33,7 @@ deck:
     grouping: 7
   - count: 1
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -38,6 +41,7 @@ deck:
     grouping: 6
   - count: 1
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -45,6 +49,7 @@ deck:
     grouping: 6
   - count: 1
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
@@ -52,6 +57,7 @@ deck:
     grouping: 6
   - count: 1
     name: Mkhokheli
+    id: 201561
     capacity: 6
     disciplines: aus cel for PRE
     title: Prince
@@ -59,6 +65,7 @@ deck:
     grouping: 6
   - count: 1
     name: Valentina Osako
+    id: 201707
     capacity: 3
     disciplines: PRE
     clan: Toreador
@@ -70,86 +77,118 @@ deck:
     cards:
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 1
       name: 'Elysium: The Palace of Versailles'
+      id: 100632
     - count: 1
       name: Fortitude
+      id: 100774
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 2
       name: Vessel
+      id: 102113
     - count: 6
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 11
     cards:
     - count: 5
       name: Enchant Kindred
+      id: 100640
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 1
       name: Heart of the City
+      id: 100904
     - count: 2
       name: Intimidation
+      id: 100999
     - count: 2
       name: Propaganda
+      id: 101495
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 15
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 2
       name: Banishment
+      id: 100131
     - count: 2
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 7
       name: Kine Resources Contested
+      id: 101056
     - count: 2
       name: Parity Shift
+      id: 101353
     - count: 1
       name: Political Stranglehold
+      id: 101417
   - name: Action Modifier
     count: 26
     cards:
     - count: 3
       name: Aire of Elation
+      id: 100031
     - count: 3
       name: Awe
+      id: 100119
     - count: 3
       name: Forced March
+      id: 100761
     - count: 7
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Perfect Paragon
+      id: 101387
     - count: 7
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 10
     cards:
     - count: 2
       name: Protected District
+      id: 102214
     - count: 4
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 7
     cards:
     - count: 7
       name: Majesty
+      id: 101144

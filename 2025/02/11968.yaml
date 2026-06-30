@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 4
     name: Mary Anne Blaire
+    id: 200946
     capacity: 10
     disciplines: ani pot AUS DOM FOR PRE
     title: Justicar
@@ -25,6 +26,7 @@ deck:
     grouping: 5
   - count: 3
     name: Sybren van Oosten
+    id: 201570
     capacity: 7
     disciplines: dom tha FOR PRE
     title: Prince
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Lodin (Olaf Holte)
+    id: 200848
     capacity: 8
     disciplines: aus pro DOM FOR PRE
     title: Prince
@@ -39,6 +42,7 @@ deck:
     grouping: 5
   - count: 2
     name: Horst von Brühl
+    id: 201550
     capacity: 6
     disciplines: aus dom pre FOR
     title: Prince
@@ -46,6 +50,7 @@ deck:
     grouping: 6
   - count: 1
     name: Brock Sterling
+    id: 201539
     capacity: 3
     disciplines: FOR
     clan: Ventrue
@@ -57,99 +62,139 @@ deck:
     cards:
     - count: 1
       name: Auspex
+      id: 100114
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 2
       name: Camarilla Conclave
+      id: 102269
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Misdirection
+      id: 101225
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 1
       name: Ventrue Headquarters
+      id: 102109
     - count: 1
       name: Vessel
+      id: 102113
   - name: Action
     count: 12
     cards:
     - count: 5
       name: Enchant Kindred
+      id: 100640
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 2
       name: 'Judgment: Camarilla Segregation'
+      id: 101028
     - count: 3
       name: Scouting Mission
+      id: 101698
   - name: Equipment
     count: 1
     cards:
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
   - name: Political Action
     count: 13
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 1
       name: Kindred Segregation
+      id: 101053
     - count: 5
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 4
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 27
     cards:
     - count: 2
       name: Bewitching Oration
+      id: 100157
     - count: 2
       name: Bonding
+      id: 100236
     - count: 2
       name: Change of Target
+      id: 100323
     - count: 1
       name: Conditioning
+      id: 100401
     - count: 1
       name: Daring the Dawn
+      id: 100492
     - count: 7
       name: Freak Drive
+      id: 100788
     - count: 2
-      name: The Kiss of Ra
+      name: Kiss of Ra, The
+      id: 101062
     - count: 2
       name: Perfect Paragon
+      id: 101387
     - count: 4
       name: Seduction
+      id: 101712
     - count: 4
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 8
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 12
     cards:
     - count: 5
       name: Charismatic Aura
+      id: 100333
     - count: 7
       name: Majesty
+      id: 101144

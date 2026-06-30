@@ -7,12 +7,10 @@ winner: Kelly Schultz
 vekn_number: 5040009
 event_url: https://www.vekn.net/event-calendar/event/12086
 event_id: 12086
-vp_comment: 2 GW 7 VP in prelims, 1.5 VP in finals
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82428-twd-origins-thursday-1
+vp_comment: 2GW7 + 1.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12086
 deck:
   name: Inner City Bypass
-  created_by: skychan (Kelly Schultz)
   description: ''
   crypt_count: 12
   crypt_min: 27
@@ -21,27 +19,31 @@ deck:
   crypt:
   - count: 3
     name: Diana Iadanza
+    id: 201694
     capacity: 9
     disciplines: AUS CEL FOR PRE
     title: Justicar
     clan: Toreador
     grouping: 7
-  - count: 1
-    name: Annabelle Triabell
-    capacity: 9
-    disciplines: dom for AUS CEL PRE
-    title: Primogen
-    clan: Toreador
-    grouping: 6
   - count: 3
     name: Modius
+    id: 201703
     capacity: 8
     disciplines: obf AUS CEL PRE
     title: Prince
     clan: Toreador
     grouping: 7
   - count: 1
+    name: Annabelle Triabell
+    id: 201693
+    capacity: 9
+    disciplines: dom for AUS CEL PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -49,6 +51,7 @@ deck:
     grouping: 6
   - count: 1
     name: Marcos Belegrad
+    id: 201702
     capacity: 8
     disciplines: ani AUS CEL PRE
     title: Prince
@@ -56,6 +59,7 @@ deck:
     grouping: 7
   - count: 1
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -63,6 +67,7 @@ deck:
     grouping: 6
   - count: 1
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
@@ -70,6 +75,7 @@ deck:
     grouping: 6
   - count: 1
     name: Mkhokheli
+    id: 201561
     capacity: 6
     disciplines: aus cel for PRE
     title: Prince
@@ -82,72 +88,100 @@ deck:
     cards:
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 2
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 4
       name: Dreams of the Sphinx
+      id: 100588
     - count: 10
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Protected Resources
+      id: 101500
     - count: 7
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Political Action
     count: 23
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 9
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 1
       name: Disputed Territory
+      id: 100557
     - count: 7
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 2
       name: Reinforcements
+      id: 101590
   - name: Action Modifier
     count: 26
     cards:
     - count: 1
       name: Alacrity
+      id: 100036
     - count: 1
       name: Approximation of Loyalty
+      id: 100078
     - count: 2
       name: Awe
+      id: 100119
     - count: 3
       name: Bewitching Oration
+      id: 100157
     - count: 5
       name: Loup
+      id: 102273
     - count: 5
       name: Perfect Paragon
+      id: 101387
     - count: 9
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 6
     cards:
     - count: 2
       name: Force of Personality
+      id: 100758
     - count: 4
       name: Resist Earth's Grasp
+      id: 101610
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Scalpel Tongue
+      id: 101686
   - name: Combat
     count: 4
     cards:
     - count: 2
       name: Charismatic Aura
+      id: 100333
     - count: 2
       name: Torrent
+      id: 101995

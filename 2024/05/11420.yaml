@@ -1,4 +1,4 @@
-name: Kagatanfest '24 Philippine National Championships
+name: Kagatanfest - Philippine NC 2024
 location: Pasig, Philippines
 date_start: 2024-05-25
 rounds_format: 3R+F
@@ -7,10 +7,7 @@ winner: Joscar Gamaliel Malacaman
 vekn_number: 9430007
 event_url: https://www.vekn.net/event-calendar/event/11420
 event_id: 11420
-vp_comment: Justine (Lawfirm) 1VP -> Johann (Mono-Dementation) 1VP -> Mira (Banu
-  Haqim Princes) -> Joscar (Matasuntha) 2VP -> Faust (Malgorzata) 1VP
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81499-twd-kagatanfest-24-philippine-nc-25-players-may-25-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11420
 deck:
   name: Matasuntha Makes it Look Easy
   description: The third iteration of Matasuntha deck was geared towards having 
@@ -69,7 +66,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -84,7 +81,7 @@ deck:
       name: Garibaldi-Meucci Museum
       id: 100809
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Los Angeles'
@@ -93,7 +90,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch

@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 45
     name: Tupdog
+    id: 201393
     capacity: 1
     disciplines: POT VIS
     clan: Gargoyle
@@ -31,39 +32,52 @@ deck:
     cards:
     - count: 10
       name: Agent of Power
+      id: 100025
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 10
       name: Inceptor
+      id: 100969
     - count: 8
       name: Liquidation
+      id: 101112
     - count: 7
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
   - name: Action
     count: 22
     cards:
     - count: 7
       name: Scrounging
+      id: 101700
     - count: 15
       name: Summon History
+      id: 101897
   - name: Ally
     count: 13
     cards:
     - count: 11
       name: Emerald Legionnaire
+      id: 100634
     - count: 1
       name: Mylan Horseed
+      id: 101261
     - count: 1
       name: Veneficti
+      id: 102103
   - name: Action Modifier
     count: 10
     cards:
     - count: 10
       name: Skin of the Chameleon
+      id: 101794
   - name: Reaction
     count: 6
     cards:
     - count: 6
       name: Delaying Tactics
+      id: 100519

@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 4
     name: Mithras
+    id: 201645
     capacity: 11
     disciplines: DOM FOR POT PRE THA
     clan: Ventrue
     grouping: 6
   - count: 2
     name: Karl Schrekt
+    id: 201621
     capacity: 10
     disciplines: AUS DOM FOR PRE THA
     title: 2 Votes
@@ -32,12 +34,14 @@ deck:
     grouping: 6
   - count: 2
     name: Gerald Windham
+    id: 200508
     capacity: 9
     disciplines: AUS DOM FOR THA
     clan: Tremere
     grouping: 5
   - count: 2
     name: Graham Gottesman
+    id: 200533
     capacity: 7
     disciplines: obf pre tha DOM FOR
     title: Prince
@@ -45,6 +49,7 @@ deck:
     grouping: 5
   - count: 2
     name: Sybren van Oosten
+    id: 201570
     capacity: 7
     disciplines: dom tha FOR PRE
     title: Prince
@@ -57,79 +62,109 @@ deck:
     cards:
     - count: 1
       name: Ephor
+      id: 100654
     - count: 1
-      name: The Mithraeum, London
+      name: Mithraeum, London, The
+      id: 102240
     - count: 4
       name: Mithraic Cultist
+      id: 102241
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Uptown Hunting Ground
+      id: 102084
     - count: 1
       name: Ventrue Headquarters
+      id: 102109
     - count: 2
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 13
     cards:
     - count: 1
       name: Dominate Kine
+      id: 100573
     - count: 8
       name: Govern the Unaligned
+      id: 100845
     - count: 4
       name: Rutor's Hand
+      id: 101664
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Ritual Goblet
+      id: 102243
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
   - name: Political Action
     count: 15
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 9
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 23
     cards:
     - count: 2
       name: Daring the Dawn
+      id: 100492
     - count: 1
       name: Freak Drive
+      id: 100788
     - count: 6
       name: Mirror Walk
+      id: 101223
     - count: 4
       name: Perfect Paragon
+      id: 101387
     - count: 4
       name: Seduction
+      id: 101712
     - count: 6
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 13
     cards:
     - count: 7
       name: Deflection
+      id: 100518
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Wake with Evening's Freshness
+      id: 102137
   - name: Combat
     count: 9
     cards:
     - count: 5
       name: Majesty
+      id: 101144
     - count: 4
       name: Rolling with the Punches
+      id: 101649

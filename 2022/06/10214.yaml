@@ -1,5 +1,5 @@
-name: North American Championship
-location: Columbus, Ohio, USA
+name: NAC 2022
+location: Columbus (OH), USA
 date_start: 2022-06-11
 rounds_format: 3R+F
 players_count: 25
@@ -7,9 +7,8 @@ winner: Bill Troxel
 vekn_number: 2150015
 event_url: https://www.vekn.net/event-calendar/event/10214
 event_id: 10214
-vp_comment: 2GW + 6VP in rounds (3rd seed)
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79829-twd-north-american-championship-2022-columbus-ohio-usa
+vp_comment: 2GW6 (3rd seed) + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10214
 deck:
   name: 'ABC-EL Daughters: A Chorus of Legionnaires'
   description: Shattering Crescendo + Emerald Legionnaire
@@ -18,6 +17,13 @@ deck:
   crypt_max: 30
   crypt_avg: 5.75
   crypt:
+  - count: 4
+    name: La Viuda Blanca
+    id: 200801
+    capacity: 6
+    disciplines: for obf AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 6
   - count: 3
     name: Scout Youngwood
     id: 201253
@@ -32,13 +38,6 @@ deck:
     capacity: 5
     disciplines: obf FOR MEL
     clan: Daughter of Cacophony
-    grouping: 6
-  - count: 4
-    name: La Viuda Blanca
-    id: 200801
-    capacity: 6
-    disciplines: for obf AUS NEC
-    clan: Harbinger of Skulls
     grouping: 6
   - count: 1
     name: Colette
@@ -85,7 +84,7 @@ deck:
       name: Liquidation
       id: 101112
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
       name: Wider View
@@ -154,5 +153,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: The Unmasking
+      name: Unmasking, The
       id: 102079

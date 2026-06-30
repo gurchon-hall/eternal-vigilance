@@ -7,11 +7,10 @@ winner: Danilo Torrisi
 vekn_number: 3460018
 event_url: https://www.vekn.net/event-calendar/event/13131
 event_id: 13131
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82921-twd-italian-tour-2026-envy-lucca
+vp_comment: 2GW10 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13131
 deck:
   name: Tzimisce Who Hate Museums
-  created_by: Danilo Torrisi
   description: ''
   crypt_count: 12
   crypt_min: 21
@@ -20,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -27,6 +27,7 @@ deck:
     grouping: 6
   - count: 3
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -34,12 +35,14 @@ deck:
     grouping: 6
   - count: 2
     name: Saankaláxt
+    id: 201786
     capacity: 7
     disciplines: aus ANI DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -47,18 +50,21 @@ deck:
     grouping: 6
   - count: 1
     name: Clara Hjortshøj
+    id: 201669
     capacity: 5
     disciplines: ani aus dom PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Marialena
+    id: 201677
     capacity: 5
     disciplines: ani DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Whisper
+    id: 201690
     capacity: 5
     disciplines: pro ANI DOM
     clan: Tzimisce
@@ -70,68 +76,91 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 3
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 14
     cards:
     - count: 6
       name: Deep Song
+      id: 100515
     - count: 8
       name: Govern the Unaligned
+      id: 100845
   - name: Equipment
     count: 8
     cards:
     - count: 4
       name: Heart of Nizchetus
+      id: 100903
     - count: 4
       name: Living Manse
+      id: 101114
   - name: Retainer
     count: 2
     cards:
     - count: 2
       name: Owl Companion
+      id: 101340
   - name: Action Modifier
     count: 14
     cards:
     - count: 2
       name: Bonding
+      id: 100236
     - count: 2
       name: Conditioning
+      id: 100401
     - count: 8
       name: Earth Control
+      id: 100600
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
   - name: Action Modifier/Combat
     count: 6
     cards:
     - count: 6
       name: Rapid Change
+      id: 101542
   - name: Reaction
     count: 22
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 10
       name: Deflection
+      id: 100518
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 12
     cards:
     - count: 6
       name: Earth Meld
+      id: 100601
     - count: 6
       name: Form of Mist
+      id: 100771

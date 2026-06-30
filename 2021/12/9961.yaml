@@ -21,6 +21,7 @@ deck:
   crypt:
   - count: 3
     name: Gilbert Duane
+    id: 201617
     capacity: 7
     disciplines: AUS DOM OBF
     title: Baron
@@ -28,12 +29,14 @@ deck:
     grouping: 6
   - count: 3
     name: Colette
+    id: 201543
     capacity: 5
     disciplines: dom AUS OBF
     clan: Malkavian
     grouping: 6
   - count: 2
     name: Andi Liu
+    id: 201532
     capacity: 6
     disciplines: aus obf pre DOM
     title: Prince
@@ -41,18 +44,21 @@ deck:
     grouping: 6
   - count: 2
     name: Gelasia Fotiou
+    id: 201548
     capacity: 6
     disciplines: obf pre AUS DOM
     clan: Malkavian
     grouping: 6
   - count: 1
     name: Sully
+    id: 201569
     capacity: 4
     disciplines: aus dom obf
     clan: Malkavian
     grouping: 6
   - count: 1
     name: Ashley
+    id: 201533
     capacity: 3
     disciplines: dom obf
     clan: Malkavian
@@ -63,50 +69,68 @@ deck:
     count: 9
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 4
       name: Life in the City
+      id: 101104
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
   - name: Action
     count: 14
     cards:
     - count: 14
       name: Govern the Unaligned
+      id: 100845
   - name: Action Modifier
     count: 25
     cards:
     - count: 4
       name: Cloak the Gathering
+      id: 100362
     - count: 6
       name: Conditioning
+      id: 100401
     - count: 3
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 3
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 11
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: On the Qui Vive
+      id: 101321

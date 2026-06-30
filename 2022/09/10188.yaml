@@ -1,4 +1,4 @@
-name: Czech Republic National Championship 2022 (Pulled Fang
+name: Pulled Fang
 location: Sazava, Czech Republic
 date_start: 2022-09-03
 rounds_format: 3R+F
@@ -7,11 +7,10 @@ winner: Michal Drahokoupil
 vekn_number: 3510039
 event_url: https://www.vekn.net/event-calendar/event/10188
 event_id: 10188
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80156-twd-czech-national-championship-sazava-czech-september-3rd-2022
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10188
 deck:
   name: Giovanni are Rich
-  created_by: Michal Drahokoupil
   description: ''
   crypt_count: 12
   crypt_min: 13
@@ -20,18 +19,21 @@ deck:
   crypt:
   - count: 4
     name: Guillaume Giovanni
+    id: 200545
     capacity: 9
     disciplines: obt CEL DOM NEC POT
     clan: Giovanni
     grouping: 4
   - count: 2
     name: Baldesar Rossellini
+    id: 200164
     capacity: 8
     disciplines: aus for nec DOM POT
     clan: Giovanni
     grouping: 4
   - count: 1
     name: Don Michael Antonio Giovanni
+    id: 200363
     capacity: 7
     disciplines: DOM NEC POT
     title: 2 Votes
@@ -39,6 +41,7 @@ deck:
     grouping: 4
   - count: 1
     name: Virginie, Prodigy
+    id: 201452
     capacity: 6
     disciplines: obt DOM POT
     title: Bishop
@@ -46,24 +49,28 @@ deck:
     grouping: 4
   - count: 1
     name: Primo Giovanni
+    id: 201134
     capacity: 4
     disciplines: dom nec pot
     clan: Giovanni
     grouping: 4
   - count: 1
     name: Almodo Giovanni
+    id: 200059
     capacity: 3
     disciplines: dom pot
     clan: Giovanni
     grouping: 4
   - count: 1
     name: Keith Moody
+    id: 200767
     capacity: 3
     disciplines: DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Nunzio Giovanni
+    id: 201068
     capacity: 3
     disciplines: nec pot
     clan: Giovanni
@@ -74,123 +81,173 @@ deck:
     count: 21
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 1
       name: Dummy Corporation
+      id: 100594
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Haven Uncovered
+      id: 100897
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: Life in the City
+      id: 101104
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Morgue Hunting Ground
+      id: 101243
     - count: 3
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Cape Verde'
+      id: 101433
     - count: 1
       name: 'Powerbase: Chicago'
+      id: 101434
     - count: 1
-      name: The Rumor Mill, Tabloid Newspaper
+      name: Rumor Mill, Tabloid Newspaper, The
+      id: 101662
     - count: 1
       name: Therbold Realty
+      id: 101968
     - count: 1
       name: Vessel
+      id: 102113
     - count: 1
       name: Villein
-    - count: 1
-      name: WMRH Talk Radio
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
   - name: Action
     count: 12
     cards:
     - count: 1
       name: Bum's Rush
+      id: 100266
     - count: 2
       name: Divine Sign
+      id: 100566
     - count: 1
       name: Far Mastery
+      id: 100703
     - count: 4
       name: Govern the Unaligned
+      id: 100845
     - count: 1
       name: Preternatural Strength
+      id: 101483
     - count: 1
       name: Scouting Mission
+      id: 101698
     - count: 2
       name: Sudario Refraction
+      id: 101895
   - name: Ally
     count: 4
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 2
       name: Mylan Horseed
+      id: 101261
     - count: 1
       name: Ossian
+      id: 101333
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Gran Madre di Dio, Italy
+      id: 100847
     - count: 1
       name: Palatial Estate
+      id: 101345
   - name: Action Modifier
     count: 7
     cards:
     - count: 2
       name: Bonding
+      id: 100236
     - count: 1
       name: Call of the Hungry Dead
+      id: 100279
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 18
     cards:
     - count: 4
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: Redirection
+      id: 101578
     - count: 4
       name: Wake with Evening's Freshness
+      id: 102137
   - name: Combat
     count: 24
     cards:
     - count: 1
       name: Blur
+      id: 100227
     - count: 2
       name: Disarm
+      id: 100549
     - count: 2
       name: Glancing Blow
+      id: 100834
     - count: 5
       name: Immortal Grapple
+      id: 100959
     - count: 5
       name: Roundhouse
+      id: 102215
     - count: 1
       name: Street Cred
+      id: 101882
     - count: 1
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 1
       name: Thrown Sewer Lid
+      id: 101983
     - count: 2
       name: Torn Signpost
+      id: 101993

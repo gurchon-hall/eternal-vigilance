@@ -7,8 +7,8 @@ winner: Pavel Simek
 vekn_number: 3790004
 event_url: https://www.vekn.net/event-calendar/event/11028
 event_id: 11028
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80955-twd-1st-road-to-pulled-fang-13-jihlava-czech-november-4th-2023
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11028
 deck:
   name: “Do nothing til you win”
   created_by: Richard Stefan Utner
@@ -23,23 +23,26 @@ deck:
   crypt_avg: 9.5
   crypt:
   - count: 5
-    name: The Capuchin
+    name: Capuchin, The
+    id: 200242
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
     grouping: 5
-  - count: 3
-    name: Gerald Windham
-    capacity: 9
-    disciplines: AUS DOM FOR THA
-    clan: Tremere
-    grouping: 5
   - count: 4
     name: Abraham Mellon
+    id: 201634
     capacity: 8
     disciplines: for tha AUS DOM OBF
     clan: Malkavian
     grouping: 6
+  - count: 3
+    name: Gerald Windham
+    id: 200508
+    capacity: 9
+    disciplines: AUS DOM FOR THA
+    clan: Tremere
+    grouping: 5
   library_count: 84
   library_sections:
   - name: Master
@@ -47,81 +50,112 @@ deck:
     cards:
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 6
       name: Villein
+      id: 102121
   - name: Action
     count: 10
     cards:
     - count: 8
       name: Govern the Unaligned
+      id: 100845
     - count: 2
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 3
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Erebus Mask
+      id: 100657
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 22
     cards:
     - count: 5
       name: Bonding
+      id: 100236
     - count: 2
       name: Cloak the Gathering
+      id: 100362
     - count: 2
       name: Crocodile's Tongue
+      id: 100450
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 4
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Mirror Walk
+      id: 101223
     - count: 5
       name: Under My Skin
+      id: 102062
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 22
     cards:
     - count: 4
       name: Deflection
+      id: 100518
     - count: 2
       name: Eagle's Sight
+      id: 100598
     - count: 7
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 3
       name: Obedience
+      id: 101309
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 11
     cards:
     - count: 5
       name: Theft of Vitae
+      id: 101966
     - count: 6
       name: Unflinching Persistence
+      id: 102071

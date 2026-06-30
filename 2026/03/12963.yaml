@@ -8,17 +8,22 @@ vekn_number: 2790002
 event_url: https://www.vekn.net/event-calendar/event/12963
 event_id: 12963
 vp_comment: 2GW7.5 + 0.5vp in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82857-twd-4-jornada-liga-levante-norte-spain-01-march-2026
+forum_post_url: https://www.vekn.net/event-calendar/event/12963
 deck:
   name: M-!Toreador Block
-  created_by: César Ruiperez
   description: ''
   crypt_count: 12
   crypt_min: 5
   crypt_max: 21
   crypt_avg: 3.08
   crypt:
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
   - count: 1
     name: Jost Werner
     id: 200727
@@ -82,13 +87,6 @@ deck:
     disciplines: aus
     clan: Toreador antitribu
     grouping: 3
-  - count: 3
-    name: Anarch Convert
-    id: 200076
-    capacity: 1
-    disciplines: ''
-    clan: Caitiff
-    grouping: ANY
   library_count: 90
   library_sections:
   - name: Master
@@ -98,7 +96,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 2
       name: Direct Intervention
@@ -110,7 +108,7 @@ deck:
       name: Palla Grande
       id: 101346
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Barranquilla'
@@ -119,7 +117,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
@@ -140,7 +138,7 @@ deck:
       name: Art Scam
       id: 100099
     - count: 4
-      name: The Embrace
+      name: Embrace, The
       id: 100633
   - name: Ally
     count: 1

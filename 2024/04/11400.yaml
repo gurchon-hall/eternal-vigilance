@@ -25,6 +25,7 @@ deck:
   crypt:
   - count: 5
     name: Malgorzata
+    id: 200905
     capacity: 9
     disciplines: pre AUS DOM THA VIC
     title: Priscus
@@ -32,19 +33,22 @@ deck:
     grouping: 4
   - count: 3
     name: Lord Tremere
+    id: 200856
     capacity: 11
     disciplines: obe ANI AUS DOM THA VIC
     clan: Tremere
     grouping: 5
   - count: 3
     name: Mistress Fanchon
+    id: 200999
     capacity: 11
     disciplines: AUS CEL DOM OBF THA VIC
     title: Inner Circle
     clan: Tremere
     grouping: 4
   - count: 1
-    name: The Dracon
+    name: Dracon, The
+    id: 200385
     capacity: 11
     disciplines: ANI AUS POT THA VIC
     clan: Tzimisce
@@ -56,80 +60,112 @@ deck:
     cards:
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: University Hunting Ground
+      id: 102075
     - count: 6
       name: Villein
+      id: 102121
     - count: 5
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 7
     cards:
     - count: 4
       name: Graverobbing
+      id: 100852
     - count: 3
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 6
     cards:
     - count: 1
-      name: The Ankara Citadel, Turkey
+      name: Ankara Citadel, Turkey, The
+      id: 100071
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Helicopter
+      id: 100909
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Kevlar Vest
+      id: 101040
   - name: Action Modifier
     count: 8
     cards:
     - count: 4
       name: Changeling
+      id: 100324
     - count: 4
       name: Mirror Walk
+      id: 101223
   - name: Reaction
     count: 22
     cards:
     - count: 4
       name: Deflection
+      id: 100518
     - count: 4
       name: Eagle's Sight
+      id: 100598
     - count: 4
       name: Enhanced Senses
+      id: 100644
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: Forced Awakening
+      id: 100760
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 24
     cards:
     - count: 3
       name: Blood Rage
+      id: 100208
     - count: 5
       name: Breath of the Dragon
+      id: 100250
     - count: 10
       name: Chiropteran Marauder
+      id: 100344
     - count: 4
       name: Rego Motum
+      id: 101588
     - count: 2
       name: Telepathic Tracking
+      id: 101950

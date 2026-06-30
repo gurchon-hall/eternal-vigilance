@@ -19,48 +19,56 @@ deck:
   crypt:
   - count: 2
     name: Jackie
+    id: 200658
     capacity: 3
     disciplines: DEM
     clan: Malkavian antitribu
     grouping: 4
   - count: 2
     name: Midget
+    id: 200985
     capacity: 3
     disciplines: obf pre DEM
     clan: Malkavian antitribu
     grouping: 3
   - count: 2
     name: Cassandra Langely, The Waif
+    id: 200254
     capacity: 2
     disciplines: dem
     clan: Malkavian
     grouping: 4
   - count: 2
     name: Eddie Gaines
+    id: 200400
     capacity: 1
     disciplines: dem pot
     clan: Caitiff
     grouping: 3
   - count: 1
     name: Apache Jones
+    id: 200122
     capacity: 5
     disciplines: aus for obf DEM
     clan: Malkavian antitribu
     grouping: 4
   - count: 1
     name: Persia, The Beautiful Statue
+    id: 201111
     capacity: 5
     disciplines: aus obf DEM
     clan: Malkavian
     grouping: 3
   - count: 1
     name: Uncle George
+    id: 201408
     capacity: 5
     disciplines: aus dom obf DEM
     clan: Malkavian antitribu
     grouping: 3
   - count: 1
     name: Marta
+    id: 200941
     capacity: 3
     disciplines: aus dem
     clan: Malkavian antitribu
@@ -72,44 +80,58 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 5
       name: Dementation
+      id: 100521
     - count: 3
       name: Effective Management
+      id: 100616
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Sudden Reversal
+      id: 101896
     - count: 2
       name: Wash
+      id: 102151
   - name: Action
     count: 30
     cards:
     - count: 30
       name: Kindred Spirits
+      id: 101055
   - name: Action Modifier
     count: 34
     cards:
     - count: 16
       name: Confusion
+      id: 100405
     - count: 14
       name: Eyes of Chaos
+      id: 100682
     - count: 4
       name: Mind Tricks
+      id: 101216
   - name: Action Modifier/Combat
     count: 8
     cards:
     - count: 8
       name: Deny
+      id: 100524
   - name: Combat
     count: 1
     cards:
     - count: 1
       name: Coma
+      id: 100378
   - name: Event
     count: 2
     cards:
     - count: 1
-      name: The Bitter and Sweet Story
+      name: Bitter and Sweet Story, The
+      id: 100163
     - count: 1
       name: Narrow Minds
+      id: 101265

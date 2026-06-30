@@ -17,6 +17,7 @@ deck:
   crypt:
   - count: 3
     name: Sheldon, Lord of the Clog
+    id: 201281
     capacity: 9
     disciplines: for ANI AUS OBF POT
     title: Justicar
@@ -24,6 +25,7 @@ deck:
     grouping: 1
   - count: 3
     name: Selma the Repugnant
+    id: 201262
     capacity: 8
     disciplines: ani for OBF POT
     title: Prince
@@ -31,6 +33,7 @@ deck:
     grouping: 1
   - count: 2
     name: Nikolaus Vermeulen
+    id: 201060
     capacity: 7
     disciplines: ani for obf POT
     title: Prince
@@ -38,6 +41,7 @@ deck:
     grouping: 2
   - count: 1
     name: Gilbert Duane
+    id: 200517
     capacity: 7
     disciplines: AUS DOM OBF
     title: Prince
@@ -45,6 +49,7 @@ deck:
     grouping: 1
   - count: 1
     name: Murat
+    id: 201022
     capacity: 7
     disciplines: ser OBF POT
     title: Prince
@@ -52,6 +57,7 @@ deck:
     grouping: 2
   - count: 1
     name: Rake
+    id: 201155
     capacity: 6
     disciplines: aus cel pot PRE
     title: Prince
@@ -59,6 +65,7 @@ deck:
     grouping: 1
   - count: 1
     name: Volker, The Puppet Prince
+    id: 201458
     capacity: 5
     disciplines: pot CEL
     title: Prince
@@ -71,63 +78,88 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: 'Elysium: The Palace of Versailles'
+      id: 100632
     - count: 1
       name: From a Sinking Ship
+      id: 100793
     - count: 1
       name: Labyrinth, The
+      id: 101070
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: Slum Hunting Ground
+      id: 101808
     - count: 2
       name: Sudden Reversal
+      id: 101896
     - count: 2
       name: Temptation of Greater Power
+      id: 101955
     - count: 3
       name: Warsaw Station
+      id: 102149
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 20
     cards:
     - count: 7
       name: 'Fourth Tradition: The Accounting'
+      id: 100782
     - count: 13
       name: 'Third Tradition: Progeny'
+      id: 101973
   - name: Political Action
     count: 19
     cards:
     - count: 2
       name: Banishment
+      id: 100131
     - count: 5
       name: Consanguineous Boon
+      id: 100410
     - count: 7
       name: Kine Resources Contested
+      id: 101056
     - count: 5
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 30
     cards:
     - count: 6
       name: Cloak the Gathering
+      id: 100362
     - count: 3
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Forgotten Labyrinth
+      id: 100769
     - count: 10
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Lost in Crowds
+      id: 101125
     - count: 5
       name: Veil the Legions
+      id: 102097
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Uncoiling, The
+      id: 102057

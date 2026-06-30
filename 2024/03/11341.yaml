@@ -29,6 +29,7 @@ deck:
   crypt:
   - count: 3
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -36,6 +37,7 @@ deck:
     grouping: 6
   - count: 2
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -43,6 +45,7 @@ deck:
     grouping: 6
   - count: 2
     name: Mkhokheli
+    id: 201561
     capacity: 6
     disciplines: aus cel for PRE
     title: Prince
@@ -50,18 +53,21 @@ deck:
     grouping: 6
   - count: 2
     name: Tyler McGill
+    id: 201398
     capacity: 4
     disciplines: pre AUS
     clan: Toreador
     grouping: 5
   - count: 1
     name: Gwendolyn Fleming
+    id: 200555
     capacity: 6
     disciplines: cel pro AUS PRE
     clan: Toreador
     grouping: 5
   - count: 1
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -69,6 +75,7 @@ deck:
     grouping: 6
   - count: 1
     name: Vasily
+    id: 201430
     capacity: 6
     disciplines: aus pre ser CEL
     title: Prince
@@ -81,68 +88,91 @@ deck:
     cards:
     - count: 6
       name: Aching Beauty
+      id: 100018
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Society Hunting Ground
+      id: 101821
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 10
     cards:
     - count: 6
       name: Enchant Kindred
+      id: 100640
     - count: 4
       name: 'Judgment: Camarilla Segregation'
+      id: 101028
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 9
     cards:
     - count: 6
       name: Kine Resources Contested
+      id: 101056
     - count: 3
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 28
     cards:
     - count: 3
       name: Aire of Elation
+      id: 100031
     - count: 2
       name: Awe
+      id: 100119
     - count: 8
       name: Change of Target
+      id: 100323
     - count: 4
       name: Forced March
+      id: 100761
     - count: 3
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Perfect Paragon
+      id: 101387
     - count: 5
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Resist Earth's Grasp
+      id: 101610
   - name: Reaction
     count: 9
     cards:
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Majesty
+      id: 101144

@@ -19,24 +19,28 @@ deck:
   crypt:
   - count: 3
     name: Mordechai Ben-Nun
+    id: 201009
     capacity: 8
     disciplines: ANI AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 5
   - count: 3
     name: Babalawo Alafin
+    id: 200158
     capacity: 7
     disciplines: ani AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 4
   - count: 3
     name: Hecate
+    id: 200580
     capacity: 6
     disciplines: AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 5
   - count: 3
     name: Zygodat
+    id: 201511
     capacity: 6
     disciplines: pot AUS NEC
     clan: Harbinger of Skulls
@@ -48,67 +52,91 @@ deck:
     cards:
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 2
       name: Life in the City
+      id: 101104
     - count: 1
       name: Maabara
+      id: 101136
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 4
-      name: The Slaughterhouse
+      name: Slaughterhouse, The
+      id: 101800
   - name: Equipment
     count: 4
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Kevlar Vest
+      id: 101040
     - count: 1
       name: Leather Jacket
+      id: 101081
   - name: Retainer
     count: 3
     cards:
     - count: 3
       name: Vengeful Spirit
+      id: 102107
   - name: Action Modifier
     count: 23
     cards:
     - count: 8
       name: Acheron Vortex
+      id: 100016
     - count: 6
       name: Call of the Hungry Dead
+      id: 100279
     - count: 1
       name: Freak Drive
+      id: 100788
     - count: 8
       name: Inevitability of the Void
+      id: 100974
   - name: Action Modifier/Reaction
     count: 7
     cards:
     - count: 7
       name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 19
     cards:
     - count: 10
       name: Eyes of Argus
+      id: 100680
     - count: 9
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 10
     cards:
     - count: 2
       name: Resilience
+      id: 101608
     - count: 5
       name: Rolling with the Punches
+      id: 101649
     - count: 3
       name: Spiritual Intervention
+      id: 101852

@@ -8,11 +8,9 @@ vekn_number: 8230009
 event_url: https://www.vekn.net/event-calendar/event/12353
 event_id: 12353
 vp_comment: 2GW10 + 0.5 (1st seed) in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82470-twd-blood-on-a-roundabout-aka-well-aimed-car-bletchey-uk-19-jul-2025
+forum_post_url: https://www.vekn.net/event-calendar/event/12353
 deck:
   name: Exit Through the Gift Shop
-  created_by: James Freimuller
   description: Tweaks on Jesper Boje's loot the museum deck with an expectation 
     of ally spam appearing.
   crypt_count: 12
@@ -21,57 +19,66 @@ deck:
   crypt_avg: 5.42
   crypt:
   - count: 2
+    name: Sreelekha
+    id: 201687
+    capacity: 8
+    disciplines: ANI FOR OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 2
     name: Gathii
+    id: 201672
     capacity: 5
     disciplines: obf ANI PRE
     clan: Ravnos
     grouping: 7
   - count: 2
     name: Phaibun
+    id: 201681
     capacity: 5
     disciplines: ani OBF PRE
     clan: Ravnos
     grouping: 7
-  - count: 2
-    name: Sreelekha
-    capacity: 8
-    disciplines: ANI FOR OBF PRE
-    clan: Ravnos
-    grouping: 7
   - count: 1
     name: Doc Martina
+    id: 201670
     capacity: 6
     disciplines: for pre ANI OBF
     clan: Ravnos
     grouping: 7
   - count: 1
-    name: Jean-François
-    capacity: 4
-    disciplines: ani obf pre
-    clan: Ravnos
-    grouping: 7
-  - count: 1
     name: Luciano Carvalho
+    id: 201675
     capacity: 6
     disciplines: pre ANI OBF
     clan: Ravnos
     grouping: 7
   - count: 1
-    name: Oleg Kaprizov
-    capacity: 3
-    disciplines: obf pre
-    clan: Ravnos
-    grouping: 7
-  - count: 1
     name: Roberto Rivamonte
+    id: 201683
     capacity: 6
     disciplines: ANI OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 1
+    name: Jean-François
+    id: 201674
+    capacity: 4
+    disciplines: ani obf pre
+    clan: Ravnos
+    grouping: 7
+  - count: 1
     name: Zafira
+    id: 201692
     capacity: 4
     disciplines: obf PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Oleg Kaprizov
+    id: 201679
+    capacity: 3
+    disciplines: obf pre
     clan: Ravnos
     grouping: 7
   library_count: 87
@@ -81,93 +88,130 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Bleeding the Vine
+      id: 100178
     - count: 6
-      name: The British Museum, London
+      name: British Museum, London, The
+      id: 102236
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 3
       name: Dabbler
+      id: 100485
     - count: 1
       name: Fortune Teller Shop
+      id: 100777
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 3
       name: Villein
+      id: 102121
     - count: 2
       name: Week of Nightmares
+      id: 102166
   - name: Action
     count: 17
     cards:
     - count: 16
       name: Break the Bonds
+      id: 102247
     - count: 1
       name: Entrancement
+      id: 100652
   - name: Equipment
     count: 15
     cards:
     - count: 5
-      name: An Anarch Manifesto
+      name: Anarch Manifesto, An
+      id: 100053
     - count: 1
       name: Blood Tears of Kephran
+      id: 100212
     - count: 1
       name: Body Bag
+      id: 100229
     - count: 1
       name: Concoction of Vitality
+      id: 100394
     - count: 1
       name: Cooler
+      id: 100422
     - count: 1
       name: Gran Madre di Dio, Italy
+      id: 100847
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ritual Goblet
+      id: 102243
     - count: 1
       name: Shilmulo Tarot
+      id: 101767
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
     - count: 1
       name: Treasured Samadji
+      id: 102015
   - name: Action Modifier
     count: 24
     cards:
     - count: 3
       name: Cloak the Gathering
+      id: 100362
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Faceless Night
+      id: 100687
     - count: 2
       name: Lost in Crowds
+      id: 101125
     - count: 6
       name: Memory Rift
+      id: 101199
     - count: 3
       name: Spying Mission
+      id: 101857
     - count: 2
       name: True Love's Face
+      id: 102041
     - count: 1
       name: Veil the Legions
+      id: 102097
     - count: 4
       name: Visions of Gehenna
+      id: 102264
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 5
     cards:
     - count: 1
       name: Party Out Of Bounds
+      id: 102231
     - count: 4
       name: Visions of Zapathasura
+      id: 102265
   - name: Event
     count: 2
     cards:
     - count: 1
-      name: NRA PAC
-    - count: 1
       name: Narrow Minds
+      id: 101265
+    - count: 1
+      name: NRA PAC
+      id: 101305

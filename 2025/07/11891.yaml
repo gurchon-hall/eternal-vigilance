@@ -19,36 +19,42 @@ deck:
   crypt:
   - count: 21
     name: Tupdog
+    id: 201393
     capacity: 1
     disciplines: POT VIS
     clan: Gargoyle
     grouping: 3
   - count: 3
     name: Keith Moody
+    id: 200767
     capacity: 3
     disciplines: DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Esoara
+    id: 200437
     capacity: 5
     disciplines: aus for pot DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Mosfair
+    id: 201013
     capacity: 4
     disciplines: cel dom tha
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Ember Wright
+    id: 200418
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Saiz
+    id: 201222
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
@@ -60,73 +66,100 @@ deck:
     cards:
     - count: 7
       name: Ashur Tablets
+      id: 100106
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 8
     cards:
     - count: 1
       name: Arson
+      id: 100094
     - count: 7
       name: Graverobbing
+      id: 100852
   - name: Ally
     count: 10
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
     - count: 1
       name: Ossian
+      id: 101333
     - count: 7
       name: Rock Cat
+      id: 101645
     - count: 1
       name: Vagabond Mystic
+      id: 102087
   - name: Political Action
     count: 10
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 7
       name: Autarkis Persecution
+      id: 100115
     - count: 1
       name: Mark of the Damned
+      id: 101167
     - count: 1
       name: Perpetual Care
+      id: 101391
   - name: Action Modifier
     count: 7
     cards:
     - count: 5
       name: As the Crow
+      id: 100102
     - count: 1
       name: Seduction
+      id: 101712
     - count: 1
       name: Skin of the Chameleon
+      id: 101794
   - name: Reaction
     count: 1
     cards:
     - count: 1
       name: Deflection
+      id: 100518
   - name: Combat
     count: 35
     cards:
     - count: 8
       name: Brick by Brick
+      id: 100252
     - count: 4
       name: Disarm
+      id: 100549
     - count: 9
       name: Immortal Grapple
+      id: 100959
     - count: 9
       name: Raking Talons
+      id: 101538
     - count: 4
       name: Roundhouse
+      id: 102215
     - count: 1
       name: Stonestrength
+      id: 101876

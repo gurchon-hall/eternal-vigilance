@@ -1,5 +1,5 @@
 name: Redemption Tournament
-location: Modena (MO) Italy
+location: Modena, (Mo), Italy
 date_start: 2025-03-02
 rounds_format: 2R+F
 players_count: 45
@@ -7,8 +7,7 @@ winner: Laurent Ribeyre
 vekn_number: 8300053
 event_url: https://www.vekn.net/event-calendar/event/11937
 event_id: 11937
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82141-twd-redemption-tournament-modena
+forum_post_url: https://www.vekn.net/event-calendar/event/11937
 deck:
   name: Dogs of War
   created_by: Marcin Szybkowski
@@ -20,50 +19,58 @@ deck:
   crypt:
   - count: 2
     name: Miguel Santo Domingo
+    id: 200987
     capacity: 7
     disciplines: cel for POT PRE
     clan: Brujah antitribu
     grouping: 3
-  - count: 1
-    name: Evangeline
-    capacity: 4
-    disciplines: cel pot pre
-    clan: Brujah antitribu
-    grouping: 2
-  - count: 1
-    name: Hugo
-    capacity: 4
-    disciplines: pre vic POT
-    clan: Brujah antitribu
-    grouping: 2
-  - count: 1
-    name: Mariano Pomposo
-    capacity: 4
-    disciplines: aus cel pot
-    clan: Brujah antitribu
-    grouping: 3
-  - count: 1
-    name: Victor Tolliver
-    capacity: 4
-    disciplines: pot CEL
-    clan: Brujah antitribu
-    grouping: 2
   - count: 2
     name: Jacob Bragg
+    id: 200662
     capacity: 3
     disciplines: cel pot
     clan: Brujah antitribu
     grouping: 2
   - count: 2
     name: Sarah Brando
+    id: 201237
     capacity: 3
     disciplines: CEL
     clan: Brujah antitribu
     grouping: 2
   - count: 2
     name: Frederick the Weak
+    id: 200483
     capacity: 2
     disciplines: pre
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Evangeline
+    id: 200446
+    capacity: 4
+    disciplines: cel pot pre
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Hugo
+    id: 200610
+    capacity: 4
+    disciplines: pre vic POT
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Mariano Pomposo
+    id: 200926
+    capacity: 4
+    disciplines: aus cel pot
+    clan: Brujah antitribu
+    grouping: 3
+  - count: 1
+    name: Victor Tolliver
+    id: 201442
+    capacity: 4
+    disciplines: pot CEL
     clan: Brujah antitribu
     grouping: 2
   library_count: 74
@@ -73,62 +80,85 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Black Forest Base
+      id: 100165
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
-      name: The Hungry Coyote
+      name: Hungry Coyote, The
+      id: 100945
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 2
       name: Not to Be
+      id: 101303
     - count: 2
       name: Waste Management Operation
+      id: 102153
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 8
     cards:
     - count: 8
-      name: The Embrace
-  - name: Political Action
-    count: 19
-    cards:
-    - count: 6
-      name: Consanguineous Boon
-    - count: 1
-      name: 'Crusade: Atlanta'
-    - count: 1
-      name: 'Crusade: Detroit'
-    - count: 1
-      name: 'Crusade: Pittsburgh'
-    - count: 1
-      name: 'Crusade: Rome'
-    - count: 1
-      name: 'Crusade: Toronto'
-    - count: 5
-      name: Dogs of War
-    - count: 1
-      name: Domain Challenge
-    - count: 2
-      name: Kine Resources Contested
+      name: Embrace, The
+      id: 100633
   - name: Equipment
     count: 10
     cards:
     - count: 10
       name: Saturday-Night Special
+      id: 101682
+  - name: Political Action
+    count: 19
+    cards:
+    - count: 6
+      name: Consanguineous Boon
+      id: 100410
+    - count: 1
+      name: 'Crusade: Atlanta'
+      id: 100453
+    - count: 1
+      name: 'Crusade: Detroit'
+      id: 100458
+    - count: 1
+      name: 'Crusade: Pittsburgh'
+      id: 100470
+    - count: 1
+      name: 'Crusade: Rome'
+      id: 100471
+    - count: 1
+      name: 'Crusade: Toronto'
+      id: 100472
+    - count: 5
+      name: Dogs of War
+      id: 100569
+    - count: 1
+      name: Domain Challenge
+      id: 100570
+    - count: 2
+      name: Kine Resources Contested
+      id: 101056
   - name: Action Modifier/Reaction
     count: 10
     cards:
     - count: 10
       name: Unexpected Coalition
+      id: 102070
   - name: Combat
     count: 16
     cards:
     - count: 1
       name: Amaranth
+      id: 100043
     - count: 7
       name: Concealed Weapon
+      id: 100392
     - count: 8
       name: Dragon's Breath Rounds
+      id: 100580

@@ -18,24 +18,28 @@ deck:
   crypt:
   - count: 3
     name: Cybele
+    id: 200305
     capacity: 10
     disciplines: ANI DAI OBF PRE SER THA
     clan: Baali
     grouping: 4
   - count: 3
     name: Aksinya Daclau
+    id: 200034
     capacity: 9
     disciplines: cel tha ANI FOR PRE PRO
     clan: Gangrel antitribu
     grouping: 4
   - count: 2
     name: Nana Buruku
+    id: 201035
     capacity: 8
     disciplines: ANI POT PRE
     clan: Guruhi
     grouping: 4
   - count: 1
     name: Adana de Sforza
+    id: 200011
     capacity: 11
     disciplines: aus CEL OBF POT PRE PRO
     title: Inner Circle
@@ -43,6 +47,7 @@ deck:
     grouping: 4
   - count: 1
     name: Lutz von Hohenzollern
+    id: 200890
     capacity: 11
     disciplines: pot AUS DEM OBF PRE
     title: Inner Circle
@@ -50,6 +55,7 @@ deck:
     grouping: 4
   - count: 1
     name: Rafael de Corazon
+    id: 201151
     capacity: 11
     disciplines: AUS CEL DOM OBF PRE
     title: Inner Circle
@@ -57,6 +63,7 @@ deck:
     grouping: 4
   - count: 1
     name: Nergal
+    id: 201048
     capacity: 10
     disciplines: AUS DAI FOR OBF PRE THA
     clan: Baali
@@ -68,108 +75,151 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 15
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Blind Spot
+      id: 100188
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 9
       name: Liquidation
+      id: 101112
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Misdirection
+      id: 101225
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 3
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 7
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
     - count: 6
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 5
     cards:
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 1
       name: Intimidation
+      id: 100999
     - count: 2
       name: Unleash Hell's Fury
+      id: 102076
   - name: Political Action
     count: 2
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Autarkis Persecution
+      id: 100115
   - name: Action Modifier
     count: 16
     cards:
     - count: 2
       name: Aire of Elation
+      id: 100031
     - count: 2
       name: Cloak the Gathering
+      id: 100362
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 1
       name: Into Thin Air
+      id: 101001
     - count: 2
       name: Lost in Crowds
+      id: 101125
     - count: 1
       name: Mirror Walk
+      id: 101223
     - count: 1
       name: Perfect Clarity
+      id: 101386
     - count: 1
       name: Perfect Paragon
+      id: 101387
     - count: 1
       name: Veil the Legions
+      id: 102097
   - name: Action Modifier/Combat
     count: 1
     cards:
     - count: 1
       name: Hide the Mind
+      id: 100921
   - name: Reaction
     count: 5
     cards:
     - count: 1
       name: Confusion of the Eye
+      id: 100406
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 1
       name: Guard Dogs
+      id: 100863
     - count: 1
       name: Lost in Translation
+      id: 101126
     - count: 1
       name: Mental Maze
+      id: 101201
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Majesty
+      id: 101144
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265

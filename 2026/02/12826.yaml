@@ -7,12 +7,12 @@ winner: Karl Schaefer
 vekn_number: 1003455
 event_url: https://www.vekn.net/event-calendar/event/12826
 event_id: 12826
-vp_comment: 1GW4.5 + 4vp in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82858-twd-path-of-death-and-the-soul-los-angeles
+vp_comment: 1GW8.5 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12826
 deck:
   name: Diana's Demise
-  description: ''
+  description: You have to go back to 2021 to find a AAA vote deck in the TWDA.  
+    The time for these
   crypt_count: 13
   crypt_min: 30
   crypt_max: 43
@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 5
     name: Anson
+    id: 200107
     capacity: 8
     disciplines: aus dom CEL PRE
     title: Prince
@@ -27,6 +28,7 @@ deck:
     grouping: 1
   - count: 3
     name: Alexandra
+    id: 200049
     capacity: 11
     disciplines: dom ANI AUS CEL PRE
     title: Inner Circle
@@ -34,6 +36,7 @@ deck:
     grouping: 2
   - count: 2
     name: Anneke
+    id: 200106
     capacity: 10
     disciplines: dom AUS CEL PRE
     title: Justicar
@@ -41,6 +44,7 @@ deck:
     grouping: 1
   - count: 1
     name: François Villon
+    id: 200478
     capacity: 10
     disciplines: chi obf pot AUS CEL PRE
     title: Prince
@@ -48,20 +52,22 @@ deck:
     grouping: 2
   - count: 1
     name: Marcellus
+    id: 200910
+    comment: you don't want this guy early, vamp 3
     capacity: 8
     disciplines: pro AUS CEL
     title: Prince
     clan: Toreador
     grouping: 2
-    comment: you don't want this guy early, vamp 3
   - count: 1
     name: Victoria Ash
+    id: 201444
+    comment: cheap titled bouncer that can Fist and Cap at superior
     capacity: 6
     disciplines: aus cel dom PRE
     title: Primogen
     clan: Toreador
     grouping: 2
-    comment: cheap titled bouncer that can Fist and Cap at superior
   library_count: 82
   library_sections:
   - name: Master
@@ -69,76 +75,103 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 2
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
       comment: still good
     - count: 1
       name: Toreador Grand Ball
+      id: 101989
       comment: in case of emergency, was useful in round 2
     - count: 6
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
     - count: 9
       name: Zillah's Valley
+      id: 102207
   - name: Political Action
     count: 17
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 3
       name: Banishment
+      id: 100131
     - count: 6
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 4
       name: Parity Shift
+      id: 101353
     - count: 1
       name: Political Stranglehold
+      id: 101417
       comment: less valuable post-Sabbat, still necessary
   - name: Action Modifier
     count: 16
     cards:
     - count: 5
       name: Loup
+      id: 102273
     - count: 5
       name: Perfect Paragon
+      id: 101387
     - count: 6
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Resist Earth's Grasp
+      id: 101610
   - name: Reaction
     count: 7
     cards:
     - count: 5
       name: Deflection
+      id: 100518
       comment: seemed like enough today, better than AUS, which Anson cannot use
     - count: 2
       name: On the Qui Vive
+      id: 101321
       comment: could possibly be removed only used one for wake-and-bounce
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Majesty
+      id: 101144
       comment: could possibly add 1-2 more copies depending the meta

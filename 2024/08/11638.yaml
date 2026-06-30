@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 5
     name: Helena
+    id: 200586
     capacity: 10
     disciplines: obf pre tha AUS CEL DOM
     clan: Toreador
     grouping: 3
   - count: 2
     name: Annabelle Triabell
+    id: 200103
     capacity: 9
     disciplines: dom for AUS CEL PRE
     title: Primogen
@@ -32,12 +34,14 @@ deck:
     grouping: 3
   - count: 2
     name: Joaquin Murietta
+    id: 200708
     capacity: 9
     disciplines: obf pre qui AUS CEL
     clan: Toreador
     grouping: 3
   - count: 2
     name: Ira Rivers
+    id: 200639
     capacity: 7
     disciplines: ani pre AUS CEL
     title: Prince
@@ -45,6 +49,7 @@ deck:
     grouping: 3
   - count: 1
     name: Eugene
+    id: 200441
     capacity: 8
     disciplines: AUS CEL FOR PRE
     title: Primogen
@@ -52,6 +57,7 @@ deck:
     grouping: 4
   - count: 1
     name: Yvette, The Hopeless
+    id: 201496
     capacity: 3
     disciplines: aus cel
     clan: Toreador
@@ -63,85 +69,121 @@ deck:
     cards:
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Society Hunting Ground
+      id: 101821
     - count: 4
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
   - name: Equipment
     count: 8
     cards:
     - count: 4
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Sire's Index Finger
+      id: 101785
     - count: 2
       name: Sniper Rifle
+      id: 101816
   - name: Reaction
     count: 31
     cards:
     - count: 5
       name: Eagle's Sight
+      id: 100598
     - count: 4
       name: Enhanced Senses
+      id: 100644
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Quicken Sight
+      id: 101531
     - count: 2
       name: Spirit's Touch
+      id: 101850
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 29
     cards:
     - count: 3
       name: Blur
+      id: 100227
     - count: 6
       name: Concealed Weapon
+      id: 100392
     - count: 5
       name: Psyche!
+      id: 101507
     - count: 6
       name: Pursuit
+      id: 101523
     - count: 1
       name: Side Strike
+      id: 101778
     - count: 3
       name: Sideslip
+      id: 101779
     - count: 5
       name: Taste of Vitae
+      id: 101945
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dr. Marisa Fletcher, CDC
+      id: 100577

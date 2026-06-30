@@ -9,8 +9,7 @@ event_url: https://www.vekn.net/event-calendar/event/11235
 event_id: 11235
 vp_comment: For the final, it was largely the initial placement that allowed me 
   to win.
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81260-twd-dogs-of-war-nancy-france-feb-24-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11235
 deck:
   name: Knowledge is power
   description: Here's my list... be careful, it's far from a tier 1 deck ^^ I 
@@ -22,37 +21,43 @@ deck:
   crypt_avg: 9.17
   crypt:
   - count: 5
-    name: The Capuchin
+    name: Capuchin, The
+    id: 200242
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
     grouping: 5
   - count: 3
     name: Troglodytia
+    id: 201387
     capacity: 10
     disciplines: obf pot AUS FOR NEC THN
     clan: Samedi
     grouping: 4
   - count: 1
     name: Morlock
+    id: 201011
     capacity: 8
     disciplines: obf FOR NEC THN
     clan: Samedi
     grouping: 4
   - count: 1
     name: Baroque
+    id: 200169
     capacity: 7
     disciplines: aus for obf NEC THN
     clan: Samedi
     grouping: 5
   - count: 1
     name: Macoute
+    id: 200895
     capacity: 6
     disciplines: obf thn FOR NEC
     clan: Samedi
     grouping: 4
   - count: 1
     name: Abebe
+    id: 200006
     capacity: 4
     disciplines: nec obf thn
     clan: Samedi
@@ -64,91 +69,127 @@ deck:
     cards:
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 6
       name: Information Highway
+      id: 100984
     - count: 1
       name: Maabara
+      id: 101136
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 4
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 13
     cards:
     - count: 5
       name: Govern the Unaligned
+      id: 100845
     - count: 1
       name: Graverobbing
+      id: 100852
     - count: 5
       name: Magic of the Smith
+      id: 101143
     - count: 1
       name: Puppet Master
+      id: 101215
     - count: 1
       name: Revelations
+      id: 101627
   - name: Equipment
     count: 7
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Laptop Computer
+      id: 101073
     - count: 1
       name: Seal of Veddartha
+      id: 101703
     - count: 1
       name: Shaal Fragment
+      id: 101732
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
   - name: Action Modifier
     count: 25
     cards:
     - count: 4
       name: Call of the Hungry Dead
+      id: 100279
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 5
       name: Freak Drive
+      id: 100788
     - count: 8
       name: Hag's Wrinkles
+      id: 100877
     - count: 2
       name: Trochomancy
+      id: 102026
     - count: 5
       name: Under My Skin
+      id: 102062
   - name: Reaction
     count: 21
     cards:
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 5
       name: Obedience
+      id: 101309
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Spiritual Intervention
+      id: 101852
   - name: Event
     count: 1
     cards:
     - count: 1
       name: NRA PAC
+      id: 101305

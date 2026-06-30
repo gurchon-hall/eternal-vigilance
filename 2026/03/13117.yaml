@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Aaradhya, The Callous Tyrant
+    id: 201733
     capacity: 10
     disciplines: ANI DOM FOR POT PRE
     title: Cardinal
@@ -27,6 +28,7 @@ deck:
     path: Power and the Inner Voice
   - count: 2
     name: Věnceslava, The Implacable
+    id: 201776
     capacity: 9
     disciplines: cel DOM FOR POT PRE
     title: Archbishop
@@ -35,6 +37,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Carolina Vález
+    id: 200249
     capacity: 9
     disciplines: aus DOM OBT POT PRE
     title: Archbishop
@@ -42,6 +45,7 @@ deck:
     grouping: 5
   - count: 1
     name: Dark Selina
+    id: 200321
     capacity: 9
     disciplines: dom for CEL POT PRE
     title: Cardinal
@@ -49,6 +53,7 @@ deck:
     grouping: 5
   - count: 1
     name: De Sade
+    id: 200327
     capacity: 9
     disciplines: AUS DOM FOR PRE
     title: Archbishop
@@ -56,6 +61,7 @@ deck:
     grouping: 5
   - count: 1
     name: Üresség
+    id: 201775
     capacity: 8
     disciplines: dom for CEL POT PRE
     title: Archbishop
@@ -64,6 +70,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Khin Aye
+    id: 201760
     capacity: 7
     disciplines: dom for POT PRE
     title: Priscus
@@ -72,6 +79,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Concordia
+    id: 201744
     capacity: 6
     disciplines: for pot DOM PRE
     title: Bishop
@@ -85,97 +93,133 @@ deck:
     cards:
     - count: 1
       name: Black Forest Base
+      id: 100165
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Privileged Position
+      id: 102334
     - count: 1
       name: Purchase Pact
+      id: 101520
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 6
       name: Unholy Sacrament
+      id: 102345
     - count: 2
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 4
     cards:
     - count: 4
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 19
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Banishment
+      id: 100131
     - count: 6
       name: Cold War
+      id: 102312
     - count: 2
       name: Empires Fall
+      id: 102318
     - count: 2
       name: Kine Resources Contested
+      id: 101056
     - count: 2
-      name: The Meddling of Semsith
+      name: Meddling of Semsith, The
+      id: 101192
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
     - count: 2
       name: War of Ages
+      id: 102348
   - name: Action Modifier
     count: 31
     cards:
     - count: 2
       name: Awe
+      id: 100119
     - count: 3
       name: Enkil Cog
+      id: 100645
     - count: 4
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Iron Glare
+      id: 101008
     - count: 2
-      name: The Kiss of Ra
+      name: Kiss of Ra, The
+      id: 101062
     - count: 4
       name: Magnetic Authority
+      id: 102331
     - count: 3
       name: Perfect Paragon
+      id: 101387
     - count: 3
       name: Relentlessness
+      id: 102337
     - count: 3
       name: Unthinkable Humiliation
+      id: 102346
     - count: 4
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Absolute Tyranny
+      id: 102308
   - name: Reaction
     count: 8
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 3
       name: Obedience
+      id: 101309
   - name: Combat
     count: 5
     cards:
     - count: 5
       name: Majesty
+      id: 101144

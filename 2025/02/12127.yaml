@@ -19,24 +19,28 @@ deck:
   crypt:
   - count: 2
     name: Regina Blake
+    id: 201648
     capacity: 5
     disciplines: AUS PRE
     clan: Toreador
     grouping: 6
   - count: 2
     name: Silvian Popescu
+    id: 201706
     capacity: 4
     disciplines: cel PRE
     clan: Toreador
     grouping: 7
   - count: 2
     name: Valentina Osako
+    id: 201707
     capacity: 3
     disciplines: PRE
     clan: Toreador
     grouping: 7
   - count: 1
     name: Annabelle Triabell
+    id: 201693
     capacity: 9
     disciplines: dom for AUS CEL PRE
     title: Primogen
@@ -44,6 +48,7 @@ deck:
     grouping: 6
   - count: 1
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
@@ -51,24 +56,28 @@ deck:
     grouping: 6
   - count: 1
     name: Victoria Ash
+    id: 201619
     capacity: 6
     disciplines: aus cel dom PRE
     clan: Toreador
     grouping: 7
   - count: 1
     name: Carmelita Neillson
+    id: 201625
     capacity: 5
     disciplines: cel pre AUS
     clan: Toreador
     grouping: 7
   - count: 1
     name: Kathy Glens
+    id: 201552
     capacity: 5
     disciplines: aus cel tha PRE
     clan: Toreador
     grouping: 6
   - count: 1
     name: Tamoszius
+    id: 201571
     capacity: 5
     disciplines: aus CEL PRE
     clan: Toreador
@@ -80,61 +89,85 @@ deck:
     cards:
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Misdirection
+      id: 101225
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Society Hunting Ground
+      id: 101821
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Wash
+      id: 102151
   - name: Action
     count: 20
     cards:
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 2
       name: Intimidation
+      id: 100999
     - count: 2
       name: Legal Manipulations
+      id: 101089
     - count: 6
       name: Mind Numb
+      id: 101211
     - count: 8
       name: Public Trust
+      id: 101513
   - name: Action Modifier
     count: 20
     cards:
     - count: 9
       name: Aire of Elation
+      id: 100031
     - count: 4
       name: Change of Target
+      id: 100323
     - count: 7
       name: Loup
+      id: 102273
   - name: Reaction
     count: 9
     cards:
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 8
     cards:
     - count: 4
       name: Majesty
+      id: 101144
     - count: 4
       name: Unholy Penance
+      id: 102072

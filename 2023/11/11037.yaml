@@ -1,5 +1,5 @@
-name: Fee Stake Itaquaquecetuba
-location: Itaquaquecetuba, Brasil
+name: 'Fee Stake: Itaquaquecetuba'
+location: Itaquaquecetuba, Brazil
 date_start: 2023-11-12
 rounds_format: 2R+F
 players_count: 15
@@ -7,8 +7,7 @@ winner: Desso Alastor
 vekn_number: 6010151
 event_url: https://www.vekn.net/event-calendar/event/11037
 event_id: 11037
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80976-twda-fee-stake-itaquaquecetuba-itaquaquecetuba-brasil-12-november-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/11037
 deck:
   name: Capela Tremere
   description: ''
@@ -40,17 +39,10 @@ deck:
     clan: Tremere
     grouping: 3
   - count: 1
-    name: Almiro Suarez
-    id: 200058
-    capacity: 2
-    disciplines: aus
-    clan: Tremere
-    grouping: 3
-  - count: 1
-    name: Blythe Candeleria
-    id: 200210
-    capacity: 3
-    disciplines: aus THA
+    name: Rebekka, Chantry Elder of Munich
+    id: 201171
+    capacity: 8
+    disciplines: pot AUS PRE THA
     clan: Tremere
     grouping: 2
   - count: 1
@@ -61,17 +53,24 @@ deck:
     clan: Tremere
     grouping: 3
   - count: 1
-    name: Rebekka, Chantry Elder of Munich
-    id: 201171
-    capacity: 8
-    disciplines: pot AUS PRE THA
-    clan: Tremere
-    grouping: 2
-  - count: 1
     name: Valois Sang, The Watcher
     id: 201424
     capacity: 6
     disciplines: nec tha AUS DOM
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Blythe Candeleria
+    id: 200210
+    capacity: 3
+    disciplines: aus THA
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Almiro Suarez
+    id: 200058
+    capacity: 2
+    disciplines: aus
     clan: Tremere
     grouping: 3
   library_count: 72
@@ -98,7 +97,7 @@ deck:
       name: Information Highway
       id: 100984
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
@@ -113,11 +112,11 @@ deck:
       name: Villein
       id: 102121
     - count: 1
-      name: WMRH Talk Radio
-      id: 102189
-    - count: 1
       name: Wider View
       id: 102180
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
   - name: Action
     count: 4
     cards:

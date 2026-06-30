@@ -1,5 +1,5 @@
 name: Aemilia by night - episode 1
-location: Spilamberto MO, Italy
+location: Spilamberto, Italy
 date_start: 2024-01-28
 rounds_format: 2R+F
 players_count: 25
@@ -7,8 +7,8 @@ winner: Andrea Paderni
 vekn_number: 3020016
 event_url: https://www.vekn.net/event-calendar/event/11208
 event_id: 11208
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81191-twd-aemilia-by-night-episode-1-spilamberto-mo-italy-28th-january-2024
+vp_comment: 1GW6 + 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11208
 deck:
   name: Nosferatu Antitribu - Dirt & drive 3.0
   description: ''
@@ -19,53 +19,61 @@ deck:
   crypt:
   - count: 5
     name: Mata Hari
+    id: 200955
     capacity: 7
     disciplines: aus for qui CHI OBF
     title: 2 Votes
     clan: Ravnos
     grouping: 4
   - count: 1
+    name: Frank Litzpar
+    id: 200480
+    capacity: 5
+    disciplines: ani for pot OBF
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 1
     name: Aaron Bathurst
+    id: 200002
     capacity: 4
     disciplines: for obf pot
     clan: Nosferatu antitribu
     grouping: 4
   - count: 1
+    name: Skulk
+    id: 201297
+    capacity: 4
+    disciplines: ani OBF
+    clan: Nosferatu antitribu
+    grouping: 5
+  - count: 1
     name: Blister
+    id: 200207
     capacity: 3
     disciplines: obf pot
     clan: Nosferatu antitribu
     grouping: 4
   - count: 1
     name: Bloodfeud
+    id: 200208
     capacity: 2
     disciplines: obf
     clan: Malkavian antitribu
     grouping: 4
   - count: 1
     name: Denette Stensen
+    id: 200336
     capacity: 2
     disciplines: obf
     clan: Gangrel antitribu
     grouping: 4
   - count: 1
-    name: Frank Litzpar
-    capacity: 5
-    disciplines: ani for pot OBF
-    clan: Nosferatu antitribu
-    grouping: 4
-  - count: 1
     name: Old Neddacka
+    id: 201074
     capacity: 2
     disciplines: obf
     clan: Nosferatu antitribu
     grouping: 4
-  - count: 1
-    name: Skulk
-    capacity: 4
-    disciplines: ani OBF
-    clan: Nosferatu antitribu
-    grouping: 5
   library_count: 77
   library_sections:
   - name: Master
@@ -73,67 +81,91 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Ennoia's Theater
+      id: 100646
     - count: 1
       name: Mapatano Utando
+      id: 101163
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 1
-      name: The Secret Library of Alexandria
+      name: Secret Library of Alexandria, The
+      id: 101708
     - count: 3
       name: Secure Haven
+      id: 101711
     - count: 1
       name: Wash
+      id: 102151
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 21
     cards:
     - count: 10
       name: Inside Dirt
+      id: 100990
     - count: 8
       name: Night Moves
+      id: 101283
     - count: 2
       name: Off Kilter
+      id: 101316
     - count: 1
       name: Rewilding
+      id: 101632
   - name: Ally
     count: 7
     cards:
     - count: 7
       name: Emerald Legionnaire
+      id: 100634
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Shilmulo Tarot
+      id: 101767
   - name: Action Modifier
     count: 31
     cards:
     - count: 4
       name: Cloak the Gathering
+      id: 100362
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 4
       name: Forgotten Labyrinth
+      id: 100769
     - count: 9
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 5
       name: Spoils of War
+      id: 101854
     - count: 3
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 1
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519

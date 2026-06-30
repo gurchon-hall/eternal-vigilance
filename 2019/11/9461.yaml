@@ -1,0 +1,214 @@
+name: Winter Moon
+location: Sevilla, Spain
+date_start: 2019-11-30
+rounds_format: 3R+F
+players_count: 15
+winner: Javier Naranjo Ortiz
+vekn_number: 8530107
+event_url: https://www.vekn.net/event-calendar/event/9461
+event_id: 9461
+vp_comment: 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9461
+deck:
+  name: Bleedphandus
+  created_by: Karash
+  description: ''
+  crypt_count: 12
+  crypt_min: 8
+  crypt_max: 20
+  crypt_avg: 3.5
+  crypt:
+  - count: 5
+    name: Antonio d'Erlette
+    id: 200116
+    capacity: 5
+    disciplines: dom for pot THA
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 2
+    name: Béatrice "Oracle171" Tremblay
+    id: 200181
+    capacity: 3
+    disciplines: inn ven
+    clan: Innocent
+    grouping: 4
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Ember Wright
+    id: 200418
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Keith Moody
+    id: 200767
+    capacity: 3
+    disciplines: DOM
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Saiz
+    id: 201222
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 40
+    cards:
+    - count: 4
+      name: Anarch Revolt
+      id: 100055
+    - count: 12
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Dark Influences
+      id: 100493
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Fear of Mekhet
+      id: 100710
+    - count: 1
+      name: Fortschritt Library
+      id: 100775
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: KRCG News Radio
+      id: 101067
+    - count: 3
+      name: Liquidation
+      id: 101112
+    - count: 1
+      name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
+    - count: 5
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 1
+      name: Wash
+      id: 102151
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
+  - name: Conviction
+    count: 3
+    cards:
+    - count: 1
+      name: React with Conviction
+      id: 101557
+    - count: 1
+      name: Second Sight
+      id: 101705
+    - count: 1
+      name: Strike with Conviction
+      id: 101886
+  - name: Action
+    count: 3
+    cards:
+    - count: 3
+      name: Computer Hacking
+      id: 100390
+  - name: Ally
+    count: 12
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Gregory Winter
+      id: 100855
+    - count: 8
+      name: Nephandus
+      id: 101272
+    - count: 1
+      name: Ossian
+      id: 101333
+    - count: 1
+      name: Vagabond Mystic
+      id: 102087
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 6
+      name: Empowering the Puppet King
+      id: 100639
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Poison Pill
+      id: 101406
+  - name: Combat
+    count: 9
+    cards:
+    - count: 1
+      name: Molotov Cocktail
+      id: 101235
+    - count: 3
+      name: Target Vitals
+      id: 101942
+    - count: 5
+      name: Trap
+      id: 102012
+  - name: Event
+    count: 5
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+    - count: 1
+      name: Slow Withering, The
+      id: 101807
+    - count: 2
+      name: Unmasking, The
+      id: 102079

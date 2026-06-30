@@ -7,24 +7,22 @@ winner: Joscar Gamaliel Malacaman
 vekn_number: 9430007
 event_url: https://www.vekn.net/event-calendar/event/11368
 event_id: 11368
-vp_comment: 1GW 4.5VP 3VP in the Final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81317-twd-haven-uncovered-03-23-2024-makati-philippines-15-players
+vp_comment: 1GW4.5 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11368
 deck:
   name: Guardian LSFM 2.0
-  description: ''
+  description: Having been sick for 2 weeks prior to the tournament, I didn't 
+    have time to brew another deck so I took the Matasuntha deck that won me the
+    January Tournament for another spin. The deck has been performing really 
+    well during casual play and the nerf to Ashur Tablets did open up 8 spots in
+    the decklist. I decided to fill these with anti-manuever/equipment tech in 
+    drawing out the beast and voracious vermin. These changes made combat flow 
+    smoother against celerity guns and grinder variants.
   crypt_count: 12
   crypt_min: 4
   crypt_max: 40
   crypt_avg: 5.67
   crypt:
-  - count: 4
-    name: Anarch Convert
-    id: 200076
-    capacity: 1
-    disciplines: ''
-    clan: Caitiff
-    grouping: ANY
   - count: 4
     name: Matasuntha
     id: 200956
@@ -32,6 +30,13 @@ deck:
     disciplines: ANI AUS CEL FOR PRO
     clan: Gangrel
     grouping: 5
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
   - count: 2
     name: Casey Snyder
     id: 201521
@@ -61,7 +66,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -82,7 +87,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch

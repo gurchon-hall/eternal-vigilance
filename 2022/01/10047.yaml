@@ -1,0 +1,210 @@
+name: Bum's Rush Brasil
+location: Online
+date_start: 2022-01-18
+date_end: 2022-01-20
+rounds_format: 2R+F
+players_count: 16
+winner: Bruno Patrício Silva Pontes
+vekn_number: 1001905
+event_url: https://www.vekn.net/event-calendar/event/10047
+event_id: 10047
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10047
+deck:
+  name: protect the black gates of heaven
+  description: ''
+  crypt_count: 13
+  crypt_min: 6
+  crypt_max: 40
+  crypt_avg: 6.31
+  crypt:
+  - count: 5
+    name: unnamed, The
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Massimiliano
+    id: 201602
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Casey Snyder
+    id: 201521
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Indira
+    id: 201592
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 2
+      name: Rötschreck
+      id: 101654
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 17
+    cards:
+    - count: 2
+      name: Constant Revolution
+      id: 100416
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 5
+      name: Illegalism
+      id: 100952
+    - count: 6
+      name: Shatter the Gate
+      id: 101757
+    - count: 3
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 3
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 20
+    cards:
+    - count: 1
+      name: Cloak the Gathering
+      id: 100362
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 7
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 6
+      name: Into Thin Air
+      id: 101001
+    - count: 2
+      name: Spying Mission
+      id: 101857
+  - name: Action Modifier/Reaction
+    count: 5
+    cards:
+    - count: 5
+      name: Sense the Sin
+      id: 101718
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 4
+      name: Bait and Switch
+      id: 102218
+    - count: 1
+      name: Eluding the Arms of Morpheus
+      id: 100628
+    - count: 5
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 11
+    cards:
+    - count: 1
+      name: Donnybrook
+      id: 100576
+    - count: 6
+      name: Earth Meld
+      id: 100601
+    - count: 4
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697

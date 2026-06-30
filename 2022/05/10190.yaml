@@ -1,17 +1,18 @@
 name: Deep Song
 location: Online
 date_start: 2022-05-16
+date_end: 2022-05-19
 rounds_format: 2R+F
 players_count: 13
 winner: Delmar Sittoni
 vekn_number: 1003691
 event_url: https://www.vekn.net/event-calendar/event/10190
 event_id: 10190
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79833-twda-deep-song
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10190
 deck:
   name: A mina dos corvos
-  description: ''
+  description: Gangrel porrada
   crypt_count: 12
   crypt_min: 16
   crypt_max: 25
@@ -19,6 +20,7 @@ deck:
   crypt:
   - count: 4
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -26,6 +28,7 @@ deck:
     grouping: 6
   - count: 1
     name: Massimiliano
+    id: 201602
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
@@ -33,6 +36,7 @@ deck:
     grouping: 6
   - count: 1
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -40,36 +44,42 @@ deck:
     grouping: 6
   - count: 1
     name: Martina Srnankova
+    id: 201601
     capacity: 6
     disciplines: ani FOR PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Crow
+    id: 200303
     capacity: 5
     disciplines: for pro tha ANI
     clan: Gangrel
     grouping: 5
   - count: 1
     name: Kamile Paukstys
+    id: 201597
     capacity: 5
     disciplines: ani for PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Hanna Nokelainen
+    id: 201590
     capacity: 4
     disciplines: ani for pro
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Nathan Turner
+    id: 201606
     capacity: 4
     disciplines: ani PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Indira
+    id: 201592
     capacity: 3
     disciplines: PRO
     clan: Gangrel
@@ -81,87 +91,121 @@ deck:
     cards:
     - count: 2
       name: Anarch Revolt
+      id: 100055
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Ennoia's Theater
+      id: 100646
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Gangrel Revel
+      id: 100807
     - count: 1
       name: Guardian Angel
+      id: 100866
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 9
     cards:
     - count: 1
       name: Army of Rats
+      id: 100093
     - count: 1
       name: Constant Revolution
+      id: 100416
     - count: 6
       name: Deep Song
+      id: 100515
     - count: 1
       name: Shadow of the Beast
+      id: 101740
   - name: Retainer
     count: 9
     cards:
     - count: 2
       name: Dog Pack
+      id: 100568
     - count: 2
       name: Murder of Crows
+      id: 101254
     - count: 5
       name: Raven Spy
+      id: 101550
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 19
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 1
       name: Cats' Guidance
+      id: 100308
     - count: 2
       name: Deep Ecology
+      id: 102219
     - count: 9
       name: Organized Resistance
+      id: 102230
     - count: 1
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 34
     cards:
     - count: 4
       name: Bear's Skin
+      id: 100145
     - count: 8
       name: Carrion Crows
+      id: 100301
     - count: 5
       name: Donnybrook
+      id: 100576
     - count: 4
       name: Flesh of Marble
+      id: 100749
     - count: 4
       name: Form of the Wolf
+      id: 102225
     - count: 7
       name: Pack Alpha
+      id: 101342
     - count: 2
       name: Taste of Vitae
+      id: 101945
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

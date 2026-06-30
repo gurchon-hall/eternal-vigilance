@@ -1,5 +1,5 @@
-name: Torneio Estadual do Amapá
-location: VTES AP - Estadual Amapá
+name: VTES AP - Estadual Amapá
+location: Macapá, Brazil
 date_start: 2025-06-22
 rounds_format: 2R+F
 players_count: 12
@@ -8,18 +8,18 @@ vekn_number: 9230110
 event_url: https://www.vekn.net/event-calendar/event/12398
 event_id: 12398
 vp_comment: 1.5vp in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82440-twd-torneio-estadual-amapaense-2025
+forum_post_url: https://www.vekn.net/event-calendar/event/12398
 deck:
   name: '[COPY] 30th Anniversary'
   description: ''
   crypt_count: 12
   crypt_min: 27
-  crypt_max: 34
-  crypt_avg: 7.57
+  crypt_max: 36
+  crypt_avg: 8.08
   crypt:
   - count: 4
     name: Diana Iadanza
+    id: 201694
     capacity: 9
     disciplines: AUS CEL FOR PRE
     title: Justicar
@@ -27,6 +27,7 @@ deck:
     grouping: 7
   - count: 2
     name: Annabelle Triabell
+    id: 201693
     capacity: 9
     disciplines: dom for AUS CEL PRE
     title: Primogen
@@ -34,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Modius
+    id: 201703
     capacity: 8
     disciplines: obf AUS CEL PRE
     title: Prince
@@ -41,6 +43,7 @@ deck:
     grouping: 7
   - count: 1
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -48,23 +51,26 @@ deck:
     grouping: 6
   - count: 1
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
     clan: Toreador
     grouping: 6
   - count: 1
-    name: Mkhokheli
-    capacity: 6
-    disciplines: aus cel for PRE
-    title: Prince
-    clan: Toreador
-    grouping: 6
-  - count: 1
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Mkhokheli
+    id: 201561
+    capacity: 6
+    disciplines: aus cel for PRE
+    title: Prince
     clan: Toreador
     grouping: 6
   library_count: 90
@@ -72,99 +78,135 @@ deck:
   - name: Master
     count: 23
     cards:
-    - count: 6
-      name: Villein
-    - count: 6
-      name: Zillah's Valley
-    - count: 2
-      name: Information Highway
-    - count: 2
-      name: Camarilla Conclave
     - count: 1
       name: Art Museum
+      id: 100095
+    - count: 2
+      name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Information Highway
+      id: 100984
     - count: 1
       name: Legendary Vampire
+      id: 101091
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 6
+      name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 2
     cards:
     - count: 2
       name: Entrancement
+      id: 100652
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Gran Madre di Dio, Italy
-  - name: Action Modifier
-    count: 18
-    cards:
-    - count: 4
-      name: Forced March
-    - count: 4
-      name: Perfect Paragon
-    - count: 4
-      name: Voter Captivation
-    - count: 4
-      name: Loup
-    - count: 2
-      name: Daring the Dawn
-  - name: Action Modifier/Reaction
-    count: 4
-    cards:
-    - count: 4
-      name: Scalpel Tongue
-  - name: Combat
-    count: 8
-    cards:
-    - count: 4
-      name: Charismatic Aura
-    - count: 4
-      name: Majesty
+      id: 100847
   - name: Political Action
     count: 18
     cards:
-    - count: 6
-      name: Camarilla's Iron Fist
-    - count: 4
-      name: Parity Shift
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Banishment
+      id: 100131
+    - count: 6
+      name: Camarilla's Iron Fist
+      id: 102270
     - count: 1
       name: Kindred Segregation
+      id: 101053
+    - count: 4
+      name: Parity Shift
+      id: 101353
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Rumors of Gehenna
+      id: 101663
     - count: 1
       name: Year of Fortune
-  - name: Reaction
-    count: 12
+      id: 102200
+  - name: Action Modifier
+    count: 18
     cards:
-    - count: 4
-      name: 'Second Tradition: Domain'
-    - count: 4
-      name: Telepathic Misdirection
     - count: 2
-      name: Eyes of Argus
-    - count: 2
-      name: My Enemy's Enemy
+      name: Daring the Dawn
+      id: 100492
+    - count: 4
+      name: Forced March
+      id: 100761
+    - count: 4
+      name: Loup
+      id: 102273
+    - count: 4
+      name: Perfect Paragon
+      id: 101387
+    - count: 4
+      name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Resist Earth's Grasp
+      id: 101610
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Scalpel Tongue
+      id: 101686
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 2
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 4
+      name: 'Second Tradition: Domain'
+      id: 101706
+    - count: 4
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 8
+    cards:
+    - count: 4
+      name: Charismatic Aura
+      id: 100333
+    - count: 4
+      name: Majesty
+      id: 101144

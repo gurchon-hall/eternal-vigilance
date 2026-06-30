@@ -19,24 +19,28 @@ deck:
   crypt:
   - count: 21
     name: Tupdog
+    id: 201393
     capacity: 1
     disciplines: POT VIS
     clan: Gargoyle
     grouping: 3
   - count: 1
     name: Antonio d'Erlette
+    id: 200116
     capacity: 5
     disciplines: dom for pot THA
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Esoara
+    id: 200437
     capacity: 5
     disciplines: aus for pot DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Frondator
+    id: 200485
     capacity: 5
     disciplines: dom tha AUS
     title: Bishop
@@ -44,18 +48,21 @@ deck:
     grouping: 4
   - count: 1
     name: Janine
+    id: 200674
     capacity: 4
     disciplines: aus dom tha
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Ember Wright
+    id: 200418
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Keith Moody
+    id: 200767
     capacity: 3
     disciplines: DOM
     clan: Tremere antitribu
@@ -67,67 +74,88 @@ deck:
     cards:
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Not to Be
+      id: 101303
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 3
       name: Wider View
+      id: 102180
     - count: 1
       name: Yawp Court
+      id: 102199
   - name: Action
     count: 7
     cards:
     - count: 7
       name: Graverobbing
+      id: 100852
   - name: Ally
     count: 8
     cards:
     - count: 3
       name: Nephandus
+      id: 101272
     - count: 5
       name: Rock Cat
+      id: 101645
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Gran Madre di Dio, Italy
+      id: 100847
   - name: Political Action
     count: 7
     cards:
     - count: 7
       name: Autarkis Persecution
+      id: 100115
   - name: Action Modifier
     count: 4
     cards:
     - count: 4
       name: As the Crow
+      id: 100102
   - name: Reaction
     count: 4
     cards:
     - count: 4
       name: Deflection
+      id: 100518
   - name: Combat
     count: 42
     cards:
     - count: 9
       name: Brick by Brick
+      id: 100252
     - count: 3
       name: Disarm
+      id: 100549
     - count: 10
       name: Immortal Grapple
+      id: 100959
     - count: 10
       name: Raking Talons
+      id: 101538
     - count: 5
       name: Roundhouse
+      id: 102215
     - count: 5
       name: Torn Signpost
+      id: 101993
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Fourth Cycle
+      name: Fourth Cycle, The
+      id: 100781

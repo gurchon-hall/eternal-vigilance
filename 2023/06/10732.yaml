@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Khadija Al-Kindi
+    id: 201599
     capacity: 6
     disciplines: CEL OBF THA
     title: Primogen
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -47,12 +51,14 @@ deck:
     grouping: 6
   - count: 2
     name: Nayarana
+    id: 201607
     capacity: 4
     disciplines: cel THA
     clan: Banu Haqim
     grouping: 6
   - count: 1
     name: Bijou
+    id: 201580
     capacity: 3
     disciplines: cel tha
     clan: Banu Haqim
@@ -63,52 +69,71 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Black Throne
+      name: Black Throne, The
+      id: 100172
     - count: 4
       name: Blood Doll
+      id: 100199
     - count: 6
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: Market Square
+      id: 101171
     - count: 4
       name: Priority Contract
+      id: 101487
     - count: 1
       name: Villein
+      id: 102121
   - name: Action
     count: 8
     cards:
     - count: 6
       name: Hunter's Mark
+      id: 102228
     - count: 2
       name: 'Khabar: Glory'
+      id: 101043
   - name: Action Modifier/Combat
     count: 12
     cards:
     - count: 6
       name: Resist Earth's Grasp
+      id: 101610
     - count: 6
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 14
     cards:
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 10
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 39
     cards:
     - count: 5
       name: Blur
+      id: 100227
     - count: 4
       name: Flash
+      id: 100744
     - count: 14
       name: Hunger of Marduk
+      id: 102227
     - count: 4
       name: Pursuit
+      id: 101523
     - count: 7
       name: Quickness
+      id: 101532
     - count: 3
       name: Rego Motum
+      id: 101588
     - count: 2
       name: Walk of Flame
+      id: 102139

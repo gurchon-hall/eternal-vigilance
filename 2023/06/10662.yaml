@@ -19,72 +19,84 @@ deck:
   crypt:
   - count: 1
     name: Black Lotus
+    id: 200202
     capacity: 5
     disciplines: aus obf ser DOM
     clan: Ministry
     grouping: 4
   - count: 1
     name: Frank Litzpar
+    id: 200480
     capacity: 5
     disciplines: ani for pot OBF
     clan: Nosferatu antitribu
     grouping: 4
   - count: 1
     name: Raphael Catarari
+    id: 201164
     capacity: 5
     disciplines: aus pot tha OBF PRE
     clan: Nosferatu antitribu
     grouping: 4
   - count: 1
     name: Skidmark
+    id: 201295
     capacity: 5
     disciplines: aus pot FOR OBF
     clan: Nosferatu antitribu
     grouping: 4
   - count: 1
     name: Florentina Lengauer
+    id: 200471
     capacity: 4
     disciplines: aus OBF
     clan: Malkavian
     grouping: 4
   - count: 1
     name: Robin Withers
+    id: 201193
     capacity: 4
     disciplines: dom obf pre
     clan: Ventrue
     grouping: 4
   - count: 1
     name: Skulk
+    id: 201297
     capacity: 4
     disciplines: ani OBF
     clan: Nosferatu antitribu
     grouping: 5
   - count: 1
     name: Keith Moody
+    id: 200767
     capacity: 3
     disciplines: DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Lubomira Hradok
+    id: 200865
     capacity: 3
     disciplines: OBF
     clan: Nosferatu antitribu
     grouping: 5
   - count: 1
     name: Dr. Solomon Grey
+    id: 200383
     capacity: 2
     disciplines: dom pre
     clan: Caitiff
     grouping: 5
   - count: 1
     name: Jackson Asher
+    id: 200660
     capacity: 2
     disciplines: dom
     clan: Ventrue
     grouping: 4
   - count: 1
     name: Old Neddacka
+    id: 201074
     capacity: 2
     disciplines: obf
     clan: Nosferatu antitribu
@@ -96,100 +108,136 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Information Network
+      id: 100985
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
-      name: The Rumor Mill, Tabloid Newspaper
+      name: Rumor Mill, Tabloid Newspaper, The
+      id: 101662
     - count: 2
       name: Special Report
+      id: 101841
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 2
       name: Vessel
+      id: 102113
     - count: 1
       name: WMRH Talk Radio
+      id: 102189
   - name: Action
     count: 23
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 10
       name: Computer Hacking
+      id: 100390
     - count: 10
       name: Inside Dirt
+      id: 100990
     - count: 2
       name: Night Moves
+      id: 101283
   - name: Ally
     count: 3
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Hellhound
+      id: 100911
     - count: 1
       name: Repo Man
+      id: 101605
   - name: Equipment
     count: 5
     cards:
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 4
       name: Leather Jacket
+      id: 101081
   - name: Action Modifier
     count: 25
     cards:
     - count: 3
       name: Cloak the Gathering
+      id: 100362
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 1
       name: Domain of Evernight
+      id: 100571
     - count: 1
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 10
       name: Lost in Crowds
+      id: 101125
     - count: 1
       name: Spying Mission
+      id: 101857
     - count: 3
       name: Veil the Legions
+      id: 102097
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Gift of Sleep
+      id: 100828
   - name: Reaction
     count: 12
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: Legwork
+      id: 101093
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Wake with Evening's Freshness
+      id: 102137
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Dodge
+      id: 100567
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Uncoiling
+      name: Uncoiling, The
+      id: 102057

@@ -1,5 +1,5 @@
 name: Italian Tour Stage 3
-location: Genova , Italy
+location: Genoa, Italy
 date_start: 2023-03-12
 rounds_format: 2R+F
 players_count: 25
@@ -7,26 +7,18 @@ winner: Davide Antoni
 vekn_number: 7910002
 event_url: https://www.vekn.net/event-calendar/event/10645
 event_id: 10645
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80387-twd-italian-tour-stage-3-genova-italy-12-march-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10645
 deck:
   name: Anarch vote Deflection
-  created_by: Davide Antoni
   description: ''
   crypt_count: 12
   crypt_min: 24
   crypt_max: 26
   crypt_avg: 6.17
   crypt:
-  - count: 2
-    name: Vivian VI
-    capacity: 7
-    disciplines: obf tha PRE PRO
-    title: Baron
-    clan: Ministry
-    grouping: 6
   - count: 4
     name: Arishat
+    id: 200136
     capacity: 6
     disciplines: DAI OBF PRE
     title: 1 Vote
@@ -34,13 +26,23 @@ deck:
     grouping: 6
   - count: 4
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
     clan: Ministry
     grouping: 6
   - count: 2
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 2
     name: Jacques Rouge
+    id: 201523
     capacity: 6
     disciplines: ani pot pre OBF
     title: Baron
@@ -53,85 +55,115 @@ deck:
     cards:
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Ferraille
+      id: 100722
     - count: 2
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 2
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
   - name: Action
     count: 10
     cards:
     - count: 6
       name: 'Condemnation: Mute'
+      id: 100400
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 2
       name: Unleash Hell's Fury
+      id: 102076
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Kaymakli Fragment
+      id: 101035
   - name: Political Action
     count: 17
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Eat the Rich
+      id: 100605
     - count: 1
       name: Exclusion Principle
+      id: 100671
     - count: 10
       name: Kine Resources Contested
+      id: 101056
     - count: 4
       name: Reckless Agitation
+      id: 101567
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Crypt's Sons
+      id: 100476
   - name: Action Modifier
     count: 32
     cards:
     - count: 4
       name: Bewitching Oration
+      id: 100157
     - count: 3
       name: Cloak the Gathering
+      id: 100362
     - count: 4
       name: Elder Impersonation
+      id: 100617
     - count: 4
       name: Faceless Night
+      id: 100687
     - count: 4
       name: Forgotten Labyrinth
+      id: 100769
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 1
       name: Perfect Paragon
+      id: 101387
     - count: 8
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 9
     cards:
     - count: 7
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Majesty
+      id: 101144

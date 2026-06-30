@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Huldu, The Desecrator
+    id: 201757
     capacity: 8
     disciplines: obf tha AUS FOR OBL
     clan: Hecata
@@ -26,24 +27,28 @@ deck:
     path: Death and the Soul
   - count: 3
     name: Tommaso Sforza
+    id: 201728
     capacity: 7
     disciplines: dom for AUS OBL THA
     clan: Hecata
     grouping: 6
   - count: 3
     name: Alek König
+    id: 201717
     capacity: 3
     disciplines: OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Gebeyehu Abdu
+    id: 201718
     capacity: 5
     disciplines: for AUS OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Nadezhda
+    id: 201765
     capacity: 3
     disciplines: aus obl
     clan: Hecata
@@ -51,6 +56,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Peter St. John
+    id: 201727
     capacity: 2
     disciplines: obl
     clan: Hecata
@@ -62,66 +68,91 @@ deck:
     cards:
     - count: 1
       name: Biotech Company Hunting Ground
+      id: 102287
     - count: 4
       name: Cappadocian Crypt
+      id: 102298
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Cursed Abattoir
+      id: 102313
     - count: 3
       name: Direct Intervention
+      id: 100545
     - count: 5
       name: Family Gathering
+      id: 102289
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
-      name: The Line
+      name: Line, The
+      id: 101110
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Munich'
+      id: 102301
     - count: 2
       name: Vessel
+      id: 102113
   - name: Ally
     count: 16
     cards:
     - count: 15
       name: Bone Shambler
+      id: 102293
     - count: 1
       name: Fiorella, Empty One
+      id: 102322
   - name: Action Modifier
     count: 14
     cards:
     - count: 2
       name: Shadow Cast
+      id: 102280
     - count: 2
       name: Shadow Cloak
+      id: 102281
     - count: 6
       name: Stygian Shroud
+      id: 102282
     - count: 4
       name: Where the Veil Thins
+      id: 102285
   - name: Reaction
     count: 13
     cards:
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Shadow Sentinel
+      id: 102294
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 8
     cards:
     - count: 4
       name: Dodge
+      id: 100567
     - count: 4
       name: Pass Through Shadow
+      id: 102279
   - name: Event
     count: 3
     cards:
     - count: 3
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

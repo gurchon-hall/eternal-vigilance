@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 5
     name: Malgorzata
+    id: 200905
     capacity: 9
     disciplines: pre AUS DOM THA VIC
     title: Priscus
@@ -25,12 +26,14 @@ deck:
     grouping: 4
   - count: 3
     name: Lord Tremere
+    id: 200856
     capacity: 11
     disciplines: obe ANI AUS DOM THA VIC
     clan: Tremere
     grouping: 5
   - count: 3
     name: Mistress Fanchon
+    id: 200999
     capacity: 11
     disciplines: AUS CEL DOM OBF THA VIC
     title: Inner Circle
@@ -38,6 +41,7 @@ deck:
     grouping: 4
   - count: 1
     name: Sha-Ennu
+    id: 201270
     capacity: 11
     disciplines: obf tha ANI AUS CHI VIC
     title: Regent
@@ -50,77 +54,106 @@ deck:
     cards:
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 3
       name: Rötschreck
+      id: 101654
     - count: 4
       name: Villein
+      id: 102121
     - count: 4
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 2
     cards:
     - count: 2
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 5
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Helicopter
+      id: 100909
     - count: 1
-      name: The Sargon Fragment
+      name: Sargon Fragment, The
+      id: 101681
     - count: 1
       name: Sire's Index Finger
+      id: 101785
   - name: Political Action
     count: 3
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 4
     cards:
     - count: 3
       name: Changeling
+      id: 100324
     - count: 1
       name: Enkil Cog
+      id: 100645
   - name: Reaction
     count: 13
     cards:
     - count: 3
       name: Eagle's Sight
+      id: 100598
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: Precognition
+      id: 101475
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 25
     cards:
     - count: 4
       name: Amaranth
+      id: 100043
     - count: 3
       name: Blood Fury
+      id: 100201
     - count: 4
       name: Breath of the Dragon
+      id: 100250
     - count: 7
       name: Chiropteran Marauder
+      id: 100344
     - count: 4
       name: Rego Motum
+      id: 101588
     - count: 3
       name: Thoughts Betrayed
+      id: 101976

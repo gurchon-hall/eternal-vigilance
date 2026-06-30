@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 3
     name: Oskar Anasov
+    id: 201646
     capacity: 8
     disciplines: cel pot ANI OBF
     clan: Nosferatu
     grouping: 6
   - count: 3
     name: Benedito, a Lanterna
+    id: 201524
     capacity: 6
     disciplines: ani aus obf POT
     title: Baron
@@ -32,13 +34,15 @@ deck:
     grouping: 6
   - count: 3
     name: Jacques Rouge
+    id: 201523
     capacity: 6
     disciplines: ani pot pre OBF
     title: Baron
     clan: Nosferatu
     grouping: 6
   - count: 3
-    name: The Medic
+    name: Medic, The
+    id: 200968
     capacity: 6
     disciplines: dem for OBF POT
     clan: Nosferatu
@@ -49,80 +53,107 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 2
       name: Hackerspace
+      id: 100876
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
+      id: 101070
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Twilight Camp
+      id: 102049
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 2
       name: Warsaw Station
+      id: 102149
   - name: Action
     count: 8
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 1
       name: Army of Rats
+      id: 100093
     - count: 6
       name: Creeping Sabotage
+      id: 102213
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
   - name: Equipment
     count: 9
     cards:
     - count: 3
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 3
       name: Sniper Rifle
+      id: 101816
     - count: 2
       name: Sport Bike
+      id: 101856
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Action Modifier
     count: 2
     cards:
     - count: 2
       name: Monkey Wrench
+      id: 101239
   - name: Action Modifier/Combat
     count: 7
     cards:
     - count: 7
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 28
     cards:
     - count: 7
       name: Bait and Switch
+      id: 102218
     - count: 5
       name: On the Qui Vive
+      id: 101321
     - count: 9
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Protection Racket
+      id: 101501
     - count: 5
-      name: The Warrens
+      name: Warrens, The
+      id: 102216
   - name: Combat
     count: 7
     cards:
     - count: 7
       name: Disguised Weapon
+      id: 100555

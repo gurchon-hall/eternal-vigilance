@@ -7,9 +7,8 @@ winner: Hugo Coelho
 vekn_number: 3260056
 event_url: https://www.vekn.net/event-calendar/event/12750
 event_id: 12750
-vp_comment: 2GW7VP + 4VP in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82685-twd-versus-halloween
+vp_comment: 3GW11 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12750
 deck:
   name: Tio Abel
   description: ''
@@ -20,12 +19,14 @@ deck:
   crypt:
   - count: 4
     name: Theo Bell
+    id: 201613
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 3
     name: Saku Pihlajamäki
+    id: 201658
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
@@ -33,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -40,6 +42,7 @@ deck:
     grouping: 6
   - count: 1
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -47,6 +50,7 @@ deck:
     grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -54,6 +58,7 @@ deck:
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
@@ -65,66 +70,94 @@ deck:
     cards:
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Carver's Meat Packing and Storage
+      id: 100303
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Libertas
+      id: 101100
     - count: 2
       name: New Carthage
+      id: 101277
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Warzone Hunting Ground
+      id: 102150
   - name: Action
     count: 16
     cards:
     - count: 2
       name: Heroic Might
+      id: 100913
     - count: 3
       name: Illegalism
+      id: 100952
     - count: 10
       name: Line Brawl
+      id: 102229
     - count: 1
       name: Preternatural Strength
+      id: 101483
   - name: Reaction
     count: 12
     cards:
     - count: 5
       name: Bait and Switch
+      id: 102218
     - count: 7
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 43
     cards:
     - count: 1
       name: Blur
+      id: 100227
     - count: 4
       name: Disarm
+      id: 100549
     - count: 8
       name: Dust Up
+      id: 100597
     - count: 1
       name: Fast Hands
+      id: 100704
     - count: 8
       name: Immortal Grapple
+      id: 100959
     - count: 8
       name: Pursuit
+      id: 101523
     - count: 2
       name: Sideslip
+      id: 101779
     - count: 5
       name: Taste of Vitae
+      id: 101945
     - count: 2
       name: Thrown Sewer Lid
+      id: 101983
     - count: 4
       name: Torn Signpost
+      id: 101993

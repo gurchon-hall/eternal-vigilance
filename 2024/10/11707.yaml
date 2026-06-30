@@ -7,11 +7,9 @@ winner: Miska Tanskanen
 vekn_number: 9350043
 event_url: https://www.vekn.net/event-calendar/event/11707
 event_id: 11707
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81859-twd-garou-rim-above-the-law
+forum_post_url: https://www.vekn.net/event-calendar/event/11707
 deck:
   name: Höylätään
-  created_by: TheAcidWorm
   description: ''
   crypt_count: 12
   crypt_min: 21
@@ -20,30 +18,35 @@ deck:
   crypt:
   - count: 4
     name: Howler
+    id: 200607
     capacity: 8
     disciplines: obf ANI PRE SPI
     clan: Ahrimane
     grouping: 2
   - count: 3
-    name: The Siamese
+    name: Siamese, The
+    id: 201285
     capacity: 7
     disciplines: ani pro PRE SPI
     clan: Ahrimane
     grouping: 2
   - count: 3
     name: Cynthia Ingold
+    id: 200306
     capacity: 6
     disciplines: ani for pre SPI
     clan: Ahrimane
     grouping: 2
   - count: 1
     name: Nettie Hale
+    id: 201051
     capacity: 5
     disciplines: ani cel pre pro spi
     clan: Ahrimane
     grouping: 2
   - count: 1
     name: Juanita Santiago
+    id: 200730
     capacity: 4
     disciplines: ani pre spi
     clan: Ahrimane
@@ -55,68 +58,91 @@ deck:
     cards:
     - count: 3
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Guardian Angel
+      id: 100866
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 2
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
   - name: Action
     count: 8
     cards:
     - count: 5
       name: Deep Song
+      id: 100515
     - count: 2
       name: Muricia's Call
+      id: 101255
     - count: 1
       name: Nose of the Hound
+      id: 101296
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Kevlar Vest
+      id: 101040
   - name: Retainer
     count: 2
     cards:
     - count: 2
       name: Raven Spy
+      id: 101550
   - name: Action Modifier/Combat
     count: 9
     cards:
     - count: 9
       name: Swiftness of the Stag
+      id: 101916
   - name: Reaction
     count: 37
     cards:
     - count: 7
       name: Cats' Guidance
+      id: 100308
     - count: 3
       name: Ears of the Hare
+      id: 100599
     - count: 8
       name: Falcon's Eye
+      id: 100694
     - count: 2
       name: Forced Awakening
+      id: 100760
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: Sense the Savage Way
+      id: 101717
     - count: 9
       name: Speak with Spirits
+      id: 101840
   - name: Combat
     count: 22
     cards:
     - count: 4
       name: Aid from Bats
+      id: 100029
     - count: 2
       name: Canine Horde
+      id: 100290
     - count: 11
       name: Carrion Crows
+      id: 100301
     - count: 5
       name: Taste of Vitae
+      id: 101945
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265

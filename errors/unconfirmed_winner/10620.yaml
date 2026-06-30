@@ -17,6 +17,7 @@ deck:
   crypt:
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -24,6 +25,7 @@ deck:
     grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -31,6 +33,7 @@ deck:
     grouping: 6
   - count: 2
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -38,6 +41,7 @@ deck:
     grouping: 6
   - count: 1
     name: Saku Pihlajamäki
+    id: 201658
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
@@ -45,6 +49,7 @@ deck:
     grouping: 6
   - count: 1
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -52,6 +57,7 @@ deck:
     grouping: 6
   - count: 1
     name: Bituin
+    id: 201525
     capacity: 6
     disciplines: ani cel dom THA
     title: Baron
@@ -59,6 +65,7 @@ deck:
     grouping: 6
   - count: 1
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -66,6 +73,7 @@ deck:
     grouping: 6
   - count: 1
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
@@ -73,6 +81,7 @@ deck:
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
@@ -84,79 +93,109 @@ deck:
     cards:
     - count: 1
       name: Anarch Free Press, The
+      id: 100052
     - count: 2
       name: Anarch Revolt
+      id: 100055
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Flames of Insurrection
+      id: 100740
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 3
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
     - count: 1
       name: Warzone Hunting Ground
+      id: 102150
   - name: Action
     count: 8
     cards:
     - count: 1
       name: Constant Revolution
+      id: 100416
     - count: 1
       name: Line Brawl
+      id: 102229
     - count: 5
       name: Make the Misere
+      id: 101147
     - count: 1
       name: Open War
+      id: 101324
   - name: Equipment
     count: 8
     cards:
     - count: 7
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Sport Bike
+      id: 101856
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Action Modifier
     count: 2
     cards:
     - count: 2
       name: Monkey Wrench
+      id: 101239
   - name: Reaction
     count: 21
     cards:
     - count: 7
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 12
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 27
     cards:
     - count: 6
       name: Concealed Weapon
+      id: 100392
     - count: 4
       name: Dust Up
+      id: 100597
     - count: 5
       name: Flash
+      id: 100744
     - count: 5
       name: Hell-for-Leather
+      id: 100910
     - count: 3
       name: Quickness
+      id: 101532
     - count: 4
       name: Taste of Vitae
+      id: 101945

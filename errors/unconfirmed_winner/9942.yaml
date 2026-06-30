@@ -1,0 +1,200 @@
+name: Lackey World Championship 2021
+location: Online
+date_start: 2021-11-06
+date_end: 2021-12-11
+rounds_format: 3R+F
+players_count: 57
+winner: Dave O'Riordan
+vekn_number: 3050020
+event_url: https://www.vekn.net/event-calendar/event/9942
+event_id: 9942
+forum_post_url: https://www.vekn.net/event-calendar/event/9942
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 12
+  crypt_avg: 1.75
+  crypt:
+  - count: 1
+    name: Jimmy Dunn
+    id: 200705
+    capacity: 4
+    disciplines: for CEL POT
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Lena Rowe
+    id: 200830
+    capacity: 3
+    disciplines: aus obf pre
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Rex, The Necronomist
+    id: 201184
+    capacity: 3
+    disciplines: pot pro vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Christine Boscacci
+    id: 200273
+    capacity: 2
+    disciplines: dom vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Mitchell, The Headhunter
+    id: 201000
+    capacity: 2
+    disciplines: obt pot
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Angela Decker
+    id: 200090
+    capacity: 1
+    disciplines: pre
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Basil
+    id: 200173
+    capacity: 1
+    disciplines: obf
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Feo Ramos
+    id: 200462
+    capacity: 1
+    disciplines: aus
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Huang, Blood Cultist
+    id: 200609
+    capacity: 1
+    disciplines: pro
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: March Halcyon
+    id: 200911
+    capacity: 1
+    disciplines: for
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Olga Triminov
+    id: 201075
+    capacity: 1
+    disciplines: vic
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Royce
+    id: 201208
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  library_count: 66
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Día de los Muertos
+      id: 100541
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 1
+      name: Fear of Mekhet
+      id: 100710
+    - count: 1
+      name: Fortschritt Library
+      id: 100775
+    - count: 4
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Joseph Pander
+      id: 101024
+    - count: 2
+      name: Kaymakli Nightmares
+      id: 101036
+    - count: 3
+      name: Not to Be
+      id: 101303
+    - count: 2
+      name: Pentex(TM) Subversion
+      id: 101384
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Embrace, The
+      id: 100633
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Alia, God's Messenger
+      id: 100039
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+  - name: Political Action
+    count: 36
+    cards:
+    - count: 7
+      name: Consanguineous Boon
+      id: 100410
+    - count: 5
+      name: Conservative Agitation
+      id: 100414
+    - count: 2
+      name: Kindred Segregation
+      id: 101053
+    - count: 10
+      name: Kine Resources Contested
+      id: 101056
+    - count: 6
+      name: Legacy of Pander
+      id: 101087
+    - count: 2
+      name: Neonate Breach
+      id: 101271
+    - count: 2
+      name: Rumors of Gehenna
+      id: 101663
+    - count: 2
+      name: Year of Fortune
+      id: 102200
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 3
+      name: Change of Target
+      id: 100323
+  - name: Event
+    count: 4
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The
+      id: 100163
+    - count: 1
+      name: Blood Weakens
+      id: 100217
+    - count: 1
+      name: Slow Withering, The
+      id: 101807
+    - count: 1
+      name: Veil of Darkness
+      id: 102095

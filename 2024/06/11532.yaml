@@ -7,11 +7,9 @@ winner: Edgar David Caudillo Garrido
 vekn_number: 7400011
 event_url: https://www.vekn.net/event-calendar/event/11532
 event_id: 11532
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81596-liga-chilanga-2024-jornada-5-mx
+forum_post_url: https://www.vekn.net/event-calendar/event/11532
 deck:
-  name: FIN DE SEMANA DE PESADILLA
-  created_by: DAVID CAUDILLO GARRIDO
+  name: Fin de semana de pesadilla
   description: ''
   crypt_count: 12
   crypt_min: 14
@@ -20,54 +18,63 @@ deck:
   crypt:
   - count: 2
     name: Sreelekha
+    id: 201687
     capacity: 8
     disciplines: ANI FOR OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 2
     name: Doc Martina
+    id: 201670
     capacity: 6
     disciplines: for pre ANI OBF
     clan: Ravnos
     grouping: 7
   - count: 2
     name: Roberto Rivamonte
+    id: 201683
     capacity: 6
     disciplines: ANI OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Gathii
+    id: 201672
     capacity: 5
     disciplines: obf ANI PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Phaibun
+    id: 201681
     capacity: 5
     disciplines: ani OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Jean-François
+    id: 201674
     capacity: 4
     disciplines: ani obf pre
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Zafira
+    id: 201692
     capacity: 4
     disciplines: obf PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Oleg Kaprizov
+    id: 201679
     capacity: 3
     disciplines: obf pre
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Trung Chau Pham
+    id: 201689
     capacity: 3
     disciplines: ANI
     clan: Ravnos
@@ -79,74 +86,100 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 2
       name: Dabbler
+      id: 100485
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Fortune Teller Shop
+      id: 100777
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 5
       name: Villein
+      id: 102121
     - count: 2
       name: Week of Nightmares
+      id: 102166
   - name: Action
     count: 15
     cards:
     - count: 15
       name: Break the Bonds
+      id: 102247
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Treasured Samadji
+      id: 102015
   - name: Action Modifier
     count: 24
     cards:
     - count: 4
       name: Cloak the Gathering
+      id: 100362
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 6
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Spying Mission
+      id: 101857
     - count: 2
       name: Veil the Legions
+      id: 102097
     - count: 5
       name: Visions of Gehenna
+      id: 102264
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 9
     cards:
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: Visions of Zapathasura
+      id: 102265
   - name: Combat
     count: 7
     cards:
     - count: 7
       name: Majesty
+      id: 101144
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265

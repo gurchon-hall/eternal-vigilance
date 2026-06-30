@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 5
     name: Stanislava
+    id: 201312
     capacity: 11
     disciplines: ANI CEL DOM FOR PRO
     title: Inner Circle
@@ -25,6 +26,7 @@ deck:
     grouping: 2
   - count: 3
     name: Xaviar
+    id: 201477
     capacity: 10
     disciplines: aus cel pot ANI FOR PRO
     title: 2 Votes
@@ -32,6 +34,7 @@ deck:
     grouping: 3
   - count: 2
     name: Ingrid Rossler
+    id: 200634
     capacity: 9
     disciplines: dom ANI FOR PRO
     title: Prince
@@ -39,6 +42,7 @@ deck:
     grouping: 2
   - count: 1
     name: Genevieve
+    id: 200501
     capacity: 10
     disciplines: aus dom ANI FOR PRO
     title: Priscus
@@ -46,6 +50,7 @@ deck:
     grouping: 2
   - count: 1
     name: Hartmut Stover
+    id: 200575
     capacity: 10
     disciplines: dom for CEL OBF PRO
     title: Archbishop
@@ -58,84 +63,115 @@ deck:
     cards:
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Ennoia's Theater
+      id: 100646
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 5
       name: Villein
+      id: 102121
     - count: 9
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 6
     cards:
     - count: 6
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 2
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Double Deuce
+      id: 102220
   - name: Political Action
     count: 16
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 3
       name: Banishment
+      id: 100131
     - count: 4
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 1
       name: Disputed Territory
+      id: 100557
     - count: 2
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 2
       name: Parity Shift
+      id: 101353
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Retainer
     count: 2
     cards:
     - count: 2
       name: Homunculus
+      id: 100932
   - name: Action Modifier
     count: 23
     cards:
     - count: 5
       name: Earth Control
+      id: 100600
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 5
       name: Forced March
+      id: 100761
     - count: 5
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Instantaneous Transformation
+      id: 100994
     - count: 3
       name: Momentary Delay
+      id: 101236
   - name: Reaction
     count: 6
     cards:
     - count: 6
       name: Deflection
+      id: 100518
   - name: Combat
     count: 10
     cards:
     - count: 5
       name: Earth Meld
+      id: 100601
     - count: 5
       name: Form of Mist
+      id: 100771

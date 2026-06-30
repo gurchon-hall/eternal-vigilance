@@ -7,12 +7,11 @@ winner: Djordje Sutic
 vekn_number: 5940003
 event_url: https://www.vekn.net/event-calendar/event/11705
 event_id: 11705
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81818-twd-pulled-fangs-belgrade-12-10-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11705
 deck:
   name: Trujah toolbox
-  created_by: Shootic / Djordje Sutic 5940003
-  description: ''
+  description: It's a Trujah toolbox with a solution of some kind for every 
+    problem.
   crypt_count: 12
   crypt_min: 9
   crypt_max: 32
@@ -26,26 +25,19 @@ deck:
     clan: True Brujah
     grouping: 5
   - count: 2
-    name: Anarch Convert
-    id: 200076
-    capacity: 1
-    disciplines: ''
-    clan: Caitiff
-    grouping: ANY
-  - count: 2
     name: Sennadurek
     id: 201263
     capacity: 6
     disciplines: dom AUS NEC
     clan: Nagaraja
     grouping: 4
-  - count: 1
-    name: Andre LeRoux
-    id: 200080
-    capacity: 3
-    disciplines: aus
-    clan: Toreador
-    grouping: 5
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
   - count: 1
     name: Neighbor John
     id: 201046
@@ -60,6 +52,13 @@ deck:
     disciplines: pre AUS
     clan: Toreador
     grouping: 5
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
   library_count: 90
   library_sections:
   - name: Master
@@ -69,7 +68,7 @@ deck:
       name: Dominion
       id: 100574
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
       id: 100656
     - count: 1
       name: Fear of Mekhet
@@ -90,7 +89,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 1
       name: Remover
@@ -120,7 +119,7 @@ deck:
       name: Kiss of Lachesis
       id: 101061
     - count: 1
-      name: The Path of the Scorched Heart
+      name: Path of the Scorched Heart, The
       id: 101371
     - count: 1
       name: Pulse of the Canaille
@@ -156,7 +155,7 @@ deck:
       name: AK-47
       id: 100032
     - count: 1
-      name: The Ankara Citadel, Turkey
+      name: Ankara Citadel, Turkey, The
       id: 100071
     - count: 1
       name: Heart of Nizchetus
@@ -165,7 +164,7 @@ deck:
       name: Helicopter
       id: 100909
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
       id: 101781
   - name: Retainer
     count: 1
@@ -225,5 +224,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: The Unmasking
+      name: Unmasking, The
       id: 102079

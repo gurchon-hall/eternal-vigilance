@@ -19,48 +19,56 @@ deck:
   crypt:
   - count: 2
     name: '"Mother" Anja Giovanni'
+    id: 201725
     capacity: 8
     disciplines: dom pot AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 2
     name: Mora, the Death Seer
+    id: 201724
     capacity: 7
     disciplines: ani AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 2
     name: Gebeyehu Abdu
+    id: 201718
     capacity: 5
     disciplines: for AUS OBL
     clan: Hecata
     grouping: 6
   - count: 2
     name: Alek König
+    id: 201717
     capacity: 3
     disciplines: OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Lenelle, Mambo of Birmingham
+    id: 201721
     capacity: 6
     disciplines: aus FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Monica Giovanni
+    id: 201723
     capacity: 6
     disciplines: AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Holliday "Burgundy" Hall
+    id: 201720
     capacity: 5
     disciplines: aus FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Peter St. John
+    id: 201727
     capacity: 2
     disciplines: obl
     clan: Hecata
@@ -71,68 +79,92 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 1
       name: Biotech Company Hunting Ground
+      id: 102287
     - count: 3
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Cappadocian Crypt
+      id: 102298
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 7
       name: Family Gathering
+      id: 102289
     - count: 1
       name: 'Powerbase: Munich'
+      id: 102301
     - count: 2
       name: Villein
+      id: 102121
   - name: Action
     count: 19
     cards:
     - count: 15
       name: Shroud of Decay
+      id: 102295
     - count: 4
       name: Split the Veil
+      id: 102297
   - name: Ally
     count: 10
     cards:
     - count: 6
       name: Aggressive Corpse
+      id: 102286
     - count: 4
       name: Spectral Servitor
+      id: 102296
   - name: Action Modifier
     count: 20
     cards:
     - count: 1
       name: Consign to Oblivion
+      id: 102288
     - count: 6
       name: Shadow Cast
+      id: 102280
     - count: 3
       name: Shadow Cloak
+      id: 102281
     - count: 4
       name: Stygian Shroud
+      id: 102282
     - count: 6
       name: Where the Veil Thins
+      id: 102285
   - name: Reaction
     count: 14
     cards:
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: Shadow Sentinel
+      id: 102294
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Pass Through Shadow
+      id: 102279
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

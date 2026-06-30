@@ -1,0 +1,199 @@
+name: Joel Oliveira
+location: Fortaleza (CE), Brazil
+date_start: 2024-10-06
+rounds_format: 2R+F
+players_count: 16
+winner: Mailton Silva
+vekn_number: 4790003
+event_url: https://www.vekn.net/event-calendar/event/11735
+event_id: 11735
+vp_comment: 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11735
+deck:
+  name: Guabiru ( SÓ TENHO UM DECK )
+  description: Esse deck foi pra provar ao Thiago Rafael que os Nosferatus podem
+    ganhar também.
+  crypt_count: 12
+  crypt_min: 23
+  crypt_max: 40
+  crypt_avg: 8.17
+  crypt:
+  - count: 4
+    name: Servius Marius Pustula
+    id: 201268
+    capacity: 10
+    disciplines: obf ANI CHI DOM OBT POT
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 3
+    name: Julio Martinez
+    id: 200736
+    capacity: 9
+    disciplines: nec ANI DOM OBF POT
+    title: Bishop
+    clan: Nosferatu antitribu
+    grouping: 3
+  - count: 2
+    name: Len Konopka
+    id: 201622
+    capacity: 8
+    disciplines: dom ser ANI OBF POT
+    clan: Nosferatu antitribu
+    grouping: 3
+  - count: 1
+    name: Gustaphe Brunnelle
+    id: 200549
+    capacity: 8
+    disciplines: obf ANI DOM POT
+    title: Primogen
+    clan: Nosferatu
+    grouping: 4
+  - count: 1
+    name: Joseph Cambridge
+    id: 200721
+    capacity: 6
+    disciplines: ani dom obf POT
+    title: Bishop
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Network
+      id: 100985
+    - count: 1
+      name: Nosferatu Kingdom
+      id: 101300
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: Shanty Town Hunting Ground
+      id: 101753
+    - count: 1
+      name: Using the Advantage
+      id: 102086
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 15
+    cards:
+    - count: 1
+      name: Abbot
+      id: 100006
+    - count: 1
+      name: Black Metamorphosis
+      id: 100169
+    - count: 5
+      name: Deep Song
+      id: 100515
+    - count: 6
+      name: Govern the Unaligned
+      id: 100845
+    - count: 1
+      name: Sensory Deprivation
+      id: 101721
+    - count: 1
+      name: Under Siege
+      id: 102063
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Gang Tactics
+      id: 100802
+    - count: 1
+      name: Hidden Lurker
+      id: 100916
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Shadow Boxing
+      id: 101736
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 1
+      name: Cats' Guidance
+      id: 100308
+    - count: 1
+      name: Confusion of the Eye
+      id: 100406
+    - count: 7
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: Guard Dogs
+      id: 100863
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Rat's Warning
+      id: 101547
+  - name: Combat
+    count: 31
+    cards:
+    - count: 2
+      name: Apparition
+      id: 100076
+    - count: 2
+      name: Behind You!
+      id: 100149
+    - count: 1
+      name: Canine Horde
+      id: 100290
+    - count: 6
+      name: Carrion Crows
+      id: 100301
+    - count: 8
+      name: Immortal Grapple
+      id: 100959
+    - count: 2
+      name: Song of Serenity
+      id: 101827
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+    - count: 6
+      name: Torn Signpost
+      id: 101993

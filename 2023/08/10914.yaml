@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 7
     name: Valkyrie
+    id: 201423
     capacity: 4
     disciplines: for pre pro
     clan: Gangrel
     grouping: 3
   - count: 4
     name: Brunhilde (ADV)
+    id: 200224
     capacity: 8
     disciplines: pre ANI FOR PRO
     title: Baron
@@ -32,6 +34,7 @@ deck:
     grouping: 3
   - count: 1
     name: Vulture
+    id: 201460
     capacity: 7
     disciplines: for pre ANI POT PRO
     clan: Gangrel
@@ -42,107 +45,146 @@ deck:
     count: 21
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 3
       name: Anarch Revolt
+      id: 100055
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Ennoia's Theater
+      id: 100646
     - count: 1
       name: Gangrel Revel
+      id: 100807
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Protean
+      id: 101498
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 3
       name: Vessel
+      id: 102113
     - count: 1
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 13
     cards:
     - count: 2
       name: Constant Revolution
+      id: 100416
     - count: 3
       name: Field Training
+      id: 100725
     - count: 2
       name: Rewilding
+      id: 101632
     - count: 6
       name: Thing
+      id: 101972
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Sport Bike
+      id: 101856
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Action Modifier
     count: 4
     cards:
     - count: 1
       name: Earth Control
+      id: 100600
     - count: 3
       name: Monkey Wrench
+      id: 101239
   - name: Action Modifier/Combat
     count: 1
     cards:
     - count: 1
       name: Rapid Change
+      id: 101542
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 19
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 5
       name: Deep Ecology
+      id: 102219
     - count: 6
       name: Eyes of the Wild
+      id: 102222
     - count: 2
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 25
     cards:
     - count: 7
       name: Diversion
+      id: 100563
     - count: 3
       name: Donnybrook
+      id: 100576
     - count: 8
       name: Earth Meld
+      id: 100601
     - count: 2
       name: Form of Mist
+      id: 100771
     - count: 1
       name: Indomitability
+      id: 100973
     - count: 2
       name: Rolling with the Punches
+      id: 101649
     - count: 2
       name: Superior Mettle
+      id: 101905

@@ -7,10 +7,10 @@ winner: Patrik Spjut
 vekn_number: 8090049
 event_url: https://www.vekn.net/event-calendar/event/11650
 event_id: 11650
-vp_comment: 1,5 VP in the final.
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81729-twd-the-deed-stockholm-2024-stockholm-sweden-7-july-2024
+vp_comment: 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11650
 deck:
+  name: '"Lets play Prince and Princess"'
   description: ''
   crypt_count: 12
   crypt_min: 18
@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Diana Iadanza
+    id: 201694
     capacity: 9
     disciplines: AUS CEL FOR PRE
     title: Justicar
@@ -26,6 +27,7 @@ deck:
     grouping: 7
   - count: 2
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 1
     name: Marcos Belegrad
+    id: 201702
     capacity: 8
     disciplines: ani AUS CEL PRE
     title: Prince
@@ -40,6 +43,7 @@ deck:
     grouping: 7
   - count: 1
     name: Modius
+    id: 201703
     capacity: 8
     disciplines: obf AUS CEL PRE
     title: Prince
@@ -47,6 +51,7 @@ deck:
     grouping: 7
   - count: 1
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -54,6 +59,7 @@ deck:
     grouping: 6
   - count: 1
     name: Mkhokheli
+    id: 201561
     capacity: 6
     disciplines: aus cel for PRE
     title: Prince
@@ -61,12 +67,14 @@ deck:
     grouping: 6
   - count: 1
     name: Valentina Osako
+    id: 201707
     capacity: 3
     disciplines: PRE
     clan: Toreador
     grouping: 7
   - count: 1
     name: Mateo García
+    id: 201631
     capacity: 2
     disciplines: pre
     clan: Toreador
@@ -78,74 +86,100 @@ deck:
     cards:
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 1
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: 'Elysium: The Palace of Versailles'
+      id: 100632
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 2
       name: Toreador Grand Ball
+      id: 101989
     - count: 6
       name: Villein
+      id: 102121
     - count: 5
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 8
     cards:
     - count: 4
       name: Enchant Kindred
+      id: 100640
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 3
       name: 'Fourth Tradition: The Accounting'
-  - name: Political Action
-    count: 17
-    cards:
-    - count: 5
-      name: Camarilla's Iron Fist
-    - count: 6
-      name: Kine Resources Contested
-    - count: 6
-      name: Parity Shift
+      id: 100782
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
+  - name: Political Action
+    count: 17
+    cards:
+    - count: 5
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 6
+      name: Kine Resources Contested
+      id: 101056
+    - count: 6
+      name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 25
     cards:
     - count: 2
       name: Aire of Elation
+      id: 100031
     - count: 2
       name: Bewitching Oration
+      id: 100157
     - count: 8
       name: Forced March
+      id: 100761
     - count: 5
       name: Loup
+      id: 102273
     - count: 2
       name: Perfect Paragon
+      id: 101387
     - count: 6
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Scalpel Tongue
-  - name: Combat
-    count: 7
-    cards:
-    - count: 7
-      name: Majesty
+      id: 101686
   - name: Reaction
     count: 12
     cards:
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 5
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Majesty
+      id: 101144

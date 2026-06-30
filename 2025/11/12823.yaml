@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 2
     name: Tegyrius, Vizier
+    id: 201654
     capacity: 10
     disciplines: AUS CEL FOR PRE THA
     title: 2 Votes
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Kasim Bayar
+    id: 201598
     capacity: 9
     disciplines: aus pot CEL OBF THA
     title: Justicar
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Oluwafunmilayo
+    id: 201656
     capacity: 8
     disciplines: AUS CEL OBF THA
     title: Prince
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 1
     name: Algirdas, The Solar Prophet
+    id: 201738
     capacity: 7
     disciplines: pot ANI CEL THA
     title: Bishop
@@ -48,6 +52,7 @@ deck:
     path: Caine
   - count: 1
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
@@ -55,6 +60,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kalyani, Agent of Doom
+    id: 201759
     capacity: 7
     disciplines: obf pot ANI CEL THA
     title: Bishop
@@ -63,6 +69,7 @@ deck:
     path: Caine
   - count: 1
     name: Khadija Al-Kindi
+    id: 201599
     capacity: 6
     disciplines: CEL OBF THA
     title: Primogen
@@ -70,6 +77,7 @@ deck:
     grouping: 6
   - count: 1
     name: Hekla "Bonecrusher" Jónasdóttir
+    id: 201756
     capacity: 5
     disciplines: cel POT THA
     clan: Banu Haqim
@@ -77,6 +85,7 @@ deck:
     path: Caine
   - count: 1
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -89,58 +98,79 @@ deck:
     cards:
     - count: 3
       name: Archon Investigation
+      id: 100085
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Fame
+      id: 100698
     - count: 2
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 4
       name: Priority Contract
+      id: 101487
     - count: 2
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 6
     cards:
     - count: 3
       name: Ambush
+      id: 100046
     - count: 3
       name: Hunter's Mark
+      id: 102228
   - name: Equipment
     count: 2
     cards:
     - count: 2
       name: .44 Magnum
+      id: 100001
   - name: Action Modifier/Combat
     count: 5
     cards:
     - count: 5
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 10
     cards:
     - count: 10
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 49
     cards:
     - count: 5
       name: Acrobatics
+      id: 100020
     - count: 5
       name: Blur
+      id: 100227
     - count: 2
       name: Drain Essence
+      id: 100582
     - count: 6
       name: Flash
+      id: 100744
     - count: 11
       name: Hunger of Marduk
+      id: 102227
     - count: 8
       name: Pursuit
+      id: 101523
     - count: 5
       name: Quickness
+      id: 101532
     - count: 3
       name: Side Strike
+      id: 101778
     - count: 4
       name: Sideslip
+      id: 101779

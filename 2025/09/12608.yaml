@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Dafina Hanganu
+    id: 201729
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
@@ -25,6 +26,7 @@ deck:
     grouping: 6
   - count: 3
     name: María del Toro
+    id: 201714
     capacity: 7
     disciplines: DOM OBL POT
     title: Prince
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Yewon Ong
+    id: 201716
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
@@ -39,18 +42,21 @@ deck:
     grouping: 6
   - count: 2
     name: Aintzane Arriaga
+    id: 201708
     capacity: 6
     disciplines: DOM OBL POT
     clan: Lasombra
     grouping: 6
   - count: 1
     name: Egidia Arrú
+    id: 201730
     capacity: 8
     disciplines: pro DOM OBL POT
     clan: Lasombra
     grouping: 6
   - count: 1
     name: Braden White
+    id: 201711
     capacity: 4
     disciplines: dom obl pot
     clan: Lasombra
@@ -62,64 +68,88 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 3
       name: Dead Pool
+      id: 102299
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Guardian Angel
+      id: 100866
     - count: 2
       name: Monster
+      id: 101242
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 15
     cards:
     - count: 4
       name: Govern the Unaligned
+      id: 100845
     - count: 1
       name: Graverobbing
+      id: 100852
     - count: 2
       name: Heroic Might
+      id: 100913
     - count: 8
       name: Umbrous Clutch
+      id: 102306
   - name: Political Action
     count: 1
     cards:
     - count: 1
       name: Raising the Portcullis
+      id: 102303
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 16
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 2
       name: Shadow Sentinel
+      id: 102294
   - name: Combat
     count: 42
     cards:
     - count: 6
       name: Arms of Ahriman
+      id: 102275
     - count: 3
       name: Disarm
+      id: 100549
     - count: 8
       name: Immortal Grapple
+      id: 100959
     - count: 5
       name: Roundhouse
+      id: 102215
     - count: 6
       name: Shadow Shift
+      id: 102305
     - count: 6
       name: Taste of Vitae
+      id: 101945
     - count: 8
       name: Torn Signpost
+      id: 101993

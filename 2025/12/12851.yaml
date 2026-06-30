@@ -7,12 +7,10 @@ winner: Antonio Cobo Cuenca
 vekn_number: 3810007
 event_url: https://www.vekn.net/event-calendar/event/12851
 event_id: 12851
-vp_comment: 2GW6+ GW4 in the finals
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/83017-twd-rage-of-apedemak-jol-online-15-december-2025
+vp_comment: 2GW6 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12851
 deck:
-  name: cascabeles
-  description: ''
+  description: Heavily Inspired by Danilo's deck
   crypt_count: 28
   crypt_min: 4
   crypt_max: 18
@@ -33,13 +31,6 @@ deck:
     clan: Tremere antitribu
     grouping: 4
   - count: 1
-    name: Ember Wright
-    id: 200418
-    capacity: 3
-    disciplines: aus dom
-    clan: Tremere antitribu
-    grouping: 3
-  - count: 1
     name: Esoara
     id: 200437
     capacity: 5
@@ -54,17 +45,24 @@ deck:
     clan: Tremere antitribu
     grouping: 4
   - count: 1
-    name: Keith Moody
-    id: 200767
-    capacity: 3
-    disciplines: DOM
-    clan: Tremere antitribu
-    grouping: 4
-  - count: 1
     name: Mosfair
     id: 201013
     capacity: 4
     disciplines: cel dom tha
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Ember Wright
+    id: 200418
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Keith Moody
+    id: 200767
+    capacity: 3
+    disciplines: DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
@@ -103,12 +101,6 @@ deck:
     - count: 8
       name: Graverobbing
       id: 100852
-  - name: Political Action
-    count: 7
-    cards:
-    - count: 7
-      name: Autarkis Persecution
-      id: 100115
   - name: Ally
     count: 10
     cards:
@@ -121,6 +113,12 @@ deck:
     - count: 1
       name: Hand of Conrad
       id: 100882
+  - name: Political Action
+    count: 7
+    cards:
+    - count: 7
+      name: Autarkis Persecution
+      id: 100115
   - name: Action Modifier
     count: 6
     cards:

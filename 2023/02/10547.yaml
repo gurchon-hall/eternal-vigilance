@@ -1,0 +1,160 @@
+name: Plañidera de las Tinieblas
+location: Palma de Mallorca, Spain
+date_start: 2023-02-12
+rounds_format: 3R+F
+players_count: 20
+winner: Gaspar Vaquer
+vekn_number: 3190113
+event_url: https://www.vekn.net/event-calendar/event/10547
+event_id: 10547
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10547
+deck:
+  name: legionnaire auspex wall
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 24
+  crypt_avg: 3.58
+  crypt:
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 2
+    name: Hecate
+    id: 200580
+    capacity: 6
+    disciplines: AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 2
+    name: La Viuda Blanca
+    id: 200801
+    capacity: 6
+    disciplines: for obf AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: America Johnson
+    id: 201512
+    capacity: 4
+    disciplines: vic AUS
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Pearl
+    id: 201106
+    capacity: 4
+    disciplines: obf AUS
+    clan: Malkavian antitribu
+    grouping: 5
+  - count: 1
+    name: Tyler McGill
+    id: 201398
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+      id: 100052
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 5
+      name: Liquidation
+      id: 101112
+    - count: 6
+      name: Piper
+      id: 101401
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 2
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 4
+      name: Vessel
+      id: 102113
+  - name: Ally
+    count: 12
+    cards:
+    - count: 12
+      name: Emerald Legionnaire
+      id: 100634
+  - name: Equipment
+    count: 7
+    cards:
+    - count: 1
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 3
+      name: Sniper Rifle
+      id: 101816
+  - name: Reaction
+    count: 41
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 5
+      name: Eagle's Sight
+      id: 100598
+    - count: 4
+      name: Enhanced Senses
+      id: 100644
+    - count: 10
+      name: Eyes of Argus
+      id: 100680
+    - count: 4
+      name: Forced Awakening
+      id: 100760
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 10
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Target Vitals
+      id: 101942
+  - name: Event
+    count: 2
+    cards:
+    - count: 2
+      name: Unmasking, The
+      id: 102079

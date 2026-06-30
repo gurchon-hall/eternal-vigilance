@@ -8,11 +8,9 @@ vekn_number: 3200360
 event_url: https://www.vekn.net/event-calendar/event/12969
 event_id: 12969
 vp_comment: 2GW6 + 1.5vp in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82942-twd-r-d-paris
+forum_post_url: https://www.vekn.net/event-calendar/event/12969
 deck:
   name: Guns and shit (mostly guns)
-  created_by: Rhazoo
   description: ''
   crypt_count: 12
   crypt_min: 18
@@ -21,6 +19,7 @@ deck:
   crypt:
   - count: 2
     name: Saku Pihlajamäki
+    id: 201658
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
@@ -28,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -35,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -42,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -49,6 +51,7 @@ deck:
     grouping: 6
   - count: 2
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -56,12 +59,14 @@ deck:
     grouping: 6
   - count: 1
     name: Anita Wainwright
+    id: 201657
     capacity: 3
     disciplines: cel pre
     clan: Brujah
     grouping: 6
   - count: 1
     name: Laura Goldman
+    id: 200816
     capacity: 3
     disciplines: cel pre
     clan: Brujah
@@ -72,60 +77,83 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: New Carthage
+      id: 101277
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 7
       name: Villein
+      id: 102121
   - name: Action
     count: 6
     cards:
     - count: 5
       name: Line Brawl
+      id: 102229
     - count: 1
       name: Open War
+      id: 101324
   - name: Equipment
     count: 8
     cards:
     - count: 7
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Reaction
     count: 21
     cards:
     - count: 7
       name: Bait and Switch
+      id: 102218
     - count: 14
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 27
     cards:
     - count: 4
       name: Bollix
+      id: 100232
     - count: 6
       name: Concealed Weapon
+      id: 100392
     - count: 10
       name: Diversion
+      id: 100563
     - count: 4
       name: Hell-for-Leather
+      id: 100910
     - count: 3
       name: Taste of Vitae
+      id: 101945

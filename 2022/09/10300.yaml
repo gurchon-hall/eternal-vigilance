@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Mary Anne Blaire
+    id: 200946
     capacity: 10
     disciplines: ani pot AUS DOM FOR PRE
     title: Justicar
@@ -25,6 +26,7 @@ deck:
     grouping: 5
   - count: 2
     name: Alexa Draper
+    id: 201529
     capacity: 8
     disciplines: for pot DOM PRE
     title: Prince
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Lodin (Olaf Holte)
+    id: 200848
     capacity: 8
     disciplines: aus pro DOM FOR PRE
     title: Prince
@@ -39,6 +42,7 @@ deck:
     grouping: 5
   - count: 1
     name: Alice Chen
+    id: 201531
     capacity: 7
     disciplines: dom obf FOR PRE
     title: Prince
@@ -46,6 +50,7 @@ deck:
     grouping: 6
   - count: 1
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -53,6 +58,7 @@ deck:
     grouping: 6
   - count: 1
     name: Graham Gottesman
+    id: 200533
     capacity: 7
     disciplines: obf pre tha DOM FOR
     title: Prince
@@ -60,6 +66,7 @@ deck:
     grouping: 5
   - count: 1
     name: Sybren van Oosten
+    id: 201570
     capacity: 7
     disciplines: dom tha FOR PRE
     title: Prince
@@ -67,6 +74,7 @@ deck:
     grouping: 6
   - count: 1
     name: Victor Donaldson
+    id: 201438
     capacity: 6
     disciplines: for pre DOM
     title: Prince
@@ -79,80 +87,112 @@ deck:
     cards:
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: Ventrue Headquarters
+      id: 102109
     - count: 4
       name: Villein
+      id: 102121
     - count: 4
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 15
     cards:
     - count: 2
       name: Enchant Kindred
+      id: 100640
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 1
       name: 'Fourth Tradition: The Accounting'
+      id: 100782
     - count: 6
       name: Govern the Unaligned
+      id: 100845
     - count: 1
       name: 'Judgment: Camarilla Segregation'
+      id: 101028
     - count: 1
       name: Mind Numb
+      id: 101211
     - count: 2
       name: Scouting Mission
+      id: 101698
   - name: Political Action
     count: 13
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Justicar Retribution
+      id: 101031
     - count: 4
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 5
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 15
     cards:
     - count: 1
       name: Daring the Dawn
+      id: 100492
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
     - count: 6
       name: Freak Drive
+      id: 100788
     - count: 2
       name: Perfect Paragon
+      id: 101387
     - count: 5
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 11
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 1
       name: Redirection
+      id: 101578
     - count: 2
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 10
     cards:
     - count: 10
       name: Majesty
+      id: 101144

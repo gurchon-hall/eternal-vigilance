@@ -1,0 +1,184 @@
+name: Faceless Night
+location: Ephrata (PA), USA
+date_start: 2024-08-02
+rounds_format: 2R+F
+players_count: 12
+winner: Bill Troxel
+vekn_number: 2150015
+event_url: https://www.vekn.net/event-calendar/event/11564
+event_id: 11564
+vp_comment: 1GW3 (3rd seed) + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11564
+deck:
+  name: 'Org Bleed Resistance: More Fun Version'
+  description: Added lots of Groundfighting and more Delaying Tactics to this 
+    year's NAC-winning deck, along with a little flavor from Sowing Dissension 
+    and Dominate Kine.
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 32
+  crypt_avg: 6.42
+  crypt:
+  - count: 4
+    name: Adrino Manauara
+    id: 201664
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 3
+    name: Ángel Guerrero
+    id: 201665
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Branimira
+    id: 201667
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Kuyén
+    id: 201574
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Clara Hjortshøj
+    id: 201669
+    capacity: 5
+    disciplines: ani aus dom PRO
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Kamile Paukstys
+    id: 201597
+    capacity: 5
+    disciplines: ani for PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Channel 10
+      id: 100327
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 15
+    cards:
+    - count: 2
+      name: Deep Song
+      id: 100515
+    - count: 1
+      name: Dominate Kine
+      id: 100573
+    - count: 11
+      name: Govern the Unaligned
+      id: 100845
+    - count: 1
+      name: Sowing Dissension
+      id: 101838
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Eat the Rich
+      id: 100605
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 4
+      name: Conditioning
+      id: 100401
+    - count: 4
+      name: Earth Control
+      id: 100600
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 25
+    cards:
+    - count: 6
+      name: Bait and Switch
+      id: 102218
+    - count: 5
+      name: Deep Ecology
+      id: 102219
+    - count: 2
+      name: Deflection
+      id: 100518
+    - count: 5
+      name: Delaying Tactics
+      id: 100519
+    - count: 5
+      name: Organized Resistance
+      id: 102230
+    - count: 2
+      name: Protection Racket
+      id: 101501
+  - name: Combat
+    count: 22
+    cards:
+    - count: 9
+      name: Earth Meld
+      id: 100601
+    - count: 8
+      name: Form of Mist
+      id: 100771
+    - count: 5
+      name: Groundfighting
+      id: 100861

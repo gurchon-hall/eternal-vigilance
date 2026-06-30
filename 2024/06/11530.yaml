@@ -19,24 +19,28 @@ deck:
   crypt:
   - count: 5
     name: Saulot, The Wanderer
+    id: 201248
     capacity: 11
     disciplines: dai AUS FOR OBE THA VAL
     clan: Salubri
     grouping: 4
   - count: 4
-    name: The Capuchin
+    name: Capuchin, The
+    id: 200242
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
     grouping: 5
   - count: 2
-    name: Baba Yaga, the Iron Hag
+    name: Baba Yaga, The Iron Hag
+    id: 200157
     capacity: 11
     disciplines: ANI AUS FOR OBF POT THA
     clan: Nosferatu
     grouping: 5
   - count: 1
-    name: The Dracon
+    name: Dracon, The
+    id: 200385
     capacity: 11
     disciplines: ANI AUS POT THA VIC
     clan: Tzimisce
@@ -48,91 +52,127 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 2
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: Mob Connections
+      id: 101229
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 2
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Saulot's Avenging Fist
+      id: 102257
     - count: 1
       name: Sight Beyond Sight
+      id: 101780
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 6
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 6
     cards:
     - count: 6
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 8
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: IR Goggles
+      id: 101007
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
     - count: 1
       name: Sword of the Archangel
+      id: 102261
   - name: Action Modifier
     count: 2
     cards:
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 1
-      name: The Kiss of Ra
+      name: Kiss of Ra, The
+      id: 101062
   - name: Reaction
     count: 36
     cards:
     - count: 6
       name: Eagle's Sight
+      id: 100598
     - count: 4
       name: Enhanced Senses
+      id: 100644
     - count: 8
       name: Eyes of Argus
+      id: 100680
     - count: 8
       name: Forced Awakening
+      id: 100760
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Spirit's Touch
+      id: 101850
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 14
     cards:
     - count: 4
       name: Hidden Strength
+      id: 100918
     - count: 5
       name: Rolling with the Punches
+      id: 101649
     - count: 5
       name: Theft of Vitae
+      id: 101966
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

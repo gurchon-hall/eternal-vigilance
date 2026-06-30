@@ -19,60 +19,70 @@ deck:
   crypt:
   - count: 2
     name: Justine Chen, Innocent
+    id: 200740
     capacity: 2
     disciplines: pre
     clan: Toreador antitribu
     grouping: 4
   - count: 2
     name: Nicholas Chang
+    id: 201055
     capacity: 2
     disciplines: aus
     clan: Toreador antitribu
     grouping: 3
   - count: 1
     name: Creamy Jade
+    id: 200299
     capacity: 5
     disciplines: aus cel vic PRE
     clan: Toreador antitribu
     grouping: 3
   - count: 1
     name: Cristos Mantigo
+    id: 200302
     capacity: 5
     disciplines: aus cel dom obf pre
     clan: Toreador antitribu
     grouping: 3
   - count: 1
     name: Gabriel de Cambrai
+    id: 200488
     capacity: 5
     disciplines: aus cel dem obf pre
     clan: Toreador antitribu
     grouping: 4
   - count: 1
     name: L'Épuisette
+    id: 200800
     capacity: 4
     disciplines: aus cel pro
     clan: Toreador antitribu
     grouping: 4
   - count: 1
     name: Loonar
+    id: 200851
     capacity: 4
     disciplines: cel PRE
     clan: Toreador antitribu
     grouping: 4
   - count: 1
     name: Sabrina
+    id: 201218
     capacity: 4
     disciplines: aus cel pre
     clan: Toreador antitribu
     grouping: 3
   - count: 1
     name: Jonathan Gursel
+    id: 200717
     capacity: 3
     disciplines: aus pre
     clan: Toreador antitribu
     grouping: 4
   - count: 1
     name: Monique Kim
+    id: 201005
     capacity: 3
     disciplines: aus cel
     clan: Toreador antitribu
@@ -83,47 +93,62 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Fetish Club Hunting Ground
+      id: 100724
     - count: 6
       name: Foundation Exhibit
+      id: 100779
     - count: 3
       name: Palla Grande
+      id: 101346
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
   - name: Action
     count: 15
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 4
       name: Art Scam
+      id: 100099
     - count: 10
-      name: The Embrace
+      name: Embrace, The
+      id: 100633
   - name: Political Action
     count: 23
     cards:
     - count: 10
       name: Consanguineous Boon
+      id: 100410
     - count: 2
       name: Conservative Agitation
+      id: 100414
     - count: 11
       name: Kine Resources Contested
+      id: 101056
   - name: Action Modifier
     count: 5
     cards:
     - count: 4
       name: Change of Target
+      id: 100323
     - count: 1
       name: Cryptic Rider
+      id: 100478
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Dodge
+      id: 100567
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Uncoiling
+      name: Uncoiling, The
+      id: 102057

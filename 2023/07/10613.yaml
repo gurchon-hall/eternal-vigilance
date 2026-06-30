@@ -18,12 +18,14 @@ deck:
   crypt:
   - count: 3
     name: Andrea Giovanni
+    id: 200082
     capacity: 7
     disciplines: pot vic DOM NEC
     clan: Giovanni
     grouping: 2
   - count: 2
     name: Regina Giovanni, The Right Hand of Augustus
+    id: 201175
     capacity: 10
     disciplines: aus for DOM NEC POT
     title: 2 Votes
@@ -31,36 +33,42 @@ deck:
     grouping: 2
   - count: 2
     name: Rudolfo Giovanni
+    id: 201209
     capacity: 3
     disciplines: NEC
     clan: Giovanni
     grouping: 2
   - count: 1
     name: Pochtli
+    id: 201127
     capacity: 8
     disciplines: cel dom NEC OBF POT
     clan: Giovanni
     grouping: 2
   - count: 1
     name: Carlotta Giovanni
+    id: 200245
     capacity: 7
     disciplines: dom obf NEC POT
     clan: Giovanni
     grouping: 2
   - count: 1
     name: Gillespi Giovanni
+    id: 200518
     capacity: 7
     disciplines: aus DOM NEC POT
     clan: Giovanni
     grouping: 2
   - count: 1
     name: Isabel Giovanni
+    id: 200643
     capacity: 5
     disciplines: pot DOM NEC
     clan: Giovanni
     grouping: 2
   - count: 1
     name: Gloria Giovanni
+    id: 200525
     capacity: 4
     disciplines: nec DOM
     clan: Giovanni
@@ -71,112 +79,155 @@ deck:
     count: 23
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 2
       name: Charisma
+      id: 100332
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: Mob Connections
+      id: 101229
     - count: 1
       name: Morgue Hunting Ground
+      id: 101243
     - count: 2
-      name: The Path of Bone
+      name: Path of Bone, The
+      id: 101359
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Specialization
+      id: 101842
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 1
       name: Tower of London
+      id: 102001
     - count: 3
       name: Vessel
+      id: 102113
     - count: 1
       name: Wall Street Night, Financial Newspaper
+      id: 102142
   - name: Ally
     count: 26
     cards:
     - count: 1
       name: Ambrosius, The Ferryman
+      id: 100044
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 2
       name: Draeven Softfoot
+      id: 100579
     - count: 1
       name: Felix "Fix" Hessian
+      id: 100719
     - count: 1
       name: Gregory Winter
+      id: 100855
     - count: 1
       name: Neighborhood Watch Commander
+      id: 101270
     - count: 1
       name: Ossian
+      id: 101333
     - count: 3
       name: Procurer
+      id: 101491
     - count: 13
       name: Shambling Hordes
+      id: 101751
     - count: 2
       name: Tye Cooper
+      id: 102053
   - name: Equipment
     count: 2
     cards:
     - count: 2
       name: Unlicensed Taxicab
+      id: 102078
   - name: Retainer
     count: 2
     cards:
     - count: 1
       name: Giuseppe, Gravedigger
+      id: 100833
     - count: 1
       name: Malajit Chandramouli
+      id: 101148
   - name: Action Modifier
     count: 8
     cards:
     - count: 5
       name: Call of the Hungry Dead
+      id: 100279
     - count: 1
       name: Conditioning
+      id: 100401
     - count: 2
       name: Threats
+      id: 101978
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 17
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 3
       name: Delaying Tactics
+      id: 100519
     - count: 6
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Redirection
+      id: 101578
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Spiritual Intervention
+      id: 101852
   - name: Event
     count: 4
     cards:
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
     - count: 1
       name: Scourge of the Enochians
+      id: 101697
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

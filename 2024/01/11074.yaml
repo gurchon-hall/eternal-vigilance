@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Larissa Moreira
+    id: 201553
     capacity: 6
     disciplines: pot ANI OBF
     title: Primogen
@@ -26,13 +27,15 @@ deck:
     grouping: 6
   - count: 3
     name: Lenny Burkhead
+    id: 201555
     capacity: 6
     disciplines: obf pot pre ANI
     title: Primogen
     clan: Nosferatu
     grouping: 6
   - count: 2
-    name: The Dowager
+    name: Dowager, The
+    id: 201545
     capacity: 6
     disciplines: aus pot ANI OBF
     title: Primogen
@@ -40,18 +43,21 @@ deck:
     grouping: 6
   - count: 2
     name: Horace Radcliffe
+    id: 201549
     capacity: 5
     disciplines: obf ANI POT
     clan: Nosferatu
     grouping: 6
   - count: 1
     name: Ryan
+    id: 201568
     capacity: 4
     disciplines: ani obf pot
     clan: Nosferatu
     grouping: 6
   - count: 1
     name: Baixinho
+    id: 201536
     capacity: 3
     disciplines: ani obf
     clan: Nosferatu
@@ -62,76 +68,101 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 5
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
-      name: The Labyrinth
+      name: Labyrinth, The
+      id: 101070
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Slum Hunting Ground
+      id: 101808
     - count: 1
       name: Sudden Reversal
+      id: 101896
   - name: Action
     count: 10
     cards:
     - count: 8
       name: Deep Song
+      id: 100515
     - count: 2
       name: Tier of Souls
+      id: 101984
   - name: Ally
     count: 3
     cards:
     - count: 3
       name: Underbridge Stray
+      id: 102065
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Camera Phone
+      id: 100287
   - name: Retainer
     count: 2
     cards:
     - count: 1
       name: J. S. Simmons, Esq.
+      id: 101015
     - count: 1
       name: Tasha Morgan
+      id: 101943
   - name: Action Modifier
     count: 8
     cards:
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 5
       name: Lost in Crowds
+      id: 101125
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 21
     cards:
     - count: 6
       name: Cats' Guidance
+      id: 100308
     - count: 6
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: Protected District
+      id: 102214
     - count: 3
-      name: The Warrens
+      name: Warrens, The
+      id: 102216
   - name: Combat
     count: 29
     cards:
     - count: 10
       name: Aid from Bats
+      id: 100029
     - count: 2
       name: Canine Horde
+      id: 100290
     - count: 8
       name: Carrion Crows
+      id: 100301
     - count: 5
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Taste of Vitae
+      id: 101945

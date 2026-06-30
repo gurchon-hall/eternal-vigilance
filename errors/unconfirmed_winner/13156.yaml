@@ -18,12 +18,14 @@ deck:
   crypt:
   - count: 4
     name: Helena
+    id: 200586
     capacity: 10
     disciplines: obf pre tha AUS CEL DOM
     clan: Toreador
     grouping: 3
   - count: 3
     name: Ira Rivers
+    id: 200639
     capacity: 7
     disciplines: ani pre AUS CEL
     title: Prince
@@ -31,12 +33,14 @@ deck:
     grouping: 3
   - count: 2
     name: Joaquin Murietta
+    id: 200708
     capacity: 9
     disciplines: obf pre qui AUS CEL
     clan: Toreador
     grouping: 3
   - count: 1
     name: Eugene
+    id: 200441
     capacity: 8
     disciplines: AUS CEL FOR PRE
     title: Primogen
@@ -44,12 +48,14 @@ deck:
     grouping: 4
   - count: 1
     name: Khalu
+    id: 200779
     capacity: 7
     disciplines: ani pro AUS CEL POT
     clan: Osebo
     grouping: 3
   - count: 1
     name: Yvette, The Hopeless
+    id: 201496
     capacity: 3
     disciplines: aus cel
     clan: Toreador
@@ -61,79 +67,112 @@ deck:
     cards:
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 1
       name: Blood Puppy
+      id: 100207
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Rack, The
+      id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Society Hunting Ground
+      id: 101821
     - count: 3
       name: Vessel
+      id: 102113
     - count: 1
       name: Wash
+      id: 102151
   - name: Action
     count: 1
     cards:
     - count: 1
       name: Revelations
+      id: 101627
   - name: Equipment
     count: 7
     cards:
     - count: 4
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 2
       name: Sniper Rifle
+      id: 101816
   - name: Reaction
     count: 34
     cards:
     - count: 5
       name: Eagle's Sight
+      id: 100598
     - count: 5
       name: Enhanced Senses
+      id: 100644
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: Forced Awakening
+      id: 100760
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Quicken Sight
+      id: 101531
     - count: 2
       name: Spirit's Touch
+      id: 101850
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 32
     cards:
     - count: 4
       name: Blur
+      id: 100227
     - count: 6
       name: Concealed Weapon
+      id: 100392
     - count: 2
       name: Infernal Pursuit
+      id: 100980
     - count: 5
       name: Psyche!
+      id: 101507
     - count: 6
       name: Pursuit
+      id: 101523
     - count: 4
       name: Sideslip
+      id: 101779
     - count: 5
       name: Taste of Vitae
+      id: 101945

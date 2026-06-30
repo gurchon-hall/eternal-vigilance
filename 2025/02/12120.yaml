@@ -1,0 +1,208 @@
+name: Rumo ao GP 04
+location: Online
+date_start: 2025-02-17
+rounds_format: 2R+F
+players_count: 13
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/12120
+event_id: 12120
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12120
+deck:
+  name: Matasuntha wall
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 39
+  crypt_avg: 6.25
+  crypt:
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 3
+    name: Matasuntha
+    id: 200956
+    capacity: 10
+    disciplines: ANI AUS CEL FOR PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 3
+    name: Inyanga
+    id: 200638
+    capacity: 9
+    disciplines: dom nec ANI AUS FOR PRO
+    title: Primogen
+    clan: Gangrel
+    grouping: 4
+  - count: 1
+    name: Randall
+    id: 201160
+    capacity: 8
+    disciplines: ANI AUS FOR PRO
+    title: 1 Vote
+    clan: Gangrel
+    grouping: 4
+  - count: 1
+    name: Dr. Sutton Gassaway
+    id: 200384
+    capacity: 6
+    disciplines: ani aus FOR PRO
+    clan: Gangrel
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 1
+      name: Backways
+      id: 100126
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Ecoterrorists
+      id: 100609
+    - count: 1
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Guardian Angel
+      id: 100866
+    - count: 1
+      name: Heidelberg Castle, Germany
+      id: 100908
+    - count: 1
+      name: Marrakesh Codex, The
+      id: 101172
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: 'Powerbase: Chicago'
+      id: 101434
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 2
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+    - count: 1
+      name: Zoo Hunting Ground
+      id: 102212
+  - name: Action
+    count: 3
+    cards:
+    - count: 1
+      name: Army of Rats
+      id: 100093
+    - count: 2
+      name: Constant Revolution
+      id: 100416
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 1
+      name: Monkey Wrench
+      id: 101239
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 26
+    cards:
+    - count: 4
+      name: Eagle's Sight
+      id: 100598
+    - count: 2
+      name: Enhanced Senses
+      id: 100644
+    - count: 6
+      name: Eyes of Argus
+      id: 100680
+    - count: 6
+      name: Eyes of the Wild
+      id: 102222
+    - count: 1
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 2
+      name: Precognition
+      id: 101475
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 30
+    cards:
+    - count: 1
+      name: Bone Spur
+      id: 100237
+    - count: 7
+      name: Carrion Crows
+      id: 100301
+    - count: 2
+      name: Claws of the Dead
+      id: 100356
+    - count: 5
+      name: Drawing Out the Beast
+      id: 100585
+    - count: 3
+      name: Earth Meld
+      id: 100601
+    - count: 4
+      name: Indomitability
+      id: 100973
+    - count: 8
+      name: Rolling with the Punches
+      id: 101649
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581

@@ -1,5 +1,5 @@
 name: Ressaca de Carnaval
-location: Niterói, Brasil
+location: Niterói, Brazil
 date_start: 2026-03-15
 rounds_format: 2R+F
 players_count: 10
@@ -7,11 +7,10 @@ winner: Italo Girianelli Neto
 vekn_number: 6029999
 event_url: https://www.vekn.net/event-calendar/event/13107
 event_id: 13107
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82906-twd-ressaca-de-carnaval
+vp_comment: 0GW1.5 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13107
 deck:
   name: Lutz Politics
-  created_by: Italo Girianelli Neto
   description: ''
   crypt_count: 12
   crypt_min: 38
@@ -20,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Lutz von Hohenzollern
+    id: 200890
     capacity: 11
     disciplines: pot AUS DEM OBF PRE
     title: Inner Circle
@@ -27,6 +27,7 @@ deck:
     grouping: 4
   - count: 2
     name: Adana de Sforza
+    id: 200011
     capacity: 11
     disciplines: aus CEL OBF POT PRE PRO
     title: Inner Circle
@@ -34,6 +35,7 @@ deck:
     grouping: 4
   - count: 2
     name: Rafael de Corazon
+    id: 201151
     capacity: 11
     disciplines: AUS CEL DOM OBF PRE
     title: Inner Circle
@@ -41,6 +43,7 @@ deck:
     grouping: 4
   - count: 2
     name: Unmada
+    id: 201410
     capacity: 10
     disciplines: cel for AUS DEM OBF VIC
     title: Justicar
@@ -48,6 +51,7 @@ deck:
     grouping: 5
   - count: 2
     name: Dmitra Ilyanova
+    id: 200349
     capacity: 9
     disciplines: obf CEL FOR POT PRE
     title: Justicar
@@ -60,67 +64,94 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 6
       name: Villein
+      id: 102121
     - count: 6
       name: Zillah's Valley
+      id: 102207
   - name: Political Action
     count: 16
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Banishment
+      id: 100131
     - count: 5
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 6
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 22
     cards:
     - count: 4
       name: Awe
+      id: 100119
     - count: 4
       name: Elder Impersonation
+      id: 100617
     - count: 5
       name: Forgotten Labyrinth
+      id: 100769
     - count: 5
       name: Lost in Crowds
+      id: 101125
     - count: 4
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 15
     cards:
     - count: 8
       name: Eyes of Argus
+      id: 100680
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 11
     cards:
     - count: 4
       name: Charismatic Aura
+      id: 100333
     - count: 4
       name: Majesty
+      id: 101144
     - count: 3
       name: No Trace
+      id: 101292

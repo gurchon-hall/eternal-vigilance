@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 2
     name: Kasim Bayar
+    id: 201598
     capacity: 9
     disciplines: aus pot CEL OBF THA
     title: Justicar
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Oluwafunmilayo
+    id: 201656
     capacity: 8
     disciplines: AUS CEL OBF THA
     title: Prince
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -47,6 +51,7 @@ deck:
     grouping: 6
   - count: 2
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -54,6 +59,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kalinda
+    id: 201596
     capacity: 6
     disciplines: tha CEL OBF
     title: Primogen
@@ -61,6 +67,7 @@ deck:
     grouping: 6
   - count: 1
     name: Khadija Al-Kindi
+    id: 201599
     capacity: 6
     disciplines: CEL OBF THA
     title: Primogen
@@ -73,67 +80,91 @@ deck:
     cards:
     - count: 1
       name: Alamut
+      id: 100037
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Fame
+      id: 100698
     - count: 4
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Market Square
+      id: 101171
     - count: 2
       name: Priority Contract
+      id: 101487
     - count: 1
       name: Underworld Hunting Ground
+      id: 102066
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 12
     cards:
     - count: 10
       name: Hunter's Mark
+      id: 102228
     - count: 2
       name: 'Judgment: Camarilla Segregation'
+      id: 101028
   - name: Political Action
     count: 4
     cards:
     - count: 4
       name: Anathema
+      id: 100060
   - name: Action Modifier/Combat
     count: 10
     cards:
     - count: 5
       name: Resist Earth's Grasp
+      id: 101610
     - count: 5
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 10
     cards:
     - count: 10
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 30
     cards:
     - count: 5
       name: Blur
+      id: 100227
     - count: 14
       name: Hunger of Marduk
+      id: 102227
     - count: 2
       name: Lightning Reflexes
+      id: 101107
     - count: 2
       name: Psyche!
+      id: 101507
     - count: 4
       name: Pursuit
+      id: 101523
     - count: 2
       name: Quickness
+      id: 101532
     - count: 1
       name: Walk of Flame
+      id: 102139
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265

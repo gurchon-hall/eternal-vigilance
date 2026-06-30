@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Diana Iadanza
+    id: 201694
     capacity: 9
     disciplines: AUS CEL FOR PRE
     title: Justicar
@@ -26,6 +27,7 @@ deck:
     grouping: 7
   - count: 2
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Mkhokheli
+    id: 201561
     capacity: 6
     disciplines: aus cel for PRE
     title: Prince
@@ -47,6 +51,7 @@ deck:
     grouping: 6
   - count: 1
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
@@ -54,12 +59,14 @@ deck:
     grouping: 6
   - count: 1
     name: Silvian Popescu
+    id: 201706
     capacity: 4
     disciplines: cel PRE
     clan: Toreador
     grouping: 7
   - count: 1
     name: Valentina Osako
+    id: 201707
     capacity: 3
     disciplines: PRE
     clan: Toreador
@@ -71,88 +78,121 @@ deck:
     cards:
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Papillon
+      id: 101350
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 2
       name: Protected Resources
+      id: 101500
     - count: 7
       name: Toreador Grand Ball
+      id: 101989
     - count: 6
       name: Villein
+      id: 102121
   - name: Action
     count: 3
     cards:
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 2
       name: 'Third Tradition: Progeny'
+      id: 101973
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
-      name: The Sargon Fragment
+      name: Sargon Fragment, The
+      id: 101681
   - name: Political Action
     count: 18
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Banishment
+      id: 100131
     - count: 2
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 2
       name: Consanguineous Boon
+      id: 100410
     - count: 2
       name: Conservative Agitation
+      id: 100414
     - count: 6
       name: Kine Resources Contested
+      id: 101056
     - count: 4
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 20
     cards:
     - count: 1
       name: Aire of Elation
+      id: 100031
     - count: 2
       name: Awe
+      id: 100119
     - count: 3
       name: Bewitching Oration
+      id: 100157
     - count: 4
       name: Forced March
+      id: 100761
     - count: 1
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Perfect Paragon
+      id: 101387
     - count: 5
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 9
     cards:
     - count: 1
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Majesty
+      id: 101144

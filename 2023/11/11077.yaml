@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Dmitra Ilyanova
+    id: 200349
     capacity: 9
     disciplines: obf CEL FOR POT PRE
     title: Justicar
@@ -26,6 +27,7 @@ deck:
     grouping: 5
   - count: 3
     name: Karen Suadela
+    id: 200753
     capacity: 7
     disciplines: obf pre CEL POT
     title: Prince
@@ -33,6 +35,7 @@ deck:
     grouping: 5
   - count: 3
     name: Tara
+    id: 201341
     capacity: 6
     disciplines: cel POT PRE
     title: Prince
@@ -40,6 +43,7 @@ deck:
     grouping: 5
   - count: 3
     name: Reginald Moore
+    id: 201176
     capacity: 4
     disciplines: PRE
     title: Primogen
@@ -52,66 +56,88 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 2
       name: Creepshow Casino
+      id: 100444
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 3
       name: New Carthage
+      id: 101277
     - count: 6
       name: Villein
+      id: 102121
     - count: 2
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 6
     cards:
     - count: 4
       name: Entrancement
+      id: 100652
     - count: 2
       name: 'Judgment: Camarilla Segregation'
+      id: 101028
   - name: Political Action
     count: 19
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 13
       name: Kine Resources Contested
+      id: 101056
     - count: 5
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 18
     cards:
     - count: 2
       name: Aire of Elation
+      id: 100031
     - count: 6
       name: Forgotten Labyrinth
+      id: 100769
     - count: 4
       name: Perfect Paragon
+      id: 101387
     - count: 6
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 11
     cards:
     - count: 5
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Protected District
+      id: 102214
     - count: 1
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 7
     cards:
     - count: 7
       name: Majesty
+      id: 101144
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265

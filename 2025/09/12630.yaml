@@ -1,5 +1,5 @@
 name: Independência!!! Se a eaposa permitir... - Liga Brasil 2
-location: Teresina - Brasil
+location: Teresina, Brazil
 date_start: 2025-09-28
 rounds_format: 2R+F
 players_count: 10
@@ -7,12 +7,10 @@ winner: Igor de Arimatéa Carmo
 vekn_number: 3560014
 event_url: https://www.vekn.net/event-calendar/event/12630
 event_id: 12630
-vp_comment: Igor wins with 1,5vp in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82593-twd-independencia-se-a-esposa-permitir-liga-brasil-teresina-28-09-2025
+vp_comment: 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12630
 deck:
   name: Brujando
-  created_by: Igor Carmo
   description: ''
   crypt_count: 12
   crypt_min: 15
@@ -21,27 +19,31 @@ deck:
   crypt:
   - count: 3
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
     clan: Brujah
     grouping: 6
-  - count: 1
-    name: Valeriya Zinovieva
-    capacity: 7
-    disciplines: cel pre pro POT
-    title: Baron
-    clan: Brujah
-    grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
     clan: Brujah
     grouping: 6
   - count: 1
+    name: Valeriya Zinovieva
+    id: 201614
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
     name: Jacques Rouge
+    id: 201523
     capacity: 6
     disciplines: ani pot pre OBF
     title: Baron
@@ -49,6 +51,7 @@ deck:
     grouping: 6
   - count: 1
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -56,24 +59,28 @@ deck:
     grouping: 6
   - count: 1
     name: Octane
+    id: 201609
     capacity: 6
     disciplines: CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
     grouping: 6
   - count: 1
     name: Ariane
+    id: 200132
     capacity: 3
     disciplines: cel pot pre
     clan: Brujah
     grouping: 5
   - count: 1
     name: Rayne
+    id: 201610
     capacity: 2
     disciplines: pot
     clan: Brujah
@@ -84,70 +91,98 @@ deck:
     count: 20
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 2
       name: Anarch Revolt
+      id: 100055
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 5
       name: Brujah Debate
+      id: 100260
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: New Carthage
+      id: 101277
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 14
     cards:
     - count: 3
       name: Enchant Kindred
+      id: 100640
     - count: 3
       name: Illegalism
+      id: 100952
     - count: 7
       name: Line Brawl
+      id: 102229
     - count: 1
       name: Open War
+      id: 101324
   - name: Action Modifier
     count: 2
     cards:
     - count: 2
       name: Monkey Wrench
+      id: 101239
   - name: Reaction
     count: 17
     cards:
     - count: 5
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 8
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 37
     cards:
     - count: 2
       name: Bollix
+      id: 100232
     - count: 2
       name: Disarm
+      id: 100549
     - count: 3
       name: Diversion
+      id: 100563
     - count: 8
       name: Dust Up
+      id: 100597
     - count: 5
       name: Hell-for-Leather
+      id: 100910
     - count: 9
       name: Immortal Grapple
+      id: 100959
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 4
       name: Torn Signpost
+      id: 101993

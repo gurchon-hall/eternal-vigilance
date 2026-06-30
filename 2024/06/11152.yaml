@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -25,6 +26,7 @@ deck:
     grouping: 6
   - count: 2
     name: Saku Pihlajamäki
+    id: 201658
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
@@ -32,12 +34,14 @@ deck:
     grouping: 6
   - count: 2
     name: Theo Bell
+    id: 201613
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 2
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -45,6 +49,7 @@ deck:
     grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -52,6 +57,7 @@ deck:
     grouping: 6
   - count: 1
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -59,6 +65,7 @@ deck:
     grouping: 6
   - count: 1
     name: Octane
+    id: 201609
     capacity: 6
     disciplines: CEL POT PRE
     clan: Brujah
@@ -70,55 +77,76 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Fame
+      id: 100698
     - count: 2
       name: Monster
+      id: 101242
     - count: 2
       name: New Carthage
+      id: 101277
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Warzone Hunting Ground
+      id: 102150
   - name: Action
     count: 18
     cards:
     - count: 8
       name: Line Brawl
+      id: 102229
     - count: 4
       name: Open War
+      id: 101324
     - count: 6
       name: Show of Force
+      id: 101772
   - name: Action Modifier
     count: 3
     cards:
     - count: 3
       name: Zephyr
+      id: 102205
   - name: Reaction
     count: 12
     cards:
     - count: 5
       name: Bait and Switch
+      id: 102218
     - count: 7
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 44
     cards:
     - count: 5
       name: Bollix
+      id: 100232
     - count: 6
       name: Dust Up
+      id: 100597
     - count: 6
       name: Hell-for-Leather
+      id: 100910
     - count: 8
       name: Immortal Grapple
+      id: 100959
     - count: 6
       name: Pursuit
+      id: 101523
     - count: 5
       name: Taste of Vitae
+      id: 101945
     - count: 8
       name: Torn Signpost
+      id: 101993

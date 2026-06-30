@@ -7,11 +7,9 @@ winner: Enrique Montaño Torres
 vekn_number: 1000545
 event_url: https://www.vekn.net/event-calendar/event/11436
 event_id: 11436
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81505-liga-chilanga-2024-jornada-3
+forum_post_url: https://www.vekn.net/event-calendar/event/11436
 deck:
   name: Deep Camp of bats
-  created_by: Geek Doctor
   description: ''
   crypt_count: 12
   crypt_min: 9
@@ -20,54 +18,63 @@ deck:
   crypt:
   - count: 2
     name: Beetleman
+    id: 200185
     capacity: 4
     disciplines: obf ANI
     clan: Nosferatu
     grouping: 4
   - count: 2
     name: Bobby Lemon
+    id: 200211
     capacity: 4
     disciplines: pro ANI
     clan: Gangrel
     grouping: 3
   - count: 2
     name: Stick
+    id: 201318
     capacity: 3
     disciplines: ANI
     clan: Nosferatu antitribu
     grouping: 4
   - count: 1
     name: Bothwell
+    id: 200214
     capacity: 3
     disciplines: ani for
     clan: Gangrel
     grouping: 3
   - count: 1
     name: Clarissa Steinburgen
+    id: 200276
     capacity: 3
     disciplines: ani obf
     clan: Nosferatu
     grouping: 3
   - count: 1
     name: Darva Felispa
+    id: 200324
     capacity: 3
     disciplines: ani pot
     clan: Nosferatu
     grouping: 3
   - count: 1
     name: Dolie
+    id: 200353
     capacity: 3
     disciplines: abo ani
     clan: Akunanse
     grouping: 4
   - count: 1
     name: Mouse
+    id: 201014
     capacity: 2
     disciplines: ani
     clan: Nosferatu
     grouping: 3
   - count: 1
     name: Lisa Noble
+    id: 200839
     capacity: 1
     disciplines: ani
     clan: Caitiff
@@ -79,56 +86,79 @@ deck:
     cards:
     - count: 3
       name: Animalism
+      id: 100070
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 3
       name: Effective Management
+      id: 100616
     - count: 4
       name: Information Highway
+      id: 100984
     - count: 1
       name: Slum Hunting Ground
+      id: 101808
     - count: 2
       name: Vessel
+      id: 102113
     - count: 1
       name: Wash
+      id: 102151
   - name: Action
     count: 16
     cards:
     - count: 1
       name: Army of Rats
+      id: 100093
     - count: 1
       name: Creeping Sabotage
+      id: 102213
     - count: 12
       name: Deep Song
+      id: 100515
     - count: 2
       name: Tier of Souls
+      id: 101984
   - name: Reaction
     count: 5
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
-      name: The Warrens
+      name: Warrens, The
+      id: 102216
   - name: Combat
     count: 40
     cards:
     - count: 16
       name: Aid from Bats
+      id: 100029
     - count: 5
       name: Backstep
+      id: 100125
     - count: 1
       name: Canine Horde
+      id: 100290
     - count: 7
       name: Carrion Crows
+      id: 100301
     - count: 3
       name: Drawing Out the Beast
+      id: 100585
     - count: 1
       name: Flesh Bond
+      id: 100748
     - count: 1
       name: Song in the Dark
+      id: 101825
     - count: 5
       name: Target Vitals
+      id: 101942
     - count: 1
       name: Terror Frenzy
+      id: 101960

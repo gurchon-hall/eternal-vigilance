@@ -1,0 +1,157 @@
+name: Before the Solstice - Standard Constructed
+location: Coimbra, Portugal
+date_start: 2025-07-19
+rounds_format: 3R+F
+players_count: 10
+winner: Eduardo Manuel Mateus
+vekn_number: 3120073
+event_url: https://www.vekn.net/event-calendar/event/12493
+event_id: 12493
+forum_post_url: https://www.vekn.net/event-calendar/event/12493
+deck:
+  name: “The Downward Spiral”
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 40
+  crypt_avg: 5.83
+  crypt:
+  - count: 4
+    name: Helena (ADV)
+    id: 200587
+    capacity: 10
+    disciplines: dai obf pre tha AUS CEL DOM
+    clan: Toreador
+    grouping: 3
+  - count: 2
+    name: Helena
+    id: 200586
+    capacity: 10
+    disciplines: obf pre tha AUS CEL DOM
+    clan: Toreador
+    grouping: 3
+  - count: 1
+    name: Isabel de Leon
+    id: 200642
+    capacity: 3
+    disciplines: AUS
+    clan: Toreador
+    grouping: 2
+  - count: 1
+    name: Zöe
+    id: 201509
+    capacity: 3
+    disciplines: cel obf AUS
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Feo Ramos
+    id: 200462
+    capacity: 1
+    disciplines: aus
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Franciscus
+    id: 200477
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Royce
+    id: 201208
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 2
+      name: Antediluvian Awakening
+      id: 100073
+    - count: 1
+      name: Arcanum Chapterhouse, Alexandria
+      id: 100082
+    - count: 2
+      name: Curse of Nitocris
+      id: 100483
+    - count: 1
+      name: Dabbler
+      id: 100485
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Oblivion
+      id: 102277
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Reaction
+    count: 69
+    cards:
+    - count: 2
+      name: Burnt Offerings
+      id: 100272
+    - count: 10
+      name: Deflection
+      id: 100518
+    - count: 9
+      name: Diabolic Lure
+      id: 100542
+    - count: 8
+      name: Eagle's Sight
+      id: 100598
+    - count: 5
+      name: Enhanced Senses
+      id: 100644
+    - count: 8
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 12
+      name: Obedience
+      id: 101309
+    - count: 5
+      name: Quicken Sight
+      id: 101531
+    - count: 8
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+    - count: 1
+      name: Waiting Game
+      id: 102136

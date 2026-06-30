@@ -18,25 +18,29 @@ deck:
   crypt_avg: 9.17
   crypt:
   - count: 6
-    name: The Capuchin
+    name: Capuchin, The
+    id: 200242
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
     grouping: 5
   - count: 3
     name: Mordechai Ben-Nun
+    id: 201009
     capacity: 8
     disciplines: ANI AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 5
   - count: 2
     name: Anu Diptinatpa
+    id: 200119
     capacity: 7
     disciplines: aus vic DOM NEC
     clan: Nagaraja
     grouping: 6
   - count: 1
     name: Hecate
+    id: 200580
     capacity: 6
     disciplines: AUS FOR NEC
     clan: Harbinger of Skulls
@@ -48,102 +52,142 @@ deck:
     cards:
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Secure Haven
+      id: 101711
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
   - name: Action
     count: 7
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 2
       name: Magic of the Smith
+      id: 101143
     - count: 1
       name: Rutor's Hand
+      id: 101664
     - count: 3
       name: Scouting Mission
+      id: 101698
   - name: Ally
     count: 8
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 4
       name: Emerald Legionnaire
+      id: 100634
     - count: 1
       name: Mylan Horseed
+      id: 101261
     - count: 2
       name: Procurer
+      id: 101491
   - name: Equipment
     count: 5
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Erebus Mask
+      id: 100657
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Palatial Estate
+      id: 101345
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
   - name: Action Modifier
     count: 22
     cards:
     - count: 4
       name: Acheron Vortex
+      id: 100016
     - count: 4
       name: Call of the Hungry Dead
+      id: 100279
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 9
       name: Freak Drive
+      id: 100788
     - count: 2
       name: Trochomancy
+      id: 102026
     - count: 2
       name: Under My Skin
+      id: 102062
   - name: Action Modifier/Reaction
     count: 5
     cards:
     - count: 5
       name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 19
     cards:
     - count: 3
       name: Deflection
+      id: 100518
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: Eyes of Argus
+      id: 100680
     - count: 8
       name: Obedience
+      id: 101309
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 7
     cards:
     - count: 2
       name: Rolling with the Punches
+      id: 101649
     - count: 5
       name: Spiritual Intervention
+      id: 101852

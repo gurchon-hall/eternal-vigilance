@@ -1,4 +1,4 @@
-name: Belgian National Championship 2025
+name: Belgian NC 2025
 location: Mechelen, Belgium
 date_start: 2025-07-20
 rounds_format: 3R+F
@@ -7,11 +7,9 @@ winner: Jesper Bøje
 vekn_number: 3670001
 event_url: https://www.vekn.net/event-calendar/event/12233
 event_id: 12233
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82491-twd-belgian-national-championship-2025-mechelen-belgium-20th-july-2025
+forum_post_url: https://www.vekn.net/event-calendar/event/12233
 deck:
   name: Press 9 to Call the Great Beast
-  created_by: Jesper Bøje
   description: Empowering evil, one Freak Drive at a time.
   crypt_count: 12
   crypt_min: 40
@@ -20,12 +18,14 @@ deck:
   crypt:
   - count: 9
     name: Nergal
+    id: 201048
     capacity: 10
     disciplines: AUS DAI FOR OBF PRE THA
     clan: Baali
     grouping: 5
   - count: 3
     name: Nergal (ADV)
+    id: 201049
     capacity: 10
     disciplines: AUS DAI FOR OBF PRE THA
     clan: Baali
@@ -37,87 +37,118 @@ deck:
     cards:
     - count: 2
       name: Antediluvian Awakening
+      id: 100073
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 4
       name: Dementation
+      id: 100521
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Society of Leopold
+      id: 101822
     - count: 3
       name: Villein
+      id: 102121
     - count: 1
       name: Visit from the Capuchin
+      id: 102126
   - name: Action
     count: 16
     cards:
     - count: 4
       name: Call the Great Beast
+      id: 100280
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 5
       name: Legal Manipulations
+      id: 101089
     - count: 3
       name: Magic of the Smith
+      id: 101143
     - count: 3
       name: Unleash Hell's Fury
+      id: 102076
   - name: Equipment
     count: 3
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 2
       name: Soul Gem of Etrius
+      id: 101832
   - name: Action Modifier
     count: 32
     cards:
     - count: 5
       name: Aire of Elation
+      id: 100031
     - count: 3
       name: Daring the Dawn
+      id: 100492
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 12
       name: Freak Drive
+      id: 100788
     - count: 2
       name: I am Legion
+      id: 100947
     - count: 5
       name: Lost in Crowds
+      id: 101125
     - count: 1
       name: Perfect Clarity
+      id: 101386
     - count: 1
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Hide the Mind
+      id: 100921
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 1
       name: Sense the Sin
+      id: 101718
     - count: 1
       name: Touch of Clarity
+      id: 101998
   - name: Reaction
     count: 2
     cards:
     - count: 2
       name: Visions of Zapathasura
+      id: 102265
   - name: Combat
     count: 2
     cards:
     - count: 2
       name: Majesty
+      id: 101144
   - name: Event
     count: 3
     cards:
     - count: 1
-      name: The Bitter and Sweet Story
+      name: Bitter and Sweet Story, The
+      id: 100163
     - count: 2
       name: Narrow Minds
+      id: 101265

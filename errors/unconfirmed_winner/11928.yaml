@@ -18,26 +18,30 @@ deck:
   crypt:
   - count: 4
     name: Hazimel
+    id: 200578
     capacity: 11
     disciplines: dem ANI AUS CHI FOR POT
-    title: 2 votes
+    title: 2 Votes
     clan: Ravnos
     grouping: 4
   - count: 3
     name: Mata Hari
+    id: 200955
     capacity: 7
     disciplines: aus for qui CHI OBF
-    title: 2 votes
+    title: 2 Votes
     clan: Ravnos
     grouping: 4
   - count: 3
     name: Dr. Lawrence Mayhew
+    id: 200380
     capacity: 6
     disciplines: ani for AUS CHI
     clan: Ravnos
     grouping: 5
   - count: 2
     name: Aidan Lyle
+    id: 200025
     capacity: 7
     disciplines: dom AUS CHI THA
     clan: Tremere
@@ -49,84 +53,115 @@ deck:
     cards:
     - count: 1
       name: Auspex
+      id: 100114
     - count: 1
       name: Fortune Teller Shop
+      id: 100777
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Park Hunting Ground
+      id: 101354
     - count: 3
       name: Path of Paradox, The
+      id: 101366
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 3
       name: Svadharma
+      id: 101912
     - count: 2
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 15
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 2
       name: Fatuus Mastery
+      id: 100708
     - count: 2
       name: Illusory Resources
+      id: 100955
     - count: 7
       name: Nightmare Curse
+      id: 101284
     - count: 3
       name: Sensory Deprivation
+      id: 101721
   - name: Equipment
     count: 4
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Karavalanisha Vrana
+      id: 101033
     - count: 1
       name: Palatial Estate
+      id: 101345
     - count: 1
       name: Treasured Samadji
+      id: 102015
   - name: Action Modifier
     count: 27
     cards:
     - count: 4
       name: False Resonance
+      id: 100697
     - count: 5
       name: Fata Morgana
+      id: 100707
     - count: 8
       name: Freak Drive
+      id: 100788
     - count: 5
       name: Heart's Desire
+      id: 100905
     - count: 5
       name: Will-o'-the-Wisp
+      id: 102183
   - name: Action Modifier/Combat
     count: 9
     cards:
     - count: 5
       name: Mirror Image
+      id: 101222
     - count: 4
       name: Occlusion
+      id: 101313
   - name: Reaction
     count: 14
     cards:
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: My Enemy's Enemy
+      id: 101259
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Illusions of the Kindred
+      id: 100954
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

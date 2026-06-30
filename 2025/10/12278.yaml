@@ -19,72 +19,84 @@ deck:
   crypt:
   - count: 1
     name: Andrei Puxon
+    id: 200084
     capacity: 5
     disciplines: ani cel chi for
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Ghivran Dalaal, The Dead God
+    id: 200513
     capacity: 5
     disciplines: ani aus chi FOR
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Khalil Ravana
+    id: 200778
     capacity: 5
     disciplines: ani for pre CHI
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Anka, Priestess of Thorns
+    id: 200098
     capacity: 4
     disciplines: ani chi pro
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Salbatore Bokkengro
+    id: 201224
     capacity: 4
     disciplines: for pro CHI
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Sennuwy, The Promoter
+    id: 201264
     capacity: 4
     disciplines: ani chi for
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Ashlesha
+    id: 201620
     capacity: 3
     disciplines: aus chi
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Lázár Dobrescu
+    id: 200819
     capacity: 3
     disciplines: for
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Vedel Esbreno
+    id: 201432
     capacity: 3
     disciplines: chi for
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Sasha Miklos
+    id: 201246
     capacity: 2
     disciplines: chi
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Spleen, Georgio Gutterpunk
+    id: 201311
     capacity: 2
     disciplines: ani chi
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Zip
+    id: 201507
     capacity: 2
     disciplines: ani
     clan: Ravnos
@@ -96,47 +108,61 @@ deck:
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 18
-      name: The Embrace
+      name: Embrace, The
+      id: 100633
     - count: 12
       name: Mozambique Allure
+      id: 101248
   - name: Equipment
     count: 3
     cards:
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Shilmulo Tarot
+      id: 101767
   - name: Political Action
     count: 12
     cards:
     - count: 2
       name: Autarkis Persecution
+      id: 100115
     - count: 9
       name: Consanguineous Boon
+      id: 100410
     - count: 1
       name: My Kin Against the World
+      id: 101260
   - name: Action Modifier
     count: 10
     cards:
     - count: 6
       name: Change of Target
+      id: 100323
     - count: 4
       name: Daring the Dawn
+      id: 100492
   - name: Action Modifier/Reaction
     count: 12
     cards:
     - count: 12
-      name: The Eldest Are Kholo
+      name: Eldest Are Kholo, The
+      id: 100622
   - name: Reaction
     count: 2
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 1
       name: Poison Pill
+      id: 101406
   - name: Event
     count: 2
     cards:
     - count: 2
-      name: The Uncoiling
+      name: Uncoiling, The
+      id: 102057

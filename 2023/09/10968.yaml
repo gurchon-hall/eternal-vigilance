@@ -1,0 +1,194 @@
+name: Baixadao Independence Day 2023
+location: Nova Iguaçu (RJ), Brazil
+date_start: 2023-09-10
+rounds_format: 2R+F
+players_count: 16
+winner: Itamar G. Jr.
+vekn_number: 6020001
+event_url: https://www.vekn.net/event-calendar/event/10968
+event_id: 10968
+forum_post_url: https://www.vekn.net/event-calendar/event/10968
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 32
+  crypt_avg: 5.17
+  crypt:
+  - count: 4
+    name: Theo Bell
+    id: 201613
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Aline Gädeke
+    id: 201576
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    id: 201614
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Atiena
+    id: 201579
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Leumeah
+    id: 201526
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+      id: 100052
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Guardian Angel
+      id: 100866
+    - count: 3
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Marrakesh Codex, The
+      id: 101172
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Path of Lilith, The
+      id: 101363
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Warzone Hunting Ground
+      id: 102150
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 3
+      name: Heroic Might
+      id: 100913
+    - count: 7
+      name: Line Brawl
+      id: 102229
+    - count: 2
+      name: Preternatural Strength
+      id: 101483
+  - name: Ally
+    count: 3
+    cards:
+    - count: 1
+      name: 47th Street Royals
+      id: 102217
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Gregory Winter
+      id: 100855
+  - name: Equipment
+    count: 7
+    cards:
+    - count: 1
+      name: Flak Jacket
+      id: 100739
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+    - count: 1
+      name: Leather Jacket
+      id: 101081
+    - count: 1
+      name: Palatial Estate
+      id: 101345
+    - count: 1
+      name: Sargon Fragment, The
+      id: 101681
+  - name: Reaction
+    count: 19
+    cards:
+    - count: 8
+      name: Bait and Switch
+      id: 102218
+    - count: 3
+      name: Delaying Tactics
+      id: 100519
+    - count: 8
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 29
+    cards:
+    - count: 5
+      name: Disarm
+      id: 100549
+    - count: 5
+      name: Dust Up
+      id: 100597
+    - count: 3
+      name: Flash
+      id: 100744
+    - count: 8
+      name: Immortal Grapple
+      id: 100959
+    - count: 3
+      name: Pursuit
+      id: 101523
+    - count: 1
+      name: Sideslip
+      id: 101779
+    - count: 4
+      name: Taste of Vitae
+      id: 101945

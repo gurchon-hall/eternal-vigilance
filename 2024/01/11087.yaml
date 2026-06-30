@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
     capacity: 10
     disciplines: aus for DOM OBT POT PRE
     title: Cardinal
@@ -25,6 +26,7 @@ deck:
     grouping: 2
   - count: 2
     name: Marcus Vitel
+    id: 200915
     capacity: 10
     disciplines: DOM FOR OBF OBT PRE
     title: Prince
@@ -32,12 +34,14 @@ deck:
     grouping: 3
   - count: 1
     name: Marcus Vitel (ADV)
+    id: 200916
     capacity: 10
     disciplines: DOM FOR OBF OBT POT PRE
     clan: Lasombra
     grouping: 3
   - count: 2
     name: Francisco Domingo de Polonia
+    id: 200476
     capacity: 9
     disciplines: pro DOM OBT POT PRE
     title: Archbishop
@@ -45,12 +49,14 @@ deck:
     grouping: 2
   - count: 2
     name: Tobias Smith
+    id: 201375
     capacity: 7
     disciplines: pot DOM OBT PRE
     clan: Lasombra
     grouping: 3
   - count: 1
     name: Alvaro, The Scion of Angelica
+    id: 200063
     capacity: 9
     disciplines: dom pre OBT POT
     title: Archbishop
@@ -58,6 +64,7 @@ deck:
     grouping: 2
   - count: 1
     name: Gratiano
+    id: 200534
     capacity: 8
     disciplines: obf pot DOM OBT
     title: Priscus
@@ -70,80 +77,109 @@ deck:
     cards:
     - count: 1
       name: Black Forest Base
+      id: 100165
     - count: 4
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 6
       name: Minion Tap
+      id: 101217
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 5
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 7
     cards:
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 5
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Zaire River Ferry
+      id: 102203
   - name: Political Action
     count: 12
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Banishment
+      id: 100131
     - count: 2
       name: Cardinal Benediction
+      id: 100294
     - count: 1
       name: Conservative Agitation
+      id: 100414
     - count: 4
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
   - name: Action Modifier
     count: 26
     cards:
     - count: 2
       name: Bewitching Oration
+      id: 100157
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 4
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Iron Glare
+      id: 101008
     - count: 4
       name: Shadow Play
+      id: 101743
     - count: 3
       name: Shroud of Absence
+      id: 101774
     - count: 3
       name: Tenebrous Form
+      id: 101957
     - count: 5
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 14
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 5
       name: Obedience
+      id: 101309
     - count: 3
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Majesty
+      id: 101144

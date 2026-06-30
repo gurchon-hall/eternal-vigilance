@@ -1,5 +1,5 @@
 name: Thessaloniki's Monthly Brawl
-location: Thessaloniki - Greece
+location: Thessaloniki, Greece
 date_start: 2025-11-22
 rounds_format: 2R+F
 players_count: 10
@@ -7,48 +7,54 @@ winner: Kostas Grammadas
 vekn_number: 8240013
 event_url: https://www.vekn.net/event-calendar/event/12799
 event_id: 12799
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82695-twd-thessaloniki-s-monthly-brawl-thessaloniki-22-11-2025
+vp_comment: 1GW3 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12799
 deck:
   name: Giovannity Fair
   description: ''
   crypt_count: 12
-  crypt_min: 24
-  crypt_max: 28
+  crypt_min: 22
+  crypt_max: 29
   crypt_avg: 6.5
   crypt:
   - count: 4
     name: Anu Diptinatpa
+    id: 200119
     capacity: 7
     disciplines: aus vic DOM NEC
     clan: Nagaraja
     grouping: 6
   - count: 2
     name: Martino della Passaglia
+    id: 200944
     capacity: 7
     disciplines: obf DOM NEC POT
     clan: Giovanni
     grouping: 6
   - count: 2
     name: Dr. Oliver Genet
+    id: 200382
     capacity: 6
     disciplines: pot DOM NEC
     clan: Giovanni
     grouping: 6
   - count: 2
     name: Salvatore Giovanni
+    id: 201227
     capacity: 5
     disciplines: dom NEC POT
     clan: Giovanni
     grouping: 6
   - count: 1
     name: Giovanni del Georgio
+    id: 200521
     capacity: 8
     disciplines: DOM NEC POT PRO
     clan: Giovanni
     grouping: 5
   - count: 1
     name: Accorri Giovanni
+    id: 200010
     capacity: 6
     disciplines: ani nec DOM POT
     clan: Giovanni
@@ -58,93 +64,129 @@ deck:
   - name: Master
     count: 18
     cards:
+    - count: 1
+      name: Barrens, The
+      id: 100135
     - count: 4
       name: Blood Doll
-    - count: 2
-      name: Frontal Assault
-    - count: 1
-      name: The Barrens
+      id: 100199
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dis Pater
+      id: 100548
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Frontal Assault
+      id: 100794
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Haven Uncovered
+      id: 100897
     - count: 1
       name: Life in the City
+      id: 101104
     - count: 1
       name: Mob Connections
+      id: 101229
     - count: 1
       name: Morgue Hunting Ground
+      id: 101243
     - count: 1
       name: 'Powerbase: Cape Verde'
+      id: 101433
     - count: 1
       name: Two Wrongs
+      id: 102052
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 10
     cards:
     - count: 7
       name: Govern the Unaligned
-    - count: 2
-      name: Sudario Refraction
+      id: 100845
     - count: 1
       name: Graverobbing
-  - name: Action Modifier
-    count: 17
-    cards:
-    - count: 5
-      name: Call of the Hungry Dead
-    - count: 3
-      name: Bonding
-    - count: 3
-      name: Conditioning
-    - count: 3
-      name: Seduction
+      id: 100852
     - count: 2
-      name: The Sleeping Mind
-    - count: 1
-      name: Command of the Beast
-  - name: Action Modifier/Reaction
-    count: 3
-    cards:
-    - count: 3
-      name: Spectral Divination
+      name: Sudario Refraction
+      id: 101895
   - name: Ally
     count: 3
     cards:
     - count: 1
       name: Gianna di Canneto
+      id: 100823
     - count: 1
       name: Giulia Giovanni Abruzzina
+      id: 100832
     - count: 1
       name: Tye Cooper
-  - name: Combat
-    count: 22
+      id: 102053
+  - name: Action Modifier
+    count: 17
     cards:
-    - count: 4
-      name: Immortal Grapple
-    - count: 4
-      name: Spiritual Guidance
-    - count: 4
-      name: Taste of Vitae
-    - count: 4
-      name: Roundhouse
     - count: 3
-      name: Spiritual Intervention
+      name: Bonding
+      id: 100236
+    - count: 5
+      name: Call of the Hungry Dead
+      id: 100279
+    - count: 1
+      name: Command of the Beast
+      id: 100381
     - count: 3
-      name: Torn Signpost
+      name: Conditioning
+      id: 100401
+    - count: 3
+      name: Seduction
+      id: 101712
+    - count: 2
+      name: Sleeping Mind, The
+      id: 101805
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 13
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 5
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Poison Pill
+      id: 101406
+  - name: Combat
+    count: 22
+    cards:
+    - count: 4
+      name: Immortal Grapple
+      id: 100959
+    - count: 4
+      name: Roundhouse
+      id: 102215
+    - count: 4
+      name: Spiritual Guidance
+      id: 101851
+    - count: 3
+      name: Spiritual Intervention
+      id: 101852
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+    - count: 3
+      name: Torn Signpost
+      id: 101993

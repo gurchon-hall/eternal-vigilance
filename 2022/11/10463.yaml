@@ -1,0 +1,193 @@
+name: HARC!
+location: Budapest, Hungary
+date_start: 2022-11-26
+rounds_format: 2R+F
+players_count: 10
+winner: Balázs Kalóczkai
+vekn_number: 3540212
+event_url: https://www.vekn.net/event-calendar/event/10463
+event_id: 10463
+vp_comment: 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10463
+deck:
+  name: Anarch Enkidu v1.4
+  created_by: balupanker
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 44
+  crypt_avg: 4.92
+  crypt:
+  - count: 4
+    name: Enkidu, The Noah
+    id: 200424
+    capacity: 11
+    disciplines: for ANI CEL OBF POT PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Abu Nuwasi
+    id: 200009
+    capacity: 3
+    disciplines: cel for
+    clan: Ishtarri
+    grouping: 4
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: T.J.
+    id: 201334
+    capacity: 3
+    disciplines: cel for
+    clan: Gangrel
+    grouping: 4
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Dabbler
+      id: 100485
+    - count: 1
+      name: Ennoia's Theater
+      id: 100646
+    - count: 2
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Guardian Angel
+      id: 100866
+    - count: 2
+      name: Infamous Insurgent
+      id: 100975
+    - count: 1
+      name: Libertas
+      id: 101100
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+      id: 101435
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 1
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 8
+    cards:
+    - count: 1
+      name: Heroic Might
+      id: 100913
+    - count: 5
+      name: Make the Misere
+      id: 101147
+    - count: 1
+      name: Marked Territory
+      id: 101170
+    - count: 1
+      name: Preternatural Strength
+      id: 101483
+  - name: Retainer
+    count: 6
+    cards:
+    - count: 1
+      name: Crypt's Sons
+      id: 100476
+    - count: 2
+      name: Homunculus
+      id: 100932
+    - count: 1
+      name: Jackie Therman
+      id: 101018
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 1
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 6
+      name: Forced March
+      id: 100761
+    - count: 6
+      name: Instantaneous Transformation
+      id: 100994
+  - name: Action Modifier/Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Shadow Boxing
+      id: 101736
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Sense the Savage Way
+      id: 101717
+  - name: Combat
+    count: 37
+    cards:
+    - count: 10
+      name: Diversion
+      id: 100563
+    - count: 3
+      name: Donnybrook
+      id: 100576
+    - count: 4
+      name: Earth Meld
+      id: 100601
+    - count: 3
+      name: Flesh of Marble
+      id: 100749
+    - count: 10
+      name: Psyche!
+      id: 101507
+    - count: 2
+      name: Skin of Steel
+      id: 101792
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581

@@ -22,31 +22,36 @@ deck:
   crypt_avg: 10.92
   crypt:
   - count: 4
-    name: The Capuchin
+    name: Capuchin, The
+    id: 200242
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
     grouping: 5
   - count: 4
     name: Saulot, The Wanderer
+    id: 201248
     capacity: 11
     disciplines: dai AUS FOR OBE THA VAL
     clan: Salubri
     grouping: 4
   - count: 2
-    name: Baba Yaga, the Iron Hag
+    name: Baba Yaga, The Iron Hag
+    id: 200157
     capacity: 11
     disciplines: ANI AUS FOR OBF POT THA
     clan: Nosferatu
     grouping: 5
   - count: 1
-    name: The Dracon
+    name: Dracon, The
+    id: 200385
     capacity: 11
     disciplines: ANI AUS POT THA VIC
     clan: Tzimisce
     grouping: 5
   - count: 1
     name: Nergal
+    id: 201048
     capacity: 10
     disciplines: AUS DAI FOR OBF PRE THA
     clan: Baali
@@ -57,84 +62,116 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 2
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Sight Beyond Sight
+      id: 101780
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 6
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 6
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 5
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 5
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Kevlar Vest
+      id: 101040
   - name: Action Modifier
     count: 2
     cards:
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 1
-      name: The Kiss of Ra
+      name: Kiss of Ra, The
+      id: 101062
   - name: Reaction
     count: 36
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 3
       name: Eagle's Sight
+      id: 100598
     - count: 4
       name: Enhanced Senses
+      id: 100644
     - count: 8
       name: Eyes of Argus
+      id: 100680
     - count: 8
       name: Forced Awakening
+      id: 100760
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 22
     cards:
     - count: 1
       name: Hidden Strength
+      id: 100918
     - count: 5
       name: Indomitability
+      id: 100973
     - count: 7
       name: Rolling with the Punches
+      id: 101649
     - count: 9
       name: Theft of Vitae
+      id: 101966
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

@@ -18,54 +18,63 @@ deck:
   crypt:
   - count: 2
     name: Rebekka, Chantry Elder of Munich
+    id: 201171
     capacity: 8
     disciplines: pot AUS PRE THA
     clan: Tremere
     grouping: 2
   - count: 2
     name: Jost Werner
+    id: 200727
     capacity: 6
     disciplines: ani AUS PRE
     clan: Toreador antitribu
     grouping: 2
   - count: 2
     name: Sheila Mezarin
+    id: 201280
     capacity: 6
     disciplines: cel for AUS PRE
     clan: Toreador antitribu
     grouping: 2
   - count: 1
     name: Felicia Mostrom
+    id: 200461
     capacity: 5
     disciplines: pre AUS CEL
     clan: Toreador
     grouping: 1
   - count: 1
     name: Mariana Gilbert
+    id: 200924
     capacity: 4
     disciplines: cel PRE
     clan: Toreador
     grouping: 1
   - count: 1
     name: Remilliard, Devout Crusader
+    id: 201178
     capacity: 4
     disciplines: pre AUS
     clan: Toreador antitribu
     grouping: 2
   - count: 1
     name: Violette Prentiss
+    id: 201450
     capacity: 4
     disciplines: dom PRE
     clan: Ventrue
     grouping: 1
   - count: 1
     name: Gideon Fontaine
+    id: 200516
     capacity: 3
     disciplines: PRE
     clan: Ventrue
     grouping: 1
   - count: 1
     name: Isabel de Leon
+    id: 200642
     capacity: 3
     disciplines: AUS
     clan: Toreador
@@ -77,79 +86,106 @@ deck:
     cards:
     - count: 2
       name: Anarch Troublemaker
+      id: 100058
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Vessel
+      id: 102113
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 23
     cards:
     - count: 10
       name: Enchant Kindred
+      id: 100640
     - count: 3
       name: Entrancement
+      id: 100652
     - count: 1
       name: Intimidation
+      id: 100999
     - count: 2
       name: Legal Manipulations
+      id: 101089
     - count: 5
       name: Mind Numb
+      id: 101211
     - count: 2
       name: Public Trust
+      id: 101513
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 6
     cards:
     - count: 6
       name: Aire of Elation
+      id: 100031
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Force of Personality
+      id: 100758
   - name: Reaction
     count: 23
     cards:
     - count: 3
       name: Delaying Tactics
+      id: 100519
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 4
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 8
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 9
     cards:
     - count: 9
       name: Majesty
+      id: 101144
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

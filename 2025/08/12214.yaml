@@ -17,6 +17,7 @@ deck:
   crypt:
   - count: 4
     name: Arika
+    id: 200135
     capacity: 11
     disciplines: aus cel DOM FOR OBF PRE
     title: Inner Circle
@@ -24,6 +25,7 @@ deck:
     grouping: 2
   - count: 3
     name: Marcus Vitel
+    id: 200915
     capacity: 10
     disciplines: DOM FOR OBF OBT PRE
     title: Prince
@@ -31,6 +33,7 @@ deck:
     grouping: 3
   - count: 1
     name: Lucinde, Alastor
+    id: 200873
     capacity: 10
     disciplines: obf pot tha DOM FOR PRE
     title: Justicar
@@ -38,13 +41,15 @@ deck:
     grouping: 3
   - count: 1
     name: Queen Anne
+    id: 201139
     capacity: 10
     disciplines: aus obf DOM FOR PRE
     title: Prince
     clan: Ventrue
     grouping: 2
   - count: 1
-    name: The Baron
+    name: Baron, The
+    id: 200167
     capacity: 9
     disciplines: dom FOR NEC OBF THN
     title: 2 Votes
@@ -52,12 +57,14 @@ deck:
     grouping: 2
   - count: 1
     name: Catherine du Bois
+    id: 200256
     capacity: 5
     disciplines: for obf pre DOM
     clan: Ventrue
     grouping: 3
   - count: 1
     name: Le Dinh Tho
+    id: 200824
     capacity: 5
     disciplines: aus dom NEC
     clan: Nagaraja
@@ -68,76 +75,104 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 8
       name: Villein
+      id: 102121
     - count: 8
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 10
     cards:
     - count: 10
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 6
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Banishment
+      id: 100131
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 30
     cards:
     - count: 2
       name: Awe
+      id: 100119
     - count: 4
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 4
       name: Faceless Night
+      id: 100687
     - count: 1
       name: Forgotten Labyrinth
+      id: 100769
     - count: 10
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 4
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 1
       name: Hide the Mind
+      id: 100921
     - count: 1
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 14
     cards:
     - count: 8
       name: Deflection
+      id: 100518
     - count: 6
       name: Obedience
+      id: 101309
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Rolling with the Punches
+      id: 101649

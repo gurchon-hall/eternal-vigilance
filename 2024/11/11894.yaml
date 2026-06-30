@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
@@ -25,6 +26,7 @@ deck:
     grouping: 6
   - count: 3
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -39,6 +42,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kasim Bayar
+    id: 201598
     capacity: 9
     disciplines: aus pot CEL OBF THA
     title: Justicar
@@ -46,6 +50,7 @@ deck:
     grouping: 6
   - count: 1
     name: Oluwafunmilayo
+    id: 201656
     capacity: 8
     disciplines: AUS CEL OBF THA
     title: Prince
@@ -53,6 +58,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kalinda
+    id: 201596
     capacity: 6
     disciplines: tha CEL OBF
     title: Primogen
@@ -60,6 +66,7 @@ deck:
     grouping: 6
   - count: 1
     name: Khadija Al-Kindi
+    id: 201599
     capacity: 6
     disciplines: CEL OBF THA
     title: Primogen
@@ -72,73 +79,100 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 3
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 2
       name: Priority Contract
+      id: 101487
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
     - count: 1
       name: Yoruba Shrine
+      id: 102201
   - name: Action
     count: 8
     cards:
     - count: 6
       name: Hunter's Mark
+      id: 102228
     - count: 2
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 2
     cards:
     - count: 2
       name: .44 Magnum
+      id: 100001
   - name: Political Action
     count: 1
     cards:
     - count: 1
       name: Anathema
+      id: 100060
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 3
       name: Resist Earth's Grasp
+      id: 101610
     - count: 1
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 8
     cards:
     - count: 8
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 42
     cards:
     - count: 4
       name: Blur
+      id: 100227
     - count: 13
       name: Hunger of Marduk
+      id: 102227
     - count: 5
       name: Psyche!
+      id: 101507
     - count: 10
       name: Pursuit
+      id: 101523
     - count: 4
       name: Quickness
+      id: 101532
     - count: 2
       name: Rego Motum
+      id: 101588
     - count: 1
       name: Side Strike
+      id: 101778
     - count: 2
       name: Sideslip
+      id: 101779
     - count: 1
       name: Soul Burn
+      id: 101829

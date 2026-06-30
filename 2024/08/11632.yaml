@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Arika
+    id: 200135
     capacity: 11
     disciplines: aus cel DOM FOR OBF PRE
     title: Inner Circle
@@ -25,6 +26,7 @@ deck:
     grouping: 2
   - count: 2
     name: Marcus Vitel
+    id: 200915
     capacity: 10
     disciplines: DOM FOR OBF OBT PRE
     title: Prince
@@ -32,6 +34,7 @@ deck:
     grouping: 3
   - count: 2
     name: Queen Anne
+    id: 201139
     capacity: 10
     disciplines: aus obf DOM FOR PRE
     title: Prince
@@ -39,6 +42,7 @@ deck:
     grouping: 2
   - count: 2
     name: J. Oswald "Ozzy" Hyde-White
+    id: 200651
     capacity: 8
     disciplines: dom pre AUS FOR OBF
     title: Primogen
@@ -46,6 +50,7 @@ deck:
     grouping: 3
   - count: 1
     name: Leandro
+    id: 200826
     capacity: 11
     disciplines: cel dom AUS OBF PRE
     title: Inner Circle
@@ -53,6 +58,7 @@ deck:
     grouping: 2
   - count: 1
     name: Lucinde, Alastor
+    id: 200873
     capacity: 10
     disciplines: obf pot tha DOM FOR PRE
     title: Justicar
@@ -60,6 +66,7 @@ deck:
     grouping: 3
   - count: 1
     name: Catherine du Bois
+    id: 200256
     capacity: 5
     disciplines: for obf pre DOM
     clan: Ventrue
@@ -71,76 +78,106 @@ deck:
     cards:
     - count: 2
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 1
       name: Ventrue Headquarters
+      id: 102109
     - count: 6
       name: Villein
+      id: 102121
     - count: 7
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 4
     cards:
     - count: 4
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 14
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Banishment
+      id: 100131
     - count: 5
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 2
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reinforcements
+      id: 101590
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 38
     cards:
     - count: 7
       name: Awe
+      id: 100119
     - count: 2
       name: Conditioning
+      id: 100401
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Faceless Night
+      id: 100687
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 4
       name: Forgotten Labyrinth
+      id: 100769
     - count: 5
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Into Thin Air
+      id: 101001
     - count: 2
       name: Perfect Paragon
+      id: 101387
     - count: 2
       name: Spying Mission
+      id: 101857
     - count: 7
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 10
     cards:
     - count: 8
       name: Deflection
+      id: 100518
     - count: 2
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 5
     cards:
     - count: 5
       name: Majesty
+      id: 101144

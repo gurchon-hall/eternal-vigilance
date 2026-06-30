@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 2
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -27,6 +28,7 @@ deck:
     grouping: 6
   - count: 2
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -34,6 +36,7 @@ deck:
     grouping: 6
   - count: 1
     name: Khadija Al-Kindi
+    id: 201599
     capacity: 6
     disciplines: CEL OBF THA
     title: Primogen
@@ -41,42 +44,49 @@ deck:
     grouping: 6
   - count: 1
     name: Asmin Kobane
+    id: 201578
     capacity: 5
     disciplines: dom obf tha CEL
     clan: Banu Haqim
     grouping: 6
   - count: 1
     name: Omer
+    id: 201080
     capacity: 5
     disciplines: obf CEL QUI
     clan: Banu Haqim
     grouping: 6
   - count: 1
     name: Greg Mazouni
+    id: 201589
     capacity: 4
     disciplines: cel obf tha
     clan: Banu Haqim
     grouping: 6
   - count: 1
     name: Mateusz Kazimirski, Biker of Blood
+    id: 200959
     capacity: 4
     disciplines: qui CEL
     clan: Banu Haqim
     grouping: 6
   - count: 1
     name: Bijou
+    id: 201580
     capacity: 3
     disciplines: cel tha
     clan: Banu Haqim
     grouping: 6
   - count: 1
     name: Sukainah
+    id: 201323
     capacity: 3
     disciplines: aus qui
     clan: Banu Haqim
     grouping: 5
   - count: 1
     name: Alu
+    id: 200062
     capacity: 2
     disciplines: obf
     clan: Banu Haqim
@@ -88,75 +98,101 @@ deck:
     cards:
     - count: 2
       name: Alamut
+      id: 100037
       comment: never played all day; wasn't necessary in final can be critical
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
       comment: key to finals win
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Frontal Assault
+      id: 100794
     - count: 6
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: Haven Uncovered
+      id: 100897
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Priority Contract
+      id: 101487
   - name: Action
     count: 11
     cards:
     - count: 9
-      name: The Embrace
+      name: Embrace, The
+      id: 100633
     - count: 2
       name: 'Khabar: Glory'
+      id: 101043
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Ossian
+      id: 101333
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Codex of the Edenic Groundskeepers
+      id: 100374
       comment: never played; may not be worth it
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 8
     cards:
     - count: 6
       name: Consanguineous Boon
+      id: 100410
     - count: 2
       name: 'Praxis Seizure: Istanbul'
+      id: 101463
       comment: like the Justicar votes
   - name: Action Modifier/Combat
     count: 14
     cards:
     - count: 7
       name: Resist Earth's Grasp
+      id: 101610
     - count: 7
       name: Swallowed by the Night
+      id: 101913
   - name: Combat
     count: 40
     cards:
     - count: 3
       name: Fake Out
+      id: 100693
     - count: 4
       name: Focus the Blood
+      id: 100753
     - count: 2
       name: Glancing Blow
+      id: 100834
     - count: 6
       name: Lucky Blow
+      id: 101131
     - count: 2
       name: Pulled Fangs
+      id: 101515
     - count: 11
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 6
       name: Weighted Walking Stick
+      id: 102169
     - count: 2
       name: Zip Gun
+      id: 102208

@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 3
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -47,6 +51,7 @@ deck:
     grouping: 6
   - count: 2
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
@@ -57,81 +62,110 @@ deck:
     count: 44
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 9
       name: Brujah Debate
+      id: 100260
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 2
       name: Libertas
+      id: 101100
     - count: 1
       name: Mob Connections
+      id: 101229
     - count: 3
       name: New Carthage
+      id: 101277
     - count: 1
       name: Papillon
+      id: 101350
     - count: 3
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 2
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Tension in the Ranks
+      id: 101958
     - count: 3
       name: Vessel
+      id: 102113
     - count: 5
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 1
     cards:
     - count: 1
       name: Open War
+      id: 101324
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
   - name: Equipment
     count: 5
     cards:
     - count: 3
       name: Desert Eagle
+      id: 100529
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 3
     cards:
     - count: 2
       name: Consanguineous Boon
+      id: 100410
     - count: 1
       name: Exclusion Principle
+      id: 100671
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Reaction
     count: 31
     cards:
     - count: 12
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 15
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Dust Up
+      id: 100597

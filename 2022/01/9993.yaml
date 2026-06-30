@@ -1,0 +1,107 @@
+name: We Will, We Will Buruku
+location: Liverpool, England
+date_start: 2022-01-16
+rounds_format: 2R+F
+players_count: 15
+winner: Craig Rawe
+vekn_number: 8237243
+event_url: https://www.vekn.net/event-calendar/event/9993
+event_id: 9993
+forum_post_url: https://www.vekn.net/event-calendar/event/9993
+deck:
+  name: Las hermanas de sangre
+  description: ''
+  crypt_count: 13
+  crypt_min: 8
+  crypt_max: 16
+  crypt_avg: 2.92
+  crypt:
+  - count: 6
+    name: Hermana Hambrienta Mayor
+    id: 200592
+    capacity: 4
+    disciplines: for pot san
+    clan: Blood Brother
+    grouping: 4
+  - count: 6
+    name: Hermana Hambrienta Menor
+    id: 200593
+    capacity: 2
+    disciplines: pot san
+    clan: Blood Brother
+    grouping: 4
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 71
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 9
+      name: Blood Buff
+      id: 100196
+    - count: 3
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 4
+      name: Effective Management
+      id: 100616
+    - count: 3
+      name: Hungry Coyote, The
+      id: 100945
+  - name: Action
+    count: 8
+    cards:
+    - count: 3
+      name: Hive Mind
+      id: 100931
+    - count: 5
+      name: Zillah's Tears
+      id: 102206
+  - name: Action Modifier
+    count: 25
+    cards:
+    - count: 11
+      name: Claiming the Body
+      id: 100352
+    - count: 2
+      name: Daring the Dawn
+      id: 100492
+    - count: 2
+      name: Shell Game
+      id: 101764
+    - count: 10
+      name: Walk of Caine
+      id: 102138
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Slake the Thirst
+      id: 101797
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 10
+      name: Camaraderie
+      id: 100283
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: Wake with Evening's Freshness
+      id: 102137
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The
+      id: 102057

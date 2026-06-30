@@ -8,22 +8,20 @@ vekn_number: 8090047
 event_url: https://www.vekn.net/event-calendar/event/13048
 event_id: 13048
 vp_comment: 0GW2 + 3vp in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/83018-twd-pennybridge-charisma-iii-oerebro-sweden
+forum_post_url: https://www.vekn.net/event-calendar/event/13048
 deck:
   name: Hecata swarm
-  created_by: Xtikar27
-  description: ''
+  description: 'About the deck in general:'
   crypt_count: 12
   crypt_min: 11
   crypt_max: 24
   crypt_avg: 4.5
   crypt:
   - count: 2
-    name: Alek König
-    id: 201717
-    capacity: 3
-    disciplines: OBL
+    name: Monica Giovanni
+    id: 201723
+    capacity: 6
+    disciplines: AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 2
@@ -34,10 +32,10 @@ deck:
     clan: Hecata
     grouping: 6
   - count: 2
-    name: Monica Giovanni
-    id: 201723
-    capacity: 6
-    disciplines: AUS FOR OBL
+    name: Alek König
+    id: 201717
+    capacity: 3
+    disciplines: OBL
     clan: Hecata
     grouping: 6
   - count: 1
@@ -49,10 +47,10 @@ deck:
     grouping: 6
     path: Death and the Soul
   - count: 1
-    name: Hiromitsu Asano
-    id: 201719
-    capacity: 4
-    disciplines: aus for obl
+    name: Lenelle, Mambo of Birmingham
+    id: 201721
+    capacity: 6
+    disciplines: aus FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
@@ -63,10 +61,10 @@ deck:
     clan: Hecata
     grouping: 6
   - count: 1
-    name: Lenelle, Mambo of Birmingham
-    id: 201721
-    capacity: 6
-    disciplines: aus FOR OBL
+    name: Hiromitsu Asano
+    id: 201719
+    capacity: 4
+    disciplines: aus for obl
     clan: Hecata
     grouping: 6
   - count: 1

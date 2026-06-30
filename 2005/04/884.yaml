@@ -21,30 +21,35 @@ deck:
   crypt:
   - count: 3
     name: Suzanne Kadim
+    id: 201328
     capacity: 7
     disciplines: aus dom obf CEL PRE
     clan: Toreador
     grouping: 3
   - count: 2
     name: Greta Kircher
+    id: 200540
     capacity: 7
     disciplines: obf AUS CEL PRE
     clan: Toreador antitribu
     grouping: 2
   - count: 2
     name: Emerson Wilkershire III
+    id: 200420
     capacity: 2
     disciplines: pre
     clan: Toreador
     grouping: 3
   - count: 1
     name: Joaquin Murietta
+    id: 200708
     capacity: 9
     disciplines: obf pre qui AUS CEL
     clan: Toreador
     grouping: 3
   - count: 1
     name: Ira Rivers
+    id: 200639
     capacity: 7
     disciplines: ani pre AUS CEL
     title: Prince
@@ -52,6 +57,7 @@ deck:
     grouping: 3
   - count: 1
     name: Antoinette, She Who Watches
+    id: 200110
     capacity: 6
     disciplines: cel obf AUS PRE
     title: Primogen
@@ -59,12 +65,14 @@ deck:
     grouping: 3
   - count: 1
     name: Sheila Mezarin
+    id: 201280
     capacity: 6
     disciplines: cel for AUS PRE
     clan: Toreador antitribu
     grouping: 2
   - count: 1
     name: Antoinette DuChamp
+    id: 200112
     capacity: 1
     disciplines: cel pre
     clan: Caitiff
@@ -76,68 +84,94 @@ deck:
     cards:
     - count: 2
       name: Art Museum
+      id: 100095
     - count: 4
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Celerity
+      id: 100312
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: Presence
+      id: 101480
     - count: 1
       name: Slave Auction
+      id: 101802
     - count: 2
       name: Society Hunting Ground
+      id: 101821
   - name: Action
     count: 5
     cards:
     - count: 1
       name: Distraction
+      id: 100560
     - count: 3
       name: Entrancement
+      id: 100652
     - count: 1
       name: Nose of the Hound
+      id: 101296
   - name: Equipment
     count: 6
     cards:
     - count: 6
       name: .44 Magnum
+      id: 100001
   - name: Action Modifier
     count: 7
     cards:
     - count: 7
       name: Aire of Elation
+      id: 100031
   - name: Reaction
     count: 18
     cards:
     - count: 2
       name: Forced Awakening
+      id: 100760
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 3
       name: Quicken Sight
+      id: 101531
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
     - count: 5
       name: Wake with Evening's Freshness
+      id: 102137
   - name: Combat
     count: 39
     cards:
     - count: 5
       name: Blur
+      id: 100227
     - count: 6
       name: Concealed Weapon
+      id: 100392
     - count: 7
       name: Majesty
+      id: 101144
     - count: 5
       name: Psyche!
+      id: 101507
     - count: 5
       name: Pursuit
+      id: 101523
     - count: 3
       name: Side Strike
+      id: 101778
     - count: 1
       name: Staredown
+      id: 101859
     - count: 7
       name: Taste of Vitae
+      id: 101945

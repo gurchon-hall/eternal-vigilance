@@ -1,5 +1,5 @@
 name: Complearum - 20 years of Alearum
-location: Spilamberto - Modena - Italy
+location: Spilamberto, Modena, Italy
 date_start: 2025-07-13
 rounds_format: 2R+F
 players_count: 25
@@ -11,19 +11,33 @@ vp_comment: To celebrate 20 years of activity of our recreational association,
   25 metuselahs meet togethere and faced into the eternal struggle. At the end, 
   Stefano came up with his first tournament win after a balanced final that 
   reached time limit. Opponents weren't able to oust him in time.
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82456-twd-complearum-20-years-of-alearum
+forum_post_url: https://www.vekn.net/event-calendar/event/12407
 deck:
   name: Hecata Mill
-  created_by: VTES Team
+  created_by: BCP
   description: '[2025-06-13]'
   crypt_count: 12
   crypt_min: 15
   crypt_max: 34
   crypt_avg: 6.25
   crypt:
+  - count: 2
+    name: Monica Giovanni
+    id: 201723
+    capacity: 6
+    disciplines: AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Gebeyehu Abdu
+    id: 201718
+    capacity: 5
+    disciplines: for AUS OBL
+    clan: Hecata
+    grouping: 6
   - count: 1
     name: Roger de Camden
+    id: 201732
     capacity: 10
     disciplines: AUS FOR OBF OBL PRE
     title: Prince
@@ -31,54 +45,49 @@ deck:
     grouping: 6
   - count: 1
     name: Marchesa Liliana
+    id: 201722
     capacity: 9
     disciplines: dom ANI AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: '"Mother" Anja Giovanni'
+    id: 201725
     capacity: 8
     disciplines: dom pot AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Mora, the Death Seer
+    id: 201724
     capacity: 7
     disciplines: ani AUS FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Parijat, the Dark Oracle
+    id: 201726
     capacity: 7
     disciplines: AUS DOM FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Tommaso Sforza
+    id: 201728
     capacity: 7
     disciplines: dom for AUS OBL THA
     clan: Hecata
     grouping: 6
-  - count: 2
-    name: Monica Giovanni
-    capacity: 6
-    disciplines: AUS FOR OBL
-    clan: Hecata
-    grouping: 6
-  - count: 2
-    name: Gebeyehu Abdu
-    capacity: 5
-    disciplines: for AUS OBL
-    clan: Hecata
-    grouping: 6
   - count: 1
     name: Alek König
+    id: 201717
     capacity: 3
     disciplines: OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Peter St. John
+    id: 201727
     capacity: 2
     disciplines: obl
     clan: Hecata
@@ -90,63 +99,85 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 1
       name: Biotech Company Hunting Ground
+      id: 102287
     - count: 1
       name: Cappadocian Crypt
+      id: 102298
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 6
       name: Family Gathering
+      id: 102289
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Munich'
+      id: 102301
     - count: 4
       name: Villein
+      id: 102121
     - count: 3
       name: Wash
+      id: 102151
   - name: Action
     count: 12
     cards:
     - count: 12
       name: Shroud of Decay
+      id: 102295
   - name: Ally
     count: 6
     cards:
     - count: 6
       name: Spectral Servitor
+      id: 102296
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 24
     cards:
     - count: 8
       name: Shadow Cast
+      id: 102280
     - count: 4
       name: Shadow Cloak
+      id: 102281
     - count: 8
       name: Stygian Shroud
+      id: 102282
     - count: 4
       name: Where the Veil Thins
+      id: 102285
   - name: Reaction
     count: 19
     cards:
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: Eyes of Argus
+      id: 100680
     - count: 6
       name: Shadow Sentinel
+      id: 102294
     - count: 9
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 8
     cards:
     - count: 8
       name: Pass Through Shadow
+      id: 102279

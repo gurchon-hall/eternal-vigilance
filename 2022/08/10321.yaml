@@ -18,66 +18,77 @@ deck:
   crypt:
   - count: 2
     name: Belle Equitone
+    id: 200188
     capacity: 2
     disciplines: ser
     clan: Ministry
     grouping: 4
   - count: 1
     name: Ankh-sen-Sutekh
+    id: 200099
     capacity: 6
     disciplines: obf PRE SER
     clan: Ministry
     grouping: 4
   - count: 1
     name: Halim Bey
+    id: 200561
     capacity: 6
     disciplines: obf tha DOM SER
     clan: Ministry
     grouping: 4
   - count: 1
     name: Abdelsobek
+    id: 200005
     capacity: 5
     disciplines: for nec obf pre ser
     clan: Ministry
     grouping: 5
   - count: 1
     name: Renenet
+    id: 201179
     capacity: 5
     disciplines: ser OBF PRE
     clan: Ministry
     grouping: 4
   - count: 1
     name: Zhenga
+    id: 201506
     capacity: 5
     disciplines: obf pre SER
     clan: Ministry
     grouping: 4
   - count: 1
     name: Marla Kenyon
+    id: 200938
     capacity: 4
     disciplines: ser PRE
     clan: Ministry
     grouping: 4
   - count: 1
     name: Sahira Siraj
+    id: 201221
     capacity: 4
     disciplines: obf ser tha
     clan: Ministry
     grouping: 4
   - count: 1
     name: Sisocharis
+    id: 201293
     capacity: 4
     disciplines: cel obf pre
     clan: Ministry
     grouping: 5
   - count: 1
     name: Ahmose Chambers
+    id: 200024
     capacity: 3
     disciplines: obf ser
     clan: Ministry
     grouping: 5
   - count: 1
     name: Reverend Djoser Jones
+    id: 201183
     capacity: 3
     disciplines: pre ser
     clan: Ministry
@@ -89,90 +100,124 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 8
       name: Blood Doll
+      id: 100199
     - count: 1
-      name: The Crocodile Temple
+      name: Crocodile Temple, The
+      id: 100449
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Khobar Towers, Al-Khubar
+      id: 101048
     - count: 1
       name: Opium Den
+      id: 101326
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Visit from the Capuchin
+      id: 102126
     - count: 1
       name: Wash
+      id: 102151
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 39
     cards:
     - count: 24
       name: Corruption
+      id: 100430
     - count: 3
       name: Dream World
+      id: 100587
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 1
       name: Form of Corruption
+      id: 100770
     - count: 2
       name: Mesu Bedshet
+      id: 101206
     - count: 1
-      name: The Summoning
+      name: Summoning, The
+      id: 101902
     - count: 2
       name: Temptation
+      id: 101954
     - count: 4
       name: Waters of Duat
+      id: 102159
   - name: Ally
     count: 5
     cards:
     - count: 1
       name: Amam the Devourer
+      id: 100042
     - count: 1
       name: Impundulu
+      id: 100966
     - count: 1
       name: Nephren-Ka
+      id: 101273
     - count: 1
       name: Saatet-ta
+      id: 101665
     - count: 1
       name: Young Bloods
+      id: 102202
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 14
     cards:
     - count: 3
       name: Cloak the Gathering
+      id: 100362
     - count: 3
       name: Forgotten Labyrinth
+      id: 100769
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Revelation of Desire
+      id: 101622
     - count: 2
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 4
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 3
       name: Ophidian Gaze
+      id: 101325
   - name: Combat
     count: 5
     cards:
     - count: 5
       name: Weighted Walking Stick
+      id: 102169

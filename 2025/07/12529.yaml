@@ -19,72 +19,84 @@ deck:
   crypt:
   - count: 1
     name: Aleph
+    id: 200045
     capacity: 4
     disciplines: dom AUS
     clan: Malkavian
     grouping: 1
   - count: 1
     name: Dorian Strack
+    id: 200368
     capacity: 4
     disciplines: cel AUS
     clan: Toreador
     grouping: 1
   - count: 1
     name: Idalia, Prophet of Guadalajara
+    id: 200620
     capacity: 4
     disciplines: dem AUS
     clan: Malkavian antitribu
     grouping: 2
   - count: 1
     name: Remilliard, Devout Crusader
+    id: 201178
     capacity: 4
     disciplines: pre AUS
     clan: Toreador antitribu
     grouping: 2
   - count: 1
     name: Dan Murdock
+    id: 200312
     capacity: 3
     disciplines: aus obf
     clan: Caitiff
     grouping: 1
   - count: 1
     name: Dollface
+    id: 200354
     capacity: 3
     disciplines: aus obf
     clan: Malkavian
     grouping: 1
   - count: 1
     name: Isabel de Leon
+    id: 200642
     capacity: 3
     disciplines: AUS
     clan: Toreador
     grouping: 2
   - count: 1
     name: Regilio, The Seeker of Akhenaten
+    id: 201174
     capacity: 3
     disciplines: aus obf
     clan: Nosferatu
     grouping: 2
   - count: 1
     name: Zöe
+    id: 201509
     capacity: 3
     disciplines: cel obf AUS
     clan: Malkavian
     grouping: 2
   - count: 1
     name: Brazil
+    id: 200217
     capacity: 2
     disciplines: aus
     clan: Malkavian
     grouping: 1
   - count: 1
     name: Dieter Kleist
+    id: 200345
     capacity: 2
     disciplines: aus
     clan: Toreador
     grouping: 1
   - count: 1
     name: Franciscus
+    id: 200477
     capacity: 1
     disciplines: aus
     clan: Caitiff
@@ -96,82 +108,115 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Asylum Hunting Ground
+      id: 100108
     - count: 1
       name: Auspex
+      id: 100114
     - count: 1
       name: Club Zombie
+      id: 100367
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Humanitas
+      id: 100943
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 6
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 4
       name: Sudden Reversal
+      id: 101896
     - count: 1
       name: Tribute to the Master
+      id: 102023
     - count: 4
       name: Vessel
+      id: 102113
     - count: 1
       name: Wall Street Night, Financial Newspaper
+      id: 102142
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Muddled Vampire Hunter
+      id: 101250
   - name: Equipment
     count: 6
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 4
       name: Sniper Rifle
+      id: 101816
   - name: Reaction
     count: 47
     cards:
     - count: 7
       name: Eagle's Sight
+      id: 100598
     - count: 6
       name: Enhanced Senses
+      id: 100644
     - count: 8
       name: Eyes of Argus
+      id: 100680
     - count: 4
       name: Forced Awakening
+      id: 100760
     - count: 2
       name: Melange
+      id: 101195
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 7
       name: Precognition
+      id: 101475
     - count: 3
       name: Spirit's Touch
+      id: 101850
     - count: 8
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 8
     cards:
     - count: 3
       name: Concealed Weapon
+      id: 100392
     - count: 2
       name: Fake Out
+      id: 100693
     - count: 3
       name: Read Intentions
+      id: 101558
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Fourth Cycle
+      name: Fourth Cycle, The
+      id: 100781

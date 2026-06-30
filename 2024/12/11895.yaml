@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Yewon Ong
+    id: 201716
     capacity: 8
     disciplines: for DOM OBL POT
     title: Prince
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: María del Toro
+    id: 201714
     capacity: 7
     disciplines: DOM OBL POT
     title: Prince
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Kamaluddin
+    id: 201713
     capacity: 6
     disciplines: for pot DOM OBL
     title: Primogen
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 1
     name: Gnaeus Aemilius Augustinus
+    id: 201712
     capacity: 9
     disciplines: tha DOM OBL POT PRO
     title: Prince
@@ -47,6 +51,7 @@ deck:
     grouping: 6
   - count: 1
     name: Rinaldo Albizzi
+    id: 201715
     capacity: 7
     disciplines: pre DOM OBL POT
     title: Primogen
@@ -54,18 +59,21 @@ deck:
     grouping: 6
   - count: 1
     name: Aintzane Arriaga
+    id: 201708
     capacity: 6
     disciplines: DOM OBL POT
     clan: Lasombra
     grouping: 6
   - count: 1
     name: Braden White
+    id: 201711
     capacity: 4
     disciplines: dom obl pot
     clan: Lasombra
     grouping: 6
   - count: 1
     name: Araceli "Celia" Rivera
+    id: 201709
     capacity: 3
     disciplines: dom obl
     clan: Lasombra
@@ -77,75 +85,103 @@ deck:
     cards:
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 1
       name: 'Elysium: The Arboretum'
+      id: 100631
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 3
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Political Hunting Ground
+      id: 101415
     - count: 1
       name: Power Structure
+      id: 101430
     - count: 3
       name: Sudden Reversal
+      id: 101896
     - count: 2
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
   - name: Action
     count: 7
     cards:
     - count: 7
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 13
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 4
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 6
       name: Kine Resources Contested
+      id: 101056
     - count: 2
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 29
     cards:
     - count: 6
       name: Amici Noctis
+      id: 102274
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 4
       name: Shadow Cast
+      id: 102280
     - count: 5
       name: Shadow Cloak
+      id: 102281
     - count: 2
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
+      id: 101805
     - count: 4
       name: Stygian Shroud
+      id: 102282
     - count: 3
       name: Where the Veil Thins
+      id: 102285
   - name: Action Modifier/Reaction
     count: 6
     cards:
     - count: 6
       name: Ominous Chorus
+      id: 102278
   - name: Reaction
     count: 11
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 7
     cards:
     - count: 7
       name: Pass Through Shadow
+      id: 102279

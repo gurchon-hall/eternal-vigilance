@@ -1,0 +1,199 @@
+name: Mythic Form CG
+location: Campina Grande (PB), Brazil
+date_start: 2025-03-29
+rounds_format: 2R+F
+players_count: 14
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/12168
+event_id: 12168
+vp_comment: 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12168
+deck:
+  name: The heart of the bleed 2.0
+  description: ''
+  crypt_count: 12
+  crypt_min: 7
+  crypt_max: 40
+  crypt_avg: 5.75
+  crypt:
+  - count: 4
+    name: unnamed, The
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: André the Manipulator
+    id: 200081
+    capacity: 6
+    disciplines: FOR PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Crystal Lynn
+    id: 201582
+    capacity: 6
+    disciplines: OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Doctor Morocco
+    id: 201584
+    capacity: 5
+    disciplines: cel obf pre PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Jenny Silver
+    id: 201593
+    capacity: 5
+    disciplines: obf PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Marcel
+    id: 201600
+    capacity: 4
+    disciplines: obf pre pro
+    clan: Ministry
+    grouping: 6
+  library_count: 83
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 2
+      name: Anarch Revolt
+      id: 100055
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 14
+    cards:
+    - count: 2
+      name: Heart of the City
+      id: 100904
+    - count: 3
+      name: Illegalism
+      id: 100952
+    - count: 7
+      name: Platinum Protocol, The
+      id: 102232
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Infernal Servitor
+      id: 100981
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 31
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 2
+      name: Earth Control
+      id: 100600
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Enchanting Gaze
+      id: 102221
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 7
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 3
+      name: Revelation of the Serpent
+      id: 102233
+    - count: 2
+      name: Spying Mission
+      id: 101857
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 12
+    cards:
+    - count: 3
+      name: Bollix
+      id: 100232
+    - count: 6
+      name: Earth Meld
+      id: 100601
+    - count: 3
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Fourth Cycle, The
+      id: 100781

@@ -18,18 +18,21 @@ deck:
   crypt:
   - count: 5
     name: Dmitri Borodin
+    id: 200350
     capacity: 10
     disciplines: obf AUS CEL NEC QUI
     clan: Banu Haqim
     grouping: 4
   - count: 3
     name: Massassi
+    id: 200954
     capacity: 9
     disciplines: obf AUS CEL POT QUI
     clan: Osebo
     grouping: 4
   - count: 2
     name: Kabede Maru
+    id: 200741
     capacity: 9
     disciplines: abo pot AUS CEL OBF QUI
     title: Magaji
@@ -37,12 +40,14 @@ deck:
     grouping: 5
   - count: 1
     name: Antara
+    id: 200108
     capacity: 8
     disciplines: aus obf pre CEL FOR QUI
     clan: Banu Haqim
     grouping: 4
   - count: 1
     name: Bertrand d'Anjou
+    id: 200192
     capacity: 4
     disciplines: aus cel qui
     clan: Banu Haqim
@@ -54,88 +59,124 @@ deck:
     cards:
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: Market Square
+      id: 101171
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Society of Leopold
+      id: 101822
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 1
       name: Underworld Hunting Ground
+      id: 102066
     - count: 2
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 5
     cards:
     - count: 1
       name: Loss
+      id: 101124
     - count: 4
       name: Truth of Blood
+      id: 102045
   - name: Equipment
     count: 9
     cards:
     - count: 3
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 2
       name: 'Reliquary: Shango Remains'
+      id: 101598
     - count: 2
       name: Sniper Rifle
+      id: 101816
   - name: Action Modifier
     count: 5
     cards:
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 4
       name: Trochomancy
+      id: 102026
   - name: Reaction
     count: 33
     cards:
     - count: 6
       name: Black Sunrise
+      id: 100171
     - count: 2
       name: Eagle's Sight
+      id: 100598
     - count: 4
       name: Enhanced Senses
+      id: 100644
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: Forced Awakening
+      id: 100760
     - count: 1
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Quicken Sight
+      id: 101531
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 19
     cards:
     - count: 1
       name: Concealed Weapon
+      id: 100392
     - count: 3
       name: Disguised Weapon
+      id: 100555
     - count: 7
       name: Pursuit
+      id: 101523
     - count: 3
       name: Taste of Death
+      id: 101944
     - count: 5
       name: Taste of Vitae
+      id: 101945

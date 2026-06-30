@@ -7,12 +7,10 @@ winner: André Afonso
 vekn_number: 6040038
 event_url: https://www.vekn.net/event-calendar/event/13237
 event_id: 13237
-vp_comment: 2,5vp + 5vpGW in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82997-twd-late-april-fools-vila-velha-brazil-18-04-26
+vp_comment: 0GW2.5 + 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13237
 deck:
   name: Brechó do Hesha
-  created_by: Wandbr (André Afonso -VEKN
   description: ''
   crypt_count: 12
   crypt_min: 12
@@ -21,12 +19,14 @@ deck:
   crypt:
   - count: 6
     name: Hesha Ruhadze
+    id: 201591
     capacity: 7
     disciplines: ani aus obf PRE PRO
     clan: Ministry
     grouping: 6
   - count: 6
     name: Angel Chavarria
+    id: 200089
     capacity: 3
     disciplines: THN
     clan: Samedi
@@ -38,111 +38,160 @@ deck:
     cards:
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: Nod
+      id: 101295
   - name: Action
     count: 2
     cards:
     - count: 1
       name: Precision
+      id: 101474
     - count: 1
       name: Revelations
+      id: 101627
   - name: Equipment
     count: 40
     cards:
     - count: 1
       name: Aaron's Feeding Razor
+      id: 100003
     - count: 1
       name: Amulet of Temporal Perception
+      id: 100048
     - count: 1
       name: Argent Baton
+      id: 100086
     - count: 1
       name: Blade of Enoch
+      id: 100176
     - count: 1
       name: Blood Tears of Kephran
+      id: 100212
     - count: 1
       name: Body Bag
+      id: 100229
     - count: 1
-      name: The Book of Going Forth by Night
+      name: Book of Going Forth by Night, The
+      id: 100239
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Changeling Skin Mask
+      id: 100325
     - count: 1
       name: Cloak of the Abalone
+      id: 100361
     - count: 1
       name: Codex of the Damned
+      id: 100373
     - count: 1
       name: Codex of the Edenic Groundskeepers
+      id: 100374
     - count: 1
       name: Concoction of Vitality
+      id: 100394
     - count: 1
       name: Drum of Xipe Totec
+      id: 100591
     - count: 1
       name: Gran Madre di Dio, Italy
+      id: 100847
     - count: 1
       name: Hand of Conrad
+      id: 100882
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Joumlon's Axe
+      id: 101025
     - count: 1
       name: Kaymakli Fragment
+      id: 101035
     - count: 5
       name: Learjet
+      id: 101080
     - count: 1
       name: Martinelli's Ring
+      id: 101174
     - count: 1
       name: Monocle of Clarity
+      id: 101240
     - count: 1
       name: Mummy's Tongue
+      id: 101252
     - count: 1
       name: Orb of Ulain
+      id: 101328
     - count: 1
       name: Ritual Goblet
+      id: 102243
     - count: 1
       name: Rowan Ring
+      id: 101655
     - count: 1
-      name: The Sargon Fragment
+      name: Sargon Fragment, The
+      id: 101681
     - count: 1
       name: Seal of Veddartha
+      id: 101703
     - count: 1
       name: Sengir Dagger
+      id: 101715
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
     - count: 1
       name: Sire's Index Finger
+      id: 101785
     - count: 1
       name: Soul Gem of Etrius
+      id: 101832
     - count: 1
       name: Tapestry of Blood
+      id: 101936
     - count: 1
-      name: The Textbook Damnation
+      name: Textbook Damnation, The
+      id: 101962
     - count: 1
       name: Veneficorum Artum Sanguis
+      id: 102102
     - count: 1
       name: Waxen Poetica
+      id: 102162
   - name: Action Modifier
     count: 35
     cards:
     - count: 1
       name: Approximation of Loyalty
+      id: 100078
     - count: 27
       name: Hag's Wrinkles
+      id: 100877
     - count: 1
       name: Horrific Countenance
+      id: 100936
     - count: 2
       name: I am Legion
+      id: 100947
     - count: 2
       name: Perfect Clarity
+      id: 101386
     - count: 2
       name: Under My Skin
+      id: 102062
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 2
       name: Force of Personality
+      id: 100758
     - count: 2
       name: Hide the Mind
+      id: 100921

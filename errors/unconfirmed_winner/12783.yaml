@@ -1,14 +1,13 @@
 name: Tommaso Sforza's Birthday
-location: Newark, Ohio
+location: Newark (OH), USA
 date_start: 2025-12-14
 rounds_format: 2R+F
 players_count: 16
 winner: Alex Romano
 event_url: https://www.vekn.net/event-calendar/event/12783
 event_id: 12783
-vp_comment: 5VP+1GW and 3VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82736-twd-tommaso-sforza-s-birthday
+vp_comment: The final was as follows
+forum_post_url: https://www.vekn.net/event-calendar/event/12783
 deck:
   name: No Good
   description: This is a deck in homage to "He has to run out sometime" by John 
@@ -26,6 +25,7 @@ deck:
   crypt:
   - count: 5
     name: Marconius
+    id: 200914
     capacity: 9
     disciplines: pot DOM MYT OBT
     title: Archbishop
@@ -33,6 +33,7 @@ deck:
     grouping: 2
   - count: 3
     name: Gratiano
+    id: 200534
     capacity: 8
     disciplines: obf pot DOM OBT
     title: Priscus
@@ -40,28 +41,32 @@ deck:
     grouping: 2
   - count: 2
     name: Julia Prima
+    id: 200734
     capacity: 7
     disciplines: aus myt DOM OBT
     clan: Kiasyd
     grouping: 2
   - count: 1
+    name: Quentin
+    id: 201140
+    capacity: 9
+    disciplines: cel obt AUS DOM FOR
+    title: Bishop
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
     name: Bartholomew
+    id: 200172
     capacity: 8
     disciplines: dom obt AUS MYT NEC
     clan: Kiasyd
     grouping: 2
   - count: 1
     name: Kassiym Malikhair
+    id: 200760
     capacity: 6
     disciplines: dom for MYT OBT
     clan: Kiasyd
-    grouping: 2
-  - count: 1
-    name: Quentin
-    capacity: 9
-    disciplines: cel obt AUS DOM FOR
-    title: Bishop
-    clan: Ventrue antitribu
     grouping: 2
   library_count: 90
   library_sections:
@@ -70,100 +75,139 @@ deck:
     cards:
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Auspex
+      id: 100114
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 2
       name: Fortitude
+      id: 100774
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Great Symposium
+      id: 100853
     - count: 1
       name: Hungry Coyote, The
+      id: 100945
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 3
       name: Parthenon, The
+      id: 101355
     - count: 1
       name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 1
       name: Rack, The
+      id: 101536
     - count: 1
       name: Ravager
+      id: 101548
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 10
     cards:
     - count: 3
       name: Eternal Vigilance
+      id: 100666
     - count: 1
       name: Goblinism
+      id: 100841
     - count: 4
       name: Govern the Unaligned
+      id: 100845
     - count: 2
       name: Under Siege
-  - name: Political Action
-    count: 2
-    cards:
-    - count: 2
-      name: Banishment
+      id: 102063
   - name: Ally
     count: 2
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Banishment
+      id: 100131
   - name: Action Modifier
     count: 13
     cards:
     - count: 1
       name: Blanket of Night
+      id: 100177
     - count: 2
       name: Bonding
+      id: 100236
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 2
       name: Shadow Play
+      id: 101743
     - count: 3
       name: Shroud of Absence
+      id: 101774
     - count: 3
       name: Stone Travel
+      id: 101875
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Aura Absorption
+      id: 100111
   - name: Reaction
     count: 25
     cards:
     - count: 4
       name: Deflection
+      id: 100518
     - count: 2
       name: Eluding the Arms of Morpheus
+      id: 100628
     - count: 11
       name: Faerie Wards
+      id: 100690
     - count: 6
       name: Obedience
+      id: 101309
     - count: 2
       name: On the Qui Vive
+      id: 101321

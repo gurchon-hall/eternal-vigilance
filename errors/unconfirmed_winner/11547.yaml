@@ -16,18 +16,28 @@ deck:
   crypt:
   - count: 4
     name: Beast, The Leatherface of Detroit
+    id: 200179
     capacity: 7
     disciplines: ani cel OBF POT
     clan: Nosferatu antitribu
     grouping: 2
   - count: 3
     name: Theo Bell
+    id: 201362
     capacity: 7
     disciplines: cel dom pre POT
     clan: Brujah
     grouping: 2
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
   - count: 2
     name: Jimmy Dunn
+    id: 200705
     capacity: 4
     disciplines: for CEL POT
     clan: Pander
@@ -39,53 +49,73 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Carver's Meat Packing and Storage
+      id: 100303
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Fame
+      id: 100698
     - count: 6
       name: Guardian Angel
+      id: 100866
     - count: 1
       name: Tension in the Ranks
+      id: 101958
     - count: 5
       name: Villein
+      id: 102121
     - count: 3
       name: Wider View
+      id: 102180
   - name: Action
     count: 3
     cards:
     - count: 3
       name: Heroic Might
+      id: 100913
   - name: Reaction
     count: 7
     cards:
     - count: 3
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 43
     cards:
     - count: 2
       name: Disarm
+      id: 100549
     - count: 7
       name: Flash
+      id: 100744
     - count: 10
       name: Immortal Grapple
+      id: 100959
     - count: 5
       name: Quickness
+      id: 101532
     - count: 3
       name: Roundhouse
+      id: 102215
     - count: 2
       name: Street Cred
+      id: 101882
     - count: 7
       name: Taste of Vitae
+      id: 101945
     - count: 7
       name: Torn Signpost
+      id: 101993
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

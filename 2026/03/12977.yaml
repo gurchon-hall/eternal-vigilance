@@ -7,8 +7,8 @@ winner: Tommi Hakomaa
 vekn_number: 3530067
 event_url: https://www.vekn.net/event-calendar/event/12977
 event_id: 12977
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82898-twd-fee-stake-tampere-boonuspannu-ii-finland-07-march-2026
+vp_comment: 1GW6 + 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12977
 deck:
   name: Beauty and the Beast
   created_by: Otso
@@ -94,7 +94,7 @@ deck:
       name: Monster
       id: 101242
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
       id: 101355
     - count: 1
       name: 'Powerbase: Montreal'

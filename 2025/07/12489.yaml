@@ -1,0 +1,157 @@
+name: Predator's Mastery CG
+location: Campina Grande (PB), Brazil
+date_start: 2025-07-12
+rounds_format: 2R+F
+players_count: 14
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/12489
+event_id: 12489
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12489
+deck:
+  name: Saulot grande e besta
+  description: ''
+  crypt_count: 12
+  crypt_min: 7
+  crypt_max: 44
+  crypt_avg: 7.58
+  crypt:
+  - count: 4
+    name: Saulot, The Wanderer
+    id: 201248
+    capacity: 11
+    disciplines: dai AUS FOR OBE THA VAL
+    clan: Salubri
+    grouping: 4
+  - count: 4
+    name: Nergal
+    id: 201048
+    capacity: 10
+    disciplines: AUS DAI FOR OBF PRE THA
+    clan: Baali
+    grouping: 5
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Tyler McGill
+    id: 201398
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador
+    grouping: 5
+  library_count: 78
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Depravity
+      id: 100526
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Saulot's Avenging Fist
+      id: 102257
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: Arson
+      id: 100094
+    - count: 2
+      name: Biothaumaturgic Experiment
+      id: 100162
+    - count: 4
+      name: Call the Great Beast
+      id: 100280
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 2
+      name: Renewed Vigor
+      id: 101603
+    - count: 1
+      name: Rutor's Hand
+      id: 101664
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 9
+    cards:
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 5
+      name: Mirror Walk
+      id: 101223
+    - count: 2
+      name: Repulsion
+      id: 101606
+  - name: Reaction
+    count: 19
+    cards:
+    - count: 8
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 7
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 18
+    cards:
+    - count: 11
+      name: Anesthetic Touch
+      id: 100066
+    - count: 3
+      name: Aura Reading
+      id: 100113
+    - count: 4
+      name: Taste of Vitae
+      id: 101945

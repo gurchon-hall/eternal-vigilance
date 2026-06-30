@@ -1,0 +1,186 @@
+name: Marchesa Liliana
+location: Fortaleza (CE), Brazil
+date_start: 2026-04-19
+rounds_format: 2R+F
+players_count: 12
+winner: Nilceu Galvão
+vekn_number: 6050001
+event_url: https://www.vekn.net/event-calendar/event/12892
+event_id: 12892
+vp_comment: 1GW3 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12892
+deck:
+  name: Carente de Amor
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 17
+  crypt_avg: 2.67
+  crypt:
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: André the Manipulator
+    id: 200081
+    capacity: 6
+    disciplines: FOR PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Hanna Nokelainen
+    id: 201590
+    capacity: 4
+    disciplines: ani for pro
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Nathan Turner
+    id: 201606
+    capacity: 4
+    disciplines: ani PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Fergus Alexander
+    id: 200463
+    capacity: 3
+    disciplines: pot pro
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Indira
+    id: 201592
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Joaquín de Cádiz
+    id: 201595
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Lillian
+    id: 200836
+    capacity: 3
+    disciplines: ani pro
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Ruslan Fedorenko
+    id: 201611
+    capacity: 2
+    disciplines: pro
+    clan: Gangrel
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 28
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 8
+      name: Ascendance
+      id: 100104
+    - count: 1
+      name: Backways
+      id: 100126
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Ecoterrorists
+      id: 100609
+    - count: 1
+      name: Gird Minions
+      id: 100831
+    - count: 2
+      name: Life in the City
+      id: 101104
+    - count: 4
+      name: Parthenon, The
+      id: 101355
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Zoo Hunting Ground
+      id: 102212
+  - name: Action
+    count: 34
+    cards:
+    - count: 10
+      name: Computer Hacking
+      id: 100390
+    - count: 10
+      name: Embrace, The
+      id: 100633
+    - count: 1
+      name: Rewilding
+      id: 101632
+    - count: 3
+      name: Skullduggery
+      id: 101796
+    - count: 10
+      name: Thing
+      id: 101972
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Double Deuce
+      id: 102220
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Leverage
+      id: 101098
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Poison Pill
+      id: 101406
+  - name: Combat
+    count: 18
+    cards:
+    - count: 14
+      name: Earth Meld
+      id: 100601
+    - count: 4
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265

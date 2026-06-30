@@ -18,7 +18,8 @@ deck:
   crypt_avg: 10.0
   crypt:
   - count: 12
-    name: The unnamed
+    name: unnamed, The
+    id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
@@ -30,106 +31,145 @@ deck:
     cards:
     - count: 6
       name: Abombwe
+      id: 100009
     - count: 1
       name: Antediluvian Awakening
+      id: 100073
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fragment of the Book of Nod
+      id: 100785
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Life Boon
+      id: 101103
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Redeem the Lost Soul
+      id: 101577
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 14
     cards:
     - count: 5
       name: Call the Great Beast
+      id: 100280
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 5
       name: Flurry of Action
+      id: 100752
     - count: 1
       name: Shadow of the Beast
+      id: 101740
     - count: 2
       name: Unleash Hell's Fury
+      id: 102076
   - name: Ally
     count: 3
     cards:
     - count: 1
       name: Herald of Topheth
+      id: 100912
     - count: 1
       name: Mylan Horseed
+      id: 101261
     - count: 1
       name: Veneficti
+      id: 102103
   - name: Equipment
     count: 5
     cards:
     - count: 5
       name: Soul Gem of Etrius
+      id: 101832
   - name: Action Modifier
     count: 16
     cards:
     - count: 2
       name: 'Devil-Channel: Throat'
+      id: 100540
     - count: 3
       name: Earth Control
+      id: 100600
     - count: 2
       name: Enkil Cog
+      id: 100645
     - count: 6
       name: Instantaneous Transformation
+      id: 100994
     - count: 1
       name: Predator's Mastery
+      id: 101478
     - count: 2
       name: Zephyr
+      id: 102205
   - name: Action Modifier/Combat
     count: 8
     cards:
     - count: 4
       name: Predator's Transformation
+      id: 101479
     - count: 2
       name: Resist Earth's Grasp
+      id: 101610
     - count: 2
       name: 'Taking the Skin: Minion'
+      id: 101928
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 2
       name: Form of the Bat
+      id: 102223
     - count: 1
       name: Sense the Sin
+      id: 101718
   - name: Reaction
     count: 9
     cards:
     - count: 5
       name: Predator's Communion
+      id: 101477
     - count: 4
       name: Visions of Zapathasura
+      id: 102265
   - name: Combat
     count: 10
     cards:
     - count: 1
       name: Amaranth
+      id: 100043
     - count: 1
       name: Claws of the Dead
+      id: 100356
     - count: 1
       name: 'Devil-Channel: Hands'
+      id: 100539
     - count: 3
       name: Form of Mist
+      id: 100771
     - count: 4
       name: Pursuit
+      id: 101523
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Inconnu Tutelage
+      id: 100970

@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 5
     name: Unmada
+    id: 201410
     capacity: 10
     disciplines: cel for AUS DEM OBF VIC
     title: Justicar
@@ -26,6 +27,7 @@ deck:
     grouping: 5
   - count: 3
     name: Lutz von Hohenzollern
+    id: 200890
     capacity: 11
     disciplines: pot AUS DEM OBF PRE
     title: Inner Circle
@@ -33,6 +35,7 @@ deck:
     grouping: 4
   - count: 2
     name: Josef von Bauren
+    id: 200720
     capacity: 11
     disciplines: cel ANI DEM OBF POT
     title: Inner Circle
@@ -40,6 +43,7 @@ deck:
     grouping: 4
   - count: 2
     name: Alonso Petrodon
+    id: 200060
     capacity: 10
     disciplines: for tha ANI DOM OBF POT
     title: Justicar
@@ -52,101 +56,142 @@ deck:
     cards:
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Subdued by the Blood
+      id: 101890
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Warsaw Station
+      id: 102149
     - count: 1
       name: Wider View
+      id: 102180
     - count: 8
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 10
     cards:
     - count: 1
       name: Dark Mirror of the Mind
+      id: 100494
     - count: 2
       name: 'Judgment: Camarilla Segregation'
+      id: 101028
     - count: 7
       name: Petra Resonance
+      id: 101396
   - name: Equipment
     count: 3
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Sacré-Cœur Cathedral, France
+      id: 101670
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
   - name: Political Action
     count: 14
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 1
       name: Kindred Segregation
+      id: 101053
     - count: 2
       name: Kine Resources Contested
+      id: 101056
     - count: 4
       name: Parity Shift
+      id: 101353
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 29
     cards:
     - count: 3
       name: Closed Session
+      id: 100364
     - count: 1
       name: Daring the Dawn
+      id: 100492
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 2
       name: Enkil Cog
+      id: 100645
     - count: 4
       name: Faceless Night
+      id: 100687
     - count: 5
       name: Forced March
+      id: 100761
     - count: 2
       name: Forgotten Labyrinth
+      id: 100769
     - count: 5
       name: Freak Drive
+      id: 100788
     - count: 5
       name: Into Thin Air
+      id: 101001
   - name: Reaction
     count: 7
     cards:
     - count: 1
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 5
     cards:
     - count: 1
       name: Gemini's Mirror
+      id: 100814
     - count: 4
       name: No Trace
+      id: 101292

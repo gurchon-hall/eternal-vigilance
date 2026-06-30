@@ -11,11 +11,9 @@ vp_comment: "Description: This is an evolution of a previous Museum-Manse design
   now with more Dominate! The library is currently formatted for the Gulf Coast's
   untimed finals format. A more tuned version with a thinner library is already being
   tested.  The deck should also get better as the crypt rounds out."
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81413-twd-gulf-coast-roast-dallas-grand-prix-dallas-tx-usa-27-april-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11350
 deck:
   name: Defy the Edict of Worms
-  created_by: Darby Keeney
   description: This is an evolution of a previous Museum-Manse design, now with 
     more Dominate! The library is currently formatted for the Gulf Coast's 
     untimed finals format. A more tuned version with a thinner library is 
@@ -28,6 +26,7 @@ deck:
   crypt:
   - count: 3
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -35,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -42,38 +42,44 @@ deck:
     grouping: 6
   - count: 2
     name: Neserian
+    id: 201678
     capacity: 6
     disciplines: cel pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
+    name: Stephen Bateson
+    id: 201315
+    capacity: 6
+    disciplines: ani aus tha vic
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
     name: Clara Hjortshøj
+    id: 201669
     capacity: 5
     disciplines: ani aus dom PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Marialena
+    id: 201677
     capacity: 5
     disciplines: ani DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
-    name: Prentis Derby
-    capacity: 4
-    disciplines: ani dom pro
+    name: Whisper
+    id: 201690
+    capacity: 5
+    disciplines: pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
-    name: Stephen Bateson
-    capacity: 6
-    disciplines: ani aus tha vic
-    clan: Tzimisce
-    grouping: 5
-  - count: 1
-    name: Whisper
-    capacity: 5
-    disciplines: pro ANI DOM
+    name: Prentis Derby
+    id: 201682
+    capacity: 4
+    disciplines: ani dom pro
     clan: Tzimisce
     grouping: 6
   library_count: 88
@@ -83,104 +89,138 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 5
-      name: The British Museum, London
+      name: British Museum, London, The
+      id: 102236
       comment: not as mission critical here
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
       comment: I hate this crutch, but it works
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 2
       name: Libertas
+      id: 101100
       comment: Worthless in this design, fodder for improvement
     - count: 1
       name: Papillon
+      id: 101350
       comment: would be better as a 3rd Cooler with this crypt
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Savannah'
+      id: 101442
     - count: 3
       name: Villein
+      id: 102121
       comment: should be +1 Villein
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 11
     cards:
     - count: 11
       name: Govern the Unaligned
+      id: 100845
   - name: Equipment
     count: 13
     cards:
     - count: 1
       name: Blood Tears of Kephran
+      id: 100212
     - count: 2
       name: Cooler
+      id: 100422
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
     - count: 7
       name: Living Manse
+      id: 101114
       comment: stellar when it is free and effectively actionless
     - count: 1
       name: Palatial Estate
+      id: 101345
   - name: Political Action
     count: 2
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
   - name: Action Modifier
     count: 5
     cards:
     - count: 5
       name: Earth Control
+      id: 100600
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 2
       name: Obedient Flesh
-      comment: 3rd copy would be welcome w/o Libertas.
+      id: 102255
+      comment: 3rd copy would be welcome w/o Libertas
     - count: 1
       name: Rapid Change
+      id: 101542
   - name: Action Modifier/Reaction
     count: 7
     cards:
     - count: 4
       name: Form of the Bat
+      id: 102223
     - count: 3
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 15
     cards:
     - count: 2
       name: Deep Ecology
+      id: 102219
     - count: 7
       name: Deflection
+      id: 100518
     - count: 2
       name: One With the Land
+      id: 102256
       comment: squeeze in a 3rd copy?
     - count: 4
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 8
     cards:
     - count: 3
       name: Earth Meld
+      id: 100601
     - count: 5
       name: Form of Mist
+      id: 100771
   - name: Event
     count: 2
     cards:
     - count: 1
       name: NRA PAC
+      id: 101305
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

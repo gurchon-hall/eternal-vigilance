@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 1
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 1
     name: Saku Pihlajamäki
+    id: 201658
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 1
     name: Sergio Bueno
+    id: 201662
     capacity: 8
     disciplines: aus pot OBF PRE PRO
     title: Baron
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 1
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -47,6 +51,7 @@ deck:
     grouping: 6
   - count: 1
     name: Massimiliano
+    id: 201602
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
@@ -54,6 +59,7 @@ deck:
     grouping: 6
   - count: 1
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -61,6 +67,7 @@ deck:
     grouping: 6
   - count: 1
     name: Vivian VI
+    id: 201615
     capacity: 7
     disciplines: obf tha PRE PRO
     title: Baron
@@ -68,6 +75,7 @@ deck:
     grouping: 6
   - count: 1
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -75,6 +83,7 @@ deck:
     grouping: 6
   - count: 1
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -82,6 +91,7 @@ deck:
     grouping: 6
   - count: 1
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
@@ -89,6 +99,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -96,6 +107,7 @@ deck:
     grouping: 6
   - count: 1
     name: Joseph Fischer
+    id: 200723
     capacity: 3
     disciplines: PRO
     clan: Gangrel antitribu
@@ -106,72 +118,95 @@ deck:
     count: 27
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Papillon
+      id: 101350
     - count: 7
       name: Protean
+      id: 101498
     - count: 6
       name: Villein
+      id: 102121
   - name: Action
     count: 10
     cards:
     - count: 10
       name: Childe of the Revolution
+      id: 102246
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 2
     cards:
     - count: 2
       name: Revolutionary Council
+      id: 101631
   - name: Action Modifier
     count: 3
     cards:
     - count: 3
       name: Earth Control
+      id: 100600
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 20
     cards:
     - count: 8
       name: Bait and Switch
+      id: 102218
     - count: 12
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 12
     cards:
     - count: 5
       name: Donnybrook
+      id: 100576
     - count: 2
       name: Earth Meld
+      id: 100601
     - count: 4
       name: Form of Mist
+      id: 100771
     - count: 1
       name: Groundfighting
+      id: 100861
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Uncoiling
+      name: Uncoiling, The
+      id: 102057

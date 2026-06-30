@@ -1,5 +1,5 @@
-name: LE DUE TORRI - ASINELLI (03/05/26)
-location: Bologna - Italy
+name: Le Due Torri - Asinelli
+location: Bologna, Italy
 date_start: 2026-05-03
 rounds_format: 2R+F
 players_count: 20
@@ -7,11 +7,10 @@ winner: Giulio De Cicco
 vekn_number: 9970003
 event_url: https://www.vekn.net/event-calendar/event/13153
 event_id: 13153
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82985-twd-le-due-torri-asinelli-03-05-26
+vp_comment: 2GW7 + 0.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13153
 deck:
   name: Ministry noia
-  created_by: Giulio De Cicco
   description: ''
   crypt_count: 12
   crypt_min: 19
@@ -20,56 +19,65 @@ deck:
   crypt:
   - count: 2
     name: Nonu Dis
+    id: 201608
     capacity: 8
     disciplines: for OBF PRE PRO
     clan: Ministry
     grouping: 6
-  - count: 1
-    name: Sergio Bueno
-    capacity: 8
-    disciplines: aus pot OBF PRE PRO
-    title: Baron
-    clan: Ministry
-    grouping: 6
   - count: 2
     name: Vivian VI
+    id: 201615
     capacity: 7
     disciplines: obf tha PRE PRO
     title: Baron
     clan: Ministry
     grouping: 6
+  - count: 2
+    name: Jenny Silver
+    id: 201593
+    capacity: 5
+    disciplines: obf PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Sergio Bueno
+    id: 201662
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
   - count: 1
     name: Hesha Ruhadze
+    id: 201591
     capacity: 7
     disciplines: ani aus obf PRE PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Crystal Lynn
+    id: 201582
     capacity: 6
     disciplines: OBF PRE PRO
     clan: Ministry
     grouping: 6
-  - count: 2
-    name: Jenny Silver
-    capacity: 5
-    disciplines: obf PRE PRO
-    clan: Ministry
-    grouping: 6
   - count: 1
     name: Aluc Romas de Leon
+    id: 201577
     capacity: 5
     disciplines: aus obf pro PRE
     clan: Ministry
     grouping: 6
   - count: 1
     name: Doctor Morocco
+    id: 201584
     capacity: 5
     disciplines: cel obf pre PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Marcel
+    id: 201600
     capacity: 4
     disciplines: obf pre pro
     clan: Ministry
@@ -81,80 +89,106 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 3
       name: Dabbler
+      id: 100485
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Opium Den
+      id: 101326
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 7
       name: Villein
+      id: 102121
   - name: Action
     count: 21
     cards:
     - count: 3
       name: Entrancement
+      id: 100652
     - count: 1
       name: 'Fee Stake: Corte'
+      id: 100713
     - count: 1
       name: 'Fee Stake: Perth'
+      id: 100716
     - count: 2
       name: Mind Numb
+      id: 101211
     - count: 14
-      name: The Platinum Protocol
-  - name: Political Action
-    count: 1
-    cards:
-    - count: 1
-      name: Reckless Agitation
+      name: Platinum Protocol, The
+      id: 102232
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Saatet-ta
+      id: 101665
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Reckless Agitation
+      id: 101567
   - name: Action Modifier
     count: 27
     cards:
     - count: 6
       name: CrimethInc.
+      id: 100446
     - count: 7
       name: Enchanting Gaze
+      id: 102221
     - count: 2
       name: Memory Rift
+      id: 101199
     - count: 12
       name: Revelation of the Serpent
+      id: 102233
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Form of the Cobra
+      id: 102224
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 12
     cards:
     - count: 1
       name: Bait and Switch
+      id: 102218
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 8
       name: Party Out Of Bounds
+      id: 102231
   - name: Combat
     count: 5
     cards:
     - count: 5
       name: Form of Mist
+      id: 100771
   - name: Event
     count: 3
     cards:
     - count: 1
-      name: The Bitter and Sweet Story
+      name: Bitter and Sweet Story, The
+      id: 100163
     - count: 2
       name: Narrow Minds
+      id: 101265

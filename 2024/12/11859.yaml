@@ -7,9 +7,8 @@ winner: Tomàs López Jiménez
 vekn_number: 1003983
 event_url: https://www.vekn.net/event-calendar/event/11859
 event_id: 11859
-vp_comment: 0VP + 4VP+ 3VP in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81957-twd-marato-tv3-barcelona-spain
+vp_comment: 1GW4+ 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11859
 deck:
   name: Barones votan
   created_by: glinlos
@@ -19,8 +18,24 @@ deck:
   crypt_max: 30
   crypt_avg: 6.0
   crypt:
+  - count: 2
+    name: Arishat
+    id: 200136
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 Vote
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Dominica
+    id: 201671
+    capacity: 3
+    disciplines: aus for
+    clan: Salubri
+    grouping: 7
   - count: 1
     name: Scout Youngwood
+    id: 201253
     capacity: 8
     disciplines: for qui MEL OBF PRE
     title: 2 Votes
@@ -28,6 +43,7 @@ deck:
     grouping: 6
   - count: 1
     name: Sergio Bueno
+    id: 201662
     capacity: 8
     disciplines: aus pot OBF PRE PRO
     title: Baron
@@ -35,6 +51,7 @@ deck:
     grouping: 6
   - count: 1
     name: Alice Chen
+    id: 201531
     capacity: 7
     disciplines: dom obf FOR PRE
     title: Prince
@@ -42,20 +59,15 @@ deck:
     grouping: 6
   - count: 1
     name: Vivian VI
+    id: 201615
     capacity: 7
     disciplines: obf tha PRE PRO
     title: Baron
     clan: Ministry
     grouping: 6
-  - count: 2
-    name: Arishat
-    capacity: 6
-    disciplines: DAI OBF PRE
-    title: 1 Vote
-    clan: Baali
-    grouping: 6
   - count: 1
     name: Andi Liu
+    id: 201532
     capacity: 6
     disciplines: aus obf pre DOM
     title: Prince
@@ -63,6 +75,7 @@ deck:
     grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -70,6 +83,7 @@ deck:
     grouping: 6
   - count: 1
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
@@ -77,17 +91,12 @@ deck:
     grouping: 6
   - count: 1
     name: Jacques Rouge
+    id: 201523
     capacity: 6
     disciplines: ani pot pre OBF
     title: Baron
     clan: Nosferatu
     grouping: 6
-  - count: 2
-    name: Dominica
-    capacity: 3
-    disciplines: aus for
-    clan: Salubri
-    grouping: 7
   library_count: 90
   library_sections:
   - name: Master
@@ -95,76 +104,106 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Saulot's Guiding Wisdom
+      id: 102258
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 3
     cards:
     - count: 3
       name: Entrancement
+      id: 100652
   - name: Political Action
     count: 16
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 6
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 1
       name: Patsy
+      id: 101377
     - count: 4
       name: Reckless Agitation
+      id: 101567
   - name: Action Modifier
     count: 33
     cards:
     - count: 4
       name: Awe
+      id: 100119
     - count: 4
       name: Bewitching Oration
+      id: 100157
     - count: 4
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 5
       name: Forgotten Labyrinth
+      id: 100769
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Perfect Paragon
+      id: 101387
     - count: 7
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 16
     cards:
     - count: 8
       name: Bait and Switch
+      id: 102218
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Majesty
+      id: 101144

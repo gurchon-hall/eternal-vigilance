@@ -17,42 +17,49 @@ deck:
   crypt:
   - count: 5
     name: Guillaume Giovanni
+    id: 200545
     capacity: 9
     disciplines: obt CEL DOM NEC POT
     clan: Giovanni
     grouping: 4
   - count: 2
     name: Raphaela Giovanni
+    id: 201165
     capacity: 6
     disciplines: pot pre DOM NEC
     clan: Giovanni
     grouping: 4
   - count: 1
     name: Sennadurek
+    id: 201263
     capacity: 6
     disciplines: dom AUS NEC
     clan: Nagaraja
     grouping: 4
   - count: 1
     name: Gianmaria Giovanni
+    id: 200515
     capacity: 5
     disciplines: dom nec obt POT
     clan: Giovanni
     grouping: 5
   - count: 1
     name: Kay Polerno
+    id: 200765
     capacity: 4
     disciplines: dom nec pro
     clan: Giovanni
     grouping: 5
   - count: 1
     name: Primo Giovanni
+    id: 201134
     capacity: 4
     disciplines: dom nec pot
     clan: Giovanni
     grouping: 4
   - count: 1
     name: Cristobal Ghiberti
+    id: 200300
     capacity: 2
     disciplines: nec
     clan: Giovanni
@@ -64,109 +71,151 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 1
       name: Charisma
+      id: 100332
     - count: 1
       name: Dis Pater
+      id: 100548
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Dummy Corporation
+      id: 100594
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Morgue Hunting Ground
+      id: 101243
     - count: 5
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: 'Powerbase: Cape Verde'
+      id: 101433
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
       name: 'Powerbase: Savannah'
+      id: 101442
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 1
       name: Storage Annex
+      id: 101877
     - count: 4
       name: Vessel
+      id: 102113
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 14
     cards:
     - count: 1
       name: Dominate Kine
+      id: 100573
     - count: 1
       name: Far Mastery
+      id: 100703
     - count: 9
       name: Govern the Unaligned
+      id: 100845
     - count: 3
       name: Sudario Refraction
+      id: 101895
   - name: Ally
     count: 9
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 8
       name: Nocturn
+      id: 101293
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Gran Madre di Dio, Italy
+      id: 100847
   - name: Action Modifier
     count: 17
     cards:
     - count: 2
       name: Bonding
+      id: 100236
     - count: 5
       name: Call of the Hungry Dead
+      id: 100279
     - count: 5
       name: Conditioning
+      id: 100401
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
     - count: 1
       name: Seduction
+      id: 101712
     - count: 3
       name: Shroud of Absence
+      id: 101774
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 3
       name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 8
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
   - name: Combat
     count: 3
     cards:
     - count: 3
       name: Spiritual Intervention
+      id: 101852
   - name: Event
     count: 2
     cards:
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
     - count: 1
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

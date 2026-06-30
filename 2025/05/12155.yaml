@@ -18,12 +18,14 @@ deck:
   crypt:
   - count: 5
     name: Antonio d'Erlette
+    id: 200116
     capacity: 5
     disciplines: dom for pot THA
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Ladislas Toth, The Torch
+    id: 200803
     capacity: 7
     disciplines: for AUS DOM THA
     title: Archbishop
@@ -31,24 +33,28 @@ deck:
     grouping: 3
   - count: 1
     name: Elena Mendoza Vasquez
+    id: 200408
     capacity: 6
     disciplines: dom obt AUS THA
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Selena
+    id: 201261
     capacity: 6
     disciplines: AUS DOM THA
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Yasmin the Black
+    id: 201483
     capacity: 6
     disciplines: dom pre AUS THA
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Frondator
+    id: 200485
     capacity: 5
     disciplines: dom tha AUS
     title: Bishop
@@ -56,12 +62,14 @@ deck:
     grouping: 4
   - count: 1
     name: Keith Moody
+    id: 200767
     capacity: 3
     disciplines: DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Lectora
+    id: 200827
     capacity: 3
     disciplines: aus tha
     clan: Tremere antitribu
@@ -73,72 +81,97 @@ deck:
     cards:
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Infernal Pact
+      id: 100979
     - count: 2
       name: Jake Washington
+      id: 101019
     - count: 6
       name: Liquidation
+      id: 101112
     - count: 3
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 2
-      name: The Shard, London
+      name: Shard, London, The
+      id: 102244
   - name: Action
     count: 2
     cards:
     - count: 2
       name: Magic of the Smith
+      id: 101143
   - name: Ally
     count: 11
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 10
       name: Nephandus
+      id: 101272
   - name: Equipment
     count: 3
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Action Modifier
     count: 10
     cards:
     - count: 2
       name: Conditioning
+      id: 100401
     - count: 8
       name: Mirror Walk
+      id: 101223
   - name: Reaction
     count: 27
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 6
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 9
     cards:
     - count: 6
       name: Target Vitals
+      id: 101942
     - count: 3
       name: Trap
+      id: 102012
   - name: Event
     count: 3
     cards:
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

@@ -1,0 +1,184 @@
+name: Finnish NC 2023
+location: Espoo, Finland
+date_start: 2023-11-04
+rounds_format: 3R+F
+players_count: 33
+winner: Akseli Jalava
+vekn_number: 3530057
+event_url: https://www.vekn.net/event-calendar/event/11023
+event_id: 11023
+forum_post_url: https://www.vekn.net/event-calendar/event/11023
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 6
+  crypt_max: 40
+  crypt_avg: 6.0
+  crypt:
+  - count: 6
+    name: Shalmath
+    id: 201274
+    capacity: 10
+    disciplines: POT PRE TEM
+    clan: True Brujah
+    grouping: 6
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Adisa
+    id: 201636
+    capacity: 3
+    disciplines: cel obf
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Alu
+    id: 200062
+    capacity: 2
+    disciplines: obf
+    clan: Banu Haqim
+    grouping: 5
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 3
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Carver's Meat Packing and Storage
+      id: 100303
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Tabriz Assembly
+      id: 101924
+    - count: 1
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 14
+    cards:
+    - count: 1
+      name: Ambush
+      id: 100046
+    - count: 1
+      name: Big Game
+      id: 100159
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Clotho's Gift
+      id: 100365
+    - count: 1
+      name: Harass
+      id: 100886
+    - count: 1
+      name: Path of the Scorched Heart, The
+      id: 101371
+    - count: 7
+      name: Summon History
+      id: 101897
+  - name: Ally
+    count: 9
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 6
+      name: Emerald Legionnaire
+      id: 100634
+    - count: 1
+      name: Tye Cooper
+      id: 102053
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Book of Going Forth by Night, The
+      id: 100239
+    - count: 1
+      name: Eye of Hazimel
+      id: 100678
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Signet of King Saul, The
+      id: 101781
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 9
+      name: Domain of Evernight
+      id: 100571
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Tangle Atropos' Hand
+      id: 101935
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Rewind Time
+      id: 101633
+  - name: Combat
+    count: 35
+    cards:
+    - count: 3
+      name: Decapitate
+      id: 100511
+    - count: 7
+      name: Disarm
+      id: 100549
+    - count: 8
+      name: Majesty
+      id: 101144
+    - count: 13
+      name: Outside the Hourglass
+      id: 101338
+    - count: 4
+      name: Taste of Vitae
+      id: 101945

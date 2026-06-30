@@ -20,24 +20,28 @@ deck:
   crypt:
   - count: 4
     name: Erlik
+    id: 200434
     capacity: 10
     disciplines: AUS CEL FOR NEC THN
     clan: Harbinger of Skulls
     grouping: 3
   - count: 4
     name: Erebus
+    id: 200428
     capacity: 7
     disciplines: dem AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 3
   - count: 2
     name: Babalawo Alafin
+    id: 200158
     capacity: 7
     disciplines: ani AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 4
   - count: 2
     name: Nicomedes
+    id: 201057
     capacity: 5
     disciplines: aus for nec vic
     clan: Harbinger of Skulls
@@ -49,71 +53,94 @@ deck:
     cards:
     - count: 3
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 9
       name: Liquidation
+      id: 101112
     - count: 2
       name: Vessel
+      id: 102113
     - count: 1
       name: Vox Domini
+      id: 102132
   - name: Ally
     count: 13
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 12
       name: Emerald Legionnaire
+      id: 100634
   - name: Retainer
     count: 4
     cards:
     - count: 4
       name: Vengeful Spirit
+      id: 102107
   - name: Action Modifier
     count: 9
     cards:
     - count: 4
       name: Call of the Hungry Dead
+      id: 100279
     - count: 5
       name: Shroud Mastery
+      id: 101773
   - name: Action Modifier/Combat
     count: 6
     cards:
     - count: 6
       name: Breath of Thanatos
+      id: 100249
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 15
     cards:
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 17
     cards:
     - count: 5
       name: Hidden Strength
+      id: 100918
     - count: 5
       name: Rolling with the Punches
+      id: 101649
     - count: 3
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Weighted Walking Stick
+      id: 102169
   - name: Event
     count: 3
     cards:
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

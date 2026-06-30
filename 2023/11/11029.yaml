@@ -1,0 +1,182 @@
+name: Forgotten Maze in Prato
+location: Prato, Italy
+date_start: 2023-11-12
+rounds_format: 2R+F
+players_count: 28
+winner: Alessandro Bellomini
+vekn_number: 4740038
+event_url: https://www.vekn.net/event-calendar/event/11029
+event_id: 11029
+vp_comment: 2.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11029
+deck:
+  name: New deck
+  description: ''
+  crypt_count: 13
+  crypt_min: 11
+  crypt_max: 40
+  crypt_avg: 6.92
+  crypt:
+  - count: 5
+    name: Huitzilopochtli
+    id: 200611
+    capacity: 10
+    disciplines: AUS DAI DOM OBF POT PRE
+    clan: Baali
+    grouping: 2
+  - count: 4
+    name: Giotto Verducci
+    id: 200520
+    capacity: 7
+    disciplines: for pot pre DAI OBF
+    clan: Baali
+    grouping: 2
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: High Priest Angra Mainyu
+    id: 200597
+    capacity: 8
+    disciplines: dem ser DAI OBF PRE
+    clan: Baali
+    grouping: 2
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 76
+  library_sections:
+  - name: Master
+    count: 34
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 2
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 6
+      name: Tend the Flock
+      id: 101956
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wash
+      id: 102151
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 7
+    cards:
+    - count: 4
+      name: Entrancement
+      id: 100652
+    - count: 3
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 3
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 3
+      name: Faceless Night
+      id: 100687
+    - count: 1
+      name: I am Legion
+      id: 100947
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+  - name: Action Modifier/Reaction
+    count: 5
+    cards:
+    - count: 5
+      name: Sense the Sin
+      id: 101718
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 4
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 1
+      name: Eluding the Arms of Morpheus
+      id: 100628
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty
+      id: 101144

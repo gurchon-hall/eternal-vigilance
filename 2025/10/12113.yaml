@@ -1,4 +1,4 @@
-name: Oceania Continental Championships Melbourne 2025
+name: Oceania Continental Championship 2025
 location: Melbourne, Australia
 date_start: 2025-10-25
 rounds_format: 3R+F
@@ -7,11 +7,9 @@ winner: Ben Szymkow
 vekn_number: 4230008
 event_url: https://www.vekn.net/event-calendar/event/12113
 event_id: 12113
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82650-twd-oceania-continental-championships-melbourne-2025
+forum_post_url: https://www.vekn.net/event-calendar/event/12113
 deck:
   name: OCC 2025 - Girl walks into PoG
-  created_by: Ben Szymkow
   description: Diana with tap/bleed module using Scalpel and Under the Skin. 
     Predicted a wide-board meta so ran extra Anarchist Uprising and a Neonate 
     Breach instead of KRC.
@@ -22,6 +20,7 @@ deck:
   crypt:
   - count: 4
     name: Diana Iadanza
+    id: 201694
     capacity: 9
     disciplines: AUS CEL FOR PRE
     title: Justicar
@@ -29,6 +28,7 @@ deck:
     grouping: 7
   - count: 3
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -36,6 +36,7 @@ deck:
     grouping: 6
   - count: 2
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -43,6 +44,7 @@ deck:
     grouping: 6
   - count: 2
     name: Mkhokheli
+    id: 201561
     capacity: 6
     disciplines: aus cel for PRE
     title: Prince
@@ -50,6 +52,7 @@ deck:
     grouping: 6
   - count: 1
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
@@ -62,88 +65,121 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 2
       name: Art Museum
+      id: 100095
     - count: 1
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fortitude
+      id: 100774
     - count: 5
       name: Grooming the Protégé
+      id: 100860
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 2
       name: Visit from the Capuchin
+      id: 102126
   - name: Action
     count: 9
     cards:
     - count: 7
       name: Enchant Kindred
+      id: 100640
     - count: 2
       name: Entrancement
+      id: 100652
   - name: Political Action
     count: 17
     cards:
     - count: 2
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 3
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 1
       name: Expulsion
+      id: 102276
     - count: 1
       name: 'First Tradition: The Masquerade'
+      id: 100737
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 6
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 30
     cards:
     - count: 2
       name: Aire of Elation
+      id: 100031
     - count: 6
       name: Forced March
+      id: 100761
     - count: 3
       name: Freak Drive
+      id: 100788
     - count: 5
       name: Loup
+      id: 102273
     - count: 4
       name: Perfect Paragon
+      id: 101387
     - count: 3
       name: Under the Skin
+      id: 102064
     - count: 7
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Resist Earth's Grasp
+      id: 101610
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 4
     cards:
     - count: 2
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 2
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 6
     cards:
     - count: 2
       name: Charismatic Aura
+      id: 100333
     - count: 4
       name: Majesty
+      id: 101144

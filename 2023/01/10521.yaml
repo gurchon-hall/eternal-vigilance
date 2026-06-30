@@ -7,21 +7,22 @@ winner: Tommi Hakomaa
 vekn_number: 3530067
 event_url: https://www.vekn.net/event-calendar/event/10521
 event_id: 10521
-vp_comment: 5years ago I organized my first tournament at the same venue. So 
+vp_comment: 5 years ago I organized my first tournament at the same venue. So 
   this was a celebratory event of sorts. Nice amount of people showed up and I 
   personally enjoyed every round. Finals was super tight! And a nice artist 
   provided us with some prices.
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80264-anarch-salon-2
+forum_post_url: https://www.vekn.net/event-calendar/event/10521
 deck:
+  name: Reign of Lasombra
   description: ''
   crypt_count: 12
-  crypt_min: 40
-  crypt_max: 34
+  crypt_min: 32
+  crypt_max: 40
   crypt_avg: 9.17
   crypt:
   - count: 5
     name: Bruce de Guy
+    id: 200222
     capacity: 10
     disciplines: AUS DOM FOR OBT
     title: Cardinal
@@ -29,13 +30,23 @@ deck:
     grouping: 4
   - count: 2
     name: Lord Leopold Valdemar
+    id: 201517
     capacity: 8
     disciplines: cel dom obf OBT POT
     title: Priscus
     clan: Lasombra
     grouping: 5
   - count: 1
+    name: Luca Italicus
+    id: 200867
+    capacity: 10
+    disciplines: tha DOM FOR NEC OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 4
+  - count: 1
     name: Antón de Concepción
+    id: 200114
     capacity: 9
     disciplines: aus ANI DOM OBT POT
     title: Archbishop
@@ -43,6 +54,7 @@ deck:
     grouping: 4
   - count: 1
     name: Carolina Vález
+    id: 200249
     capacity: 9
     disciplines: aus DOM OBT POT PRE
     title: Archbishop
@@ -50,20 +62,15 @@ deck:
     grouping: 5
   - count: 1
     name: Charles Delmare
+    id: 201513
     capacity: 8
     disciplines: cel DOM OBT POT
     title: Cardinal
     clan: Lasombra
     grouping: 5
   - count: 1
-    name: Luca Italicus
-    capacity: 10
-    disciplines: tha DOM FOR NEC OBT POT
-    title: Archbishop
-    clan: Lasombra
-    grouping: 4
-  - count: 1
     name: Percival
+    id: 201518
     capacity: 8
     disciplines: aus dom FOR OBT POT
     title: Archbishop
@@ -76,70 +83,97 @@ deck:
     cards:
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 1
       name: Festivo dello Estinto
+      id: 100723
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Gurchon Hall
+      id: 100871
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 2
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 7
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 11
     cards:
     - count: 8
       name: Govern the Unaligned
+      id: 100845
     - count: 3
       name: Under Siege
+      id: 102063
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Zaire River Ferry
+      id: 102203
   - name: Political Action
     count: 9
     cards:
     - count: 2
       name: Anarchist Uprising
+      id: 100059
     - count: 2
       name: Ancilla Empowerment
+      id: 100065
     - count: 4
       name: Banishment
+      id: 100131
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 23
     cards:
     - count: 2
       name: Conditioning
+      id: 100401
     - count: 2
       name: Enkil Cog
+      id: 100645
     - count: 6
       name: Freak Drive
+      id: 100788
     - count: 5
       name: Shadow Play
+      id: 101743
     - count: 4
       name: Shroud of Absence
+      id: 101774
     - count: 4
       name: Shroud of Night
+      id: 101775
   - name: Reaction
     count: 17
     cards:
     - count: 7
       name: Deflection
+      id: 100518
     - count: 10
       name: Obedience
+      id: 101309

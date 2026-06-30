@@ -1,0 +1,192 @@
+name: 'Fee Stake: Valencia'
+location: Valencia, Spain
+date_start: 2024-01-28
+rounds_format: 3R+F
+players_count: 14
+winner: Jose Vicente Coll
+vekn_number: 1001719
+event_url: https://www.vekn.net/event-calendar/event/11173
+event_id: 11173
+forum_post_url: https://www.vekn.net/event-calendar/event/11173
+deck:
+  name: Malgorzator  v.2.
+  description: ''
+  crypt_count: 13
+  crypt_min: 36
+  crypt_max: 43
+  crypt_avg: 9.54
+  crypt:
+  - count: 5
+    name: Malgorzata
+    id: 200905
+    capacity: 9
+    disciplines: pre AUS DOM THA VIC
+    title: Priscus
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 2
+    name: Lord Tremere
+    id: 200856
+    capacity: 11
+    disciplines: obe ANI AUS DOM THA VIC
+    clan: Tremere
+    grouping: 5
+  - count: 2
+    name: Gerald Windham
+    id: 200508
+    capacity: 9
+    disciplines: AUS DOM FOR THA
+    clan: Tremere
+    grouping: 5
+  - count: 2
+    name: Orlando Oriundus
+    id: 201084
+    capacity: 9
+    disciplines: obf AUS DOM THA
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Mistress Fanchon
+    id: 200999
+    capacity: 11
+    disciplines: AUS CEL DOM OBF THA VIC
+    title: Inner Circle
+    clan: Tremere
+    grouping: 4
+  - count: 1
+    name: Gabrielle di Righetti
+    id: 200489
+    capacity: 10
+    disciplines: obf pot ANI AUS DOM THA
+    title: Justicar
+    clan: Tremere
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 10
+    cards:
+    - count: 8
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Magic of the Smith
+      id: 101143
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Ponticulus
+      id: 101419
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Signet of King Saul, The
+      id: 101781
+  - name: Political Action
+    count: 11
+    cards:
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 5
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Action Modifier
+    count: 16
+    cards:
+    - count: 4
+      name: Changeling
+      id: 100324
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 2
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 8
+      name: Mirror Walk
+      id: 101223
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Plasmic Form
+      id: 101402
+  - name: Reaction
+    count: 30
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Eagle's Sight
+      id: 100598
+    - count: 2
+      name: Enhanced Senses
+      id: 100644
+    - count: 6
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 6
+      name: Obedience
+      id: 101309
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Telepathic Misdirection
+      id: 101949

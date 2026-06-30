@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 2
     name: Dmitra Ilyanova
+    id: 200349
     capacity: 9
     disciplines: obf CEL FOR POT PRE
     title: Justicar
@@ -25,6 +26,7 @@ deck:
     grouping: 5
   - count: 2
     name: Carlak
+    id: 200244
     capacity: 8
     disciplines: dom pot CEL PRE
     title: Prince
@@ -32,6 +34,7 @@ deck:
     grouping: 5
   - count: 2
     name: Karen Suadela
+    id: 200753
     capacity: 7
     disciplines: obf pre CEL POT
     title: Prince
@@ -39,6 +42,7 @@ deck:
     grouping: 5
   - count: 2
     name: Tara
+    id: 201341
     capacity: 6
     disciplines: cel POT PRE
     title: Prince
@@ -46,6 +50,7 @@ deck:
     grouping: 5
   - count: 1
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -53,6 +58,7 @@ deck:
     grouping: 6
   - count: 1
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -60,6 +66,7 @@ deck:
     grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -67,6 +74,7 @@ deck:
     grouping: 6
   - count: 1
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -79,94 +87,130 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: 'Elysium: The Palace of Versailles'
+      id: 100632
     - count: 3
       name: New Carthage
+      id: 101277
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: Presence
+      id: 101480
     - count: 2
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Warzone Hunting Ground
+      id: 102150
   - name: Action
     count: 14
     cards:
     - count: 4
       name: Enchant Kindred
+      id: 100640
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 4
       name: Flurry of Action
+      id: 100752
     - count: 2
       name: Propaganda
+      id: 101495
     - count: 2
       name: Public Trust
+      id: 101513
   - name: Political Action
     count: 14
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Banishment
+      id: 100131
     - count: 1
       name: Consanguineous Boon
+      id: 100410
     - count: 1
       name: Disputed Territory
+      id: 100557
     - count: 4
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 4
       name: Parity Shift
+      id: 101353
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 22
     cards:
     - count: 2
       name: Awe
+      id: 100119
     - count: 2
       name: Bewitching Oration
+      id: 100157
     - count: 2
       name: Forgotten Labyrinth
+      id: 100769
     - count: 8
       name: Iron Glare
+      id: 101008
     - count: 2
       name: Perfect Paragon
+      id: 101387
     - count: 6
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 8
     cards:
     - count: 2
       name: Force of Personality
+      id: 100758
     - count: 6
       name: Resist Earth's Grasp
+      id: 101610
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 8
     cards:
     - count: 2
       name: Bait and Switch
+      id: 102218
     - count: 6
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 8
     cards:
     - count: 4
       name: Majesty
+      id: 101144
     - count: 2
       name: Sideslip
+      id: 101779
     - count: 2
       name: Torrent
+      id: 101995

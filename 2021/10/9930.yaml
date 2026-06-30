@@ -1,0 +1,181 @@
+name: Sede de Vitae Part 21
+location: Online
+date_start: 2021-10-11
+date_end: 2021-10-14
+rounds_format: 2R+F
+players_count: 16
+winner: Bruno Patrício Silva Pontes
+vekn_number: 1001905
+event_url: https://www.vekn.net/event-calendar/event/9930
+event_id: 9930
+vp_comment: 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9930
+deck:
+  description: ''
+  crypt_count: 13
+  crypt_min: 4
+  crypt_max: 38
+  crypt_avg: 5.23
+  crypt:
+  - count: 5
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 3
+    name: Mambo Jeanne
+    id: 200908
+    capacity: 9
+    disciplines: FOR NEC OBF THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Capuchin, The
+    id: 200242
+    capacity: 11
+    disciplines: AUS DOM FOR NEC THA THN
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 1
+    name: Jean Lisle
+    id: 200685
+    capacity: 8
+    disciplines: pot FOR OBF THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Baroque
+    id: 200169
+    capacity: 7
+    disciplines: aus for obf NEC THN
+    clan: Samedi
+    grouping: 5
+  - count: 1
+    name: Mister Schwartz
+    id: 200998
+    capacity: 6
+    disciplines: for obf NEC THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Marie-Pierre
+    id: 200928
+    capacity: 4
+    disciplines: for nec THN
+    clan: Samedi
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 3
+      name: Anarch Revolt
+      id: 100055
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Blessings of the Loa
+      id: 100186
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Houngan
+      id: 100940
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 7
+    cards:
+    - count: 2
+      name: Ambush
+      id: 100046
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 3
+      name: Harass
+      id: 100886
+  - name: Ally
+    count: 5
+    cards:
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+    - count: 4
+      name: Reanimated Corpse
+      id: 101563
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+  - name: Action Modifier
+    count: 9
+    cards:
+    - count: 9
+      name: Freak Drive
+      id: 100788
+  - name: Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 41
+    cards:
+    - count: 8
+      name: Groaning Corpse
+      id: 100859
+    - count: 13
+      name: Relentless Reaper
+      id: 101595
+    - count: 5
+      name: Superior Mettle
+      id: 101905
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+    - count: 5
+      name: Trap
+      id: 102012
+    - count: 3
+      name: Withering
+      id: 102188
+    - count: 2
+      name: Zip Gun
+      id: 102208
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697

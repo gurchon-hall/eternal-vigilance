@@ -7,8 +7,7 @@ winner: Kari Hyll
 vekn_number: 1003712
 event_url: https://www.vekn.net/event-calendar/event/10738
 event_id: 10738
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80535-twd-disengage-stockholm-2023-stockholm-sweden-may-13-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10738
 deck:
   name: Vykos' Museum
   created_by: spektracular
@@ -20,6 +19,7 @@ deck:
   crypt:
   - count: 5
     name: Sascha Vykos, The Angel of Caine (ADV)
+    id: 201245
     capacity: 8
     disciplines: ani dom AUS THA VIC
     title: Archbishop
@@ -27,48 +27,56 @@ deck:
     grouping: 2
   - count: 1
     name: Kazimir Savostin
+    id: 200766
     capacity: 7
     disciplines: ani pot AUS VIC
     clan: Tzimisce
     grouping: 3
   - count: 1
     name: Caliban
+    id: 200236
     capacity: 6
     disciplines: ANI AUS VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Corine Marcón
+    id: 200290
     capacity: 6
     disciplines: ani AUS VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Ana Rita Montaña
+    id: 200075
     capacity: 5
     disciplines: aus dom obf VIC
     clan: Tzimisce
     grouping: 3
   - count: 1
-    name: The Rose
+    name: Rose, The
+    id: 201205
     capacity: 5
     disciplines: aus PRE VIC
     clan: Tzimisce
     grouping: 3
   - count: 1
     name: Lolita Houston
+    id: 200850
     capacity: 4
     disciplines: aus VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Terrence
+    id: 201357
     capacity: 4
     disciplines: ani aus vic
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Horatio
+    id: 200603
     capacity: 2
     disciplines: vic
     clan: Tzimisce
@@ -80,87 +88,118 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 2
-      name: The British Museum, London
+      name: British Museum, London, The
+      id: 102236
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 8
       name: Grooming the Protégé
+      id: 100860
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 1
       name: Papillon
+      id: 101350
     - count: 3
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 6
     cards:
     - count: 1
       name: Abbot
+      id: 100006
     - count: 4
       name: Fiendish Tongue
+      id: 100726
     - count: 1
       name: Under Siege
+      id: 102063
   - name: Equipment
     count: 8
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 4
       name: Living Manse
+      id: 101114
     - count: 1
       name: Tapestry of Blood
+      id: 101936
     - count: 1
       name: Weirding Stone
+      id: 102170
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Corpse Balloon
+      id: 100427
   - name: Action Modifier
     count: 7
     cards:
     - count: 6
       name: Changeling
+      id: 100324
     - count: 1
       name: Mirror Walk
+      id: 101223
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Plasmic Form
+      id: 101402
   - name: Reaction
     count: 11
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 9
     cards:
     - count: 2
       name: Breath of the Dragon
+      id: 100250
     - count: 4
       name: Chiropteran Marauder
+      id: 100344
     - count: 2
       name: Inner Essence
+      id: 100986
     - count: 1
       name: Kraken's Kiss
+      id: 101066
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Uncoiling
+      name: Uncoiling, The
+      id: 102057

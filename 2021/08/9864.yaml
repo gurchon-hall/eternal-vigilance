@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Charles Delmare
+    id: 201513
     capacity: 8
     disciplines: cel DOM OBT POT
     title: Cardinal
@@ -25,6 +26,7 @@ deck:
     grouping: 5
   - count: 2
     name: Bruce de Guy
+    id: 200222
     capacity: 10
     disciplines: AUS DOM FOR OBT
     title: Cardinal
@@ -32,6 +34,7 @@ deck:
     grouping: 4
   - count: 2
     name: Carolina Vález
+    id: 200249
     capacity: 9
     disciplines: aus DOM OBT POT PRE
     title: Archbishop
@@ -39,6 +42,7 @@ deck:
     grouping: 5
   - count: 2
     name: Percival
+    id: 201518
     capacity: 8
     disciplines: aus dom FOR OBT POT
     title: Archbishop
@@ -46,6 +50,7 @@ deck:
     grouping: 5
   - count: 2
     name: Virginie, Prodigy
+    id: 201452
     capacity: 6
     disciplines: obt DOM POT
     title: Bishop
@@ -53,6 +58,7 @@ deck:
     grouping: 4
   - count: 1
     name: Antón de Concepción
+    id: 200114
     capacity: 9
     disciplines: aus ANI DOM OBT POT
     title: Archbishop
@@ -60,6 +66,7 @@ deck:
     grouping: 4
   - count: 1
     name: Lord Leopold Valdemar
+    id: 201517
     capacity: 8
     disciplines: cel dom obf OBT POT
     title: Priscus
@@ -72,89 +79,124 @@ deck:
     cards:
     - count: 1
       name: Black Forest Base
+      id: 100165
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Legendary Vampire
+      id: 101091
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 2
-      name: The Path of Night
+      name: Path of Night, The
+      id: 101365
     - count: 1
       name: Political Hunting Ground
+      id: 101415
     - count: 1
       name: Power Structure
+      id: 101430
     - count: 1
       name: 'Powerbase: Madrid'
+      id: 101437
     - count: 3
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 7
     cards:
     - count: 1
       name: Dominate Kine
+      id: 100573
     - count: 6
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Political Action
     count: 18
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Banishment
+      id: 100131
     - count: 1
       name: Cardinal Benediction
+      id: 100294
     - count: 2
       name: Consanguineous Boon
+      id: 100410
     - count: 10
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reinforcements
+      id: 101590
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 25
     cards:
     - count: 1
       name: Blanket of Night
+      id: 100177
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 5
       name: Seduction
+      id: 101712
     - count: 6
       name: Shadow Play
+      id: 101743
     - count: 5
       name: Shroud of Absence
+      id: 101774
     - count: 5
       name: Shroud of Night
+      id: 101775
   - name: Reaction
     count: 13
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 4
       name: Obedience
+      id: 101309
     - count: 4
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 8
     cards:
     - count: 4
       name: Oubliette
+      id: 101334
     - count: 4
       name: Shadow Body
+      id: 101735

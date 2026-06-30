@@ -19,48 +19,56 @@ deck:
   crypt:
   - count: 3
     name: Dela Eden
+    id: 200329
     capacity: 8
     disciplines: cel dom AUS FOR VAL
     clan: Salubri antitribu
     grouping: 3
   - count: 3
     name: Adonai
+    id: 200014
     capacity: 7
     disciplines: for AUS VAL
     clan: Salubri antitribu
     grouping: 2
   - count: 1
     name: Maldavis
+    id: 200903
     capacity: 4
     disciplines: for pre AUS
     clan: Caitiff
     grouping: 3
   - count: 1
     name: Remilliard, Devout Crusader
+    id: 201178
     capacity: 4
     disciplines: pre AUS
     clan: Toreador antitribu
     grouping: 2
   - count: 1
     name: Richard Tauber, Ayelea's Puppet
+    id: 201186
     capacity: 4
     disciplines: tha AUS
     clan: Tremere antitribu
     grouping: 2
   - count: 1
     name: Wolf Valentine
+    id: 201473
     capacity: 4
     disciplines: for VAL
     clan: Salubri antitribu
     grouping: 2
   - count: 1
     name: Isabel de Leon
+    id: 200642
     capacity: 3
     disciplines: AUS
     clan: Toreador
     grouping: 2
   - count: 1
     name: Zöe
+    id: 201509
     capacity: 3
     disciplines: cel obf AUS
     clan: Malkavian
@@ -72,69 +80,97 @@ deck:
     cards:
     - count: 3
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Depravity
+      id: 100526
     - count: 2
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 3
-      name: The Path of Retribution
+      name: Path of Retribution, The
+      id: 101367
     - count: 3
       name: Vessel
+      id: 102113
   - name: Action
     count: 10
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 1
       name: Blessing of the Name
+      id: 100185
     - count: 8
       name: Sense Death
+      id: 101716
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Argent Baton
+      id: 100086
   - name: Reaction
     count: 18
     cards:
     - count: 2
       name: Enhanced Senses
+      id: 100644
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: My Enemy's Enemy
+      id: 101259
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 8
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 48
     cards:
     - count: 8
       name: Armor of Caine's Fury
+      id: 100087
     - count: 2
       name: Aura Reading
+      id: 100113
     - count: 2
       name: Blissful Agony
+      id: 100190
     - count: 2
       name: Eye of Unforgiving Heaven
+      id: 100679
     - count: 2
       name: Skin of Steel
+      id: 101792
     - count: 2
       name: Superior Mettle
+      id: 101905
     - count: 2
       name: Sword of the Righteous
+      id: 101921
     - count: 2
       name: Target Vitals
+      id: 101942
     - count: 6
       name: Taste of Vitae
+      id: 101945
     - count: 6
       name: Telepathic Tracking
+      id: 101950
     - count: 6
       name: Trap
+      id: 102012
     - count: 2
       name: Vengeance of Samiel
+      id: 102106
     - count: 6
       name: Weighted Walking Stick
+      id: 102169

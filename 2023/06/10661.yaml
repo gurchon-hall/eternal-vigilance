@@ -7,9 +7,8 @@ winner: Karl Schaefer
 vekn_number: 1003455
 event_url: https://www.vekn.net/event-calendar/event/10661
 event_id: 10661
-vp_comment: 2GW7 + 2.5vp in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80645-twd-won-event-5-elder-library-columbus
+vp_comment: 2GW7 + 2.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10661
 deck:
   name: Hell Rising (Homework 2021)
   description: unnamed + The Rising
@@ -19,7 +18,7 @@ deck:
   crypt_avg: 6.58
   crypt:
   - count: 6
-    name: The unnamed
+    name: unnamed, The
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -76,7 +75,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -91,7 +90,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: Perfectionist
@@ -148,7 +147,7 @@ deck:
       name: Learjet
       id: 101080
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
       id: 101781
   - name: Retainer
     count: 2
@@ -208,7 +207,7 @@ deck:
       name: Nightmares upon Nightmares
       id: 101285
     - count: 2
-      name: The Rising
+      name: Rising, The
       id: 101640
     - count: 1
       name: Thirst

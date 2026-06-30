@@ -7,12 +7,11 @@ winner: Henry Hinde
 vekn_number: 3411111
 event_url: https://www.vekn.net/event-calendar/event/11237
 event_id: 11237
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81254-twd-italian-tour-2024-verona
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11237
 deck:
   name: Nefertiti
-  created_by: Heinrik
-  description: '[2024-02-16]'
+  description: '[2024-02-16] Anarch'
   crypt_count: 16
   crypt_min: 4
   crypt_max: 40
@@ -32,13 +31,6 @@ deck:
     disciplines: cel pot DOM OBF PRE SER
     clan: Ministry
     grouping: 2
-  - count: 1
-    name: Count Ormonde
-    id: 200295
-    capacity: 5
-    disciplines: dom pre ser OBF
-    clan: Ministry
-    grouping: 2
   - count: 5
     name: Aabbt Kindred
     id: 200001
@@ -53,6 +45,13 @@ deck:
     disciplines: ''
     clan: Caitiff
     grouping: ANY
+  - count: 1
+    name: Count Ormonde
+    id: 200295
+    capacity: 5
+    disciplines: dom pre ser OBF
+    clan: Ministry
+    grouping: 2
   library_count: 90
   library_sections:
   - name: Master
@@ -65,7 +64,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 8
-      name: The Eternals of Sirius
+      name: Eternals of Sirius, The
       id: 100667
     - count: 1
       name: Garibaldi-Meucci Museum
@@ -74,7 +73,7 @@ deck:
       name: Opium Den
       id: 101326
     - count: 2
-      name: The Path of Typhon
+      name: Path of Typhon, The
       id: 101373
     - count: 1
       name: Perfectionist

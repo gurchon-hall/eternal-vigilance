@@ -18,12 +18,14 @@ deck:
   crypt:
   - count: 3
     name: Matasuntha
+    id: 200956
     capacity: 10
     disciplines: ANI AUS CEL FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 3
     name: Inyanga
+    id: 200638
     capacity: 9
     disciplines: dom nec ANI AUS FOR PRO
     title: Primogen
@@ -31,6 +33,7 @@ deck:
     grouping: 4
   - count: 3
     name: Randall
+    id: 201160
     capacity: 8
     disciplines: ANI AUS FOR PRO
     title: 1 Vote
@@ -38,6 +41,7 @@ deck:
     grouping: 4
   - count: 3
     name: Dr. Sutton Gassaway
+    id: 200384
     capacity: 6
     disciplines: ani aus FOR PRO
     clan: Gangrel
@@ -49,76 +53,103 @@ deck:
     cards:
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 6
       name: Vessel
+      id: 102113
     - count: 1
       name: Zoo Hunting Ground
+      id: 102212
   - name: Action
     count: 3
     cards:
     - count: 1
       name: Pulse of the Canaille
+      id: 101517
     - count: 2
       name: Restoration
+      id: 101613
   - name: Equipment
     count: 3
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Gran Madre di Dio, Italy
+      id: 100847
     - count: 1
       name: Sire's Index Finger
+      id: 101785
   - name: Retainer
     count: 7
     cards:
     - count: 7
       name: Raven Spy
+      id: 101550
   - name: Action Modifier
     count: 2
     cards:
     - count: 1
       name: Horrific Countenance
+      id: 100936
     - count: 1
-      name: The Kiss of Ra
+      name: Kiss of Ra, The
+      id: 101062
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Rapid Change
+      id: 101542
   - name: Reaction
     count: 29
     cards:
     - count: 3
       name: Eagle's Sight
+      id: 100598
     - count: 11
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 8
       name: Sense the Savage Way
+      id: 101717
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 28
     cards:
     - count: 4
       name: Claws of the Dead
+      id: 100356
     - count: 11
       name: Earth Meld
+      id: 100601
     - count: 7
       name: Flesh of Marble
+      id: 100749
     - count: 6
       name: Skin of Night
+      id: 101790

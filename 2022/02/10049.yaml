@@ -7,9 +7,8 @@ winner: Ondrej Marek
 vekn_number: 1002560
 event_url: https://www.vekn.net/event-calendar/event/10049
 event_id: 10049
-vp_comment: Ondrej Marek's Tournament Winning Deck with 4 VPs in the Finals
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79671-twd-3rd-road-to-pulled-fang-11-lichnov-czech-february-26th-2022
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10049
 deck:
   name: Maris and Giotto - v2
   created_by: Ondrej "Aahzmandius" Marek
@@ -19,24 +18,27 @@ deck:
   crypt_max: 34
   crypt_avg: 5.0
   crypt:
+  - count: 5
+    name: Tupdog
+    id: 201393
+    capacity: 1
+    disciplines: POT VIS
+    clan: Gargoyle
+    grouping: 3
   - count: 4
     name: Giotto Verducci
+    id: 200520
     capacity: 7
     disciplines: for pot pre DAI OBF
     clan: Baali
     grouping: 2
   - count: 3
     name: Maris Streck
+    id: 200935
     capacity: 9
     disciplines: ani dem dom AUS OBF
     title: Justicar
     clan: Malkavian
-    grouping: 3
-  - count: 5
-    name: Tupdog
-    capacity: 1
-    disciplines: POT VIS
-    clan: Gargoyle
     grouping: 3
   library_count: 90
   library_sections:
@@ -45,82 +47,112 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 4
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 6
       name: Liquidation
+      id: 101112
     - count: 1
       name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
     - count: 4
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
   - name: Action
     count: 10
     cards:
     - count: 1
       name: Army of Rats
+      id: 100093
     - count: 6
       name: Clan Impersonation
+      id: 100353
     - count: 1
       name: Contagion
+      id: 100418
     - count: 2
       name: Unleash Hell's Fury
+      id: 102076
   - name: Ally
     count: 18
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 11
       name: Emerald Legionnaire
+      id: 100634
     - count: 2
       name: Infernal Servitor
+      id: 100981
     - count: 4
       name: Rock Cat
+      id: 101645
   - name: Equipment
     count: 5
     cards:
     - count: 5
       name: Kaymakli Fragment
+      id: 101035
   - name: Action Modifier
     count: 21
     cards:
     - count: 2
       name: Cloak the Gathering
+      id: 100362
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 2
       name: Forgotten Labyrinth
+      id: 100769
     - count: 9
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Lost in Crowds
+      id: 101125
     - count: 1
       name: Veil the Legions
+      id: 102097
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 3
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: Poison Pill
+      id: 101406
   - name: Event
     count: 2
     cards:
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

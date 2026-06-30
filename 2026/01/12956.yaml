@@ -7,8 +7,8 @@ winner: Markus Määttänen
 vekn_number: 9350051
 event_url: https://www.vekn.net/event-calendar/event/12956
 event_id: 12956
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82811-twd-garou-rim-cold-front
+vp_comment: 1GW4 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12956
 deck:
   name: Selina Vote
   created_by: Phelddagrif
@@ -18,23 +18,26 @@ deck:
   crypt_max: 38
   crypt_avg: 8.83
   crypt:
-  - count: 2
-    name: Aaradhya, The Callous Tyrant
-    capacity: 10
-    disciplines: ANI DOM FOR POT PRE
-    title: Cardinal
-    clan: Ventrue
-    grouping: 6
-    path: Power and the Inner Voice
   - count: 4
     name: Dark Selina
+    id: 200321
     capacity: 9
     disciplines: dom for CEL POT PRE
     title: Cardinal
     clan: Brujah antitribu
     grouping: 5
   - count: 2
+    name: Aaradhya, The Callous Tyrant
+    id: 201733
+    capacity: 10
+    disciplines: ANI DOM FOR POT PRE
+    title: Cardinal
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 2
     name: Věnceslava, The Implacable
+    id: 201776
     capacity: 9
     disciplines: cel DOM FOR POT PRE
     title: Archbishop
@@ -43,6 +46,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: De Sade
+    id: 200327
     capacity: 9
     disciplines: AUS DOM FOR PRE
     title: Archbishop
@@ -50,6 +54,7 @@ deck:
     grouping: 5
   - count: 1
     name: Rexton "Savage" Abernathy
+    id: 201770
     capacity: 8
     disciplines: cel DOM POT PRE
     title: Archbishop
@@ -58,6 +63,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Üresség
+    id: 201775
     capacity: 8
     disciplines: dom for CEL POT PRE
     title: Archbishop
@@ -66,6 +72,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Khin Aye
+    id: 201760
     capacity: 7
     disciplines: dom for POT PRE
     title: Priscus
@@ -79,70 +86,97 @@ deck:
     cards:
     - count: 1
       name: Black Forest Base
+      id: 100165
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Privileged Position
+      id: 102334
     - count: 7
       name: Unholy Sacrament
+      id: 102345
     - count: 7
       name: Villein
+      id: 102121
   - name: Political Action
     count: 21
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 4
       name: Cold War
+      id: 102312
     - count: 3
       name: Empires Fall
+      id: 102318
     - count: 8
       name: Kine Resources Contested
+      id: 101056
     - count: 2
       name: War of Ages
+      id: 102348
   - name: Action Modifier
     count: 26
     cards:
     - count: 4
       name: Bewitching Oration
+      id: 100157
     - count: 4
       name: Dominant Personality
+      id: 102316
     - count: 2
       name: Magnetic Authority
+      id: 102331
     - count: 2
       name: Perfect Paragon
+      id: 101387
     - count: 2
       name: Private Audience
+      id: 101490
     - count: 2
       name: Relentlessness
+      id: 102337
     - count: 4
       name: Unthinkable Humiliation
+      id: 102346
     - count: 6
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Absolute Tyranny
+      id: 102308
   - name: Reaction
     count: 10
     cards:
     - count: 7
       name: Deflection
+      id: 100518
     - count: 3
       name: Obedience
+      id: 101309
   - name: Combat
     count: 3
     cards:
     - count: 3
       name: Majesty
+      id: 101144

@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Lady Vadislava
+    id: 201516
     capacity: 9
     disciplines: nec ANI AUS DOM VIC
     title: Priscus
@@ -25,6 +26,7 @@ deck:
     grouping: 5
   - count: 3
     name: Xipe Totec
+    id: 201482
     capacity: 9
     disciplines: ANI AUS PRO VIC
     title: Archbishop
@@ -32,6 +34,7 @@ deck:
     grouping: 5
   - count: 3
     name: Ludmijla Rakoczy
+    id: 200879
     capacity: 7
     disciplines: ANI AUS VIC
     title: Bishop
@@ -39,6 +42,7 @@ deck:
     grouping: 5
   - count: 3
     name: America Johnson
+    id: 201512
     capacity: 4
     disciplines: vic AUS
     clan: Tzimisce
@@ -50,81 +54,112 @@ deck:
     cards:
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Carver's Meat Packing and Storage
+      id: 100303
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 1
       name: 'Powerbase: Barranquilla'
+      id: 101431
     - count: 2
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Rötschreck
+      id: 101654
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 3
       name: Villein
+      id: 102121
     - count: 2
       name: Vessel
+      id: 102113
   - name: Action
     count: 13
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 2
       name: Army of Rats
+      id: 100093
     - count: 4
       name: Deep Song
+      id: 100515
     - count: 3
       name: Fiendish Tongue
+      id: 100726
     - count: 3
       name: Under Siege
+      id: 102063
   - name: Ally
     count: 3
     cards:
     - count: 2
       name: Asanbonsam Ghoul
+      id: 100103
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
   - name: Action Modifier
     count: 4
     cards:
     - count: 4
       name: Changeling
+      id: 100324
   - name: Reaction
     count: 24
     cards:
     - count: 2
       name: Enhanced Senses
+      id: 100644
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 6
       name: Read the Winds
+      id: 101559
     - count: 3
       name: Sense the Savage Way
+      id: 101717
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 28
     cards:
     - count: 7
       name: Aid from Bats
+      id: 100029
     - count: 3
       name: Breath of the Dragon
+      id: 100250
     - count: 8
       name: Carrion Crows
+      id: 100301
     - count: 6
       name: Chiropteran Marauder
+      id: 100344
     - count: 4
       name: Taste of Vitae
+      id: 101945

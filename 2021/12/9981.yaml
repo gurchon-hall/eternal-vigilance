@@ -1,0 +1,154 @@
+name: 'Open War: Zagreb'
+location: Zagreb, Croatia
+date_start: 2021-12-04
+rounds_format: 3R+F
+players_count: 13
+winner: Nikica Novaković
+vekn_number: 1005186
+event_url: https://www.vekn.net/event-calendar/event/9981
+event_id: 9981
+vp_comment: 3GW13 + 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9981
+deck:
+  name: unnamed, The anarch cruiser
+  description: Stolen Police Cruiser => perma-stealth
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 40
+  crypt_avg: 5.33
+  crypt:
+  - count: 4
+    name: unnamed, The
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 2
+    name: Xeper, Sultan of Lepers
+    id: 201480
+    capacity: 7
+    disciplines: ani dai pro OBF PRE
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Horde, The
+    id: 200605
+    capacity: 3
+    disciplines: dai obf pre
+    clan: Baali
+    grouping: 6
+  library_count: 65
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Perfectionist
+      id: 101388
+  - name: Action
+    count: 10
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 1
+      name: Field Training
+      id: 100725
+    - count: 5
+      name: Illegalism
+      id: 100952
+    - count: 1
+      name: Summoning, The
+      id: 101902
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 3
+    cards:
+    - count: 2
+      name: Infernal Servitor
+      id: 100981
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 2
+      name: Stolen Police Cruiser
+      id: 101872
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 20
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 2
+      name: I am Legion
+      id: 100947
+    - count: 5
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 2
+      name: Into Thin Air
+      id: 101001
+    - count: 2
+      name: Lost in Crowds
+      id: 101125
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Sense the Sin
+      id: 101718
+  - name: Combat
+    count: 6
+    cards:
+    - count: 3
+      name: Earth Meld
+      id: 100601
+    - count: 3
+      name: Form of Mist
+      id: 100771

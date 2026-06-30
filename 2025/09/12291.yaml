@@ -1,0 +1,162 @@
+name: The Fifth Tradition, ACC 2025
+location: Metro Manila, Philippines
+date_start: 2025-09-06
+rounds_format: 3R+F
+players_count: 39
+winner: Micon Garcia
+vekn_number: 1001891
+event_url: https://www.vekn.net/event-calendar/event/12291
+event_id: 12291
+vp_comment: 3GW12 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12291
+deck:
+  name: Leveraging my Hacking Skills
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 8
+  crypt_avg: 1.42
+  crypt:
+  - count: 1
+    name: Christine Boscacci
+    id: 200273
+    capacity: 2
+    disciplines: dom vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Mustafa Rahman
+    id: 201027
+    capacity: 2
+    disciplines: dom
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Ohanna
+    id: 201073
+    capacity: 2
+    disciplines: dom
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Samson
+    id: 201231
+    capacity: 2
+    disciplines: dom
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Antoinette DuChamp
+    id: 200112
+    capacity: 1
+    disciplines: cel pre
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Franciscus
+    id: 200477
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Julius
+    id: 200737
+    capacity: 1
+    disciplines: qui ser
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Navar McClaren
+    id: 201039
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 1
+  - count: 1
+    name: Royce
+    id: 201208
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Smudge the Ignored
+    id: 201301
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: 1
+  library_count: 62
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 2
+      name: Anarch Revolt
+      id: 100055
+    - count: 2
+      name: Antediluvian Awakening
+      id: 100073
+    - count: 6
+      name: Effective Management
+      id: 100616
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 2
+      name: Sudden Reversal
+      id: 101896
+  - name: Action
+    count: 20
+    cards:
+    - count: 20
+      name: Computer Hacking
+      id: 100390
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 6
+      name: Leverage
+      id: 101098
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 4
+      name: Deflection
+      id: 100518
+    - count: 3
+      name: Delaying Tactics
+      id: 100519
+    - count: 3
+      name: Wake with Evening's Freshness
+      id: 102137
+  - name: Combat
+    count: 10
+    cards:
+    - count: 10
+      name: Dodge
+      id: 100567

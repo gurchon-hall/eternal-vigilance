@@ -19,24 +19,28 @@ deck:
   crypt:
   - count: 5
     name: Whisper
+    id: 201690
     capacity: 5
     disciplines: pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 3
     name: Susie Kano
+    id: 201688
     capacity: 3
     disciplines: ani dom
     clan: Tzimisce
     grouping: 6
   - count: 2
     name: Neserian
+    id: 201678
     capacity: 6
     disciplines: cel pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 2
     name: Prentis Derby
+    id: 201682
     capacity: 4
     disciplines: ani dom pro
     clan: Tzimisce
@@ -48,73 +52,100 @@ deck:
     cards:
     - count: 1
       name: Carver's Meat Packing and Storage
+      id: 100303
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 6
       name: Jake Washington
+      id: 101019
     - count: 4
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 9
       name: Piper
+      id: 101401
     - count: 2
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 2
     cards:
     - count: 1
       name: Far Mastery
+      id: 100703
     - count: 1
       name: Thanks for the Donation
+      id: 101964
   - name: Ally
     count: 13
     cards:
     - count: 2
       name: Asanbonsam Ghoul
+      id: 100103
     - count: 3
       name: Underbridge Stray
+      id: 102065
     - count: 1
       name: Vagabond Mystic
+      id: 102087
     - count: 2
-      name: The Vozhd of Sofia
+      name: Vozhd of Sofia, The
+      id: 102267
     - count: 5
       name: War Ghoul
+      id: 102144
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Jackie Therman
+      id: 101018
   - name: Reaction
     count: 10
     cards:
     - count: 7
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 1
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 8
     cards:
     - count: 2
       name: Fake Out
+      id: 100693
     - count: 2
       name: Pulled Fangs
+      id: 101515
     - count: 4
       name: Trap
+      id: 102012
   - name: Event
     count: 4
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

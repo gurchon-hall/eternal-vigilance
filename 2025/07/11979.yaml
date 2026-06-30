@@ -1,5 +1,5 @@
 name: Rangel
-location: Fortaleza - Ceará - Brazil
+location: Fortaleza (CE), Brazil
 date_start: 2025-07-27
 rounds_format: 2R+F
 players_count: 18
@@ -7,11 +7,9 @@ winner: Bruno Hobbit
 vekn_number: 6050017
 event_url: https://www.vekn.net/event-calendar/event/11979
 event_id: 11979
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82483-twd-rangel
+forum_post_url: https://www.vekn.net/event-calendar/event/11979
 deck:
   name: True Salubri
-  created_by: Bhobbit
   description: ''
   crypt_count: 12
   crypt_min: 22
@@ -20,30 +18,35 @@ deck:
   crypt:
   - count: 5
     name: Nahum Enosh
+    id: 201031
     capacity: 10
     disciplines: for pre AUS OBE OBF VAL
     clan: Salubri
     grouping: 6
   - count: 3
     name: Serenna the White
+    id: 201266
     capacity: 8
     disciplines: ani dem AUS FOR OBE
     clan: Salubri
     grouping: 6
   - count: 2
     name: Matthew
+    id: 200961
     capacity: 7
     disciplines: cel AUS FOR OBE
     clan: Salubri
     grouping: 6
   - count: 1
     name: Opikun
+    id: 201680
     capacity: 5
     disciplines: aus dom FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Dominica
+    id: 201671
     capacity: 3
     disciplines: aus for
     clan: Salubri
@@ -55,75 +58,100 @@ deck:
     cards:
     - count: 1
       name: Dementation
+      id: 100521
     - count: 4
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: Meditative Grove
+      id: 102252
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Path of Death and the Soul
+      id: 101360
     - count: 2
-      name: The Path of Tears
+      name: Path of Tears, The
+      id: 101369
     - count: 1
       name: Saulot's Guiding Wisdom
+      id: 102258
     - count: 2
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 12
     cards:
     - count: 2
       name: Public Trust
+      id: 101513
     - count: 10
       name: Spirit Marionette
+      id: 101848
   - name: Action/Reaction
     count: 5
     cards:
     - count: 5
       name: Treat the Sick Mind
+      id: 102016
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Action Modifier
     count: 21
     cards:
     - count: 2
       name: Conditioning
+      id: 100401
     - count: 2
       name: Daring the Dawn
+      id: 100492
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 6
       name: Freak Drive
+      id: 100788
     - count: 8
       name: Neutral Guard
+      id: 101276
     - count: 2
       name: Repulsion
+      id: 101606
   - name: Action Modifier/Combat
     count: 7
     cards:
     - count: 7
       name: Penitent Resilience
+      id: 101382
   - name: Action Modifier/Reaction
     count: 5
     cards:
     - count: 5
       name: Gift of Sleep
+      id: 100828
   - name: Reaction
     count: 14
     cards:
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: Glare of Lies
+      id: 100835
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 8
     cards:
     - count: 8
       name: Anesthetic Touch
+      id: 100066

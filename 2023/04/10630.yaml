@@ -1,5 +1,5 @@
 name: Transfer of Power
-location: Mechelen
+location: Mechelen, Belgium
 date_start: 2023-04-16
 rounds_format: 3R+F
 players_count: 19
@@ -7,9 +7,8 @@ winner: Jeroen van Oort
 vekn_number: 3600003
 event_url: https://www.vekn.net/event-calendar/event/10630
 event_id: 10630
-vp_comment: 2GW + 5VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80461-twd-transfer-of-power-mechelen-belgium-16-april-2023
+vp_comment: 2GW + 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10630
 deck:
   name: Malkavian bleed with a twist of hand control
   created_by: Oortje
@@ -21,12 +20,14 @@ deck:
   crypt:
   - count: 3
     name: Abraham Mellon
+    id: 201634
     capacity: 8
     disciplines: for tha AUS DOM OBF
     clan: Malkavian
     grouping: 6
   - count: 1
     name: Gilbert Duane
+    id: 201617
     capacity: 7
     disciplines: AUS DOM OBF
     title: Baron
@@ -34,6 +35,7 @@ deck:
     grouping: 6
   - count: 1
     name: Jason "Son" Newberry
+    id: 201628
     capacity: 7
     disciplines: pre AUS DOM OBF
     title: Primogen
@@ -41,12 +43,14 @@ deck:
     grouping: 6
   - count: 1
     name: Nathaniel Bordruff
+    id: 201632
     capacity: 7
     disciplines: ani DOM OBF POT
     clan: Nosferatu
     grouping: 6
   - count: 1
     name: Andi Liu
+    id: 201532
     capacity: 6
     disciplines: aus obf pre DOM
     title: Prince
@@ -54,30 +58,35 @@ deck:
     grouping: 6
   - count: 1
     name: Darius Shirazi
+    id: 201640
     capacity: 6
     disciplines: obf AUS DOM
     clan: Malkavian
     grouping: 5
   - count: 1
     name: Colette
+    id: 201543
     capacity: 5
     disciplines: dom AUS OBF
     clan: Malkavian
     grouping: 6
   - count: 1
     name: Evan Klein
+    id: 201627
     capacity: 5
     disciplines: aus dom pre OBF
     clan: Malkavian
     grouping: 6
   - count: 1
     name: Sully
+    id: 201569
     capacity: 4
     disciplines: aus dom obf
     clan: Malkavian
     grouping: 6
   - count: 1
     name: Ashley
+    id: 201533
     capacity: 3
     disciplines: dom obf
     clan: Malkavian
@@ -89,91 +98,124 @@ deck:
     cards:
     - count: 1
       name: Asylum Hunting Ground
+      id: 100108
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Misdirection
+      id: 101225
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 18
     cards:
     - count: 14
       name: Govern the Unaligned
+      id: 100845
     - count: 4
       name: Revelations
+      id: 101627
   - name: Ally
     count: 2
     cards:
     - count: 1
       name: Muddled Vampire Hunter
+      id: 101250
     - count: 1
       name: Ponticulus
+      id: 101419
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 33
     cards:
     - count: 3
       name: Bonding
+      id: 100236
     - count: 3
       name: Cloak the Gathering
+      id: 100362
     - count: 4
       name: Conditioning
+      id: 100401
     - count: 3
       name: Elder Impersonation
+      id: 100617
     - count: 4
       name: Faceless Night
+      id: 100687
     - count: 3
       name: Foreshadowing Destruction
+      id: 100765
     - count: 8
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Seduction
+      id: 101712
     - count: 3
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 5
     cards:
     - count: 1
       name: Hide the Mind
+      id: 100921
     - count: 4
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 9
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 3
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: No Trace
+      id: 101292
   - name: Event
     count: 2
     cards:
     - count: 1
-      name: The Bitter and Sweet Story
+      name: Bitter and Sweet Story, The
+      id: 100163
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

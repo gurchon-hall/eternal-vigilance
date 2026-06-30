@@ -18,30 +18,35 @@ deck:
   crypt:
   - count: 2
     name: Adelaide Davis
+    id: 200012
     capacity: 4
     disciplines: aus dem obf
     clan: Malkavian
     grouping: 3
   - count: 2
     name: Yorik
+    id: 201490
     capacity: 3
     disciplines: dem obf
     clan: Malkavian antitribu
     grouping: 2
   - count: 1
     name: Esau
+    id: 200436
     capacity: 10
     disciplines: AUS DEM DOM OBF PRE
     clan: Malkavian
     grouping: 3
   - count: 1
     name: Aristotle de Laurent
+    id: 200137
     capacity: 9
     disciplines: pot AUS DEM OBF PRE
     clan: Malkavian antitribu
     grouping: 3
   - count: 1
     name: Imogen
+    id: 200631
     capacity: 9
     disciplines: obf pro vic AUS DEM
     title: Archbishop
@@ -49,6 +54,7 @@ deck:
     grouping: 2
   - count: 1
     name: Kite
+    id: 200786
     capacity: 7
     disciplines: obf pre AUS DEM
     title: Bishop
@@ -56,6 +62,7 @@ deck:
     grouping: 2
   - count: 1
     name: Korah
+    id: 200791
     capacity: 7
     disciplines: ani AUS DEM OBF
     title: Priscus
@@ -63,18 +70,21 @@ deck:
     grouping: 2
   - count: 1
     name: Artemis
+    id: 200143
     capacity: 6
     disciplines: aus cel for DEM OBF
     clan: Malkavian antitribu
     grouping: 2
   - count: 1
     name: Dolphin Black
+    id: 200355
     capacity: 6
     disciplines: AUS DEM OBF
     clan: Malkavian antitribu
     grouping: 2
   - count: 1
     name: Muriel Foucade
+    id: 201024
     capacity: 5
     disciplines: aus DEM
     clan: Malkavian antitribu
@@ -85,67 +95,92 @@ deck:
     count: 13
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 1
       name: Blood Doll
+      id: 100199
     - count: 4
       name: Dementation
+      id: 100521
     - count: 1
       name: Forest of Shadows
+      id: 100766
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
-      name: The Malkavian Seven Miseries
+      name: Malkavian Seven Miseries, The
+      id: 101157
     - count: 1
       name: Misdirection
+      id: 101225
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 1
       name: Tribute to the Master
+      id: 102023
   - name: Action
     count: 11
     cards:
     - count: 1
       name: Dive into Madness
+      id: 100562
     - count: 1
-      name: The Haunting
+      name: Haunting, The
+      id: 100894
     - count: 7
       name: Kindred Spirits
+      id: 101055
     - count: 1
       name: Lunatic Eruption
+      id: 101132
     - count: 1
       name: Madman's Quill
+      id: 101138
   - name: Action Modifier
     count: 25
     cards:
     - count: 3
       name: Cloak the Gathering
+      id: 100362
     - count: 7
       name: Confusion
+      id: 100405
     - count: 7
       name: Eyes of Chaos
+      id: 100682
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 3
       name: Mind Tricks
+      id: 101216
     - count: 1
       name: Veil the Legions
+      id: 102097
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Deny
+      id: 100524
   - name: Reaction
     count: 9
     cards:
     - count: 5
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: Wrong and Crosswise
+      id: 102197
   - name: Combat
     count: 5
     cards:
     - count: 4
       name: Coma
+      id: 100378
     - count: 1
       name: No Trace
+      id: 101292

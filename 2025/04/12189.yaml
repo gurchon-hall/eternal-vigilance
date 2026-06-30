@@ -1,0 +1,144 @@
+name: Long Night at The Hungry Coyote
+location: Louisville (KY), USA
+date_start: 2025-04-12
+rounds_format: 2R+F
+players_count: 14
+winner: Erik Albenze
+vekn_number: 2970004
+event_url: https://www.vekn.net/event-calendar/event/12189
+event_id: 12189
+forum_post_url: https://www.vekn.net/event-calendar/event/12189
+deck:
+  name: G7 Ravnos animalism
+  description: G7 Ravnos with no break the bonds or platinum protocol. A 'bold 
+    choice' per Mark Loughman.
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 30
+  crypt_avg: 5.92
+  crypt:
+  - count: 3
+    name: Sreelekha
+    id: 201687
+    capacity: 8
+    disciplines: ANI FOR OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 3
+    name: Roberto Rivamonte
+    id: 201683
+    capacity: 6
+    disciplines: ANI OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 3
+    name: Gathii
+    id: 201672
+    capacity: 5
+    disciplines: obf ANI PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Doc Martina
+    id: 201670
+    capacity: 6
+    disciplines: for pre ANI OBF
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Phaibun
+    id: 201681
+    capacity: 5
+    disciplines: ani OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 1
+    name: Trung Chau Pham
+    id: 201689
+    capacity: 3
+    disciplines: ANI
+    clan: Ravnos
+    grouping: 7
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 11
+    cards:
+    - count: 3
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Week of Nightmares
+      id: 102166
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 10
+    cards:
+    - count: 10
+      name: Deep Song
+      id: 100515
+  - name: Action Modifier
+    count: 16
+    cards:
+    - count: 4
+      name: Elder Impersonation
+      id: 100617
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 8
+      name: Visions of Gehenna
+      id: 102264
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 23
+    cards:
+    - count: 4
+      name: Cats' Guidance
+      id: 100308
+    - count: 4
+      name: Guard Dogs
+      id: 100863
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 3
+      name: Party Out Of Bounds
+      id: 102231
+    - count: 4
+      name: Protection Racket
+      id: 101501
+    - count: 4
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 26
+    cards:
+    - count: 10
+      name: Aid from Bats
+      id: 100029
+    - count: 8
+      name: Carrion Crows
+      id: 100301
+    - count: 4
+      name: Target Vitals
+      id: 101942
+    - count: 4
+      name: Taste of Vitae
+      id: 101945

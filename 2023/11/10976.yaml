@@ -1,0 +1,176 @@
+name: 4th Middle European Cup - Austrian NC 2023
+location: Vienna, Austria
+date_start: 2023-11-25
+rounds_format: 3R+F
+players_count: 24
+winner: Milos Krstic
+vekn_number: 5940007
+event_url: https://www.vekn.net/event-calendar/event/10976
+event_id: 10976
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10976
+deck:
+  name: 99 Problems
+  description: "\"Son, do you know why I'm stopping you for?"
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 38
+  crypt_avg: 6.92
+  crypt:
+  - count: 4
+    name: Giotto Verducci
+    id: 200520
+    capacity: 7
+    disciplines: for pot pre DAI OBF
+    clan: Baali
+    grouping: 2
+  - count: 3
+    name: Maris Streck
+    id: 200935
+    capacity: 9
+    disciplines: ani dem dom AUS OBF
+    title: Justicar
+    clan: Malkavian
+    grouping: 3
+  - count: 2
+    name: Rachel Brandywine
+    id: 201148
+    capacity: 10
+    disciplines: ani AUS DEM OBF PRO
+    title: Prince
+    clan: Malkavian
+    grouping: 3
+  - count: 1
+    name: Victoria
+    id: 201443
+    capacity: 5
+    disciplines: cel obf AUS
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 31
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 12
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Asylum Hunting Ground
+      id: 100108
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 6
+      name: Liquidation
+      id: 101112
+    - count: 1
+      name: Madness Network
+      id: 101139
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+  - name: Action
+    count: 12
+    cards:
+    - count: 1
+      name: Army of Rats
+      id: 100093
+    - count: 6
+      name: Clan Impersonation
+      id: 100353
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 4
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 7
+    cards:
+    - count: 7
+      name: Emerald Legionnaire
+      id: 100634
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 5
+      name: Kaymakli Fragment
+      id: 101035
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 21
+    cards:
+    - count: 4
+      name: Elder Impersonation
+      id: 100617
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 4
+      name: Faceless Night
+      id: 100687
+    - count: 8
+      name: Freak Drive
+      id: 100788
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Event
+    count: 2
+    cards:
+    - count: 2
+      name: Unmasking, The
+      id: 102079

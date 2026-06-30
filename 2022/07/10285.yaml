@@ -7,8 +7,7 @@ winner: Rafael Barbosa da Silva
 vekn_number: 7060055
 event_url: https://www.vekn.net/event-calendar/event/10285
 event_id: 10285
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79953-twda-nose-of-the-hound
+forum_post_url: https://www.vekn.net/event-calendar/event/10285
 deck:
   name: ravnos snow
   description: ''
@@ -39,13 +38,6 @@ deck:
     clan: Ravnos
     grouping: 4
   - count: 1
-    name: Devyn
-    id: 200340
-    capacity: 4
-    disciplines: ani chi pre
-    clan: Ravnos
-    grouping: 4
-  - count: 1
     name: Jeremy MacNeil (ADV)
     id: 200694
     capacity: 8
@@ -58,6 +50,13 @@ deck:
     capacity: 7
     disciplines: cel chi dem pot pre AUS
     clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Devyn
+    id: 200340
+    capacity: 4
+    disciplines: ani chi pre
+    clan: Ravnos
     grouping: 4
   library_count: 80
   library_sections:
@@ -83,7 +82,7 @@ deck:
       name: Park Hunting Ground
       id: 101354
     - count: 2
-      name: The Path of Paradox
+      name: Path of Paradox, The
       id: 101366
     - count: 1
       name: Svadharma

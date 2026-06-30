@@ -7,13 +7,16 @@ winner: Jonas Ståhle
 vekn_number: 8090005
 event_url: https://www.vekn.net/event-calendar/event/12968
 event_id: 12968
-vp_comment: 1 GW 4 VP + 2,5 VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82820-twd-the-path-of-sura-and-pong-stockholm-feb-1st-2026
+vp_comment: 1GW4 + 2.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12968
 deck:
   name: Burnin' and Lootin'
-  created_by: Jonas Ståhle
-  description: ''
+  description: I've wanted to try out a master module with Insurance Scam, 
+    PB:Montreal, IH and dreams for a while and this time I had enough fortune on
+    my side. Aksinya allows both defense and a way to flush excess 
+    powerbases/scams, although at the price of a slower early game. Social charm
+    should absolutely be something else, like entrancement or public trust, and 
+    qui vive should probably be an animalism unlock. DeSalle was the clear mvp.
   crypt_count: 12
   crypt_min: 19
   crypt_max: 36
@@ -21,55 +24,64 @@ deck:
   crypt:
   - count: 4
     name: Aksinya Daclau
+    id: 200034
     capacity: 9
     disciplines: cel tha ANI FOR PRE PRO
     clan: Gangrel antitribu
     grouping: 4
   - count: 1
-    name: Axel Von Anders
-    capacity: 5
-    disciplines: cel obf pot PRE
-    clan: Brujah antitribu
-    grouping: 4
-  - count: 1
     name: DeSalle
+    id: 200337
     capacity: 7
     disciplines: CEL POT PRE
     clan: Brujah antitribu
     grouping: 4
   - count: 1
+    name: Miguel Santo Domingo
+    id: 200987
+    capacity: 7
+    disciplines: cel for POT PRE
+    clan: Brujah antitribu
+    grouping: 3
+  - count: 1
     name: Father Juan Carlos
+    id: 200458
     capacity: 6
     disciplines: aus cel pot tha PRE
     clan: Brujah antitribu
     grouping: 4
   - count: 1
     name: Jeremiah Noble
+    id: 200692
     capacity: 6
     disciplines: obt pre CEL POT
     clan: Brujah antitribu
     grouping: 3
   - count: 1
-    name: Miguel Santo Domingo
-    capacity: 7
-    disciplines: cel for POT PRE
-    clan: Brujah antitribu
-    grouping: 3
-  - count: 1
-    name: Rodrigo
-    capacity: 5
-    disciplines: pot pre qui CEL
-    clan: Brujah antitribu
-    grouping: 4
-  - count: 1
     name: Shawnda Dorrit
+    id: 201278
     capacity: 6
     disciplines: obt pot pre CEL
     title: Priscus
     clan: Brujah antitribu
     grouping: 4
   - count: 1
+    name: Axel Von Anders
+    id: 200151
+    capacity: 5
+    disciplines: cel obf pot PRE
+    clan: Brujah antitribu
+    grouping: 4
+  - count: 1
+    name: Rodrigo
+    id: 201197
+    capacity: 5
+    disciplines: pot pre qui CEL
+    clan: Brujah antitribu
+    grouping: 4
+  - count: 1
     name: Smash
+    id: 201300
     capacity: 3
     disciplines: pot pre
     clan: Brujah antitribu
@@ -81,60 +93,82 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Gang Territory
+      id: 100803
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 3
       name: Insurance Scam
+      id: 100997
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 7
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Two Wrongs
+      id: 102052
     - count: 6
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 12
     cards:
     - count: 8
       name: Enthrall
+      id: 102320
     - count: 2
       name: Mind Numb
+      id: 101211
     - count: 2
       name: Social Charm
+      id: 101819
   - name: Action Modifier
     count: 17
     cards:
     - count: 8
       name: Spoils of War
+      id: 101854
     - count: 9
       name: Subversion
+      id: 102341
   - name: Action Modifier/Combat
     count: 6
     cards:
     - count: 2
       name: Resist Earth's Grasp
+      id: 101610
     - count: 4
       name: Swift Cover
+      id: 102342
   - name: Reaction
     count: 4
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 1
       name: Lost in Translation
+      id: 101126
     - count: 2
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 5
     cards:
     - count: 5
       name: Majesty
+      id: 101144

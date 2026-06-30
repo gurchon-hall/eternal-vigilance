@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 2
     name: Arishat
+    id: 200136
     capacity: 6
     disciplines: DAI OBF PRE
     title: 1 Vote
@@ -25,6 +26,7 @@ deck:
     grouping: 6
   - count: 2
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Jacques Rouge
+    id: 201523
     capacity: 6
     disciplines: ani pot pre OBF
     title: Baron
@@ -39,6 +42,7 @@ deck:
     grouping: 6
   - count: 1
     name: Scout Youngwood
+    id: 201253
     capacity: 8
     disciplines: for qui MEL OBF PRE
     title: 2 Votes
@@ -46,6 +50,7 @@ deck:
     grouping: 6
   - count: 1
     name: Sergio Bueno
+    id: 201662
     capacity: 8
     disciplines: aus pot OBF PRE PRO
     title: Baron
@@ -53,6 +58,7 @@ deck:
     grouping: 6
   - count: 1
     name: Vivian VI
+    id: 201615
     capacity: 7
     disciplines: obf tha PRE PRO
     title: Baron
@@ -60,6 +66,7 @@ deck:
     grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -67,12 +74,14 @@ deck:
     grouping: 6
   - count: 1
     name: Crystal Lynn
+    id: 201582
     capacity: 6
     disciplines: OBF PRE PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: '"Coach" Tyrone Soros'
+    id: 201661
     capacity: 3
     disciplines: obf pre
     clan: Ministry
@@ -84,87 +93,121 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 1
     cards:
     - count: 1
       name: Entrancement
+      id: 100652
   - name: Political Action
     count: 14
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Conservative Agitation
+      id: 100414
     - count: 3
       name: Kine Resources Contested
+      id: 101056
     - count: 1
-      name: The Meddling of Semsith
+      name: Meddling of Semsith, The
+      id: 101192
     - count: 1
       name: Patsy
+      id: 101377
     - count: 6
       name: Reckless Agitation
+      id: 101567
   - name: Action Modifier
     count: 36
     cards:
     - count: 3
       name: Awe
+      id: 100119
     - count: 2
       name: Bewitching Oration
+      id: 100157
     - count: 2
       name: Cloak the Gathering
+      id: 100362
     - count: 3
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 4
       name: Forgotten Labyrinth
+      id: 100769
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 4
       name: Memory Rift
+      id: 101199
     - count: 2
       name: Monkey Wrench
+      id: 101239
     - count: 2
       name: Veil the Legions
+      id: 102097
     - count: 7
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 14
     cards:
     - count: 7
       name: Bait and Switch
+      id: 102218
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Party Out Of Bounds
+      id: 102231
   - name: Combat
     count: 7
     cards:
     - count: 7
       name: Majesty
+      id: 101144

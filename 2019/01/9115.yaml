@@ -7,13 +7,12 @@ winner: Jorge Delgado
 vekn_number: 9290014
 event_url: https://www.vekn.net/event-calendar/event/9115
 event_id: 9115
-vp_comment: 1,5 VPs in the finals
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80025-twd-empowering-the-puppet-king
+vp_comment: 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9115
 deck:
   name: Nana ANI tablets
-  created_by: Jorge Delgado
-  description: ''
+  description: Inspired by Orian Gissler's Nana ANI decks with some stuff of my 
+    taste.
   crypt_count: 12
   crypt_min: 4
   crypt_max: 29
@@ -34,6 +33,13 @@ deck:
     clan: Guruhi
     grouping: 4
   - count: 1
+    name: Petra
+    id: 201116
+    capacity: 5
+    disciplines: aus ANI OBF
+    clan: Nosferatu
+    grouping: 4
+  - count: 1
     name: Beetleman
     id: 200185
     capacity: 4
@@ -47,13 +53,6 @@ deck:
     disciplines: pro ANI
     clan: Gangrel
     grouping: 3
-  - count: 1
-    name: Petra
-    id: 201116
-    capacity: 5
-    disciplines: aus ANI OBF
-    clan: Nosferatu
-    grouping: 4
   - count: 1
     name: Stick
     id: 201318
@@ -94,10 +93,10 @@ deck:
       name: Liquidation
       id: 101112
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
       id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 4
       name: Vessel

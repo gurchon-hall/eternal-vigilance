@@ -42,6 +42,7 @@ deck:
   crypt:
   - count: 2
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -49,6 +50,7 @@ deck:
     grouping: 6
   - count: 2
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -56,6 +58,7 @@ deck:
     grouping: 6
   - count: 2
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -63,6 +66,7 @@ deck:
     grouping: 6
   - count: 1
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -70,6 +74,7 @@ deck:
     grouping: 6
   - count: 1
     name: Sergio Bueno
+    id: 201662
     capacity: 8
     disciplines: aus pot OBF PRE PRO
     title: Baron
@@ -77,6 +82,7 @@ deck:
     grouping: 6
   - count: 1
     name: Massimiliano
+    id: 201602
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
@@ -84,6 +90,7 @@ deck:
     grouping: 6
   - count: 1
     name: Vivian VI
+    id: 201615
     capacity: 7
     disciplines: obf tha PRE PRO
     title: Baron
@@ -91,6 +98,7 @@ deck:
     grouping: 6
   - count: 1
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -98,6 +106,7 @@ deck:
     grouping: 6
   - count: 1
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
@@ -109,97 +118,131 @@ deck:
     count: 20
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 1
       name: Mob Connections
+      id: 101229
     - count: 4
       name: Piper
+      id: 101401
     - count: 3
       name: Rötschreck
+      id: 101654
     - count: 6
       name: Villein
+      id: 102121
     - count: 1
       name: Zoo Hunting Ground
+      id: 102212
   - name: Action
     count: 2
     cards:
     - count: 1
       name: Constant Revolution
+      id: 100416
     - count: 1
       name: Graverobbing
+      id: 100852
   - name: Ally
     count: 7
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Double Deuce
+      id: 102220
     - count: 1
       name: ECTU Operative
+      id: 102237
     - count: 1
       name: Gregory Winter
+      id: 100855
     - count: 1
       name: Underbridge Stray
+      id: 102065
     - count: 2
       name: War Ghoul
+      id: 102144
   - name: Political Action
     count: 1
     cards:
     - count: 1
       name: Eat the Rich
+      id: 100605
   - name: Retainer
     count: 4
     cards:
     - count: 4
       name: Raven Spy
+      id: 101550
   - name: Action Modifier
     count: 3
     cards:
     - count: 2
       name: Earth Control
+      id: 100600
     - count: 1
       name: Monkey Wrench
+      id: 101239
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Form of the Cobra
+      id: 102224
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 29
     cards:
     - count: 8
       name: Bait and Switch
+      id: 102218
     - count: 6
       name: Deep Ecology
+      id: 102219
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 10
       name: Organized Resistance
+      id: 102230
     - count: 3
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 20
     cards:
     - count: 6
       name: Donnybrook
+      id: 100576
     - count: 6
       name: Earth Meld
+      id: 100601
     - count: 3
       name: Form of Mist
+      id: 100771
     - count: 4
       name: Pack Alpha
+      id: 101342
     - count: 1
       name: Voracious Vermin
+      id: 102266

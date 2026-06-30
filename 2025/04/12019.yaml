@@ -7,30 +7,32 @@ winner: Mark James
 vekn_number: 8060002
 event_url: https://www.vekn.net/event-calendar/event/12019
 event_id: 12019
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82229-twd-grand-prix-western-australia-perth-australia-12-april-2025
+forum_post_url: https://www.vekn.net/event-calendar/event/12019
 deck:
   name: '!Ventrue Grinder'
-  description: N/A
+  description: ''
   crypt_count: 12
   crypt_min: 22
   crypt_max: 32
   crypt_avg: 6.83
   crypt:
   - count: 4
-    name: Blackhorse Tanner
-    capacity: 7
-    disciplines: AUS DOM FOR
-    clan: Ventrue antitribu
-    grouping: 3
-  - count: 4
     name: Owain Evans, The Wanderer
+    id: 201087
     capacity: 8
     disciplines: cel pre AUS DOM FOR
     clan: Ventrue antitribu
     grouping: 3
+  - count: 4
+    name: Blackhorse Tanner
+    id: 200204
+    capacity: 7
+    disciplines: AUS DOM FOR
+    clan: Ventrue antitribu
+    grouping: 3
   - count: 2
     name: Jefferson Foster
+    id: 200686
     capacity: 6
     disciplines: for tha AUS DOM
     title: Bishop
@@ -38,6 +40,7 @@ deck:
     grouping: 4
   - count: 2
     name: Neighbor John
+    id: 201046
     capacity: 5
     disciplines: dom for AUS
     clan: Ventrue antitribu
@@ -49,79 +52,109 @@ deck:
     cards:
     - count: 2
       name: Anarch Troublemaker
+      id: 100058
     - count: 1
       name: Corporate Hunting Ground
+      id: 100426
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Barranquilla'
+      id: 101431
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 10
     cards:
     - count: 10
       name: Govern the Unaligned
+      id: 100845
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Action Modifier
     count: 7
     cards:
     - count: 4
       name: Conditioning
+      id: 100401
     - count: 1
       name: Daring the Dawn
+      id: 100492
     - count: 2
       name: Seduction
+      id: 101712
   - name: Reaction
     count: 33
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: Eagle's Sight
+      id: 100598
     - count: 6
       name: Enhanced Senses
+      id: 100644
     - count: 8
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 22
     cards:
     - count: 2
       name: Psychic Assault
+      id: 101508
     - count: 5
       name: Rolling with the Punches
+      id: 101649
     - count: 5
       name: Soak
+      id: 101817
     - count: 4
       name: Target Vitals
+      id: 101942
     - count: 6
       name: Weighted Walking Stick
+      id: 102169

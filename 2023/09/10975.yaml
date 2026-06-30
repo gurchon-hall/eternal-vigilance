@@ -1,5 +1,5 @@
-name: Standard Constructed
-location: Budapest, Hungary
+name: 'The next station: Hatvan'
+location: Hatvan, Hungary
 date_start: 2023-09-17
 rounds_format: 3R+F
 players_count: 19
@@ -7,8 +7,8 @@ winner: Sebestyen Balazs
 vekn_number: 2020046
 event_url: https://www.vekn.net/event-calendar/event/10975
 event_id: 10975
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80848-twd-the-next-station-hatvan
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10975
 deck:
   name: aktív blokker Baron
   created_by: SBmester
@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 4
     name: Baron Dieudonne
+    id: 200168
     capacity: 9
     disciplines: ANI OBF POT PRO
     title: Prince
@@ -27,6 +28,7 @@ deck:
     grouping: 4
   - count: 4
     name: Mark Decker
+    id: 200937
     capacity: 8
     disciplines: ani for obf pot CEL PRO
     title: Prince
@@ -34,24 +36,28 @@ deck:
     grouping: 3
   - count: 1
     name: Shahid
+    id: 201273
     capacity: 7
     disciplines: ani for pro OBF POT
     clan: Nosferatu
     grouping: 4
   - count: 1
     name: Clarissa Steinburgen
+    id: 200276
     capacity: 3
     disciplines: ani obf
     clan: Nosferatu
     grouping: 3
   - count: 1
     name: Foureyes
+    id: 200473
     capacity: 3
     disciplines: obf pot
     clan: Nosferatu
     grouping: 4
   - count: 1
     name: Krid
+    id: 200794
     capacity: 2
     disciplines: obf
     clan: Nosferatu
@@ -63,89 +69,121 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
+      id: 101070
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: Slum Hunting Ground
+      id: 101808
     - count: 2
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
     - count: 4
       name: Warsaw Station
+      id: 102149
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 8
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 1
       name: Army of Rats
+      id: 100093
     - count: 3
       name: Creeping Sabotage
+      id: 102213
     - count: 3
       name: 'Judgment: Camarilla Segregation'
+      id: 101028
   - name: Equipment
     count: 5
     cards:
     - count: 2
       name: Camera Phone
+      id: 100287
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Retainer
     count: 6
     cards:
     - count: 1
       name: J. S. Simmons, Esq.
+      id: 101015
     - count: 1
       name: Mr. Winthrop
+      id: 101249
     - count: 3
       name: Raven Spy
+      id: 101550
     - count: 1
       name: Tasha Morgan
+      id: 101943
   - name: Action Modifier
     count: 4
     cards:
     - count: 4
       name: Lost in Crowds
+      id: 101125
   - name: Action Modifier/Combat
     count: 5
     cards:
     - count: 2
       name: Rapid Change
+      id: 101542
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 5
     cards:
     - count: 5
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 22
     cards:
     - count: 5
       name: Cats' Guidance
+      id: 100308
     - count: 12
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 5
       name: Sense the Savage Way
+      id: 101717
   - name: Combat
     count: 16
     cards:
     - count: 10
       name: Earth Meld
+      id: 100601
     - count: 6
       name: Form of Mist
+      id: 100771

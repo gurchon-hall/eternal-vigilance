@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 1
     name: Ezmerelda
+    id: 200450
     capacity: 11
     disciplines: dom tha ANI CHI FOR PRE
     title: 2 Votes
@@ -26,66 +27,77 @@ deck:
     grouping: 2
   - count: 1
     name: Ghivran Dalaal, The Dead God
+    id: 200513
     capacity: 5
     disciplines: ani aus chi FOR
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Khalil Ravana
+    id: 200778
     capacity: 5
     disciplines: ani for pre CHI
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Anka, Priestess of Thorns
+    id: 200098
     capacity: 4
     disciplines: ani chi pro
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Salbatore Bokkengro
+    id: 201224
     capacity: 4
     disciplines: for pro CHI
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Sennuwy, The Promoter
+    id: 201264
     capacity: 4
     disciplines: ani chi for
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Ashlesha
+    id: 201620
     capacity: 3
     disciplines: aus chi
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Lázár Dobrescu
+    id: 200819
     capacity: 3
     disciplines: for
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Vedel Esbreno
+    id: 201432
     capacity: 3
     disciplines: chi for
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Sasha Miklos
+    id: 201246
     capacity: 2
     disciplines: chi
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Spleen, Georgio Gutterpunk
+    id: 201311
     capacity: 2
     disciplines: ani chi
     clan: Ravnos
     grouping: 2
   - count: 1
     name: Zip
+    id: 201507
     capacity: 2
     disciplines: ani
     clan: Ravnos
@@ -97,55 +109,73 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Fortune Teller Shop
+      id: 100777
     - count: 1
       name: Gird Minions
+      id: 100831
     - count: 1
       name: Park Hunting Ground
+      id: 101354
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 6
       name: Ravnos Carnival
+      id: 101553
     - count: 4
       name: Tribute to the Master
+      id: 102023
     - count: 1
       name: Week of Nightmares
+      id: 102166
   - name: Action
     count: 22
     cards:
     - count: 10
-      name: The Embrace
+      name: Embrace, The
+      id: 100633
     - count: 12
       name: Mozambique Allure
+      id: 101248
   - name: Political Action
     count: 14
     cards:
     - count: 8
       name: Consanguineous Boon
+      id: 100410
     - count: 6
       name: Kine Resources Contested
+      id: 101056
   - name: Action Modifier
     count: 8
     cards:
     - count: 8
       name: Will-o'-the-Wisp
+      id: 102183
   - name: Action Modifier/Reaction
     count: 14
     cards:
     - count: 14
-      name: The Eldest Are Kholo
+      name: Eldest Are Kholo, The
+      id: 100622
   - name: Reaction
     count: 2
     cards:
     - count: 2
       name: Delaying Tactics
+      id: 100519
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Uncoiling
+      name: Uncoiling, The
+      id: 102057

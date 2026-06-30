@@ -1,0 +1,214 @@
+name: Aemilia by night - episode 3, Parma
+location: Parma, Italy
+date_start: 2024-06-30
+rounds_format: 2R+F
+players_count: 25
+winner: Andrea Paderni
+vekn_number: 3020016
+event_url: https://www.vekn.net/event-calendar/event/11519
+event_id: 11519
+forum_post_url: https://www.vekn.net/event-calendar/event/11519
+deck:
+  name: Nephandus – Gehenna's Start
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 20
+  crypt_avg: 3.0
+  crypt:
+  - count: 5
+    name: Antonio d'Erlette
+    id: 200116
+    capacity: 5
+    disciplines: dom for pot THA
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Béatrice "Oracle171" Tremblay
+    id: 200181
+    capacity: 3
+    disciplines: inn ven
+    clan: Innocent
+    grouping: 4
+  - count: 1
+    name: Keith Moody
+    id: 200767
+    capacity: 3
+    disciplines: DOM
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Tupdog
+    id: 201393
+    capacity: 1
+    disciplines: POT VIS
+    clan: Gargoyle
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 38
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 12
+      name: Ashur Tablets
+      id: 100106
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Fortschritt Library
+      id: 100775
+    - count: 1
+      name: Frontal Assault
+      id: 100794
+    - count: 1
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: KRCG News Radio
+      id: 101067
+    - count: 4
+      name: Liquidation
+      id: 101112
+    - count: 1
+      name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
+    - count: 1
+      name: Not to Be
+      id: 101303
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 2
+      name: Shard, London, The
+      id: 102244
+    - count: 1
+      name: Society of Leopold
+      id: 101822
+    - count: 2
+      name: Wash
+      id: 102151
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
+  - name: Conviction
+    count: 3
+    cards:
+    - count: 1
+      name: React with Conviction
+      id: 101557
+    - count: 1
+      name: Second Sight
+      id: 101705
+    - count: 1
+      name: Strike with Conviction
+      id: 101886
+  - name: Action
+    count: 3
+    cards:
+    - count: 3
+      name: Computer Hacking
+      id: 100390
+  - name: Ally
+    count: 13
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Gregory Winter
+      id: 100855
+    - count: 8
+      name: Nephandus
+      id: 101272
+    - count: 1
+      name: Ossian
+      id: 101333
+    - count: 1
+      name: Vagabond Mystic
+      id: 102087
+    - count: 1
+      name: Young Bloods
+      id: 102202
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 4
+      name: Enhanced Coagulant
+      id: 102238
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Leverage
+      id: 101098
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 3
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 8
+    cards:
+    - count: 4
+      name: Concealed Weapon
+      id: 100392
+    - count: 4
+      name: Pulled Fangs
+      id: 101515
+  - name: Event
+    count: 8
+    cards:
+    - count: 1
+      name: Blood Weakens
+      id: 100217
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 1
+      name: Recalled to the Founder
+      id: 101566
+    - count: 1
+      name: Restricted Vitae
+      id: 101614
+    - count: 1
+      name: Slow Withering, The
+      id: 101807
+    - count: 2
+      name: Unmasking, The
+      id: 102079
+    - count: 1
+      name: Veil of Darkness
+      id: 102095

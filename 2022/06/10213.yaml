@@ -21,6 +21,7 @@ deck:
   crypt:
   - count: 7
     name: Malgorzata
+    id: 200905
     capacity: 9
     disciplines: pre AUS DOM THA VIC
     title: Priscus
@@ -28,6 +29,7 @@ deck:
     grouping: 4
   - count: 3
     name: Orlando Oriundus
+    id: 201084
     capacity: 9
     disciplines: obf AUS DOM THA
     title: Bishop
@@ -35,6 +37,7 @@ deck:
     grouping: 4
   - count: 2
     name: Lernean
+    id: 200833
     capacity: 10
     disciplines: for pro AUS CEL DOM THA
     title: Cardinal
@@ -42,6 +45,7 @@ deck:
     grouping: 4
   - count: 2
     name: Lucubratio
+    id: 200877
     capacity: 10
     disciplines: AUS DOM POT PRE THA
     title: Archbishop
@@ -49,6 +53,7 @@ deck:
     grouping: 4
   - count: 2
     name: Paul Cordwood
+    id: 201100
     capacity: 8
     disciplines: obf pre AUS DOM THA
     title: Bishop
@@ -56,6 +61,7 @@ deck:
     grouping: 4
   - count: 2
     name: Ladislas Toth, The Torch
+    id: 200803
     capacity: 7
     disciplines: for AUS DOM THA
     title: Archbishop
@@ -63,6 +69,7 @@ deck:
     grouping: 3
   - count: 1
     name: Marino Reymundo Vásquez
+    id: 200931
     capacity: 9
     disciplines: ani AUS DOM NEC THA
     title: Archbishop
@@ -70,6 +77,7 @@ deck:
     grouping: 3
   - count: 1
     name: Eric Kressida
+    id: 200429
     capacity: 8
     disciplines: cel AUS DOM PRO THA
     title: Bishop
@@ -77,6 +85,7 @@ deck:
     grouping: 4
   - count: 1
     name: Frondator
+    id: 200485
     capacity: 5
     disciplines: dom tha AUS
     title: Bishop
@@ -88,73 +97,98 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 2
       name: Creepshow Casino
+      id: 100444
     - count: 10
       name: Effective Management
+      id: 100616
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 3
     cards:
     - count: 3
       name: Rutor's Hand
+      id: 101664
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Political Action
     count: 26
     cards:
     - count: 2
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 7
       name: Consanguineous Boon
+      id: 100410
     - count: 2
       name: Conservative Agitation
+      id: 100414
     - count: 9
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
   - name: Action Modifier
     count: 15
     cards:
     - count: 2
       name: Conditioning
+      id: 100401
     - count: 10
       name: Mirror Walk
+      id: 101223
     - count: 3
       name: Seduction
+      id: 101712
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 3
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 9
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 4
       name: Eyes of Argus
+      id: 100680
   - name: Combat
     count: 14
     cards:
     - count: 4
       name: Movement of the Mind
+      id: 101246
     - count: 3
       name: Rego Motum
+      id: 101588
     - count: 7
       name: Theft of Vitae
+      id: 101966

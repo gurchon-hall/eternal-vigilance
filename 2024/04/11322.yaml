@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Massimiliano
+    id: 201602
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -47,12 +51,14 @@ deck:
     grouping: 6
   - count: 2
     name: Kamile Paukstys
+    id: 201597
     capacity: 5
     disciplines: ani for PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Crow
+    id: 200303
     capacity: 5
     disciplines: for pro tha ANI
     clan: Gangrel
@@ -63,66 +69,92 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Gangrel Revel
+      id: 100807
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Tension in the Ranks
+      id: 101958
     - count: 5
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
     - count: 1
       name: Zoo Hunting Ground
+      id: 102212
   - name: Action
     count: 10
     cards:
     - count: 2
       name: Army of Rats
+      id: 100093
     - count: 8
       name: Deep Song
+      id: 100515
   - name: Action Modifier
     count: 2
     cards:
     - count: 2
       name: Monkey Wrench
+      id: 101239
   - name: Reaction
     count: 28
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 8
       name: Deep Ecology
+      id: 102219
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 6
       name: Eyes of the Wild
+      id: 102222
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 28
     cards:
     - count: 4
       name: Carrion Crows
+      id: 100301
     - count: 6
       name: Donnybrook
+      id: 100576
     - count: 4
       name: Earth Meld
+      id: 100601
     - count: 10
       name: Flesh of Marble
+      id: 100749
     - count: 4
       name: Trap
+      id: 102012

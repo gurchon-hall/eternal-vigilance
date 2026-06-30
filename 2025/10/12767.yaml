@@ -19,18 +19,21 @@ deck:
   crypt:
   - count: 4
     name: Alabástrom
+    id: 200039
     capacity: 7
     disciplines: aus cel for POT VIS
     clan: Gargoyle
     grouping: 6
   - count: 4
     name: Chalcedony
+    id: 200264
     capacity: 7
     disciplines: FOR POT THA VIS
     clan: Gargoyle
     grouping: 6
   - count: 4
     name: Monica Chang
+    id: 201003
     capacity: 3
     disciplines: dom tha
     clan: Tremere
@@ -42,98 +45,136 @@ deck:
     cards:
     - count: 2
       name: Anarch Revolt
+      id: 100055
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
-      name: The Path of Service
+      name: Path of Service, The
+      id: 101368
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Protected Resources
+      id: 101500
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Vessel
+      id: 102113
   - name: Action
     count: 11
     cards:
     - count: 1
       name: Armor of Terra
+      id: 100088
     - count: 7
       name: Children of Stone
+      id: 100340
     - count: 1
       name: Constant Revolution
+      id: 100416
     - count: 1
       name: Dive Bomb
+      id: 100561
     - count: 1
       name: Preternatural Strength
+      id: 101483
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Kevlar Vest
+      id: 101040
   - name: Retainer
     count: 9
     cards:
     - count: 8
       name: Razor Bat
+      id: 101556
     - count: 1
       name: Stone Dog
+      id: 101873
   - name: Action Modifier
     count: 7
     cards:
     - count: 3
       name: As the Crow
+      id: 100102
     - count: 2
       name: Conscripted Statue
+      id: 100412
     - count: 2
       name: Skin of the Chameleon
+      id: 101794
   - name: Reaction
     count: 21
     cards:
     - count: 3
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 7
       name: Forced Awakening
+      id: 100760
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Scry the Hearthstone
+      id: 101701
     - count: 3
       name: Voices of the Castle
+      id: 102130
   - name: Combat
     count: 24
     cards:
     - count: 5
       name: Brick by Brick
+      id: 100252
     - count: 3
       name: Diversion
+      id: 100563
     - count: 5
       name: Immortal Grapple
+      id: 100959
     - count: 4
       name: Raking Talons
+      id: 101538
     - count: 5
       name: Rockheart
+      id: 101646
     - count: 2
       name: Stonestrength
+      id: 101876
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

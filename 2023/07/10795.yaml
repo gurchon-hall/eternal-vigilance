@@ -1,0 +1,227 @@
+name: 1° campeonato Amontadence
+location: Amontada (CE), Brazil
+date_start: 2023-07-02
+rounds_format: 2R+F
+players_count: 14
+winner: Roner Oliveira
+vekn_number: 7300001
+event_url: https://www.vekn.net/event-calendar/event/10795
+event_id: 10795
+forum_post_url: https://www.vekn.net/event-calendar/event/10795
+deck:
+  name: Dia de Los Muertos
+  description: Invasão Sabbat
+  crypt_count: 15
+  crypt_min: 4
+  crypt_max: 9
+  crypt_avg: 1.6
+  crypt:
+  - count: 1
+    name: Caroline Bishops
+    id: 200250
+    capacity: 3
+    disciplines: cel for pot
+    clan: Pander
+    grouping: 4
+  - count: 1
+    name: Bloodfeud
+    id: 200208
+    capacity: 2
+    disciplines: obf
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Jacob, The Glitch
+    id: 200661
+    capacity: 2
+    disciplines: THA
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Jesús Alcalá
+    id: 200701
+    capacity: 2
+    disciplines: cel
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 1
+    name: Justine Chen, Innocent
+    id: 200740
+    capacity: 2
+    disciplines: pre
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Mary Johnson
+    id: 200947
+    capacity: 2
+    disciplines: for pre
+    clan: Pander
+    grouping: 4
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Old Neddacka
+    id: 201074
+    capacity: 2
+    disciplines: obf
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Feo Ramos
+    id: 200462
+    capacity: 1
+    disciplines: aus
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Jaggedy Andy
+    id: 200665
+    capacity: 1
+    disciplines: pot
+    clan: Pander
+    grouping: 4
+  - count: 1
+    name: Kai Simmons
+    id: 200743
+    capacity: 1
+    disciplines: cel
+    clan: Pander
+    grouping: 4
+  - count: 1
+    name: Margarite
+    id: 200918
+    capacity: 1
+    disciplines: obt
+    clan: Pander
+    grouping: 4
+  - count: 1
+    name: Olga Triminov
+    id: 201075
+    capacity: 1
+    disciplines: vic
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Schuyler
+    id: 201252
+    capacity: 1
+    disciplines: tha
+    clan: Pander
+    grouping: 4
+  library_count: 73
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Antediluvian Awakening
+      id: 100073
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 3
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Día de los Muertos
+      id: 100541
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 4
+      name: Effective Management
+      id: 100616
+    - count: 4
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+  - name: Political Action
+    count: 56
+    cards:
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 5
+      name: Consanguineous Boon
+      id: 100410
+    - count: 14
+      name: Conservative Agitation
+      id: 100414
+    - count: 1
+      name: 'Crusade: Amsterdam'
+      id: 100451
+    - count: 1
+      name: 'Crusade: Aragon'
+      id: 100452
+    - count: 1
+      name: 'Crusade: Atlanta'
+      id: 100453
+    - count: 1
+      name: 'Crusade: Berlin'
+      id: 100455
+    - count: 1
+      name: 'Crusade: Chicago'
+      id: 100457
+    - count: 1
+      name: 'Crusade: Detroit'
+      id: 100458
+    - count: 1
+      name: 'Crusade: Dublin'
+      id: 100459
+    - count: 1
+      name: 'Crusade: Frankfurt'
+      id: 100460
+    - count: 1
+      name: 'Crusade: Geneva'
+      id: 100461
+    - count: 1
+      name: 'Crusade: Houston'
+      id: 100462
+    - count: 1
+      name: 'Crusade: Istanbul'
+      id: 100463
+    - count: 1
+      name: 'Crusade: London'
+      id: 100464
+    - count: 1
+      name: 'Crusade: Miami'
+      id: 100466
+    - count: 1
+      name: 'Crusade: Paris'
+      id: 100468
+    - count: 1
+      name: 'Crusade: Philadelphia'
+      id: 100469
+    - count: 1
+      name: 'Crusade: Pittsburgh'
+      id: 100470
+    - count: 1
+      name: 'Crusade: Washington, D.C.'
+      id: 100473
+    - count: 1
+      name: Disputed Territory
+      id: 100557
+    - count: 1
+      name: Kindred Segregation
+      id: 101053
+    - count: 16
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Peace Treaty
+      id: 101380

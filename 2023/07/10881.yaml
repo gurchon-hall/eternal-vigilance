@@ -1,5 +1,5 @@
 name: Nocturn freak
-location: Itaquaquecetuba, Brasil
+location: Itaquaquecetuba, Brazil
 date_start: 2023-07-22
 rounds_format: 2R+F
 players_count: 15
@@ -7,13 +7,11 @@ winner: Nikolas Consentino Otani
 vekn_number: 5830009
 event_url: https://www.vekn.net/event-calendar/event/10881
 event_id: 10881
-vp_comment: 1 GW 4VP with 4VP in the Final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81256-twd-nocturn-freak-itaquaquecetuba-brasil-july-22-2023
+vp_comment: 1GW4 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10881
 deck:
   name: The Minister
-  created_by: Nikolas Consentino Otani
-  description: Deck Misnisterios V5, BS Corruption
+  description: Deck Ministerios V5, BS Corruption
   crypt_count: 12
   crypt_min: 14
   crypt_max: 28
@@ -21,36 +19,42 @@ deck:
   crypt:
   - count: 2
     name: Nonu Dis
+    id: 201608
     capacity: 8
     disciplines: for OBF PRE PRO
     clan: Ministry
     grouping: 6
   - count: 2
     name: Crystal Lynn
+    id: 201582
     capacity: 6
     disciplines: OBF PRE PRO
     clan: Ministry
     grouping: 6
   - count: 2
     name: Aluc Romas de Leon
+    id: 201577
     capacity: 5
     disciplines: aus obf pro PRE
     clan: Ministry
     grouping: 6
   - count: 2
     name: Jenny Silver
+    id: 201593
     capacity: 5
     disciplines: obf PRE PRO
     clan: Ministry
     grouping: 6
   - count: 2
     name: Marcel
+    id: 201600
     capacity: 4
     disciplines: obf pre pro
     clan: Ministry
     grouping: 6
   - count: 2
     name: Milton Fox
+    id: 201605
     capacity: 3
     disciplines: pre pro
     clan: Ministry
@@ -61,64 +65,86 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 2
       name: Club Illusion
+      id: 100366
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Opium Den
+      id: 101326
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Temple Hunting Ground
+      id: 101953
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 16
     cards:
     - count: 2
       name: Heart of the City
+      id: 100904
     - count: 14
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
+      id: 102232
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Homunculus
+      id: 100932
   - name: Action Modifier
     count: 22
     cards:
     - count: 6
       name: Enchanting Gaze
+      id: 102221
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 2
       name: Lost in Crowds
+      id: 101125
     - count: 10
       name: Revelation of the Serpent
+      id: 102233
     - count: 2
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 2
       name: Form of the Cobra
+      id: 102224
     - count: 2
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 10
     cards:
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: Party Out Of Bounds
+      id: 102231
   - name: Combat
     count: 10
     cards:
     - count: 5
       name: Earth Meld
+      id: 100601
     - count: 5
       name: Form of Mist
+      id: 100771

@@ -7,9 +7,8 @@ winner: Emily Tang
 vekn_number: 3340157
 event_url: https://www.vekn.net/event-calendar/event/12175
 event_id: 12175
-vp_comment: 1GW 4,5vp + 4vp in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82249-twd-silesia-rumble-night-of-hecate-katowice-poland-april-5th-2025
+vp_comment: 1GW4.5 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12175
 deck:
   name: Castrated Tories
   created_by: Aris
@@ -21,6 +20,7 @@ deck:
   crypt:
   - count: 4
     name: Diana Iadanza
+    id: 201694
     capacity: 9
     disciplines: AUS CEL FOR PRE
     title: Justicar
@@ -28,6 +28,7 @@ deck:
     grouping: 7
   - count: 2
     name: Annabelle Triabell
+    id: 201693
     capacity: 9
     disciplines: dom for AUS CEL PRE
     title: Primogen
@@ -35,6 +36,7 @@ deck:
     grouping: 6
   - count: 2
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -42,6 +44,7 @@ deck:
     grouping: 6
   - count: 2
     name: Marcos Belegrad
+    id: 201702
     capacity: 8
     disciplines: ani AUS CEL PRE
     title: Prince
@@ -49,6 +52,7 @@ deck:
     grouping: 7
   - count: 1
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -56,6 +60,7 @@ deck:
     grouping: 6
   - count: 1
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
@@ -68,84 +73,115 @@ deck:
     cards:
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 2
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: 'Elysium: The Palace of Versailles'
+      id: 100632
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Society Hunting Ground
+      id: 101821
     - count: 6
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 6
     cards:
     - count: 4
       name: Enchant Kindred
+      id: 100640
     - count: 2
       name: Entrancement
+      id: 100652
   - name: Political Action
     count: 17
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 3
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 8
       name: Kine Resources Contested
+      id: 101056
     - count: 5
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 19
     cards:
     - count: 2
       name: Aire of Elation
+      id: 100031
     - count: 3
       name: Forced March
+      id: 100761
     - count: 2
       name: Freak Drive
+      id: 100788
     - count: 5
       name: Loup
+      id: 102273
     - count: 2
       name: Perfect Paragon
+      id: 101387
     - count: 5
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Resist Earth's Grasp
+      id: 101610
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 16
     cards:
     - count: 2
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 10
     cards:
     - count: 2
       name: Charismatic Aura
+      id: 100333
     - count: 8
       name: Majesty
+      id: 101144

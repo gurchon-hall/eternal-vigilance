@@ -18,42 +18,49 @@ deck:
   crypt:
   - count: 4
     name: Abaddon
+    id: 201663
     capacity: 8
     disciplines: cel pot AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 2
     name: Ilonka
+    id: 201673
     capacity: 7
     disciplines: tha AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 2
     name: Sakhar
+    id: 201685
     capacity: 6
     disciplines: dom AUS FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Seraphina
+    id: 201686
     capacity: 8
     disciplines: cel tha AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Aniel
+    id: 201666
     capacity: 6
     disciplines: for AUS DOM
     clan: Salubri
     grouping: 7
   - count: 1
     name: Castellan
+    id: 201668
     capacity: 6
     disciplines: cel dom AUS FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Malachi
+    id: 201676
     capacity: 6
     disciplines: AUS DOM FOR
     clan: Salubri
@@ -65,104 +72,145 @@ deck:
     cards:
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Meditative Grove
+      id: 102252
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Rebel
+      id: 101564
     - count: 1
       name: Saulot's Avenging Fist
+      id: 102257
     - count: 1
       name: Sight Beyond Sight
+      id: 101780
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 2
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: WMRH Talk Radio
+      id: 102189
   - name: Action
     count: 6
     cards:
     - count: 4
       name: Anonymous Freight
+      id: 100072
     - count: 2
       name: Feast of the Soul's Secrets
+      id: 102248
   - name: Action/Combat
     count: 6
     cards:
     - count: 6
       name: Touch of Valeren
+      id: 102262
   - name: Equipment
     count: 7
     cards:
     - count: 1
       name: AK-47
+      id: 100032
     - count: 1
       name: Blade of Enoch
+      id: 100176
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
-      name: The Crimson Sentinel
+      name: Crimson Sentinel, The
+      id: 100448
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Seal of Veddartha
+      id: 101703
     - count: 1
       name: Sword of the Archangel
+      id: 102261
   - name: Action Modifier
     count: 17
     cards:
     - count: 3
       name: Forced Confessional
+      id: 102250
     - count: 2
       name: Forced March
+      id: 100761
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 6
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Unleashing the Bestial Soul
+      id: 102263
   - name: Reaction
     count: 23
     cards:
     - count: 2
       name: Eagle's Sight
+      id: 100598
     - count: 4
       name: Enhanced Senses
+      id: 100644
     - count: 8
       name: Eyes of Argus
+      id: 100680
     - count: 4
       name: My Enemy's Enemy
+      id: 101259
     - count: 1
       name: On the Qui Vive
+      id: 101321
     - count: 1
       name: Precognition
+      id: 101475
     - count: 1
       name: Spirit's Touch
+      id: 101850
     - count: 2
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 15
     cards:
     - count: 5
       name: Hidden Strength
+      id: 100918
     - count: 6
       name: Rolling with the Punches
+      id: 101649
     - count: 2
       name: Skin of Night
+      id: 101790
     - count: 2
       name: Unflinching Persistence
+      id: 102071
   - name: Event
     count: 1
     cards:
     - count: 1
       name: NRA PAC
+      id: 101305

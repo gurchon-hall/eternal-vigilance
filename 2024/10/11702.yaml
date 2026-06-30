@@ -18,72 +18,84 @@ deck:
   crypt:
   - count: 1
     name: Idalia, Prophet of Guadalajara
+    id: 200620
     capacity: 4
     disciplines: dem AUS
     clan: Malkavian antitribu
     grouping: 2
   - count: 1
     name: Maldavis (ADV)
+    id: 200904
     capacity: 4
     disciplines: for pre AUS
     clan: Caitiff
     grouping: 3
   - count: 1
     name: Remilliard, Devout Crusader
+    id: 201178
     capacity: 4
     disciplines: pre AUS
     clan: Toreador antitribu
     grouping: 2
   - count: 1
     name: Richard Tauber, Ayelea's Puppet
+    id: 201186
     capacity: 4
     disciplines: tha AUS
     clan: Tremere antitribu
     grouping: 2
   - count: 1
     name: David Morgan, The Scourge
+    id: 200326
     capacity: 3
     disciplines: aus pot
     clan: Malkavian
     grouping: 3
   - count: 1
     name: Isabel de Leon
+    id: 200642
     capacity: 3
     disciplines: AUS
     clan: Toreador
     grouping: 2
   - count: 1
     name: Martin Franckel
+    id: 200943
     capacity: 3
     disciplines: tha AUS
     clan: Tremere
     grouping: 3
   - count: 1
     name: Milo, The Invisible Horror
+    id: 200990
     capacity: 3
     disciplines: aus obf
     clan: Malkavian
     grouping: 3
   - count: 1
     name: Zöe
+    id: 201509
     capacity: 3
     disciplines: cel obf AUS
     clan: Malkavian
     grouping: 2
   - count: 1
     name: Almiro Suarez
+    id: 200058
     capacity: 2
     disciplines: aus
     clan: Tremere
     grouping: 3
   - count: 1
     name: Feo Ramos
+    id: 200462
     capacity: 1
     disciplines: aus
     clan: Pander
     grouping: 3
   - count: 1
     name: Franciscus
+    id: 200477
     capacity: 1
     disciplines: aus
     clan: Caitiff
@@ -95,50 +107,70 @@ deck:
     cards:
     - count: 1
       name: Academic Hunting Ground
+      id: 100015
     - count: 1
       name: Asylum Hunting Ground
+      id: 100108
     - count: 1
       name: Fragment of the Book of Nod
+      id: 100785
     - count: 2
       name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
     - count: 3
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 2
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 3
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 6
       name: Vessel
+      id: 102113
   - name: Equipment
     count: 11
     cards:
     - count: 11
       name: Saturday-Night Special
+      id: 101682
   - name: Reaction
     count: 41
     cards:
     - count: 6
       name: Eagle's Sight
+      id: 100598
     - count: 5
       name: Enhanced Senses
+      id: 100644
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 4
       name: Forced Awakening
+      id: 100760
     - count: 4
       name: My Enemy's Enemy
+      id: 101259
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: Precognition
+      id: 101475
     - count: 4
       name: Spirit's Touch
+      id: 101850
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 19
     cards:
     - count: 11
       name: Concealed Weapon
+      id: 100392
     - count: 8
       name: Dragon's Breath Rounds
+      id: 100580

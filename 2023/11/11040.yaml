@@ -7,12 +7,10 @@ winner: Thomas Gibson
 vekn_number: 3200215
 event_url: https://www.vekn.net/event-calendar/event/11040
 event_id: 11040
-vp_comment: 2gw 8vps in rounds
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80968-twd-spoils-of-war-nantes-france
+vp_comment: 2GW8 + 1.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11040
 deck:
   name: Bilderberg Meeting
-  created_by: Thomas Gibson
   description: ''
   crypt_count: 13
   crypt_min: 40
@@ -21,12 +19,14 @@ deck:
   crypt:
   - count: 5
     name: Cybele
+    id: 200305
     capacity: 10
     disciplines: ANI DAI OBF PRE SER THA
     clan: Baali
     grouping: 4
   - count: 3
     name: Lutz von Hohenzollern
+    id: 200890
     capacity: 11
     disciplines: pot AUS DEM OBF PRE
     title: Inner Circle
@@ -34,6 +34,7 @@ deck:
     grouping: 4
   - count: 3
     name: Rafael de Corazon
+    id: 201151
     capacity: 11
     disciplines: AUS CEL DOM OBF PRE
     title: Inner Circle
@@ -41,6 +42,7 @@ deck:
     grouping: 4
   - count: 2
     name: Mistress Fanchon
+    id: 200999
     capacity: 11
     disciplines: AUS CEL DOM OBF THA VIC
     title: Inner Circle
@@ -53,83 +55,115 @@ deck:
     cards:
     - count: 12
       name: Ashur Tablets
+      id: 100106
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 2
       name: Jake Washington
+      id: 101019
     - count: 7
       name: Liquidation
+      id: 101112
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 6
       name: Villein
+      id: 102121
     - count: 5
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 5
     cards:
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 3
       name: Unleash Hell's Fury
+      id: 102076
   - name: Political Action
     count: 5
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Banishment
+      id: 100131
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 19
     cards:
     - count: 2
       name: Aire of Elation
+      id: 100031
     - count: 4
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 7
       name: Into Thin Air
+      id: 101001
     - count: 2
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 10
     cards:
     - count: 2
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 6
     cards:
     - count: 3
       name: Majesty
+      id: 101144
     - count: 3
       name: No Trace
+      id: 101292

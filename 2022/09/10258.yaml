@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 3
     name: Khadija Al-Kindi
+    id: 201599
     capacity: 6
     disciplines: CEL OBF THA
     title: Primogen
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -47,6 +51,7 @@ deck:
     grouping: 6
   - count: 2
     name: Nayarana
+    id: 201607
     capacity: 4
     disciplines: cel THA
     clan: Banu Haqim
@@ -58,46 +63,64 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 7
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 6
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 2
       name: Fleetness
+      id: 100747
     - count: 3
       name: Hunter's Mark
+      id: 102228
   - name: Combat
     count: 61
     cards:
     - count: 3
       name: Blur
+      id: 100227
     - count: 20
       name: Hunger of Marduk
+      id: 102227
     - count: 3
       name: Lightning Reflexes
+      id: 101107
     - count: 10
       name: Psyche!
+      id: 101507
     - count: 12
       name: Pursuit
+      id: 101523
     - count: 5
       name: Quickness
+      id: 101532
     - count: 4
       name: Rego Motum
+      id: 101588
     - count: 4
       name: Zip Gun
+      id: 102208
   - name: Event
     count: 2
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

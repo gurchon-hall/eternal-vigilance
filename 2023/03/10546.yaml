@@ -7,8 +7,7 @@ winner: Otso Saariluoma
 vekn_number: 3530054
 event_url: https://www.vekn.net/event-calendar/event/10546
 event_id: 10546
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80417-twd-6th-great-symposium-mikkeli-finland-25-mar-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10546
 deck:
   name: Feral High Council
   created_by: Otso Saariluoma
@@ -23,13 +22,23 @@ deck:
   crypt:
   - count: 5
     name: Stanislava
+    id: 201312
     capacity: 11
     disciplines: ANI CEL DOM FOR PRO
     title: Inner Circle
     clan: Gangrel
     grouping: 2
+  - count: 3
+    name: Ingrid Rossler
+    id: 200634
+    capacity: 9
+    disciplines: dom ANI FOR PRO
+    title: Prince
+    clan: Gangrel
+    grouping: 2
   - count: 1
     name: Genevieve
+    id: 200501
     capacity: 10
     disciplines: aus dom ANI FOR PRO
     title: Priscus
@@ -37,6 +46,7 @@ deck:
     grouping: 2
   - count: 1
     name: Hartmut Stover
+    id: 200575
     capacity: 10
     disciplines: dom for CEL OBF PRO
     title: Archbishop
@@ -44,20 +54,15 @@ deck:
     grouping: 3
   - count: 1
     name: Xaviar (ADV)
+    id: 201478
     capacity: 10
     disciplines: aus cel pot ABO ANI FOR PRO
     title: Justicar
     clan: Gangrel
     grouping: 3
-  - count: 3
-    name: Ingrid Rossler
-    capacity: 9
-    disciplines: dom ANI FOR PRO
-    title: Prince
-    clan: Gangrel
-    grouping: 2
   - count: 1
     name: Mark Decker
+    id: 200937
     capacity: 8
     disciplines: ani for obf pot CEL PRO
     title: Prince
@@ -70,97 +75,133 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 7
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
     - count: 2
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 4
     cards:
     - count: 4
       name: Govern the Unaligned
+      id: 100845
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 12
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 3
       name: Banishment
+      id: 100131
     - count: 3
       name: Parity Shift
+      id: 101353
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
     - count: 1
       name: Rumors of Gehenna
+      id: 101663
   - name: Action Modifier
     count: 9
     cards:
     - count: 4
       name: Earth Control
+      id: 100600
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 1
       name: Forced March
+      id: 100761
     - count: 3
       name: Instantaneous Transformation
+      id: 100994
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 7
     cards:
     - count: 4
       name: Deflection
+      id: 100518
     - count: 1
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Sense the Savage Way
+      id: 101717
   - name: Combat
     count: 7
     cards:
     - count: 3
       name: Earth Meld
+      id: 100601
     - count: 4
       name: Form of Mist
+      id: 100771
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

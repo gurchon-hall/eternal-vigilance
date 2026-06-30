@@ -20,12 +20,14 @@ deck:
   crypt:
   - count: 2
     name: Brunhilde
+    id: 200223
     capacity: 8
     disciplines: pre ANI FOR PRO
     clan: Gangrel
     grouping: 3
   - count: 2
     name: Brunhilde (ADV)
+    id: 200224
     capacity: 8
     disciplines: pre ANI FOR PRO
     title: Baron
@@ -33,30 +35,35 @@ deck:
     grouping: 3
   - count: 1
     name: Beckett (ADV)
+    id: 200184
     capacity: 8
     disciplines: cel tha ANI FOR PRO
     clan: Gangrel
     grouping: 3
   - count: 1
     name: Beckett
+    id: 200183
     capacity: 7
     disciplines: cel ANI FOR PRO
     clan: Gangrel
     grouping: 3
   - count: 1
     name: Karsh
+    id: 200757
     capacity: 10
     disciplines: ANI CEL FOR POT PRO
     clan: Gangrel
     grouping: 3
   - count: 1
     name: Torvus Bloodbeard
+    id: 201384
     capacity: 9
     disciplines: pot ANI FOR OBF PRO
     clan: Gangrel
     grouping: 3
   - count: 1
     name: Danielle Diron
+    id: 200316
     capacity: 7
     disciplines: chi for ANI PRO
     title: 1 Vote
@@ -64,18 +71,21 @@ deck:
     grouping: 3
   - count: 1
     name: Rosa Hernández
+    id: 201203
     capacity: 7
     disciplines: ANI CEL FOR PRO
     clan: Gangrel
     grouping: 4
   - count: 1
     name: Sophia Watson
+    id: 201307
     capacity: 6
     disciplines: obf pro ANI FOR
     clan: Gangrel
     grouping: 3
   - count: 1
     name: Lord Ashton
+    id: 200853
     capacity: 5
     disciplines: for pro ANI
     clan: Gangrel
@@ -87,68 +97,94 @@ deck:
     cards:
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Gangrel Revel
+      id: 100807
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Haven Uncovered
+      id: 100897
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Tension in the Ranks
+      id: 101958
     - count: 4
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Zoo Hunting Ground
+      id: 102212
   - name: Action
     count: 10
     cards:
     - count: 3
       name: Ambush
+      id: 100046
     - count: 4
       name: Bum's Rush
+      id: 100266
     - count: 3
       name: Harass
+      id: 100886
   - name: Retainer
     count: 4
     cards:
     - count: 4
       name: Dog Pack
+      id: 100568
   - name: Action Modifier
     count: 10
     cards:
     - count: 10
       name: Freak Drive
+      id: 100788
   - name: Reaction
     count: 4
     cards:
     - count: 4
       name: Sense the Savage Way
+      id: 101717
   - name: Combat
     count: 44
     cards:
     - count: 7
       name: Carrion Crows
+      id: 100301
     - count: 7
       name: Drawing Out the Beast
+      id: 100585
     - count: 2
       name: Flesh of Marble
+      id: 100749
     - count: 2
       name: Resilience
+      id: 101608
     - count: 10
       name: Rolling with the Punches
+      id: 101649
     - count: 4
       name: Skin of Rock
+      id: 101791
     - count: 2
       name: Soak
+      id: 101817
     - count: 6
       name: Trap
+      id: 102012
     - count: 4
       name: Wolf Claws
+      id: 102190

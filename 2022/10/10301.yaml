@@ -7,52 +7,56 @@ winner: Roy Opitz
 vekn_number: 8580065
 event_url: https://www.vekn.net/event-calendar/event/10301
 event_id: 10301
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80066-twd-we-only-come-out-at-night-bochum-germany-8-oct-2022
+forum_post_url: https://www.vekn.net/event-calendar/event/10301
 deck:
   name: Tremere! Claws & Mages
-  created_by: Roy Opitz
   description: ''
   crypt_count: 32
   crypt_min: 4
   crypt_max: 20
   crypt_avg: 1.97
   crypt:
+  - count: 22
+    name: Tupdog
+    id: 201393
+    capacity: 1
+    disciplines: POT VIS
+    clan: Gargoyle
+    grouping: 3
   - count: 5
     name: Antonio d'Erlette
+    id: 200116
     capacity: 5
     disciplines: dom for pot THA
     clan: Tremere antitribu
     grouping: 4
-  - count: 1
-    name: Mosfair
-    capacity: 4
-    disciplines: cel dom tha
-    clan: Tremere antitribu
-    grouping: 4
   - count: 2
     name: Keith Moody
+    id: 200767
     capacity: 3
     disciplines: DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
+    name: Mosfair
+    id: 201013
+    capacity: 4
+    disciplines: cel dom tha
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
     name: Ember Wright
+    id: 200418
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Saiz
+    id: 201222
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
-    grouping: 3
-  - count: 22
-    name: Tupdog
-    capacity: 1
-    disciplines: POT VIS
-    clan: Gargoyle
     grouping: 3
   library_count: 80
   library_sections:
@@ -61,59 +65,79 @@ deck:
     cards:
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 3
       name: Information Highway
+      id: 100984
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: Not to Be
+      id: 101303
     - count: 1
       name: 'Powerbase: Chicago'
+      id: 101434
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 2
       name: Wider View
+      id: 102180
     - count: 1
       name: Yawp Court
+      id: 102199
   - name: Action
     count: 3
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 2
       name: Graverobbing
+      id: 100852
   - name: Ally
     count: 7
     cards:
     - count: 7
       name: Nephandus
+      id: 101272
   - name: Equipment
     count: 3
     cards:
     - count: 2
       name: Codex of the Edenic Groundskeepers
+      id: 100374
     - count: 1
       name: Hand of Conrad
+      id: 100882
   - name: Reaction
     count: 4
     cards:
     - count: 4
       name: Deflection
+      id: 100518
   - name: Combat
     count: 46
     cards:
     - count: 12
       name: Brick by Brick
+      id: 100252
     - count: 12
       name: Immortal Grapple
+      id: 100959
     - count: 12
       name: Raking Talons
+      id: 101538
     - count: 10
       name: Torn Signpost
+      id: 101993
   - name: Event
     count: 2
     cards:
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

@@ -1,5 +1,5 @@
 name: 1ª Etapa do GP Sulamericano de VtES
-location: Rio de Janeiro, Brasil
+location: Rio de Janeiro, Brazil
 date_start: 2026-06-07
 rounds_format: 3R+F
 players_count: 39
@@ -7,14 +7,15 @@ winner: Anderson Pinto Rodrigues
 vekn_number: 6020023
 event_url: https://www.vekn.net/event-calendar/event/13348
 event_id: 13348
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/83048-twd-1-etapa-do-gp-sulamericano-de-vtes
+vp_comment: 2GW10 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13348
 deck:
+  name: Thing in the Tijuca Forest
   description: ''
   crypt_count: 12
   crypt_min: 14
   crypt_max: 26
-  crypt_avg: 5.2
+  crypt_avg: 5.33
   crypt:
   - count: 2
     name: Casey Snyder
@@ -33,20 +34,20 @@ deck:
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Massimiliano
-    id: 201602
-    capacity: 7
-    disciplines: pro ANI FOR
-    title: Baron
-    clan: Gangrel
-    grouping: 6
-  - count: 1
     name: Ángel Guerrero
     id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
     clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Massimiliano
+    id: 201602
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
     grouping: 6
   - count: 1
     name: André the Manipulator
@@ -96,18 +97,12 @@ deck:
   - name: Master
     count: 23
     cards:
-    - count: 6
-      name: Villein
-      id: 102121
-    - count: 4
-      name: Effective Management
-      id: 100616
-    - count: 2
-      name: Archon Investigation
-      id: 100085
     - count: 1
       name: Anarch Railroad
       id: 100054
+    - count: 2
+      name: Archon Investigation
+      id: 100085
     - count: 1
       name: Backways
       id: 100126
@@ -120,6 +115,9 @@ deck:
     - count: 1
       name: Ecoterrorists
       id: 100609
+    - count: 4
+      name: Effective Management
+      id: 100616
     - count: 1
       name: Ennoia's Theater
       id: 100646
@@ -138,45 +136,18 @@ deck:
     - count: 1
       name: 'Powerbase: Montreal'
       id: 101439
+    - count: 6
+      name: Villein
+      id: 102121
   - name: Action
     count: 14
     cards:
-    - count: 13
-      name: Thing
-      id: 101972
     - count: 1
       name: Rewilding
       id: 101632
-  - name: Action Modifier
-    count: 11
-    cards:
-    - count: 5
-      name: Propaganda of the Deed
-      id: 101496
-    - count: 4
-      name: Earth Control
-      id: 100600
-    - count: 2
-      name: Monkey Wrench
-      id: 101239
-  - name: Action Modifier/Reaction
-    count: 4
-    cards:
-    - count: 4
-      name: Form of the Bat
-      id: 102223
-  - name: Combat
-    count: 15
-    cards:
-    - count: 9
-      name: Earth Meld
-      id: 100601
-    - count: 4
-      name: Form of Mist
-      id: 100771
-    - count: 2
-      name: Claws of the Dead
-      id: 100356
+    - count: 13
+      name: Thing
+      id: 101972
   - name: Political Action
     count: 6
     cards:
@@ -189,18 +160,48 @@ deck:
     - count: 2
       name: Revolutionary Council
       id: 101631
+  - name: Action Modifier
+    count: 11
+    cards:
+    - count: 4
+      name: Earth Control
+      id: 100600
+    - count: 2
+      name: Monkey Wrench
+      id: 101239
+    - count: 5
+      name: Propaganda of the Deed
+      id: 101496
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 17
     cards:
     - count: 7
       name: Bait and Switch
       id: 102218
-    - count: 6
-      name: Organized Resistance
-      id: 102230
-    - count: 2
-      name: Delaying Tactics
-      id: 100519
     - count: 2
       name: Deep Ecology
       id: 102219
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 6
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 15
+    cards:
+    - count: 2
+      name: Claws of the Dead
+      id: 100356
+    - count: 9
+      name: Earth Meld
+      id: 100601
+    - count: 4
+      name: Form of Mist
+      id: 100771

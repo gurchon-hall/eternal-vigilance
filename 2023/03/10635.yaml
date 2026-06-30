@@ -25,6 +25,7 @@ deck:
   crypt:
   - count: 4
     name: Arika
+    id: 200135
     capacity: 11
     disciplines: aus cel DOM FOR OBF PRE
     title: Inner Circle
@@ -32,6 +33,7 @@ deck:
     grouping: 2
   - count: 3
     name: Maris Streck
+    id: 200935
     capacity: 9
     disciplines: ani dem dom AUS OBF
     title: Justicar
@@ -39,12 +41,14 @@ deck:
     grouping: 3
   - count: 3
     name: Watenda
+    id: 201464
     capacity: 3
     disciplines: obf
     clan: Malkavian
     grouping: 2
   - count: 1
     name: Greger Anderssen
+    id: 200538
     capacity: 7
     disciplines: dom pro AUS OBF
     title: Prince
@@ -52,6 +56,7 @@ deck:
     grouping: 2
   - count: 1
     name: Quentin King III
+    id: 201141
     capacity: 7
     disciplines: obf pre AUS DEM
     title: Prince
@@ -64,104 +69,145 @@ deck:
     cards:
     - count: 1
       name: Asylum Hunting Ground
+      id: 100108
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Mob Connections
+      id: 101229
     - count: 1
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 4
     cards:
     - count: 4
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: ECTU Operative
+      id: 102237
   - name: Equipment
     count: 6
     cards:
     - count: 2
       name: Assault Rifle
+      id: 100107
     - count: 1
       name: Flamethrower
+      id: 100742
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Helicopter
+      id: 100909
     - count: 1
       name: Leather Jacket
+      id: 101081
   - name: Political Action
     count: 13
     cards:
     - count: 5
       name: Alastor
+      id: 100038
     - count: 1
       name: Anathema
+      id: 100060
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 3
       name: Banishment
+      id: 100131
     - count: 2
       name: Domain Challenge
+      id: 100570
     - count: 1
       name: Neonate Breach
+      id: 101271
   - name: Action Modifier
     count: 15
     cards:
     - count: 1
       name: Cloak the Gathering
+      id: 100362
     - count: 2
       name: Closed Session
+      id: 100364
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
     - count: 4
       name: Forgotten Labyrinth
+      id: 100769
     - count: 5
       name: Lost in Crowds
+      id: 101125
   - name: Reaction
     count: 17
     cards:
     - count: 2
       name: Deflection
+      id: 100518
     - count: 2
       name: Eagle's Sight
+      id: 100598
     - count: 1
       name: Eluding the Arms of Morpheus
+      id: 100628
     - count: 2
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: Mental Maze
+      id: 101201
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 1
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 1
       name: Telepathic Misdirection
+      id: 101949
     - count: 1
       name: Wake with Evening's Freshness
+      id: 102137
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

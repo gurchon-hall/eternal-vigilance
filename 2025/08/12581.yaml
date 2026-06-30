@@ -1,5 +1,5 @@
-name: ITAQUAQUECETUBENSE -2025
-location: Itaquaquecetuba, Brasil
+name: Itaquaquecetubense -2025
+location: Itaquaquecetuba, Brazil
 date_start: 2025-08-17
 rounds_format: 2R+F
 players_count: 22
@@ -7,12 +7,10 @@ winner: Fernando Naves Resck
 vekn_number: 6120023
 event_url: https://www.vekn.net/event-calendar/event/12581
 event_id: 12581
-vp_comment: 1 GW 4,5 VP with 1,5 VP in the Final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82591-twd-itaquaquecetubense-2025-itaquaquecetuba-brasil-august-17-2025
+vp_comment: 1GW4.5 + 1.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12581
 deck:
   name: Brujeria
-  created_by: Fernando Resck
   description: ''
   crypt_count: 12
   crypt_min: 11
@@ -21,27 +19,31 @@ deck:
   crypt:
   - count: 3
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
     clan: Brujah
     grouping: 6
-  - count: 1
-    name: Valeriya Zinovieva
-    capacity: 7
-    disciplines: cel pre pro POT
-    title: Baron
-    clan: Brujah
-    grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
     clan: Brujah
     grouping: 6
   - count: 1
+    name: Valeriya Zinovieva
+    id: 201614
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -49,30 +51,35 @@ deck:
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
     grouping: 6
   - count: 1
     name: Anita Wainwright
+    id: 201657
     capacity: 3
     disciplines: cel pre
     clan: Brujah
     grouping: 6
   - count: 1
     name: Ariane
+    id: 200132
     capacity: 3
     disciplines: cel pot pre
     clan: Brujah
     grouping: 5
   - count: 1
     name: Laura Goldman
+    id: 200816
     capacity: 3
     disciplines: cel pre
     clan: Brujah
     grouping: 5
   - count: 1
     name: Rayne
+    id: 201610
     capacity: 2
     disciplines: pot
     clan: Brujah
@@ -83,68 +90,95 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 6
       name: Brujah Debate
+      id: 100260
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 2
       name: Celerity
+      id: 100312
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
   - name: Action
     count: 12
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 4
       name: Childe of the Revolution
+      id: 102246
     - count: 6
       name: Line Brawl
+      id: 102229
     - count: 1
       name: Open War
+      id: 101324
   - name: Political Action
     count: 1
     cards:
     - count: 1
       name: Revolutionary Council
+      id: 101631
   - name: Reaction
     count: 24
     cards:
     - count: 7
       name: Bait and Switch
+      id: 102218
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 12
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 21
     cards:
     - count: 3
       name: Disarm
+      id: 100549
     - count: 11
       name: Dust Up
+      id: 100597
     - count: 4
       name: Immortal Grapple
+      id: 100959
     - count: 3
       name: Taste of Vitae
+      id: 101945

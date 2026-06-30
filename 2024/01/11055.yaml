@@ -1,0 +1,155 @@
+name: Sangue nas águas do Parnaíba - Piauiense 2024
+location: Teresina, Brazil
+date_start: 2024-01-27
+rounds_format: 2R+F
+players_count: 15
+winner: Ryan Oliveira
+vekn_number: 7308662
+event_url: https://www.vekn.net/event-calendar/event/11055
+event_id: 11055
+forum_post_url: https://www.vekn.net/event-calendar/event/11055
+deck:
+  name: Unnamed, the bleeder
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 40
+  crypt_avg: 5.83
+  crypt:
+  - count: 4
+    name: unnamed, The
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 2
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 3
+      name: Dabbler
+      id: 100485
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wash
+      id: 102151
+    - count: 1
+      name: Wider View
+      id: 102180
+    - count: 4
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 17
+    cards:
+    - count: 14
+      name: Platinum Protocol, The
+      id: 102232
+    - count: 3
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 27
+    cards:
+    - count: 6
+      name: Enchanting Gaze
+      id: 102221
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 2
+      name: I am Legion
+      id: 100947
+    - count: 4
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 2
+      name: Lost in Crowds
+      id: 101125
+    - count: 8
+      name: Revelation of the Serpent
+      id: 102233
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 6
+      name: Bait and Switch
+      id: 102218
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 4
+      name: Party Out Of Bounds
+      id: 102231
+  - name: Combat
+    count: 8
+    cards:
+    - count: 4
+      name: Earth Meld
+      id: 100601
+    - count: 4
+      name: Form of Mist
+      id: 100771

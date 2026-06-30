@@ -1,0 +1,164 @@
+name: Wind Dance
+location: Lafayette (LA), USA
+date_start: 2024-03-10
+rounds_format: 2R+F
+players_count: 17
+winner: Brad Cashdollar
+vekn_number: 2660020
+event_url: https://www.vekn.net/event-calendar/event/11287
+event_id: 11287
+forum_post_url: https://www.vekn.net/event-calendar/event/11287
+deck:
+  name: Anarch unnamed
+  description: ''
+  crypt_count: 12
+  crypt_min: 7
+  crypt_max: 40
+  crypt_avg: 6.42
+  crypt:
+  - count: 5
+    name: unnamed, The
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 2
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Crystal Lynn
+    id: 201582
+    capacity: 6
+    disciplines: OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Marcel
+    id: 201600
+    capacity: 4
+    disciplines: obf pre pro
+    clan: Ministry
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 3
+      name: Dabbler
+      id: 100485
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+      id: 101435
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Two Wrongs
+      id: 102052
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 17
+    cards:
+    - count: 14
+      name: Platinum Protocol, The
+      id: 102232
+    - count: 1
+      name: Rise of the Fallen
+      id: 101638
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 38
+    cards:
+    - count: 6
+      name: CrimethInc.
+      id: 100446
+    - count: 6
+      name: Enchanting Gaze
+      id: 102221
+    - count: 4
+      name: Enkil Cog
+      id: 100645
+    - count: 4
+      name: Faceless Night
+      id: 100687
+    - count: 2
+      name: I am Legion
+      id: 100947
+    - count: 4
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 2
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Memory Rift
+      id: 101199
+    - count: 8
+      name: Revelation of the Serpent
+      id: 102233
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 5
+      name: Party Out Of Bounds
+      id: 102231
+    - count: 2
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 8
+    cards:
+    - count: 4
+      name: Earth Meld
+      id: 100601
+    - count: 4
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265

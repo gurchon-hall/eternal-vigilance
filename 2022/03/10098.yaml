@@ -20,48 +20,56 @@ deck:
   crypt:
   - count: 5
     name: Enkidu, The Noah
+    id: 200424
     capacity: 11
     disciplines: for ANI CEL OBF POT PRO
     clan: Gangrel antitribu
     grouping: 4
   - count: 2
     name: Andre LeRoux
+    id: 200080
     capacity: 3
     disciplines: aus
     clan: Toreador
     grouping: 5
   - count: 1
     name: Matasuntha
+    id: 200956
     capacity: 10
     disciplines: ANI AUS CEL FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 1
     name: T.J.
+    id: 201334
     capacity: 3
     disciplines: cel for
     clan: Gangrel
     grouping: 4
   - count: 1
     name: Clifton Derrik
+    id: 200283
     capacity: 2
     disciplines: cel
     clan: Brujah
     grouping: 4
   - count: 1
     name: Leo Washington
+    id: 200831
     capacity: 2
     disciplines: cel pro
     clan: Gangrel antitribu
     grouping: 4
   - count: 1
     name: Sean Andrews
+    id: 201254
     capacity: 2
     disciplines: cel
     clan: Toreador
     grouping: 4
   - count: 1
     name: Iris Bennett
+    id: 200641
     capacity: 1
     disciplines: pro
     clan: Caitiff
@@ -73,79 +81,109 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Fame
+      id: 100698
     - count: 2
       name: Guardian Angel
+      id: 100866
     - count: 1
       name: Monster
+      id: 101242
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 4
       name: Vessel
+      id: 102113
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 9
     cards:
     - count: 1
       name: Abbot
+      id: 100006
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 1
       name: Bum's Rush
+      id: 100266
     - count: 1
       name: Deep Song
+      id: 100515
     - count: 1
       name: Heroic Might
+      id: 100913
     - count: 1
       name: Marked Territory
+      id: 101170
     - count: 1
       name: Rumble
+      id: 101661
     - count: 1
       name: Sense Death
+      id: 101716
     - count: 1
       name: Taunt the Caged Beast
+      id: 101947
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Retainer
     count: 2
     cards:
     - count: 1
       name: Homunculus
+      id: 100932
     - count: 1
       name: Raven Spy
+      id: 101550
   - name: Action Modifier
     count: 2
     cards:
     - count: 2
       name: Enkil Cog
+      id: 100645
   - name: Reaction
     count: 6
     cards:
     - count: 6
       name: Sense the Savage Way
+      id: 101717
   - name: Combat
     count: 57
     cards:
     - count: 2
       name: Canine Horde
+      id: 100290
     - count: 2
       name: Claws of the Dead
+      id: 100356
     - count: 9
       name: Earth Meld
+      id: 100601
     - count: 2
       name: Flesh of Marble
+      id: 100749
     - count: 16
       name: Psyche!
+      id: 101507
     - count: 11
       name: Pursuit
+      id: 101523
     - count: 2
       name: Skin of Steel
+      id: 101792
     - count: 4
       name: Stutter-Step
+      id: 101889
     - count: 9
       name: Taste of Vitae
+      id: 101945

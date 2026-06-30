@@ -1,5 +1,5 @@
 name: Itamar G Jr.
-location: Fortaleza - Ceará - Brazil
+location: Fortaleza (CE), Brazil
 date_start: 2025-11-30
 rounds_format: 2R+F
 players_count: 13
@@ -7,34 +7,54 @@ winner: Márcio Pinheiro
 vekn_number: 6050012
 event_url: https://www.vekn.net/event-calendar/event/11987
 event_id: 11987
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82704-twd-itamar-g-jr
+vp_comment: 1GW4 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11987
 deck:
   name: A anarquia Sabá
-  created_by: Baron
   description: ''
   crypt_count: 12
   crypt_min: 30
   crypt_max: 37
   crypt_avg: 8.42
   crypt:
+  - count: 2
+    name: Dark Selina
+    id: 200321
+    capacity: 9
+    disciplines: dom for CEL POT PRE
+    title: Cardinal
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 2
+    name: Üresség
+    id: 201775
+    capacity: 8
+    disciplines: dom for CEL POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 2
+    name: Khin Aye
+    id: 201760
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
   - count: 1
     name: Aaradhya, The Callous Tyrant
+    id: 201733
     capacity: 10
     disciplines: ANI DOM FOR POT PRE
     title: Cardinal
     clan: Ventrue
     grouping: 6
     path: Power and the Inner Voice
-  - count: 2
-    name: Dark Selina
-    capacity: 9
-    disciplines: dom for CEL POT PRE
-    title: Cardinal
-    clan: Brujah antitribu
-    grouping: 5
   - count: 1
     name: Carolina Vález
+    id: 200249
     capacity: 9
     disciplines: aus DOM OBT POT PRE
     title: Archbishop
@@ -42,6 +62,7 @@ deck:
     grouping: 5
   - count: 1
     name: De Sade
+    id: 200327
     capacity: 9
     disciplines: AUS DOM FOR PRE
     title: Archbishop
@@ -49,22 +70,16 @@ deck:
     grouping: 5
   - count: 1
     name: Věnceslava, The Implacable
+    id: 201776
     capacity: 9
     disciplines: cel DOM FOR POT PRE
     title: Archbishop
     clan: Brujah
     grouping: 6
     path: Power and the Inner Voice
-  - count: 2
-    name: Üresség
-    capacity: 8
-    disciplines: dom for CEL POT PRE
-    title: Archbishop
-    clan: Brujah
-    grouping: 6
-    path: Power and the Inner Voice
   - count: 1
     name: Damian
+    id: 201747
     capacity: 8
     disciplines: for pre DOM OBL POT
     title: Archbishop
@@ -73,18 +88,11 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Rexton "Savage" Abernathy
+    id: 201770
     capacity: 8
     disciplines: cel DOM POT PRE
     title: Archbishop
     clan: Brujah
-    grouping: 6
-    path: Power and the Inner Voice
-  - count: 2
-    name: Khin Aye
-    capacity: 7
-    disciplines: dom for POT PRE
-    title: Priscus
-    clan: Ventrue
     grouping: 6
     path: Power and the Inner Voice
   library_count: 90
@@ -94,81 +102,112 @@ deck:
     cards:
     - count: 1
       name: Black Forest Base
+      id: 100165
     - count: 1
       name: Creepshow Casino
-    - count: 1
-      name: Dreams of the Sphinx
+      id: 100444
     - count: 1
       name: Día de los Muertos
+      id: 100541
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: 'Powerbase: Madrid'
+      id: 101437
     - count: 1
       name: Privileged Position
+      id: 102334
     - count: 6
       name: Unholy Sacrament
+      id: 102345
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 3
     cards:
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 1
       name: Govern the Unaligned
+      id: 100845
     - count: 1
       name: Under Siege
+      id: 102063
   - name: Political Action
     count: 15
     cards:
     - count: 2
       name: Banishment
+      id: 100131
     - count: 2
       name: Cold War
+      id: 102312
     - count: 3
       name: Empires Fall
+      id: 102318
     - count: 6
       name: Kine Resources Contested
+      id: 101056
     - count: 2
       name: War of Ages
+      id: 102348
   - name: Action Modifier
     count: 37
     cards:
     - count: 1
       name: Daring the Dawn
+      id: 100492
     - count: 7
       name: Dominant Personality
+      id: 102316
     - count: 4
       name: Freak Drive
+      id: 100788
     - count: 2
       name: Iron Glare
+      id: 101008
     - count: 5
       name: Magnetic Authority
+      id: 102331
     - count: 5
       name: Private Audience
+      id: 101490
     - count: 5
       name: Relentlessness
+      id: 102337
     - count: 3
       name: Unthinkable Humiliation
+      id: 102346
     - count: 5
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 3
       name: Absolute Tyranny
+      id: 102308
   - name: Reaction
     count: 12
     cards:
     - count: 7
       name: Deflection
+      id: 100518
     - count: 5
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 2
     cards:
     - count: 1
       name: Catatonic Fear
+      id: 100307
     - count: 1
       name: Majesty
+      id: 101144

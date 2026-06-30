@@ -1,0 +1,172 @@
+name: Hunger of Marduk 2023
+location: Online
+date_start: 2023-04-02
+rounds_format: 2R+F
+players_count: 14
+winner: Sebastian Meurer
+vekn_number: 3040004
+event_url: https://www.vekn.net/event-calendar/event/10702
+event_id: 10702
+vp_comment: GW4 + 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10702
+deck:
+  name: Appolonius ftw
+  description: Appolonius is kinda cool – I think he really captures the 90s 
+    World of Darkness urban gothic punk thing. I have thus been playing around 
+    with the advanced version since it came out. With the newish Brujah cards he
+    can really rule.
+  crypt_count: 13
+  crypt_min: 4
+  crypt_max: 40
+  crypt_avg: 5.77
+  crypt:
+  - count: 4
+    name: Appolonius (ADV)
+    id: 200126
+    capacity: 10
+    disciplines: dom CEL FOR POT PRE
+    clan: Brujah
+    grouping: 1
+  - count: 1
+    name: Appolonius
+    id: 200125
+    capacity: 10
+    disciplines: for pot CEL PRE
+    title: Primogen
+    clan: Brujah
+    grouping: 1
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 2
+    name: Jimmy Dunn
+    id: 200705
+    capacity: 4
+    disciplines: for CEL POT
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Richter, The Templar of Du Mont
+    id: 201187
+    capacity: 7
+    disciplines: for pre CEL POT
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Jack
+    id: 200652
+    capacity: 6
+    disciplines: cel for pot san
+    clan: Blood Brother
+    grouping: 2
+  library_count: 89
+  library_sections:
+  - name: Master
+    count: 24
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+      id: 100052
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Depravity
+      id: 100526
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Flames of Insurrection
+      id: 100740
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: Parthenon, The
+      id: 101355
+    - count: 2
+      name: 'Powerbase: Los Angeles'
+      id: 101435
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 12
+    cards:
+    - count: 6
+      name: Legacy
+      id: 101085
+    - count: 3
+      name: Line Brawl
+      id: 102229
+    - count: 3
+      name: Preternatural Strength
+      id: 101483
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 4
+      name: Forced March
+      id: 100761
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 4
+      name: Bait and Switch
+      id: 102218
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 6
+      name: Organized Resistance
+      id: 102230
+    - count: 3
+      name: Protection Racket
+      id: 101501
+  - name: Combat
+    count: 33
+    cards:
+    - count: 2
+      name: Bollix
+      id: 100232
+    - count: 3
+      name: Disarm
+      id: 100549
+    - count: 9
+      name: Diversion
+      id: 100563
+    - count: 2
+      name: Dust Up
+      id: 100597
+    - count: 7
+      name: Immortal Grapple
+      id: 100959
+    - count: 3
+      name: Lam Into
+      id: 101071
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+    - count: 3
+      name: Thrown Sewer Lid
+      id: 101983

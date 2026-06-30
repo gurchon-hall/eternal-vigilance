@@ -7,11 +7,10 @@ winner: Aitor Candelas
 vekn_number: 8870005
 event_url: https://www.vekn.net/event-calendar/event/13230
 event_id: 13230
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82970-twd-no-joke-with-war-ghouls
+vp_comment: 2GW6 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13230
 deck:
   name: Oblivion de la muerte
-  created_by: Aitor
   description: ''
   crypt_count: 12
   crypt_min: 17
@@ -20,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Frau Schädel
+    id: 201752
     capacity: 7
     disciplines: aus dom for OBL THA
     clan: Tremere
@@ -27,6 +27,7 @@ deck:
     path: Death and the Soul
   - count: 3
     name: Sakura, The Merciless
+    id: 201771
     capacity: 7
     disciplines: aus pot DOM OBL THA
     clan: Lasombra
@@ -34,18 +35,21 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Parijat, the Dark Oracle
+    id: 201726
     capacity: 7
     disciplines: AUS DOM FOR OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Tommaso Sforza
+    id: 201728
     capacity: 7
     disciplines: dom for AUS OBL THA
     clan: Hecata
     grouping: 6
   - count: 1
     name: Aitana, The Unholy
+    id: 201737
     capacity: 6
     disciplines: for tha AUS OBL
     clan: Hecata
@@ -53,6 +57,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Zbigniew, Hunter of Mekhet
+    id: 201780
     capacity: 5
     disciplines: aus dom tha OBL
     clan: Lasombra
@@ -60,6 +65,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: El Monseñor
+    id: 201749
     capacity: 4
     disciplines: dom OBL
     clan: Lasombra
@@ -67,6 +73,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Yurena, The Boor
+    id: 201779
     capacity: 2
     disciplines: tha
     clan: Tremere
@@ -79,75 +86,103 @@ deck:
     cards:
     - count: 1
       name: Burial Site Hunting Ground
+      id: 102311
     - count: 2
       name: Charisma
+      id: 100332
     - count: 1
       name: Dark Influences
+      id: 100493
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 4
       name: Perfectionist
+      id: 101388
     - count: 4
       name: Vessel
+      id: 102113
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 12
     cards:
     - count: 2
       name: Dance of the Dead
+      id: 102314
     - count: 3
       name: Putrescent Sustenance
+      id: 102335
     - count: 6
       name: Shroud of Decay
+      id: 102295
     - count: 1
       name: Split the Veil
+      id: 102297
   - name: Ally
     count: 21
     cards:
     - count: 1
       name: Fiorella, Empty One
+      id: 102322
     - count: 10
       name: Freakish Conglomeration
+      id: 102324
     - count: 1
       name: Heartrender
+      id: 102327
     - count: 1
       name: Ponticulus
+      id: 101419
     - count: 8
       name: Spectral Servitor
+      id: 102296
   - name: Action Modifier
     count: 22
     cards:
     - count: 6
       name: Gifts From Hereafter
+      id: 102325
     - count: 6
       name: Paths in Two Worlds
+      id: 102300
     - count: 3
       name: Shadow Cloak
+      id: 102281
     - count: 3
       name: Stygian Shroud
+      id: 102282
     - count: 4
       name: Where the Veil Thins
+      id: 102285
   - name: Reaction
     count: 14
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Shadow Sentinel
+      id: 102294
   - name: Combat
     count: 3
     cards:
     - count: 3
       name: Pass Through Shadow
+      id: 102279
   - name: Event
     count: 2
     cards:
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

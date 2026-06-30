@@ -1,0 +1,154 @@
+name: Entombment
+location: Lisboa, Portugal
+date_start: 2024-01-20
+rounds_format: 3R+F
+players_count: 13
+winner: Eduardo Manuel Mateus
+vekn_number: 3120073
+event_url: https://www.vekn.net/event-calendar/event/11212
+event_id: 11212
+forum_post_url: https://www.vekn.net/event-calendar/event/11212
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 28
+  crypt_avg: 3.17
+  crypt:
+  - count: 4
+    name: Reiner Stoschka
+    id: 201177
+    capacity: 7
+    disciplines: obf AUS DEM THA
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Alu
+    id: 200062
+    capacity: 2
+    disciplines: obf
+    clan: Banu Haqim
+    grouping: 5
+  - count: 1
+    name: Cassandra Langely, The Waif
+    id: 200254
+    capacity: 2
+    disciplines: dem
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Andy
+    id: 200087
+    capacity: 1
+    disciplines: for
+    clan: Caitiff
+    grouping: 4
+  - count: 1
+    name: Basir
+    id: 200175
+    capacity: 1
+    disciplines: qui
+    clan: Banu Haqim
+    grouping: 4
+  - count: 1
+    name: César Holfield
+    id: 200261
+    capacity: 1
+    disciplines: obf
+    clan: Caitiff
+    grouping: 4
+  - count: 1
+    name: Donald Cargill
+    id: 200365
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Iris Bennett
+    id: 200641
+    capacity: 1
+    disciplines: pro
+    clan: Caitiff
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 24
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 12
+      name: Dementation
+      id: 100521
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 4
+      name: Obfuscate
+      id: 101310
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+  - name: Action
+    count: 25
+    cards:
+    - count: 3
+      name: Becoming, The
+      id: 100147
+    - count: 4
+      name: Dive into Madness
+      id: 100562
+    - count: 18
+      name: Kindred Spirits
+      id: 101055
+  - name: Action Modifier
+    count: 33
+    cards:
+    - count: 6
+      name: Cloak the Gathering
+      id: 100362
+    - count: 13
+      name: Confusion
+      id: 100405
+    - count: 6
+      name: Eyes of Chaos
+      id: 100682
+    - count: 2
+      name: Mind Tricks
+      id: 101216
+    - count: 6
+      name: Veil the Legions
+      id: 102097
+  - name: Action Modifier/Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Deny
+      id: 100524
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+    - count: 1
+      name: Port Authority
+      id: 101420

@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 4
     name: Alonso Petrodon
+    id: 200060
     capacity: 10
     disciplines: for tha ANI DOM OBF POT
     title: Justicar
@@ -25,6 +26,7 @@ deck:
     grouping: 5
   - count: 4
     name: Gustaphe Brunnelle
+    id: 200549
     capacity: 8
     disciplines: obf ANI DOM POT
     title: Primogen
@@ -32,12 +34,14 @@ deck:
     grouping: 4
   - count: 2
     name: Harold Tanner
+    id: 200571
     capacity: 6
     disciplines: ani dom obf POT
     clan: Nosferatu
     grouping: 4
   - count: 2
     name: Nichodemus
+    id: 201054
     capacity: 2
     disciplines: pot
     clan: Nosferatu
@@ -49,69 +53,94 @@ deck:
     cards:
     - count: 1
       name: Depravity
+      id: 100526
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Guardian Angel
+      id: 100866
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
+      id: 101070
     - count: 1
       name: Slum Hunting Ground
+      id: 101808
     - count: 1
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 2
       name: Warsaw Station
+      id: 102149
   - name: Action
     count: 9
     cards:
     - count: 4
       name: Deep Song
+      id: 100515
     - count: 5
       name: Govern the Unaligned
+      id: 100845
   - name: Action Modifier
     count: 9
     cards:
     - count: 2
       name: Enkil Cog
+      id: 100645
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 5
       name: Lost in Crowds
+      id: 101125
   - name: Action Modifier/Combat
     count: 5
     cards:
     - count: 5
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 17
     cards:
     - count: 7
       name: Deflection
+      id: 100518
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 7
       name: Sense the Savage Way
+      id: 101717
   - name: Combat
     count: 21
     cards:
     - count: 2
       name: Canine Horde
+      id: 100290
     - count: 5
       name: Immortal Grapple
+      id: 100959
     - count: 7
       name: Roundhouse
+      id: 102215
     - count: 3
       name: Slam
+      id: 101798
     - count: 4
       name: Taste of Vitae
+      id: 101945

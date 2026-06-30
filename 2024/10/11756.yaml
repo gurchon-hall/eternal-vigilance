@@ -1,5 +1,5 @@
-name: Gehenna Store Championship 2024
-location: Belo Horizonte
+name: Gehenna Store Championship
+location: Belo Horizonte, Brazil
 date_start: 2024-10-19
 rounds_format: 3R+F
 players_count: 17
@@ -7,8 +7,7 @@ winner: João Salvato
 vekn_number: 6180211
 event_url: https://www.vekn.net/event-calendar/event/11756
 event_id: 11756
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81841-gehenna-store-championship-belo-horizonte-brasil-19-october-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11756
 deck:
   name: Outcast
   description: ''
@@ -19,30 +18,35 @@ deck:
   crypt:
   - count: 5
     name: Grimgroth
+    id: 201522
     capacity: 10
     disciplines: for AUS DOM PRE THA
     clan: Tremere
     grouping: 6
   - count: 2
     name: Gerald Windham
+    id: 200508
     capacity: 9
     disciplines: AUS DOM FOR THA
     clan: Tremere
     grouping: 5
   - count: 1
     name: Abraham DuSable
+    id: 201623
     capacity: 8
     disciplines: AUS DOM FOR THA
     clan: Tremere
     grouping: 6
   - count: 1
     name: Aidan Lyle
+    id: 200025
     capacity: 7
     disciplines: dom AUS CHI THA
     clan: Tremere
     grouping: 5
   - count: 1
     name: Ayelech
+    id: 201535
     capacity: 7
     disciplines: AUS DOM THA
     title: Prince
@@ -50,18 +54,21 @@ deck:
     grouping: 6
   - count: 1
     name: Lord Ephraim Wainwright
+    id: 200854
     capacity: 6
     disciplines: for pre AUS THA
     clan: Tremere
     grouping: 5
   - count: 1
     name: MacAlister Marshall
+    id: 200894
     capacity: 6
     disciplines: aus dom obf pre THA
     clan: Tremere
     grouping: 5
   - count: 1
     name: Trevon Parker
+    id: 201572
     capacity: 6
     disciplines: AUS DOM THA
     clan: Tremere
@@ -73,96 +80,133 @@ deck:
     cards:
     - count: 1
       name: Academic Hunting Ground
+      id: 100015
     - count: 1
       name: Arcane Library
+      id: 100081
     - count: 1
       name: Charisma
+      id: 100332
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 4
       name: Vessel
+      id: 102113
     - count: 2
       name: Wider View
+      id: 102180
     - count: 4
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 11
     cards:
     - count: 6
       name: Govern the Unaligned
+      id: 100845
     - count: 3
       name: Magic of the Smith
+      id: 101143
     - count: 2
       name: Rutor's Hand
+      id: 101664
   - name: Ally
     count: 13
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 10
       name: Outcast Mage
+      id: 101337
     - count: 1
       name: Ponticulus
+      id: 101419
     - count: 1
       name: Thadius Zho
+      id: 101963
   - name: Equipment
     count: 6
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
-      name: The Sargon Fragment
+      name: Sargon Fragment, The
+      id: 101681
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Action Modifier
     count: 13
     cards:
     - count: 1
       name: Conditioning
+      id: 100401
     - count: 4
       name: Freak Drive
+      id: 100788
     - count: 8
       name: Mirror Walk
+      id: 101223
   - name: Reaction
     count: 17
     cards:
     - count: 3
       name: Deflection
+      id: 100518
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 10
     cards:
     - count: 4
       name: Rego Motum
+      id: 101588
     - count: 6
       name: Theft of Vitae
+      id: 101966
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

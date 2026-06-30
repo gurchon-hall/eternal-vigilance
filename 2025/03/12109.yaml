@@ -7,12 +7,15 @@ winner: Ian Lee
 vekn_number: 1000629
 event_url: https://www.vekn.net/event-calendar/event/12109
 event_id: 12109
-vp_comment: 1GW4 + 1.5VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82182-twd-taste-of-vitae-escondido-us-15-march-2025
+vp_comment: 1GW4 + 1.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12109
 deck:
   name: Promise of 619
-  description: ''
+  description: Not to dis 760 or 442; let's say the energy of 619.  Way too 
+    dependent upon bouncing bleeds to get VPs.  Will not suit a lot of players' 
+    styles.  No point in coming up with ideas on how to change the deck.  Better
+    to just not play it, though Yavu's ability is not ... quite ... as bad as I 
+    thought it was.
   crypt_count: 12
   crypt_min: 6
   crypt_max: 35
@@ -20,179 +23,236 @@ deck:
   crypt:
   - count: 3
     name: Guillaume Giovanni
+    id: 200545
     capacity: 9
     disciplines: obt CEL DOM NEC POT
     clan: Giovanni
     grouping: 4
   - count: 3
     name: Tupdog
+    id: 201393
     capacity: 1
     disciplines: POT VIS
     clan: Gargoyle
     grouping: 3
   - count: 1
+    name: Yavu Matebo
+    id: 201484
+    capacity: 8
+    disciplines: abo AUS DOM NEC
+    clan: Nagaraja
+    grouping: 4
+  - count: 1
     name: Gualtiero Ghiberti
+    id: 200542
     capacity: 7
     disciplines: cel pot tha DOM NEC
     clan: Giovanni
     grouping: 4
   - count: 1
-    name: Lia Milliner
-    capacity: 3
-    disciplines: dom nec
+    name: Raphaela Giovanni
+    id: 201165
+    capacity: 6
+    disciplines: pot pre DOM NEC
     clan: Giovanni
-    grouping: 3
+    grouping: 4
   - count: 1
     name: Margaret Milliner
+    id: 200917
     capacity: 5
     disciplines: dom for nec pot pre
     clan: Giovanni
     grouping: 4
   - count: 1
     name: Primo Giovanni
+    id: 201134
     capacity: 4
     disciplines: dom nec pot
     clan: Giovanni
     grouping: 4
   - count: 1
-    name: Raphaela Giovanni
-    capacity: 6
-    disciplines: pot pre DOM NEC
+    name: Lia Milliner
+    id: 200834
+    capacity: 3
+    disciplines: dom nec
     clan: Giovanni
-    grouping: 4
-  - count: 1
-    name: Yavu Matebo
-    capacity: 8
-    disciplines: abo AUS DOM NEC
-    clan: Nagaraja
-    grouping: 4
+    grouping: 3
   library_count: 90
   library_sections:
   - name: Master
     count: 22
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dis Pater
+      id: 100548
     - count: 1
       name: Dummy Corporation
+      id: 100594
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Insurance Scam
+      id: 100997
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Necromancy
+      id: 101267
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Cape Verde'
+      id: 101433
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 10
     cards:
     - count: 1
       name: Computer Hacking
+      id: 100390
     - count: 1
       name: Dominate Kine
+      id: 100573
     - count: 1
       name: Grasp the Ghostly
+      id: 100851
     - count: 1
       name: Jar the Soul
+      id: 101021
     - count: 4
       name: Scouting Mission
+      id: 101698
     - count: 2
       name: Sudario Refraction
+      id: 101895
   - name: Ally
     count: 2
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Leonardo, Mortician
+      id: 101094
   - name: Equipment
     count: 3
     cards:
     - count: 1
       name: Gran Madre di Dio, Italy
+      id: 100847
     - count: 1
       name: Palatial Estate
+      id: 101345
     - count: 1
       name: Sacré-Cœur Cathedral, France
+      id: 101670
   - name: Retainer
     count: 2
     cards:
     - count: 1
       name: J. S. Simmons, Esq.
+      id: 101015
     - count: 1
       name: Tasha Morgan
+      id: 101943
   - name: Action Modifier
     count: 12
     cards:
     - count: 4
       name: Bonding
+      id: 100236
     - count: 5
       name: Call of the Hungry Dead
+      id: 100279
     - count: 1
       name: Leverage
+      id: 101098
     - count: 1
       name: Seduction
+      id: 101712
     - count: 1
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
+      id: 101805
   - name: Action Modifier/Combat
     count: 1
     cards:
     - count: 1
       name: Breath of Thanatos
+      id: 100249
   - name: Action Modifier/Reaction
     count: 8
     cards:
     - count: 1
       name: Murmur of the False Will
+      id: 101256
     - count: 2
       name: Promise of 1528
+      id: 101494
     - count: 5
       name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 19
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 1
       name: Eluding the Arms of Morpheus
+      id: 100628
     - count: 2
       name: Obedience
+      id: 101309
     - count: 7
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Redirection
+      id: 101578
   - name: Combat
     count: 11
     cards:
     - count: 2
       name: Blight
+      id: 100187
     - count: 2
       name: Roundhouse
+      id: 102215
     - count: 1
       name: Spiritual Guidance
+      id: 101851
     - count: 6
       name: Spiritual Intervention
+      id: 101852

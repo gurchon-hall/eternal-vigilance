@@ -7,8 +7,8 @@ winner: Mark Virsinger
 vekn_number: 3540231
 event_url: https://www.vekn.net/event-calendar/event/11192
 event_id: 11192
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81206-twd-white-turtle
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11192
 deck:
   description: ''
   crypt_count: 12
@@ -85,7 +85,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 6
       name: Villein

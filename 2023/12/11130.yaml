@@ -18,7 +18,8 @@ deck:
   crypt_avg: 10.0
   crypt:
   - count: 12
-    name: The unnamed
+    name: unnamed, The
+    id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
@@ -30,54 +31,73 @@ deck:
     cards:
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 6
       name: Dementation
+      id: 100521
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 3
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 3
       name: Redeem the Lost Soul
+      id: 101577
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 21
     cards:
     - count: 6
       name: Call the Great Beast
+      id: 100280
     - count: 6
       name: Flurry of Action
+      id: 100752
     - count: 5
       name: Kindred Spirits
+      id: 101055
     - count: 4
       name: Unleash Hell's Fury
+      id: 102076
   - name: Ally
     count: 7
     cards:
     - count: 6
       name: Infernal Servitor
+      id: 100981
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Equipment
     count: 6
     cards:
     - count: 6
       name: Soul Gem of Etrius
+      id: 101832
   - name: Action Modifier
     count: 15
     cards:
     - count: 4
       name: Cloak the Gathering
+      id: 100362
     - count: 11
       name: Instantaneous Transformation
+      id: 100994
   - name: Combat
     count: 13
     cards:
     - count: 4
       name: Earth Meld
+      id: 100601
     - count: 5
       name: Form of Mist
+      id: 100771
     - count: 4
       name: Pursuit
+      id: 101523

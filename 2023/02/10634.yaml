@@ -7,11 +7,9 @@ winner: Niko Vanhatalo
 vekn_number: 1003636
 event_url: https://www.vekn.net/event-calendar/event/10634
 event_id: 10634
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80463-twd-fee-stake-kerava-3-kerava-finland-25-feb-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10634
 deck:
   name: All I want is snuggles, but I keep getting struggles
-  created_by: Niko Vanhatalo
   description: ''
   crypt_count: 12
   crypt_min: 18
@@ -20,12 +18,14 @@ deck:
   crypt:
   - count: 2
     name: Theo Bell
+    id: 201613
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -33,6 +33,7 @@ deck:
     grouping: 6
   - count: 2
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -40,6 +41,7 @@ deck:
     grouping: 6
   - count: 2
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -47,6 +49,7 @@ deck:
     grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -54,18 +57,21 @@ deck:
     grouping: 6
   - count: 1
     name: Brandon Grime
+    id: 201581
     capacity: 5
     disciplines: pot pre tha CEL
     clan: Brujah
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
     grouping: 6
   - count: 1
     name: Ariane
+    id: 200132
     capacity: 3
     disciplines: cel pot pre
     clan: Brujah
@@ -77,72 +83,100 @@ deck:
     cards:
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: New Carthage
+      id: 101277
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Warzone Hunting Ground
+      id: 102150
   - name: Action
     count: 21
     cards:
     - count: 1
       name: 'Fee Stake: New York'
+      id: 100715
     - count: 9
       name: Illegalism
+      id: 100952
     - count: 10
       name: Line Brawl
+      id: 102229
     - count: 1
       name: Open War
+      id: 101324
   - name: Equipment
     count: 2
     cards:
     - count: 2
-      name: An Anarch Manifesto
+      name: Anarch Manifesto, An
+      id: 100053
   - name: Action Modifier
     count: 8
     cards:
     - count: 6
       name: Power of One
+      id: 101429
     - count: 2
       name: Zephyr
+      id: 102205
   - name: Reaction
     count: 5
     cards:
     - count: 5
       name: Bait and Switch
+      id: 102218
   - name: Combat
     count: 36
     cards:
     - count: 2
       name: Bollix
+      id: 100232
     - count: 2
       name: Disarm
+      id: 100549
     - count: 3
       name: Diversion
+      id: 100563
     - count: 10
       name: Dust Up
+      id: 100597
     - count: 4
       name: Immortal Grapple
+      id: 100959
     - count: 2
       name: Pulled Fangs
+      id: 101515
     - count: 5
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 4
       name: Thrown Gate
+      id: 101982

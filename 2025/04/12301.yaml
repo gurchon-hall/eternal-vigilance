@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 2
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Massimiliano
+    id: 201602
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -47,6 +51,7 @@ deck:
     grouping: 6
   - count: 1
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -54,18 +59,21 @@ deck:
     grouping: 6
   - count: 1
     name: Doc Martina
+    id: 201670
     capacity: 6
     disciplines: for pre ANI OBF
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Susie Kano
+    id: 201688
     capacity: 3
     disciplines: ani dom
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Trung Chau Pham
+    id: 201689
     capacity: 3
     disciplines: ANI
     clan: Ravnos
@@ -77,56 +85,76 @@ deck:
     cards:
     - count: 8
       name: Anarch Revolt
+      id: 100055
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Tension in the Ranks
+      id: 101958
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 12
     cards:
     - count: 12
       name: Deep Song
+      id: 100515
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Ivory Bow
+      id: 101014
   - name: Retainer
     count: 3
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
     - count: 2
       name: Raven Spy
+      id: 101550
   - name: Reaction
     count: 14
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 8
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 36
     cards:
     - count: 12
       name: Aid from Bats
+      id: 100029
     - count: 10
       name: Carrion Crows
+      id: 100301
     - count: 6
       name: Drawing Out the Beast
+      id: 100585
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 4
       name: Terror Frenzy
+      id: 101960

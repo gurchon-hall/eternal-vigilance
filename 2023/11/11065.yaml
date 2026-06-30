@@ -19,54 +19,63 @@ deck:
   crypt:
   - count: 2
     name: Hafsa, The Watcher
+    id: 200559
     capacity: 6
     disciplines: aus cel OBF QUI
     clan: Banu Haqim
     grouping: 5
   - count: 2
     name: Reza Fatir, The Dark Angel
+    id: 201185
     capacity: 6
     disciplines: obf pro CEL QUI
     clan: Banu Haqim
     grouping: 4
   - count: 2
     name: Vardar Vardarian
+    id: 201426
     capacity: 6
     disciplines: cel pre OBF QUI
     clan: Banu Haqim
     grouping: 4
   - count: 2
     name: Kamau Jafari
+    id: 200748
     capacity: 4
     disciplines: obf QUI
     clan: Banu Haqim
     grouping: 4
   - count: 1
     name: Layla bint-Nadr
+    id: 200818
     capacity: 5
     disciplines: qui CEL OBF
     clan: Banu Haqim
     grouping: 4
   - count: 1
     name: Sajid al Misbah
+    id: 201223
     capacity: 4
     disciplines: QUI
     clan: Banu Haqim
     grouping: 5
   - count: 1
     name: Evan Rogers
+    id: 200445
     capacity: 3
     disciplines: cel qui
     clan: Banu Haqim
     grouping: 4
   - count: 1
     name: Sukainah
+    id: 201323
     capacity: 3
     disciplines: aus qui
     clan: Banu Haqim
     grouping: 5
   - count: 1
     name: Alu
+    id: 200062
     capacity: 2
     disciplines: obf
     clan: Banu Haqim
@@ -78,44 +87,61 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 4
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: Heartblood of the Clan
+      id: 100906
     - count: 3
       name: Obfuscate
+      id: 101310
     - count: 4
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 3
       name: Tribute to the Master
+      id: 102023
   - name: Action
     count: 17
     cards:
     - count: 5
       name: "Haqim's Law: Leadership"
+      id: 100885
     - count: 2
       name: 'Khabar: Glory'
+      id: 101043
     - count: 7
       name: Loss
+      id: 101124
     - count: 3
       name: Web of Knives Recruit
+      id: 102165
   - name: Action Modifier
     count: 15
     cards:
     - count: 3
       name: Cloak the Gathering
+      id: 100362
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 3
       name: Lost in Crowds
+      id: 101125
     - count: 3
       name: Marked Path
+      id: 101169
     - count: 3
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 18
     cards:
     - count: 18
       name: Swallowed by the Night
+      id: 101913

@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
     capacity: 10
     disciplines: aus for DOM OBT POT PRE
     title: Cardinal
@@ -26,6 +27,7 @@ deck:
     grouping: 2
   - count: 2
     name: Alvaro, The Scion of Angelica
+    id: 200063
     capacity: 9
     disciplines: dom pre OBT POT
     title: Archbishop
@@ -33,6 +35,7 @@ deck:
     grouping: 2
   - count: 2
     name: Antonio Delgado
+    id: 200117
     capacity: 9
     disciplines: tha DOM OBT POT
     title: Archbishop
@@ -40,6 +43,7 @@ deck:
     grouping: 2
   - count: 2
     name: Francisco Domingo de Polonia
+    id: 200476
     capacity: 9
     disciplines: pro DOM OBT POT PRE
     title: Archbishop
@@ -47,6 +51,7 @@ deck:
     grouping: 2
   - count: 2
     name: Gratiano
+    id: 200534
     capacity: 8
     disciplines: obf pot DOM OBT
     title: Priscus
@@ -54,6 +59,7 @@ deck:
     grouping: 2
   - count: 1
     name: Dr. Julius Sutphen
+    id: 200378
     capacity: 5
     disciplines: dom obt POT
     title: Bishop
@@ -66,88 +72,124 @@ deck:
     cards:
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 1
       name: Fear of Mekhet
+      id: 100710
     - count: 1
       name: Guru
+      id: 100872
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
-      name: The Path of Night
+      name: Path of Night, The
+      id: 101365
     - count: 1
       name: Political Hunting Ground
+      id: 101415
     - count: 1
       name: Power Structure
+      id: 101430
     - count: 1
       name: 'Powerbase: Madrid'
+      id: 101437
     - count: 1
       name: Regent
+      id: 101587
     - count: 4
       name: Villein
+      id: 102121
     - count: 2
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 8
     cards:
     - count: 8
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 13
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Banishment
+      id: 100131
     - count: 8
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
   - name: Action Modifier
     count: 35
     cards:
     - count: 4
       name: Bewitching Oration
+      id: 100157
     - count: 2
       name: Blanket of Night
+      id: 100177
     - count: 2
       name: Bribes
+      id: 100251
     - count: 4
       name: Conditioning
+      id: 100401
     - count: 1
       name: Private Audience
+      id: 101490
     - count: 4
       name: Seduction
+      id: 101712
     - count: 4
       name: Shadow Play
+      id: 101743
     - count: 4
       name: Shroud of Absence
+      id: 101774
     - count: 4
       name: Shroud of Night
+      id: 101775
     - count: 2
       name: Tenebrous Form
+      id: 101957
     - count: 4
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 10
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: Obedience
+      id: 101309
     - count: 2
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 7
     cards:
     - count: 1
       name: Entombment
+      id: 100651
     - count: 3
       name: Oubliette
+      id: 101334
     - count: 3
       name: Shadow Body
+      id: 101735

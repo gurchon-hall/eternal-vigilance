@@ -18,12 +18,14 @@ deck:
   crypt:
   - count: 4
     name: Theo Bell
+    id: 201613
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -31,6 +33,7 @@ deck:
     grouping: 6
   - count: 1
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -38,6 +41,7 @@ deck:
     grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -45,6 +49,7 @@ deck:
     grouping: 6
   - count: 1
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -52,18 +57,21 @@ deck:
     grouping: 6
   - count: 1
     name: Octane
+    id: 201609
     capacity: 6
     disciplines: CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
     grouping: 6
   - count: 1
     name: Ariane
+    id: 200132
     capacity: 3
     disciplines: cel pot pre
     clan: Brujah
@@ -75,66 +83,91 @@ deck:
     cards:
     - count: 6
       name: Anarch Revolt
+      id: 100055
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 7
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 9
     cards:
     - count: 2
       name: Line Brawl
+      id: 102229
     - count: 7
       name: Show of Force
+      id: 101772
   - name: Action Modifier
     count: 6
     cards:
     - count: 2
       name: Iron Glare
+      id: 101008
     - count: 2
       name: Power of One
+      id: 101429
     - count: 2
       name: Zephyr
+      id: 102205
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Resist Earth's Grasp
+      id: 101610
   - name: Reaction
     count: 13
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 7
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 39
     cards:
     - count: 2
       name: Bollix
+      id: 100232
     - count: 5
       name: Dust Up
+      id: 100597
     - count: 6
       name: Hell-for-Leather
+      id: 100910
     - count: 7
       name: Immortal Grapple
+      id: 100959
     - count: 4
       name: Pursuit
+      id: 101523
     - count: 3
       name: Quickness
+      id: 101532
     - count: 2
       name: Roundhouse
+      id: 102215
     - count: 5
       name: Taste of Vitae
+      id: 101945
     - count: 5
       name: Torn Signpost
+      id: 101993

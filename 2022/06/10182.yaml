@@ -22,18 +22,21 @@ deck:
   crypt:
   - count: 4
     name: Cybele
+    id: 200305
     capacity: 10
     disciplines: ANI DAI OBF PRE SER THA
     clan: Baali
     grouping: 4
   - count: 4
     name: Aksinya Daclau
+    id: 200034
     capacity: 9
     disciplines: cel tha ANI FOR PRE PRO
     clan: Gangrel antitribu
     grouping: 4
   - count: 1
     name: Adana de Sforza
+    id: 200011
     capacity: 11
     disciplines: aus CEL OBF POT PRE PRO
     title: Inner Circle
@@ -41,6 +44,7 @@ deck:
     grouping: 4
   - count: 1
     name: Lutz von Hohenzollern
+    id: 200890
     capacity: 11
     disciplines: pot AUS DEM OBF PRE
     title: Inner Circle
@@ -48,6 +52,7 @@ deck:
     grouping: 4
   - count: 1
     name: Mistress Fanchon
+    id: 200999
     capacity: 11
     disciplines: AUS CEL DOM OBF THA VIC
     title: Inner Circle
@@ -55,6 +60,7 @@ deck:
     grouping: 4
   - count: 1
     name: Rafael de Corazon
+    id: 201151
     capacity: 11
     disciplines: AUS CEL DOM OBF PRE
     title: Inner Circle
@@ -67,81 +73,112 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 15
       name: Ashur Tablets
+      id: 100106
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 7
       name: Liquidation
+      id: 101112
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 6
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
     - count: 7
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 4
     cards:
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 2
       name: Unleash Hell's Fury
+      id: 102076
   - name: Action Modifier
     count: 15
     cards:
     - count: 3
       name: Aire of Elation
+      id: 100031
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 3
       name: Into Thin Air
+      id: 101001
     - count: 1
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Spying Mission
+      id: 101857
     - count: 1
       name: Veil the Legions
+      id: 102097
   - name: Action Modifier/Combat
     count: 1
     cards:
     - count: 1
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 4
     cards:
     - count: 1
       name: Guard Dogs
+      id: 100863
     - count: 2
       name: Lost in Translation
+      id: 101126
     - count: 1
       name: Rat's Warning
+      id: 101547
   - name: Combat
     count: 3
     cards:
     - count: 3
       name: Majesty
+      id: 101144
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

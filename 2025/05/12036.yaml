@@ -1,5 +1,5 @@
 name: Event - British Museum Bleeds
-location: London, UK
+location: London, United Kingdom
 date_start: 2025-05-18
 rounds_format: 2R+F
 players_count: 13
@@ -7,9 +7,8 @@ winner: Ruben Feldman
 vekn_number: 8840001
 event_url: https://www.vekn.net/event-calendar/event/12036
 event_id: 12036
-vp_comment: 2GW 9VP before the final - GW 2.5VP in the final.
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82313-twd-british-museum-bleeds-uk
+vp_comment: 2GW9 + 2.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12036
 deck:
   name: Vignes does British Museum Bleeds
   description: My trusty Vignes, customized to match the tournament's name.
@@ -20,42 +19,21 @@ deck:
   crypt:
   - count: 3
     name: Edward Vignes
+    id: 200403
     capacity: 6
     disciplines: for DOM PRE
     clan: Ventrue
     grouping: 3
   - count: 2
     name: Ranjan Rishi, Camarilla Scholar
+    id: 201162
     capacity: 5
     disciplines: for DOM PRE
     clan: Ventrue
     grouping: 2
   - count: 1
-    name: Boss Callihan (ADV)
-    capacity: 5
-    disciplines: dom for pro PRE
-    clan: Ventrue
-    grouping: 3
-  - count: 1
-    name: Catherine du Bois
-    capacity: 5
-    disciplines: for obf pre DOM
-    clan: Ventrue
-    grouping: 3
-  - count: 1
-    name: Diana Vick
-    capacity: 3
-    disciplines: dom pre
-    clan: Ventrue
-    grouping: 3
-  - count: 1
-    name: Elena Gutierrez
-    capacity: 4
-    disciplines: aus dom pre
-    clan: Ventrue
-    grouping: 3
-  - count: 1
     name: Gracis Nostinus
+    id: 200532
     capacity: 7
     disciplines: aus for DOM PRE
     title: Primogen
@@ -63,16 +41,46 @@ deck:
     grouping: 3
   - count: 1
     name: Horatio Ballard
+    id: 200604
     capacity: 7
     disciplines: aus DOM FOR PRE
     clan: Ventrue
     grouping: 3
   - count: 1
+    name: Boss Callihan (ADV)
+    id: 200213
+    capacity: 5
+    disciplines: dom for pro PRE
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Catherine du Bois
+    id: 200256
+    capacity: 5
+    disciplines: for obf pre DOM
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Elena Gutierrez
+    id: 200407
+    capacity: 4
+    disciplines: aus dom pre
+    clan: Ventrue
+    grouping: 3
+  - count: 1
     name: Ingrid Russo
+    id: 200635
     capacity: 4
     disciplines: for DOM
     clan: Ventrue antitribu
     grouping: 2
+  - count: 1
+    name: Diana Vick
+    id: 200342
+    capacity: 3
+    disciplines: dom pre
+    clan: Ventrue
+    grouping: 3
   library_count: 86
   library_sections:
   - name: Master
@@ -80,99 +88,136 @@ deck:
     cards:
     - count: 2
       name: Anarch Troublemaker
+      id: 100058
     - count: 4
-      name: The British Museum, London
+      name: British Museum, London, The
+      id: 102236
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Grooming the Protégé
+      id: 100860
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 2
       name: Misdirection
+      id: 101225
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Uptown Hunting Ground
+      id: 102084
     - count: 4
       name: Vessel
+      id: 102113
   - name: Action
     count: 16
     cards:
     - count: 4
       name: Entrancement
+      id: 100652
     - count: 8
       name: Govern the Unaligned
+      id: 100845
     - count: 4
       name: Mind Numb
+      id: 101211
   - name: Equipment
     count: 5
     cards:
     - count: 1
       name: Codex of the Edenic Groundskeepers
+      id: 100374
     - count: 1
       name: Flaming Candle
+      id: 100743
     - count: 1
       name: Gran Madre di Dio, Italy
+      id: 100847
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Palatial Estate
+      id: 101345
   - name: Action Modifier
     count: 22
     cards:
     - count: 2
       name: Bonding
+      id: 100236
     - count: 2
       name: Change of Target
+      id: 100323
     - count: 4
       name: Conditioning
+      id: 100401
     - count: 3
       name: Daring the Dawn
+      id: 100492
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 6
       name: Seduction
+      id: 101712
     - count: 3
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
+      id: 101805
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Force of Personality
+      id: 100758
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 12
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 3
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Redirection
+      id: 101578
   - name: Combat
     count: 7
     cards:
     - count: 1
       name: Autonomic Mastery
+      id: 100117
     - count: 5
       name: Majesty
+      id: 101144
     - count: 1
       name: Staredown
+      id: 101859
   - name: Event
     count: 4
     cards:
     - count: 1
-      name: The Bitter and Sweet Story
+      name: Bitter and Sweet Story, The
+      id: 100163
     - count: 1
       name: Nightmares upon Nightmares
+      id: 101285
     - count: 1
       name: Scourge of the Enochians
+      id: 101697
     - count: 1
       name: Waiting Game
+      id: 102136

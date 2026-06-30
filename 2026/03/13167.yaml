@@ -19,36 +19,42 @@ deck:
   crypt:
   - count: 3
     name: Abaddon
+    id: 201663
     capacity: 8
     disciplines: cel pot AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 3
     name: Barachiel
+    id: 201781
     capacity: 7
     disciplines: ani AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 2
     name: Djeneba
+    id: 201782
     capacity: 9
     disciplines: obf ANI AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 2
     name: Malachi
+    id: 201676
     capacity: 6
     disciplines: AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Sakhar
+    id: 201685
     capacity: 6
     disciplines: dom AUS FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Yael
+    id: 201691
     capacity: 4
     disciplines: aus dom for
     clan: Salubri
@@ -60,91 +66,127 @@ deck:
     cards:
     - count: 1
       name: Depravity
+      id: 100526
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Guardian Angel
+      id: 100866
     - count: 1
       name: Meditative Grove
+      id: 102252
     - count: 2
       name: Monster
+      id: 101242
     - count: 1
       name: Saulot's Avenging Fist
+      id: 102257
     - count: 1
       name: Sight Beyond Sight
+      id: 101780
     - count: 1
       name: Tension in the Ranks
+      id: 101958
     - count: 2
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
   - name: Action
     count: 13
     cards:
     - count: 4
       name: Feast of the Soul's Secrets
+      id: 102248
     - count: 2
       name: Graverobbing
+      id: 100852
     - count: 7
       name: Hunting the Beast
+      id: 102356
   - name: Action/Combat
     count: 3
     cards:
     - count: 3
       name: Touch of Valeren
+      id: 102262
   - name: Equipment
     count: 9
     cards:
     - count: 1
-      name: The Book of Going Forth by Night
+      name: Book of Going Forth by Night, The
+      id: 100239
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
-      name: The Crimson Sentinel
+      name: Crimson Sentinel, The
+      id: 100448
     - count: 4
       name: Righteous Blade
+      id: 102359
     - count: 1
       name: Sengir Dagger
+      id: 101715
     - count: 1
       name: Sword of the Archangel
+      id: 102261
   - name: Action Modifier
     count: 5
     cards:
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 2
       name: Freak Drive
+      id: 100788
   - name: Reaction
     count: 14
     cards:
     - count: 3
       name: Deflection
+      id: 100518
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: Spirit's Touch
+      id: 101850
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 31
     cards:
     - count: 7
       name: Angel's Gift
+      id: 102349
     - count: 10
       name: Anticipation
+      id: 102350
     - count: 2
       name: Rolling with the Punches
+      id: 101649
     - count: 1
       name: Superior Mettle
+      id: 101905
     - count: 3
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 2
       name: Tranquility Shield
+      id: 102362
     - count: 2
       name: Unflinching Persistence
+      id: 102071

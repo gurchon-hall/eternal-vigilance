@@ -1,5 +1,5 @@
-name: South African Nationals at Dragonfire Cyberdrive '25
-location: Cape Town, South Africa
+name: South African NC
+location: Dragonfire Cyberdrive '25, Cape Town, South Africa
 date_start: 2025-08-16
 rounds_format: 3R+F
 players_count: 13
@@ -7,12 +7,10 @@ winner: James Snowball
 vekn_number: 5000008
 event_url: https://www.vekn.net/event-calendar/event/12390
 event_id: 12390
-vp_comment: 2GW+6VP + 4VP
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82534-twda-south-african-nationals-at-dragonfire-cyberdrive-25
+vp_comment: 2GW6 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12390
 deck:
   name: Brujah anarchs
-  created_by: James Snowball
   description: Precon 5th modified
   crypt_count: 12
   crypt_min: 15
@@ -21,33 +19,38 @@ deck:
   crypt:
   - count: 3
     name: Theo Bell
+    id: 201613
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
     clan: Brujah
     grouping: 6
-  - count: 1
-    name: Valeriya Zinovieva
-    capacity: 7
-    disciplines: cel pre pro POT
-    title: Baron
-    clan: Brujah
-    grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
     clan: Brujah
     grouping: 6
   - count: 1
+    name: Valeriya Zinovieva
+    id: 201614
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -55,18 +58,21 @@ deck:
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
     grouping: 6
   - count: 1
     name: Ariane
+    id: 200132
     capacity: 3
     disciplines: cel pot pre
     clan: Brujah
     grouping: 5
   - count: 1
     name: Rayne
+    id: 201610
     capacity: 2
     disciplines: pot
     clan: Brujah
@@ -77,78 +83,107 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 2
       name: Carfax Abbey
+      id: 100297
     - count: 2
       name: Fame
+      id: 100698
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 2
       name: New Carthage
+      id: 101277
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Warzone Hunting Ground
+      id: 102150
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 16
     cards:
     - count: 2
       name: Heroic Might
+      id: 100913
     - count: 3
       name: Illegalism
+      id: 100952
     - count: 6
       name: Line Brawl
+      id: 102229
     - count: 3
       name: Make the Misere
+      id: 101147
     - count: 2
       name: Show of Force
-  - name: Political Action
-    count: 2
-    cards:
-    - count: 2
-      name: Eat the Rich
+      id: 101772
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: 47th Street Royals
+      id: 102217
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Eat the Rich
+      id: 100605
   - name: Action Modifier
     count: 3
     cards:
     - count: 3
       name: Monkey Wrench
+      id: 101239
   - name: Reaction
     count: 16
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 8
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 35
     cards:
     - count: 7
       name: Dust Up
+      id: 100597
     - count: 2
       name: Flash
+      id: 100744
     - count: 6
       name: Immortal Grapple
+      id: 100959
     - count: 2
       name: Pursuit
+      id: 101523
     - count: 5
       name: Quickness
+      id: 101532
     - count: 4
       name: Roundhouse
+      id: 102215
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 5
       name: Torn Signpost
+      id: 101993

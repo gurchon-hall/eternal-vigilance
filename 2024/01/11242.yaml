@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 2
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -25,6 +26,7 @@ deck:
     grouping: 6
   - count: 2
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Mkhokheli
+    id: 201561
     capacity: 6
     disciplines: aus cel for PRE
     title: Prince
@@ -39,12 +42,14 @@ deck:
     grouping: 6
   - count: 1
     name: Gwendolyn Fleming
+    id: 200555
     capacity: 6
     disciplines: cel pro AUS PRE
     clan: Toreador
     grouping: 5
   - count: 1
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
@@ -52,24 +57,28 @@ deck:
     grouping: 6
   - count: 1
     name: Anne-Marie Bourgeois, Inconnu Recruiter
+    id: 200105
     capacity: 5
     disciplines: cel pre AUS
     clan: Toreador
     grouping: 5
   - count: 1
     name: Regina Blake
+    id: 201648
     capacity: 5
     disciplines: AUS PRE
     clan: Toreador
     grouping: 6
   - count: 1
     name: Tyler McGill
+    id: 201398
     capacity: 4
     disciplines: pre AUS
     clan: Toreador
     grouping: 5
   - count: 1
     name: Mateo García
+    id: 201631
     capacity: 2
     disciplines: pre
     clan: Toreador
@@ -81,61 +90,85 @@ deck:
     cards:
     - count: 2
       name: Anarch Troublemaker
+      id: 100058
     - count: 3
       name: Grooming the Protégé
+      id: 100860
     - count: 1
       name: Papillon
+      id: 101350
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: Presence
+      id: 101480
     - count: 1
       name: Society Hunting Ground
+      id: 101821
     - count: 4
       name: Toreador Grand Ball
+      id: 101989
     - count: 3
       name: Villein
+      id: 102121
     - count: 2
       name: Wash
+      id: 102151
   - name: Action
     count: 22
     cards:
     - count: 8
       name: Enchant Kindred
+      id: 100640
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 2
       name: 'Fifth Tradition: Hospitality'
+      id: 100727
     - count: 1
       name: Intimidation
+      id: 100999
     - count: 5
       name: Mind Numb
+      id: 101211
     - count: 4
       name: 'Third Tradition: Progeny'
+      id: 101973
   - name: Action Modifier
     count: 13
     cards:
     - count: 6
       name: Aire of Elation
+      id: 100031
     - count: 5
       name: Forced March
+      id: 100761
     - count: 2
       name: Freak Drive
+      id: 100788
   - name: Reaction
     count: 18
     cards:
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 9
     cards:
     - count: 9
       name: Majesty
+      id: 101144

@@ -1,5 +1,5 @@
 name: Punhos Escarlate
-location: Itaquaquecetuba, Brasil
+location: Itaquaquecetuba, Brazil
 date_start: 2024-05-19
 rounds_format: 2R+F
 players_count: 17
@@ -7,12 +7,10 @@ winner: Diego Luiz Mazar
 vekn_number: 6950001
 event_url: https://www.vekn.net/event-calendar/event/11447
 event_id: 11447
-vp_comment: 1 GW 5VP with 3VP in the Final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81579-twd-punhos-escarlate-itaquaquecetuba-brasil-may-19-2024
+vp_comment: 1GW5 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11447
 deck:
   name: Petrodon Hunter of Anarch
-  created_by: Diego Luiz Mazar
   description: ''
   crypt_count: 12
   crypt_min: 20
@@ -21,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Alonso Petrodon
+    id: 200060
     capacity: 10
     disciplines: for tha ANI DOM OBF POT
     title: Justicar
@@ -28,28 +27,32 @@ deck:
     grouping: 5
   - count: 2
     name: Alexander Silverson
+    id: 201530
     capacity: 8
     disciplines: pre AUS DOM OBF
     title: Prince
     clan: Malkavian
     grouping: 6
   - count: 2
-    name: Ashley
-    capacity: 3
-    disciplines: dom obf
-    clan: Malkavian
-    grouping: 6
-  - count: 2
     name: Cedrick Calhoun
+    id: 201626
     capacity: 7
     disciplines: pot ANI DOM OBF
     clan: Nosferatu
     grouping: 6
   - count: 2
     name: Nathaniel Bordruff
+    id: 201632
     capacity: 7
     disciplines: ani DOM OBF POT
     clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Ashley
+    id: 201533
+    capacity: 3
+    disciplines: dom obf
+    clan: Malkavian
     grouping: 6
   library_count: 90
   library_sections:
@@ -58,78 +61,106 @@ deck:
     cards:
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 3
       name: Information Highway
+      id: 100984
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
+      id: 101070
     - count: 2
-      name: The Line
+      name: Line, The
+      id: 101110
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Slum Hunting Ground
+      id: 101808
     - count: 2
       name: Villein
+      id: 102121
     - count: 2
       name: Warsaw Station
+      id: 102149
   - name: Action
     count: 11
     cards:
     - count: 8
       name: Govern the Unaligned
+      id: 100845
     - count: 3
       name: 'Judgment: Camarilla Segregation'
+      id: 101028
   - name: Political Action
     count: 2
     cards:
     - count: 2
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 30
     cards:
     - count: 7
       name: Conditioning
+      id: 100401
     - count: 4
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Enkil Cog
+      id: 100645
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 3
       name: Freak Drive
+      id: 100788
     - count: 5
       name: Lost in Crowds
+      id: 101125
     - count: 3
       name: Seduction
+      id: 101712
     - count: 2
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 22
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 5
       name: Obedience
+      id: 101309
     - count: 5
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 3
     cards:
     - count: 3
       name: No Trace
+      id: 101292

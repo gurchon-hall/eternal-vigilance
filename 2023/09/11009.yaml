@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 2
     name: Dmitri Borodin
+    id: 200350
     capacity: 10
     disciplines: obf AUS CEL NEC QUI
     clan: Banu Haqim
     grouping: 4
   - count: 2
     name: Kabede Maru
+    id: 200741
     capacity: 9
     disciplines: abo pot AUS CEL OBF QUI
     title: Magaji
@@ -32,6 +34,7 @@ deck:
     grouping: 5
   - count: 2
     name: Olugbenga
+    id: 201078
     capacity: 7
     disciplines: ani cel OBF QUI
     title: Magaji
@@ -39,18 +42,21 @@ deck:
     grouping: 4
   - count: 2
     name: Hafsa, The Watcher
+    id: 200559
     capacity: 6
     disciplines: aus cel OBF QUI
     clan: Banu Haqim
     grouping: 5
   - count: 2
     name: Kamau Jafari
+    id: 200748
     capacity: 4
     disciplines: obf QUI
     clan: Banu Haqim
     grouping: 4
   - count: 2
     name: Sajid al Misbah
+    id: 201223
     capacity: 4
     disciplines: QUI
     clan: Banu Haqim
@@ -62,73 +68,100 @@ deck:
     cards:
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 3
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 2
-      name: The Path of Blood
+      name: Path of Blood, The
+      id: 101358
     - count: 4
       name: Villein
+      id: 102121
     - count: 2
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 16
     cards:
     - count: 2
       name: 'Khabar: Glory'
+      id: 101043
     - count: 2
       name: 'Khabar: Loyalty'
+      id: 101045
     - count: 12
       name: Loss
+      id: 101124
   - name: Action Modifier
     count: 10
     cards:
     - count: 2
       name: Cloak the Gathering
+      id: 100362
     - count: 2
       name: Deed the Heart's Desire
+      id: 100513
     - count: 2
       name: Elder Impersonation
+      id: 100617
     - count: 2
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Veil the Legions
+      id: 102097
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Blood Awakening
+      id: 100193
   - name: Reaction
     count: 14
     cards:
     - count: 5
       name: Black Sunrise
+      id: 100171
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 19
     cards:
     - count: 4
       name: Blood Sweat
+      id: 100211
     - count: 6
       name: Selective Silence
+      id: 101714
     - count: 3
       name: Side Strike
+      id: 101778
     - count: 4
       name: Taste of Death
+      id: 101944
     - count: 2
       name: Taste of Vitae
+      id: 101945

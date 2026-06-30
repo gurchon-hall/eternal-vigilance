@@ -7,8 +7,8 @@ winner: Jani Malmi
 vekn_number: 9350012
 event_url: https://www.vekn.net/event-calendar/event/12596
 event_id: 12596
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82653-twd-praxis-seizure-haemeenlinna-into-the-fire-01-11-25-finland
+vp_comment: 'Finalists in seating order:'
+forum_post_url: https://www.vekn.net/event-calendar/event/12596
 deck:
   name: Potato's New Groove
   description: Stealth&Vote deck with Path of Power and the Inner Voice
@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
     capacity: 10
     disciplines: aus for DOM OBT POT PRE
     title: Cardinal
@@ -26,6 +27,7 @@ deck:
     grouping: 2
   - count: 3
     name: Gratiano
+    id: 200534
     capacity: 8
     disciplines: obf pot DOM OBT
     title: Priscus
@@ -33,6 +35,7 @@ deck:
     grouping: 2
   - count: 2
     name: Alvaro, The Scion of Angelica
+    id: 200063
     capacity: 9
     disciplines: dom pre OBT POT
     title: Archbishop
@@ -40,6 +43,7 @@ deck:
     grouping: 2
   - count: 2
     name: Antonio Delgado
+    id: 200117
     capacity: 9
     disciplines: tha DOM OBT POT
     title: Archbishop
@@ -47,6 +51,7 @@ deck:
     grouping: 2
   - count: 1
     name: Francisco Domingo de Polonia
+    id: 200476
     capacity: 9
     disciplines: pro DOM OBT POT PRE
     title: Archbishop
@@ -59,61 +64,85 @@ deck:
     cards:
     - count: 2
       name: Black Forest Base
+      id: 100165
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 2
       name: Privileged Position
+      id: 102334
     - count: 7
       name: Unholy Sacrament
+      id: 102345
     - count: 7
       name: Villein
+      id: 102121
   - name: Political Action
     count: 22
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 8
       name: Cold War
+      id: 102312
     - count: 3
       name: Empires Fall
+      id: 102318
     - count: 3
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Reins of Power
+      id: 101591
     - count: 3
       name: War of Ages
+      id: 102348
   - name: Action Modifier
     count: 22
     cards:
     - count: 6
       name: Amici Noctis
+      id: 102274
     - count: 3
       name: Dominant Personality
+      id: 102316
     - count: 2
       name: Magnetic Authority
+      id: 102331
     - count: 2
       name: Private Audience
+      id: 101490
     - count: 7
       name: Shadow Play
+      id: 101743
     - count: 2
       name: Unthinkable Humiliation
+      id: 102346
   - name: Action Modifier/Reaction
     count: 7
     cards:
     - count: 3
       name: Absolute Tyranny
+      id: 102308
     - count: 4
       name: Ominous Chorus
+      id: 102278
   - name: Reaction
     count: 9
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 3
       name: Obedience
+      id: 101309

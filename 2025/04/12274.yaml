@@ -19,42 +19,49 @@ deck:
   crypt:
   - count: 20
     name: Tupdog
+    id: 201393
     capacity: 1
     disciplines: POT VIS
     clan: Gargoyle
     grouping: 3
   - count: 5
     name: Antonio d'Erlette
+    id: 200116
     capacity: 5
     disciplines: dom for pot THA
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Janine
+    id: 200674
     capacity: 4
     disciplines: aus dom tha
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Mosfair
+    id: 201013
     capacity: 4
     disciplines: cel dom tha
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Ember Wright
+    id: 200418
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Keith Moody
+    id: 200767
     capacity: 3
     disciplines: DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Saiz
+    id: 201222
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
@@ -66,54 +73,73 @@ deck:
     cards:
     - count: 12
       name: Ashur Tablets
+      id: 100106
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 7
       name: Liquidation
+      id: 101112
     - count: 7
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 2
       name: Wider View
+      id: 102180
   - name: Ally
     count: 8
     cards:
     - count: 8
       name: Nephandus
+      id: 101272
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Reaction
     count: 10
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 35
     cards:
     - count: 7
       name: Brick by Brick
+      id: 100252
     - count: 10
       name: Immortal Grapple
+      id: 100959
     - count: 10
       name: Raking Talons
+      id: 101538
     - count: 8
       name: Torn Signpost
+      id: 101993
   - name: Event
     count: 2
     cards:
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

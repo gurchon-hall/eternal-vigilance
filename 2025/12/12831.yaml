@@ -7,12 +7,10 @@ winner: Jorge Ramos
 vekn_number: 3260057
 event_url: https://www.vekn.net/event-calendar/event/12831
 event_id: 12831
-vp_comment: 1GW3.5VP + 3VP in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82847-twd-almada-s-bloody-xmas-again
+vp_comment: 1GW6.5 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12831
 deck:
   name: Contrato precário
-  created_by: Jorge Ramos
   description: ''
   crypt_count: 12
   crypt_min: 26
@@ -21,24 +19,28 @@ deck:
   crypt:
   - count: 5
     name: Karif al Numair
+    id: 200754
     capacity: 10
     disciplines: for AUS CEL OBF QUI
     clan: Banu Haqim
     grouping: 5
   - count: 3
     name: Joe "Boot" Hill
+    id: 200710
     capacity: 7
     disciplines: for obf CEL QUI
     clan: Banu Haqim
     grouping: 4
   - count: 2
     name: Djuhah, The Bronze Bow
+    id: 200348
     capacity: 7
     disciplines: aus cel pre OBF QUI
     clan: Banu Haqim
     grouping: 5
   - count: 2
     name: Reza Fatir, The Dark Angel
+    id: 201185
     capacity: 6
     disciplines: obf pro CEL QUI
     clan: Banu Haqim
@@ -50,67 +52,91 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Fame
+      id: 100698
     - count: 10
       name: Hand Contract
+      id: 100880
     - count: 3
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 2
       name: Monster
+      id: 101242
     - count: 3
       name: Priority Contract
+      id: 101487
     - count: 1
       name: Shakar
+      id: 101748
     - count: 1
       name: 'Shakar: the Hunt'
+      id: 101749
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 2
     cards:
     - count: 2
       name: Loss
+      id: 101124
   - name: Action Modifier
     count: 1
     cards:
     - count: 1
       name: Enkil Cog
+      id: 100645
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 3
       name: Provision of the Silsila
+      id: 101503
   - name: Reaction
     count: 4
     cards:
     - count: 4
       name: Black Sunrise
+      id: 100171
   - name: Combat
     count: 50
     cards:
     - count: 8
       name: Dam the Heart's River
+      id: 100489
     - count: 2
       name: Focus the Blood
+      id: 100753
     - count: 10
       name: Pursuit
+      id: 101523
     - count: 4
       name: Quickness
+      id: 101532
     - count: 8
       name: Sanguine Entrapment
+      id: 101679
     - count: 2
       name: Sideslip
+      id: 101779
     - count: 4
       name: Taste of Death
+      id: 101944
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 8
       name: Thin Blood
+      id: 101970
   - name: Event
     count: 2
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581
     - count: 1
       name: Narrow Minds
+      id: 101265

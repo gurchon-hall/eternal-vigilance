@@ -17,24 +17,28 @@ deck:
   crypt:
   - count: 3
     name: Gwenllian Arwyn
+    id: 201642
     capacity: 9
     disciplines: ani dom for CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 3
     name: Theo Bell
+    id: 201613
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 2
     name: Chun Hei
+    id: 201638
     capacity: 7
     disciplines: CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 2
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -42,12 +46,14 @@ deck:
     grouping: 6
   - count: 1
     name: Don Caravelli
+    id: 200360
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 5
   - count: 1
     name: Don Cerro
+    id: 200361
     capacity: 7
     disciplines: aus dom for pre pro CEL POT
     clan: Brujah
@@ -59,68 +65,94 @@ deck:
     cards:
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Rack, The
+      id: 101536
     - count: 3
       name: Vessel
+      id: 102113
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Warzone Hunting Ground
+      id: 102150
     - count: 1
       name: Wash
+      id: 102151
   - name: Action
     count: 24
     cards:
     - count: 2
       name: Ambush
+      id: 100046
     - count: 6
       name: Enchant Kindred
+      id: 100640
     - count: 4
       name: Esprit de Corps
+      id: 100663
     - count: 2
       name: Harass
+      id: 100886
     - count: 2
       name: Preternatural Strength
+      id: 101483
     - count: 8
       name: Show of Force
+      id: 101772
   - name: Action Modifier
     count: 2
     cards:
     - count: 2
       name: Zephyr
+      id: 102205
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Resist Earth's Grasp
+      id: 101610
   - name: Reaction
     count: 14
     cards:
     - count: 8
       name: Deflection
+      id: 100518
     - count: 6
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 32
     cards:
     - count: 5
       name: Blur
+      id: 100227
     - count: 2
       name: Disarm
+      id: 100549
     - count: 3
       name: Earthshock
+      id: 100604
     - count: 1
       name: Fast Hands
+      id: 100704
     - count: 8
       name: Immortal Grapple
+      id: 100959
     - count: 4
       name: Pursuit
+      id: 101523
     - count: 3
       name: Sideslip
+      id: 101779
     - count: 6
       name: Taste of Vitae
+      id: 101945

@@ -22,12 +22,14 @@ deck:
   crypt:
   - count: 8
     name: Valkyrie
+    id: 201423
     capacity: 4
     disciplines: for pre pro
     clan: Gangrel
     grouping: 3
   - count: 5
     name: Brunhilde (ADV)
+    id: 200224
     capacity: 8
     disciplines: pre ANI FOR PRO
     title: Baron
@@ -40,49 +42,67 @@ deck:
     cards:
     - count: 2
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 4
       name: Effective Management
+      id: 100616
     - count: 3
       name: Ennoia's Theater
+      id: 100646
     - count: 4
       name: Presence
+      id: 101480
     - count: 1
       name: Secure Haven
+      id: 101711
   - name: Action
     count: 26
     cards:
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 4
       name: Media Influence
+      id: 101193
     - count: 8
       name: Social Charm
+      id: 101819
     - count: 12
       name: Thing
+      id: 101972
   - name: Action Modifier
     count: 33
     cards:
     - count: 9
       name: Enchanting Gaze
+      id: 102221
     - count: 12
       name: Freak Drive
+      id: 100788
     - count: 2
       name: Monkey Wrench
+      id: 101239
     - count: 10
       name: Revelation of the Serpent
+      id: 102233
   - name: Reaction
     count: 10
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 6
       name: Eyes of the Wild
+      id: 102222
   - name: Combat
     count: 3
     cards:
     - count: 3
       name: Diversion
+      id: 100563

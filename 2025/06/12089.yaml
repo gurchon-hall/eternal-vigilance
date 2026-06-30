@@ -7,12 +7,10 @@ winner: Darby Keeney
 vekn_number: 1001132
 event_url: https://www.vekn.net/event-calendar/event/12089
 event_id: 12089
-vp_comment: 1 GW 4 VP in prelims, 1 GW 4 VP in finals
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82431-twd-origins-friday-2
+vp_comment: 1GW4 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12089
 deck:
   name: Alpha Beta
-  created_by: InferiorBabble (Darby Keeney)
   description: '[2024-06-11] V1.4 WON 24 Build.'
   crypt_count: 12
   crypt_min: 22
@@ -21,6 +19,7 @@ deck:
   crypt:
   - count: 2
     name: Saku Pihlajamäki
+    id: 201658
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
@@ -28,12 +27,14 @@ deck:
     grouping: 6
   - count: 2
     name: Theo Bell
+    id: 201613
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -41,6 +42,7 @@ deck:
     grouping: 6
   - count: 2
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -48,6 +50,7 @@ deck:
     grouping: 6
   - count: 2
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -55,6 +58,7 @@ deck:
     grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -62,6 +66,7 @@ deck:
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
@@ -73,68 +78,94 @@ deck:
     cards:
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: New Carthage
+      id: 101277
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 20
     cards:
     - count: 9
       name: Illegalism
+      id: 100952
     - count: 10
       name: Line Brawl
+      id: 102229
     - count: 1
       name: Open War
+      id: 101324
   - name: Equipment
     count: 1
     cards:
     - count: 1
-      name: An Anarch Manifesto
+      name: Anarch Manifesto, An
+      id: 100053
   - name: Action Modifier
     count: 6
     cards:
     - count: 6
       name: Power of One
+      id: 101429
   - name: Reaction
     count: 8
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 38
     cards:
     - count: 2
       name: Bollix
+      id: 100232
     - count: 2
       name: Disarm
+      id: 100549
     - count: 4
       name: Diversion
+      id: 100563
     - count: 9
       name: Dust Up
+      id: 100597
     - count: 6
       name: Immortal Grapple
+      id: 100959
     - count: 2
       name: Pulled Fangs
+      id: 101515
     - count: 5
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 4
       name: Thrown Gate
+      id: 101982

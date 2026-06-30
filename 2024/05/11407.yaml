@@ -7,10 +7,8 @@ winner: Jonas Ståhle
 vekn_number: 8090005
 event_url: https://www.vekn.net/event-calendar/event/11407
 event_id: 11407
-vp_comment: Congratulations Jonas, who won with 3 VPs in the final. Henrik got 
-  2.
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81447-twd-regeneration-stockholm-2024-stockholm-sweden-11-may-2024
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11407
 deck:
   name: Logan's Longing
   description: ''
@@ -21,54 +19,63 @@ deck:
   crypt:
   - count: 3
     name: Roderick Phillips March
+    id: 201195
     capacity: 7
     disciplines: cel obt tha DOM MYT
     clan: Kiasyd
     grouping: 4
   - count: 2
     name: Isanwayen
+    id: 200644
     capacity: 6
     disciplines: DOM MYT OBT
     clan: Kiasyd
     grouping: 4
   - count: 1
     name: Onaedo
+    id: 201082
     capacity: 6
     disciplines: aus pot DOM OBT
     clan: Lasombra
     grouping: 4
   - count: 1
     name: Banjoko
+    id: 200165
     capacity: 5
     disciplines: obt pot DOM
     clan: Lasombra
     grouping: 3
   - count: 1
     name: Dame Hollerton
+    id: 200311
     capacity: 5
     disciplines: myt DOM OBT
     clan: Kiasyd
     grouping: 4
   - count: 1
     name: Ermenegildo, The Rake
+    id: 200435
     capacity: 5
     disciplines: pot DOM OBT
     clan: Lasombra
     grouping: 4
   - count: 1
     name: Leila Monroe
+    id: 200829
     capacity: 4
     disciplines: dom obt pre
     clan: Lasombra
     grouping: 4
   - count: 1
     name: Quincy, The Trapper
+    id: 201144
     capacity: 4
     disciplines: dom myt obt
     clan: Kiasyd
     grouping: 3
   - count: 1
     name: Lucy Markowitz
+    id: 200878
     capacity: 3
     disciplines: dom obt
     clan: Lasombra
@@ -79,69 +86,95 @@ deck:
     count: 14
     cards:
     - count: 3
-      name: The British Museum, London
+      name: British Museum, London, The
+      id: 102236
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 2
       name: Great Symposium
+      id: 100853
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 11
     cards:
     - count: 11
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 5
     cards:
     - count: 5
       name: Nocturn
+      id: 101293
   - name: Equipment
     count: 10
     cards:
     - count: 1
       name: Blood Tears of Kephran
+      id: 100212
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 5
       name: Cooler
+      id: 100422
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
   - name: Action Modifier
     count: 26
     cards:
     - count: 4
       name: Bonding
+      id: 100236
     - count: 4
       name: Conditioning
+      id: 100401
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 1
       name: Nightshades
+      id: 101286
     - count: 5
       name: Shadow Play
+      id: 101743
     - count: 4
       name: Shroud of Absence
+      id: 101774
     - count: 1
       name: Shroud of Night
+      id: 101775
     - count: 3
       name: Stone Travel
+      id: 101875
     - count: 2
       name: Tenebrous Form
+      id: 101957
   - name: Reaction
     count: 7
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 2
       name: On the Qui Vive
+      id: 101321

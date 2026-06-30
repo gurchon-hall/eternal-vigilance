@@ -1,0 +1,169 @@
+name: Camaraderie
+location: Sanctuary Games & Comics, Lafayette (LA), USA
+date_start: 2025-06-01
+rounds_format: 3R+F
+players_count: 12
+winner: Brad Cashdollar
+vekn_number: 2660020
+event_url: https://www.vekn.net/event-calendar/event/12355
+event_id: 12355
+vp_comment: 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12355
+deck:
+  name: Antti Anarch auspex
+  description: Randal Rudstam sent me a cool gun deck a few years ago that I 
+    slightly tweaked and have had a lot of success with
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 31
+  crypt_avg: 4.5
+  crypt:
+  - count: 5
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 3
+    name: Cornelius Ottavio
+    id: 200291
+    capacity: 8
+    disciplines: pre qui AUS OBF
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Adonai
+    id: 200014
+    capacity: 7
+    disciplines: for AUS VAL
+    clan: Salubri antitribu
+    grouping: 2
+  - count: 1
+    name: Ozmo
+    id: 201089
+    capacity: 6
+    disciplines: dom obf AUS
+    clan: Malkavian
+    grouping: 1
+  - count: 1
+    name: Quira, The Bitch Queen
+    id: 201146
+    capacity: 6
+    disciplines: obt tha AUS OBF
+    clan: Malkavian antitribu
+    grouping: 2
+  - count: 1
+    name: Sheila Mezarin
+    id: 201280
+    capacity: 6
+    disciplines: cel for AUS PRE
+    clan: Toreador antitribu
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Asylum Hunting Ground
+      id: 100108
+    - count: 1
+      name: Carver's Meat Packing and Storage
+      id: 100303
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 4
+      name: Hackerspace
+      id: 100876
+    - count: 1
+      name: Poacher's Hunting Ground
+      id: 101404
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Smear Campaign
+      id: 101810
+    - count: 2
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Equipment
+    count: 12
+    cards:
+    - count: 7
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Banshee Ironwail
+      id: 100133
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+    - count: 1
+      name: Sport Bike
+      id: 101856
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Monkey Wrench
+      id: 101239
+  - name: Reaction
+    count: 38
+    cards:
+    - count: 3
+      name: Eagle's Sight
+      id: 100598
+    - count: 3
+      name: Enhanced Senses
+      id: 100644
+    - count: 12
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: Forced Awakening
+      id: 100760
+    - count: 3
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 12
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 18
+    cards:
+    - count: 4
+      name: Aura Reading
+      id: 100113
+    - count: 8
+      name: Concealed Weapon
+      id: 100392
+    - count: 3
+      name: Target Vitals
+      id: 101942
+    - count: 3
+      name: Taste of Vitae
+      id: 101945

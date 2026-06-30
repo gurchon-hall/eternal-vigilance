@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Mary Anne Blaire
+    id: 200946
     capacity: 10
     disciplines: ani pot AUS DOM FOR PRE
     title: Justicar
@@ -26,6 +27,7 @@ deck:
     grouping: 5
   - count: 1
     name: De Sade
+    id: 200327
     capacity: 9
     disciplines: AUS DOM FOR PRE
     title: Archbishop
@@ -33,12 +35,14 @@ deck:
     grouping: 5
   - count: 1
     name: Gerald Windham
+    id: 200508
     capacity: 9
     disciplines: AUS DOM FOR THA
     clan: Tremere
     grouping: 5
   - count: 1
     name: Lodin (Olaf Holte)
+    id: 200848
     capacity: 8
     disciplines: aus pro DOM FOR PRE
     title: Prince
@@ -46,6 +50,7 @@ deck:
     grouping: 5
   - count: 1
     name: Polly Kay Fisher
+    id: 201128
     capacity: 8
     disciplines: for pot AUS DOM THA
     title: Archbishop
@@ -53,6 +58,7 @@ deck:
     grouping: 4
   - count: 1
     name: Jefferson Foster
+    id: 200686
     capacity: 6
     disciplines: for tha AUS DOM
     title: Bishop
@@ -60,6 +66,7 @@ deck:
     grouping: 4
   - count: 1
     name: Mustafa, The Heir
+    id: 201026
     capacity: 6
     disciplines: cel dom FOR PRE
     title: Prince
@@ -67,6 +74,7 @@ deck:
     grouping: 4
   - count: 1
     name: Victor Donaldson
+    id: 201438
     capacity: 6
     disciplines: for pre DOM
     title: Prince
@@ -74,6 +82,7 @@ deck:
     grouping: 5
   - count: 1
     name: Neighbor John
+    id: 201046
     capacity: 5
     disciplines: dom for AUS
     clan: Ventrue antitribu
@@ -85,78 +94,109 @@ deck:
     cards:
     - count: 1
       name: Depravity
+      id: 100526
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Guardian Angel
+      id: 100866
     - count: 1
       name: Paragon
+      id: 101351
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Ventrue Headquarters
+      id: 102109
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 14
     cards:
     - count: 1
       name: Dominate Kine
+      id: 100573
     - count: 2
       name: Enchant Kindred
+      id: 100640
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 4
       name: Govern the Unaligned
+      id: 100845
     - count: 1
       name: Propaganda
+      id: 101495
     - count: 4
       name: Scouting Mission
+      id: 101698
   - name: Political Action
     count: 5
     cards:
     - count: 2
       name: Banishment
+      id: 100131
     - count: 2
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 19
     cards:
     - count: 2
       name: Bonding
+      id: 100236
     - count: 6
       name: Crocodile's Tongue
+      id: 100450
     - count: 6
       name: Freak Drive
+      id: 100788
     - count: 2
       name: Seduction
+      id: 101712
     - count: 3
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 14
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 2
       name: Obedience
+      id: 101309
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 14
     cards:
     - count: 2
       name: Aura Reading
+      id: 100113
     - count: 4
       name: Hidden Strength
+      id: 100918
     - count: 2
       name: Majesty
+      id: 101144
     - count: 6
       name: Weighted Walking Stick
+      id: 102169

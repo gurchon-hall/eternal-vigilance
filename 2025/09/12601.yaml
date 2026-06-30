@@ -1,5 +1,5 @@
-name: Liga GL/PT - Braga 25/26 (Ronda 1)
-location: DrawStep - Braga (Portugal)
+name: Liga GL/PT - Braga 25/26
+location: DrawStep, Braga, Portugal
 date_start: 2025-09-13
 rounds_format: 2R+F
 players_count: 21
@@ -7,36 +7,34 @@ winner: Sérgio Louçã Martins
 vekn_number: 3120101
 event_url: https://www.vekn.net/event-calendar/event/12601
 event_id: 12601
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82767-twd-liga-gl-pt-braga-25-26-ronda-1
+vp_comment: 1GW3 + 1,5vp in final (4th seed)
+forum_post_url: https://www.vekn.net/event-calendar/event/12601
 deck:
-  description: ''
+  name: Big hands, small world
+  description: Finals seating AUS DOM toolbox > Hecata dredge > If Bram played 
+    !Toreador > Capuchin toolbox > Weenie DOM (1st seed).
   crypt_count: 12
   crypt_min: 36
   crypt_max: 44
   crypt_avg: 9.75
   crypt:
   - count: 4
-    name: The Capuchin
+    name: Capuchin, The
+    id: 200242
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
     clan: Harbinger of Skulls
     grouping: 5
-  - count: 1
-    name: Gabrielle di Righetti
-    capacity: 10
-    disciplines: obf pot ANI AUS DOM THA
-    title: Justicar
-    clan: Tremere
-    grouping: 5
   - count: 2
     name: Gerald Windham
+    id: 200508
     capacity: 9
     disciplines: AUS DOM FOR THA
     clan: Tremere
     grouping: 5
   - count: 2
     name: Malgorzata
+    id: 200905
     capacity: 9
     disciplines: pre AUS DOM THA VIC
     title: Priscus
@@ -44,13 +42,23 @@ deck:
     grouping: 4
   - count: 2
     name: Orlando Oriundus
+    id: 201084
     capacity: 9
     disciplines: obf AUS DOM THA
     title: Bishop
     clan: Tremere antitribu
     grouping: 4
   - count: 1
+    name: Gabrielle di Righetti
+    id: 200489
+    capacity: 10
+    disciplines: obf pot ANI AUS DOM THA
+    title: Justicar
+    clan: Tremere
+    grouping: 5
+  - count: 1
     name: Strohmann
+    id: 201320
     capacity: 9
     disciplines: dom ANI OBF POT THA
     title: Archbishop
@@ -63,94 +71,130 @@ deck:
     cards:
     - count: 4
       name: Ashur Tablets
+      id: 100106
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Maabara
+      id: 101136
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 7
     cards:
     - count: 6
       name: Govern the Unaligned
+      id: 100845
     - count: 1
       name: Magic of the Smith
+      id: 101143
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
   - name: Equipment
     count: 6
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Erebus Mask
+      id: 100657
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
   - name: Action Modifier
     count: 14
     cards:
     - count: 2
       name: Bonding
+      id: 100236
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
     - count: 4
       name: Hag's Wrinkles
+      id: 100877
     - count: 4
       name: Mirror Walk
+      id: 101223
     - count: 2
       name: Under My Skin
+      id: 102062
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 28
     cards:
     - count: 4
       name: Deflection
+      id: 100518
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: Forced Awakening
+      id: 100760
     - count: 4
       name: My Enemy's Enemy
+      id: 101259
     - count: 5
       name: Obedience
+      id: 101309
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

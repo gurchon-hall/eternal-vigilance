@@ -3,13 +3,14 @@ location: Geneva, Switzerland
 date_start: 2021-08-02
 rounds_format: 2R+F
 players_count: 10
-winner: Gabriel Carnino's Tournament Winning Deck with 4 VPs in the Finals
+winner: Gabriel Carnino
+vekn_number: 8840006
 event_url: https://www.vekn.net/event-calendar/event/9844
 event_id: 9844
-forum_post_url: https://www.vekn.net/forum/event-reports-and-twd/81925-twd-geneva-wake-2021-belated-report
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9844
 deck:
   name: Tony Montano
-  created_by: Gabriel Carnino
   description: ''
   crypt_count: 12
   crypt_min: 35
@@ -18,13 +19,15 @@ deck:
   crypt:
   - count: 3
     name: Montano
+    id: 201006
     capacity: 11
     disciplines: ANI DOM FOR OBT POT
-    title: 2 votes
+    title: 2 Votes
     clan: Lasombra
     grouping: 3
   - count: 3
     name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
     capacity: 10
     disciplines: aus for DOM OBT POT PRE
     title: Cardinal
@@ -32,6 +35,7 @@ deck:
     grouping: 2
   - count: 2
     name: Marcus Vitel
+    id: 200915
     capacity: 10
     disciplines: DOM FOR OBF OBT PRE
     title: Prince
@@ -39,6 +43,7 @@ deck:
     grouping: 3
   - count: 2
     name: Francisco Domingo de Polonia
+    id: 200476
     capacity: 9
     disciplines: pro DOM OBT POT PRE
     title: Archbishop
@@ -46,6 +51,7 @@ deck:
     grouping: 2
   - count: 1
     name: Alvaro, The Scion of Angelica
+    id: 200063
     capacity: 9
     disciplines: dom pre OBT POT
     title: Archbishop
@@ -53,6 +59,7 @@ deck:
     grouping: 2
   - count: 1
     name: Gratiano
+    id: 200534
     capacity: 8
     disciplines: obf pot DOM OBT
     title: Priscus
@@ -65,66 +72,91 @@ deck:
     cards:
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Legendary Vampire
+      id: 101091
     - count: 1
       name: Pentex(TM) Subversion
+      id: 101384
     - count: 6
       name: Villein
+      id: 102121
     - count: 4
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 9
     cards:
     - count: 9
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 12
     cards:
     - count: 2
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Ancilla Empowerment
+      id: 100065
     - count: 3
       name: Banishment
+      id: 100131
     - count: 2
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 17
     cards:
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 2
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Seduction
+      id: 101712
     - count: 7
       name: Shadow Play
+      id: 101743
     - count: 2
       name: Shroud of Absence
+      id: 101774
     - count: 1
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 10
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 4
       name: Obedience
+      id: 101309
   - name: Combat
     count: 3
     cards:
     - count: 3
       name: Shadow Body
+      id: 101735

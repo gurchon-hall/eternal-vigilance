@@ -7,8 +7,7 @@ winner: Michael Holmström
 vekn_number: 3382224
 event_url: https://www.vekn.net/event-calendar/event/12445
 event_id: 12445
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82484-twd-vtes-last-stand-helsinki-finland-27-jul-2025
+forum_post_url: https://www.vekn.net/event-calendar/event/12445
 deck:
   name: Organize for deer life
   created_by: Mikkimon
@@ -20,7 +19,16 @@ deck:
   crypt_avg: 6.25
   crypt:
   - count: 1
+    name: Ángel Guerrero
+    id: 201665
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
     name: Massimiliano
+    id: 201602
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
@@ -28,34 +36,23 @@ deck:
     grouping: 6
   - count: 1
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
     clan: Brujah
     grouping: 6
   - count: 1
-    name: Ángel Guerrero
-    capacity: 7
-    disciplines: ANI DOM PRO
-    title: Baron
-    clan: Tzimisce
-    grouping: 6
-  - count: 1
-    name: Casey Snyder
+    name: Atiena
+    id: 201579
     capacity: 6
-    disciplines: ani cel for PRO
+    disciplines: obf pot pre CEL
     title: Baron
-    clan: Gangrel
-    grouping: 6
-  - count: 1
-    name: Jacques Rouge
-    capacity: 6
-    disciplines: ani pot pre OBF
-    title: Baron
-    clan: Nosferatu
+    clan: Brujah
     grouping: 6
   - count: 1
     name: Benedito, a Lanterna
+    id: 201524
     capacity: 6
     disciplines: ani aus obf POT
     title: Baron
@@ -63,126 +60,170 @@ deck:
     grouping: 6
   - count: 1
     name: Bituin
+    id: 201525
     capacity: 6
     disciplines: ani cel dom THA
     title: Baron
     clan: Tremere
     grouping: 6
   - count: 1
-    name: Leumeah
+    name: Branimira
+    id: 201667
     capacity: 6
-    disciplines: cel for pot PRE
+    disciplines: dom pre pro ANI
     title: Baron
-    clan: Brujah
+    clan: Tzimisce
     grouping: 6
   - count: 1
-    name: Kuyén
+    name: Casey Snyder
+    id: 201521
     capacity: 6
-    disciplines: ANI PRO
+    disciplines: ani cel for PRO
     title: Baron
     clan: Gangrel
     grouping: 6
   - count: 1
-    name: Atiena
-    capacity: 6
-    disciplines: obf pot pre CEL
-    title: Baron
-    clan: Brujah
-    grouping: 6
-  - count: 1
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
     clan: Ministry
     grouping: 6
   - count: 1
-    name: Branimira
+    name: Jacques Rouge
+    id: 201523
     capacity: 6
-    disciplines: dom pre pro ANI
+    disciplines: ani pot pre OBF
     title: Baron
-    clan: Tzimisce
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Kuyén
+    id: 201574
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Leumeah
+    id: 201526
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
     grouping: 6
   library_count: 80
   library_sections:
   - name: Master
     count: 27
     cards:
-    - count: 6
-      name: Ashur Tablets
-    - count: 5
-      name: Villein
-    - count: 3
-      name: Vessel
-    - count: 2
-      name: Smiling Jack, The Anarch
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Anarch Revolt
+      id: 100055
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: Poacher's Hunting Ground
+      id: 101404
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
+    - count: 2
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 5
+      name: Villein
+      id: 102121
   - name: Action
     count: 2
     cards:
     - count: 1
       name: Army of Rats
+      id: 100093
     - count: 1
       name: Constant Revolution
+      id: 100416
   - name: Equipment
     count: 6
     cards:
     - count: 5
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Deer Rifle
-  - name: Combat
-    count: 6
-    cards:
-    - count: 6
-      name: Concealed Weapon
-  - name: Event
-    count: 5
-    cards:
-    - count: 2
-      name: Blood Weakens
-    - count: 1
-      name: Blood Trade
-    - count: 1
-      name: Scourge of the Enochians
-    - count: 1
-      name: The Slow Withering
+      id: 100516
   - name: Political Action
     count: 1
     cards:
     - count: 1
       name: Revolutionary Council
+      id: 101631
   - name: Reaction
     count: 33
     cards:
-    - count: 19
-      name: Organized Resistance
     - count: 8
       name: Bait and Switch
-    - count: 4
-      name: Protection Racket
+      id: 102218
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 1
       name: On the Qui Vive
+      id: 101321
+    - count: 19
+      name: Organized Resistance
+      id: 102230
+    - count: 4
+      name: Protection Racket
+      id: 101501
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Concealed Weapon
+      id: 100392
+  - name: Event
+    count: 5
+    cards:
+    - count: 1
+      name: Blood Trade
+      id: 100215
+    - count: 2
+      name: Blood Weakens
+      id: 100217
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+    - count: 1
+      name: Slow Withering, The
+      id: 101807

@@ -18,12 +18,14 @@ deck:
   crypt:
   - count: 1
     name: Gerald Windham
+    id: 200508
     capacity: 9
     disciplines: AUS DOM FOR THA
     clan: Tremere
     grouping: 5
   - count: 1
     name: Ayelech
+    id: 201535
     capacity: 7
     disciplines: AUS DOM THA
     title: Prince
@@ -31,6 +33,7 @@ deck:
     grouping: 6
   - count: 1
     name: Bituin
+    id: 201525
     capacity: 6
     disciplines: ani cel dom THA
     title: Baron
@@ -38,6 +41,7 @@ deck:
     grouping: 6
   - count: 1
     name: Inês Tristão
+    id: 201551
     capacity: 6
     disciplines: aus dom pre THA
     title: Prince
@@ -45,6 +49,7 @@ deck:
     grouping: 6
   - count: 1
     name: Lloyd Brooks
+    id: 201556
     capacity: 6
     disciplines: aus pot DOM THA
     title: Primogen
@@ -52,12 +57,14 @@ deck:
     grouping: 6
   - count: 1
     name: Trevon Parker
+    id: 201572
     capacity: 6
     disciplines: AUS DOM THA
     clan: Tremere
     grouping: 6
   - count: 1
     name: Chrysanthemum
+    id: 201542
     capacity: 5
     disciplines: dom AUS THA
     title: Primogen
@@ -65,12 +72,14 @@ deck:
     grouping: 6
   - count: 1
     name: Patrik Söderberg
+    id: 201566
     capacity: 5
     disciplines: dom for tha AUS
     clan: Tremere
     grouping: 6
   - count: 1
     name: Zane
+    id: 201501
     capacity: 5
     disciplines: aus dom THA
     title: Primogen
@@ -78,18 +87,21 @@ deck:
     grouping: 5
   - count: 1
     name: Lauren
+    id: 201554
     capacity: 4
     disciplines: aus dom tha
     clan: Tremere
     grouping: 6
   - count: 1
     name: Nassir
+    id: 201563
     capacity: 4
     disciplines: aus THA
     clan: Tremere
     grouping: 6
   - count: 1
     name: Rosalina Cortez
+    id: 201567
     capacity: 3
     disciplines: THA
     clan: Tremere
@@ -101,88 +113,124 @@ deck:
     cards:
     - count: 1
       name: Academic Hunting Ground
+      id: 100015
     - count: 1
       name: Arcane Library
+      id: 100081
     - count: 1
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Chantry
+      id: 100329
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Dominate
+      id: 100572
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 1
       name: Thaumaturgy
+      id: 101965
     - count: 3
       name: Vessel
+      id: 102113
     - count: 1
       name: Villein
+      id: 102121
     - count: 1
       name: Wasserschloss Anif, Austria
+      id: 102152
   - name: Action
     count: 14
     cards:
     - count: 1
       name: Dominate Kine
+      id: 100573
     - count: 11
       name: Govern the Unaligned
+      id: 100845
     - count: 1
       name: Pulse of the Canaille
+      id: 101517
     - count: 1
       name: Scouting Mission
+      id: 101698
   - name: Political Action
     count: 1
     cards:
     - count: 1
       name: Kine Resources Contested
+      id: 101056
   - name: Action Modifier
     count: 23
     cards:
     - count: 6
       name: Bonding
+      id: 100236
     - count: 1
       name: Change of Target
+      id: 100323
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 9
       name: Mirror Walk
+      id: 101223
     - count: 4
       name: Seduction
+      id: 101712
   - name: Reaction
     count: 23
     cards:
     - count: 8
       name: Deflection
+      id: 100518
     - count: 2
       name: Enhanced Senses
+      id: 100644
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: Forced Awakening
+      id: 100760
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 1
       name: Precognition
+      id: 101475
     - count: 1
       name: Spirit's Touch
+      id: 101850
     - count: 2
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 13
     cards:
     - count: 3
       name: Apportation
+      id: 100077
     - count: 1
       name: Blood Rage
+      id: 100208
     - count: 3
       name: Rego Motum
+      id: 101588
     - count: 4
       name: Theft of Vitae
+      id: 101966
     - count: 2
       name: Wind Dance
+      id: 102185

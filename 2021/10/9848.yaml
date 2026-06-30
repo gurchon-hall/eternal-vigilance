@@ -1,5 +1,5 @@
 name: Origins - Friday 1
-location: Columbus, Ohio
+location: Columbus (OH), USA
 date_start: 2021-10-01
 rounds_format: 2R+F
 players_count: 10
@@ -7,9 +7,8 @@ winner: Karl Schaefer
 vekn_number: 1003455
 event_url: https://www.vekn.net/event-calendar/event/9848
 event_id: 9848
-vp_comment: 0 GW 1.5 VP + 2.5 VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79459-origins-friday-1-october-1-2021
+vp_comment: 0GW1.5 + 2.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9848
 deck:
   name: Balls of Stihl
   created_by: Darby Keeney and John Eno
@@ -21,42 +20,49 @@ deck:
   crypt:
   - count: 3
     name: Jennie "Cassie247" Orne
+    id: 200689
     capacity: 5
     disciplines: inn jud viz
     clan: Visionary
     grouping: 4
   - count: 3
     name: Travis "Traveler72" Miller
+    id: 201386
     capacity: 5
     disciplines: mar def
     clan: Martyr
     grouping: 4
   - count: 2
     name: Jack "Hannibal137" Harmon
+    id: 200656
     capacity: 4
     disciplines: def jud
     clan: Defender
     grouping: 4
   - count: 1
     name: Erick "Shophet125" Franco
+    id: 200432
     capacity: 4
     disciplines: inn jud
     clan: Judge
     grouping: 4
   - count: 1
     name: Xian "DziDzat155" Quan
+    id: 201481
     capacity: 4
     disciplines: def inn
     clan: Defender
     grouping: 4
   - count: 1
     name: François "Warden" Loehr
+    id: 200479
     capacity: 3
     disciplines: def jud
     clan: Judge
     grouping: 4
   - count: 1
     name: Inez "Nurse216" Villagrande
+    id: 200632
     capacity: 3
     disciplines: inn
     clan: Innocent
@@ -68,89 +74,124 @@ deck:
     cards:
     - count: 5
       name: Angel of Berlin
+      id: 100067
     - count: 2
-      name: The Church of Vindicated Faith
+      name: Church of Vindicated Faith, The
+      id: 100348
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Fortschritt Library
+      id: 100775
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Unity
+      id: 102074
     - count: 1
       name: Wider View
+      id: 102180
   - name: Conviction
     count: 22
     cards:
     - count: 8
       name: React with Conviction
+      id: 101557
     - count: 7
       name: Second Sight
+      id: 101705
     - count: 7
       name: Strike with Conviction
+      id: 101886
   - name: Ally
     count: 2
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Vagabond Mystic
+      id: 102087
   - name: Equipment
     count: 12
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
-      name: The Crusader Sword
+      name: Crusader Sword, The
+      id: 100474
     - count: 1
       name: Flak Jacket
+      id: 100739
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Kevlar Vest
+      id: 101040
     - count: 1
       name: Laptop Computer
+      id: 101073
     - count: 2
       name: Leather Jacket
+      id: 101081
     - count: 1
       name: Sport Bike
+      id: 101856
     - count: 2
       name: Talbot's Chainsaw
+      id: 101931
   - name: Power
     count: 15
     cards:
     - count: 2
       name: Champion
+      id: 100322
     - count: 2
       name: Discern
+      id: 100551
     - count: 1
       name: Hide
+      id: 100919
     - count: 2
       name: Inspire
+      id: 100991
     - count: 3
       name: Rejuvenate
+      id: 101592
     - count: 5
       name: Vigilance
+      id: 102120
   - name: Reaction
     count: 1
     cards:
     - count: 1
       name: Determine
+      id: 100534
   - name: Event
     count: 5
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581
     - count: 1
       name: NRA PAC
+      id: 101305
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079
     - count: 1
       name: Veil of Darkness
+      id: 102095

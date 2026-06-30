@@ -7,38 +7,40 @@ winner: José Ramón Rodríguez Álvarez-Solís
 vekn_number: 9510025
 event_url: https://www.vekn.net/event-calendar/event/10590
 event_id: 10590
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80732-twd-v-torneo-liga-norte-gijon-spain-19-feb-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10590
 deck:
   name: Tremere Multiacción Camarilla Segregation
-  created_by: Rollshausen
-  description: '[2023-02-18]'
+  description: ''
   crypt_count: 12
   crypt_min: 26
   crypt_max: 37
   crypt_avg: 7.92
   crypt:
-  - count: 1
-    name: Karl Schrekt
-    capacity: 10
-    disciplines: AUS DOM FOR PRE THA
-    title: 2 Votes
-    clan: Tremere
-    grouping: 6
   - count: 4
     name: Gerald Windham
+    id: 200508
     capacity: 9
     disciplines: AUS DOM FOR THA
     clan: Tremere
     grouping: 5
   - count: 2
     name: Abraham DuSable
+    id: 201623
     capacity: 8
     disciplines: AUS DOM FOR THA
     clan: Tremere
     grouping: 6
   - count: 1
+    name: Karl Schrekt
+    id: 201621
+    capacity: 10
+    disciplines: AUS DOM FOR PRE THA
+    title: 2 Votes
+    clan: Tremere
+    grouping: 6
+  - count: 1
     name: Ayelech
+    id: 201535
     capacity: 7
     disciplines: AUS DOM THA
     title: Prince
@@ -46,6 +48,7 @@ deck:
     grouping: 6
   - count: 1
     name: Graham Gottesman
+    id: 200533
     capacity: 7
     disciplines: obf pre tha DOM FOR
     title: Prince
@@ -53,6 +56,7 @@ deck:
     grouping: 5
   - count: 1
     name: Sybren van Oosten
+    id: 201570
     capacity: 7
     disciplines: dom tha FOR PRE
     title: Prince
@@ -60,6 +64,7 @@ deck:
     grouping: 6
   - count: 1
     name: Inês Tristão
+    id: 201551
     capacity: 6
     disciplines: aus dom pre THA
     title: Prince
@@ -67,6 +72,7 @@ deck:
     grouping: 6
   - count: 1
     name: Trevon Parker
+    id: 201572
     capacity: 6
     disciplines: AUS DOM THA
     clan: Tremere
@@ -78,84 +84,115 @@ deck:
     cards:
     - count: 1
       name: Academic Hunting Ground
+      id: 100015
     - count: 1
       name: Arcane Library
+      id: 100081
     - count: 1
       name: Chantry
+      id: 100329
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: Visit from the Capuchin
+      id: 102126
     - count: 1
       name: Wasserschloss Anif, Austria
+      id: 102152
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 16
     cards:
     - count: 1
       name: Dominate Kine
+      id: 100573
     - count: 1
       name: Far Mastery
+      id: 100703
     - count: 10
       name: Govern the Unaligned
+      id: 100845
     - count: 2
       name: 'Judgment: Camarilla Segregation'
+      id: 101028
     - count: 2
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 4
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
   - name: Political Action
     count: 4
     cards:
     - count: 3
       name: Banishment
+      id: 100131
     - count: 1
-      name: The Meddling of Semsith
+      name: Meddling of Semsith, The
+      id: 101192
   - name: Action Modifier
     count: 23
     cards:
     - count: 9
       name: Freak Drive
+      id: 100788
     - count: 7
       name: Mirror Walk
+      id: 101223
     - count: 2
       name: Seduction
+      id: 101712
     - count: 5
       name: Threats
+      id: 101978
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 14
     cards:
     - count: 7
       name: Deflection
+      id: 100518
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Theft of Vitae
+      id: 101966

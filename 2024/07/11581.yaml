@@ -19,13 +19,15 @@ deck:
   crypt_avg: 3.33
   crypt:
   - count: 11
-    name: The Horde
+    name: Horde, The
+    id: 200605
     capacity: 3
     disciplines: dai obf pre
     clan: Baali
     grouping: 6
   - count: 1
     name: Xeper, Sultan of Lepers
+    id: 201480
     capacity: 7
     disciplines: ani dai pro OBF PRE
     clan: Baali
@@ -37,81 +39,112 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: Rötschreck
+      id: 101654
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Society of Leopold
+      id: 101822
     - count: 12
       name: Striga
+      id: 101884
     - count: 1
       name: Tribute to the Master
+      id: 102023
     - count: 1
       name: Vampiric Disease
+      id: 102088
   - name: Action
     count: 3
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 1
       name: Contagion
+      id: 100418
     - count: 1
       name: Unleash Hell's Fury
+      id: 102076
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Veneficti
+      id: 102103
   - name: Equipment
     count: 3
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Kaymakli Fragment
+      id: 101035
   - name: Reaction
     count: 40
     cards:
     - count: 40
       name: Scobax
+      id: 101691
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Hexe
+      id: 100915
   - name: Event
     count: 12
     cards:
     - count: 1
       name: Blood Trade
+      id: 100215
     - count: 1
       name: Blood Weakens
+      id: 100217
     - count: 1
       name: Dr. Marisa Fletcher, CDC
+      id: 100577
     - count: 1
       name: Hunger Moon
+      id: 100944
     - count: 1
       name: Narrow Minds
+      id: 101265
     - count: 1
       name: Restricted Vitae
+      id: 101614
     - count: 1
-      name: The Rising
+      name: Rising, The
+      id: 101640
     - count: 1
-      name: The Slow Withering
+      name: Slow Withering, The
+      id: 101807
     - count: 1
       name: Torpid Blood
+      id: 101994
     - count: 1
       name: Veil of Darkness
+      id: 102095
     - count: 1
       name: Waiting Game
+      id: 102136
     - count: 1
       name: Wormwood
+      id: 102194

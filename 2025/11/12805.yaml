@@ -1,5 +1,5 @@
 name: '2a Jornada Liga Levante Norte: Fetish Hunting Ground'
-location: Benicasim, Spain
+location: Benicàssim, Spain
 date_start: 2025-11-09
 rounds_format: 3R+F
 players_count: 32
@@ -7,34 +7,42 @@ winner: Jaddou Nasra
 vekn_number: 8030005
 event_url: https://www.vekn.net/event-calendar/event/12805
 event_id: 12805
-vp_comment: 2GW8.5VP + 2VP in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82666-twd-2a-jornada-liga-levante-norte-fetish-h-g-benicasim-spain-9th-nov-2025
+vp_comment: 3GW10 + 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12805
 deck:
   name: The museum is closed to visitors
-  created_by: Jaddou Nasra
   description: Tzimisce anarch museum
   crypt_count: 12
   crypt_min: 19
   crypt_max: 30
   crypt_avg: 6.08
   crypt:
-  - count: 2
-    name: Adrino Manauara
-    capacity: 8
-    disciplines: pot ANI DOM PRO
-    title: Baron
-    clan: Tzimisce
-    grouping: 6
   - count: 3
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
     clan: Tzimisce
     grouping: 6
+  - count: 2
+    name: Adrino Manauara
+    id: 201664
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Marialena
+    id: 201677
+    capacity: 5
+    disciplines: ani DOM PRO
+    clan: Tzimisce
+    grouping: 6
   - count: 1
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -42,30 +50,28 @@ deck:
     grouping: 6
   - count: 1
     name: Neserian
+    id: 201678
     capacity: 6
     disciplines: cel pro ANI DOM
     clan: Tzimisce
     grouping: 6
-  - count: 2
-    name: Marialena
-    capacity: 5
-    disciplines: ani DOM PRO
-    clan: Tzimisce
-    grouping: 6
   - count: 1
     name: Clara Hjortshøj
+    id: 201669
     capacity: 5
     disciplines: ani aus dom PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Whisper
+    id: 201690
     capacity: 5
     disciplines: pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Prentis Derby
+    id: 201682
     capacity: 4
     disciplines: ani dom pro
     clan: Tzimisce
@@ -77,102 +83,139 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 5
-      name: The British Museum, London
+      name: British Museum, London, The
+      id: 102236
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 10
     cards:
     - count: 1
       name: Chameleon
+      id: 100320
     - count: 1
       name: Dominate Kine
+      id: 100573
     - count: 8
       name: Govern the Unaligned
-  - name: Political Action
-    count: 1
-    cards:
-    - count: 1
-      name: Revolutionary Council
+      id: 100845
   - name: Equipment
     count: 12
     cards:
     - count: 1
       name: Blood Tears of Kephran
+      id: 100212
     - count: 2
       name: Cooler
+      id: 100422
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 6
       name: Living Manse
+      id: 101114
     - count: 1
       name: Palatial Estate
+      id: 101345
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Revolutionary Council
+      id: 101631
   - name: Action Modifier
     count: 7
     cards:
     - count: 2
       name: Bonding
+      id: 100236
     - count: 2
       name: Earth Control
+      id: 100600
     - count: 3
       name: Foreshadowing Destruction
+      id: 100765
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Obedient Flesh
+      id: 102255
   - name: Action Modifier/Reaction
     count: 6
     cards:
     - count: 6
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 20
     cards:
     - count: 2
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Deep Ecology
+      id: 102219
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: One With the Land
+      id: 102256
     - count: 4
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Redirection
+      id: 101578
   - name: Combat
     count: 12
     cards:
     - count: 2
       name: Donnybrook
+      id: 100576
     - count: 4
       name: Earth Meld
+      id: 100601
     - count: 6
       name: Form of Mist
+      id: 100771
   - name: Event
     count: 1
     cards:
     - count: 1
       name: NRA PAC
+      id: 101305

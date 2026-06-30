@@ -29,6 +29,7 @@ deck:
   crypt:
   - count: 3
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -36,6 +37,7 @@ deck:
     grouping: 6
   - count: 2
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -43,6 +45,7 @@ deck:
     grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -50,6 +53,7 @@ deck:
     grouping: 6
   - count: 1
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -57,24 +61,28 @@ deck:
     grouping: 6
   - count: 1
     name: Anita Wainwright
+    id: 201657
     capacity: 3
     disciplines: cel pre
     clan: Brujah
     grouping: 6
   - count: 1
     name: Ariane
+    id: 200132
     capacity: 3
     disciplines: cel pot pre
     clan: Brujah
     grouping: 5
   - count: 1
     name: Laura Goldman
+    id: 200816
     capacity: 3
     disciplines: cel pre
     clan: Brujah
     grouping: 5
   - count: 1
     name: Rayne
+    id: 201610
     capacity: 2
     disciplines: pot
     clan: Brujah
@@ -86,72 +94,100 @@ deck:
     cards:
     - count: 1
       name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 6
       name: Brujah Debate
+      id: 100260
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Frontal Assault
+      id: 100794
     - count: 2
       name: New Carthage
+      id: 101277
     - count: 1
       name: Papillon
+      id: 101350
     - count: 2
       name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 3
       name: Vessel
+      id: 102113
   - name: Action
     count: 12
     cards:
     - count: 2
       name: Ambush
+      id: 100046
     - count: 2
       name: Bum's Rush
+      id: 100266
     - count: 5
       name: Childe of the Revolution
+      id: 102246
     - count: 2
       name: Harass
+      id: 100886
     - count: 1
       name: Open War
+      id: 101324
   - name: Political Action
     count: 7
     cards:
     - count: 6
       name: Consanguineous Boon
+      id: 100410
     - count: 1
       name: Revolutionary Council
+      id: 101631
   - name: Reaction
     count: 16
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 10
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 10
     cards:
     - count: 6
       name: Taste of Vitae
+      id: 101945
     - count: 4
       name: Trap
+      id: 102012
   - name: Event
     count: 4
     cards:
     - count: 1
       name: Blood Weakens
+      id: 100217
     - count: 1
       name: Dragonbound
+      id: 100581
     - count: 1
       name: Slow Withering, The
+      id: 101807
     - count: 1
       name: Veil of Darkness
+      id: 102095

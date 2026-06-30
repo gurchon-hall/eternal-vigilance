@@ -1,4 +1,4 @@
-name: taunt the caged beast
+name: Taunt The Caged Beast
 location: Online
 date_start: 2022-06-02
 rounds_format: 2R+F
@@ -7,8 +7,7 @@ winner: Henrique Cone
 vekn_number: 7060053
 event_url: https://www.vekn.net/event-calendar/event/10209
 event_id: 10209
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79834-twda-taunt-the-caged-beast
+forum_post_url: https://www.vekn.net/event-calendar/event/10209
 deck:
   name: night
   description: ''
@@ -18,19 +17,22 @@ deck:
   crypt_avg: 7.0
   crypt:
   - count: 4
-    name: The Arcadian
+    name: Arcadian, The
+    id: 200127
     capacity: 8
     disciplines: chi for DOM MYT OBT
     clan: Kiasyd
     grouping: 5
   - count: 3
     name: Isanwayen
+    id: 200644
     capacity: 6
     disciplines: DOM MYT OBT
     clan: Kiasyd
     grouping: 4
   - count: 2
     name: Omme Enberbenight
+    id: 201081
     capacity: 7
     disciplines: cel dom MYT OBT
     title: Priscus
@@ -38,6 +40,7 @@ deck:
     grouping: 4
   - count: 1
     name: Pherydima
+    id: 201120
     capacity: 8
     disciplines: obt pot DOM MYT NEC
     title: Bishop
@@ -45,12 +48,14 @@ deck:
     grouping: 4
   - count: 1
     name: Roderick Phillips March
+    id: 201195
     capacity: 7
     disciplines: cel obt tha DOM MYT
     clan: Kiasyd
     grouping: 4
   - count: 1
     name: Dame Hollerton
+    id: 200311
     capacity: 5
     disciplines: myt DOM OBT
     clan: Kiasyd
@@ -62,73 +67,97 @@ deck:
     cards:
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Great Symposium
+      id: 100853
     - count: 1
-      name: The Hungry Coyote
+      name: Hungry Coyote, The
+      id: 100945
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: Ravager
+      id: 101548
     - count: 1
       name: Secure Haven
+      id: 101711
   - name: Action
     count: 12
     cards:
     - count: 10
       name: Govern the Unaligned
+      id: 100845
     - count: 2
       name: Song of Pan
+      id: 101826
   - name: Political Action
     count: 2
     cards:
     - count: 2
       name: Anarchist Uprising
+      id: 100059
   - name: Action Modifier
     count: 25
     cards:
     - count: 6
       name: Blanket of Night
+      id: 100177
     - count: 8
       name: Conditioning
+      id: 100401
     - count: 4
       name: Shadow Play
+      id: 101743
     - count: 2
       name: Shroud of Absence
+      id: 101774
     - count: 2
       name: Shroud of Night
+      id: 101775
     - count: 3
       name: Stone Travel
+      id: 101875
   - name: Action Modifier/Combat
     count: 8
     cards:
     - count: 8
       name: Fae Contortion
+      id: 100689
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Aura Absorption
+      id: 100111
   - name: Reaction
     count: 14
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: Faerie Wards
+      id: 100690
     - count: 6
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 14
     cards:
     - count: 14
       name: Oubliette
+      id: 101334
   - name: Event
     count: 2
     cards:
     - count: 1
-      name: The Bitter and Sweet Story
+      name: Bitter and Sweet Story, The
+      id: 100163
     - count: 1
       name: Narrow Minds
+      id: 101265

@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Kasim Bayar
+    id: 201598
     capacity: 9
     disciplines: aus pot CEL OBF THA
     title: Justicar
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Oluwafunmilayo
+    id: 201656
     capacity: 8
     disciplines: AUS CEL OBF THA
     title: Prince
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
@@ -47,6 +51,7 @@ deck:
     grouping: 6
   - count: 2
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -54,6 +59,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kalinda
+    id: 201596
     capacity: 6
     disciplines: tha CEL OBF
     title: Primogen
@@ -66,66 +72,91 @@ deck:
     cards:
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Fame
+      id: 100698
     - count: 2
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: Papillon
+      id: 101350
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 3
       name: Priority Contract
+      id: 101487
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 5
     cards:
     - count: 5
       name: Hunter's Mark
+      id: 102228
   - name: Equipment
     count: 7
     cards:
     - count: 6
       name: Assault Rifle
+      id: 100107
     - count: 1
       name: Ivory Bow
+      id: 101014
   - name: Political Action
     count: 3
     cards:
     - count: 2
       name: Anathema
+      id: 100060
     - count: 1
       name: Rumors of Gehenna
+      id: 101663
   - name: Reaction
     count: 8
     cards:
     - count: 8
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 41
     cards:
     - count: 7
       name: Disguised Weapon
+      id: 100555
     - count: 1
       name: Fast Hands
+      id: 100704
     - count: 8
       name: Infernal Pursuit
+      id: 100980
     - count: 1
       name: Orgy of Blood
+      id: 101330
     - count: 6
       name: Psyche!
+      id: 101507
     - count: 7
       name: Pursuit
+      id: 101523
     - count: 4
       name: Rego Motum
+      id: 101588
     - count: 2
       name: Sideslip
+      id: 101779
     - count: 5
       name: Taste of Vitae
+      id: 101945

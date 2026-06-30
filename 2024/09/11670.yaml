@@ -19,60 +19,70 @@ deck:
   crypt:
   - count: 5
     name: Saulot, The Wanderer
+    id: 201248
     capacity: 11
     disciplines: dai AUS FOR OBE THA VAL
     clan: Salubri
     grouping: 4
   - count: 2
     name: Neighbor John
+    id: 201046
     capacity: 5
     disciplines: dom for AUS
     clan: Ventrue antitribu
     grouping: 4
   - count: 1
     name: Maldavis (ADV)
+    id: 200904
     capacity: 4
     disciplines: for pre AUS
     clan: Caitiff
     grouping: 3
   - count: 1
     name: Nkechi
+    id: 201063
     capacity: 4
     disciplines: aus for val
     clan: Salubri antitribu
     grouping: 4
   - count: 1
     name: Ember Wright
+    id: 200418
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Saiz
+    id: 201222
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Sister Evelyn
+    id: 201294
     capacity: 3
     disciplines: aus dom
     clan: Ventrue antitribu
     grouping: 3
   - count: 1
     name: Nicholas Chang
+    id: 201055
     capacity: 2
     disciplines: aus
     clan: Toreador antitribu
     grouping: 3
   - count: 1
     name: Piotr Andreikov
+    id: 201126
     capacity: 2
     disciplines: aus
     clan: Tzimisce
     grouping: 3
   - count: 1
     name: Feo Ramos
+    id: 200462
     capacity: 1
     disciplines: aus
     clan: Pander
@@ -84,68 +94,94 @@ deck:
     cards:
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 3
       name: Effective Management
+      id: 100616
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 4
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 10
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 9
       name: Spirit Marionette
+      id: 101848
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Action Modifier
     count: 13
     cards:
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 6
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Neutral Guard
+      id: 101276
     - count: 3
       name: Repulsion
+      id: 101606
   - name: Reaction
     count: 30
     cards:
     - count: 4
       name: Eagle's Sight
+      id: 100598
     - count: 4
       name: Enhanced Senses
+      id: 100644
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Precognition
+      id: 101475
     - count: 2
       name: Spirit's Touch
+      id: 101850
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 7
     cards:
     - count: 7
       name: Anesthetic Touch
+      id: 100066

@@ -15,16 +15,14 @@ vp_comment: "Description: MMPA and revolts. The final round was very different t
   having enough rushes was key, even if I didn't drawn any acceleration and had to
   be very careful with my actions. My plan from the start was to go the salmon way,
   since I knew I could not leave my back open for any of the other decks in the table
-  and my own prey was a lower seed if they happened to get 2 vps in the process (which
+  and my own prey was a lower seed if they happened to get 2vp in the process (which
   is what happened, so I won draw with higher seed). I played most of the round with
   Nana and Aksinya, only getting Cybele up on the latter half of time limit, and risking
   being ousted by the malk94, but the +1 stealth bleeds of three with Monastery of
   shadows was the critical finishing touch in the end."
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80501-twd-fee-stake-jyvaeskylae-jyvaeskylae-finland-29-apr-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10677
 deck:
   name: Burn down the patriarchy
-  created_by: Noora Hirvonen
   description: MMPA and revolts. The final round was very different to the 
     preliminary ones, since the heaviest SB decks made it there with most of the
     vps along with my not that reactive girls. I chose the deck expecting 
@@ -34,7 +32,7 @@ deck:
     drawn any acceleration and had to be very careful with my actions. My plan 
     from the start was to go the salmon way, since I knew I could not leave my 
     back open for any of the other decks in the table and my own prey was a 
-    lower seed if they happened to get 2 vps in the process (which is what 
+    lower seed if they happened to get 2vp in the process (which is what 
     happened, so I won draw with higher seed). I played most of the round with 
     Nana and Aksinya, only getting Cybele up on the latter half of time limit, 
     and risking being ousted by the malk94, but the +1 stealth bleeds of three 
@@ -44,6 +42,13 @@ deck:
   crypt_max: 39
   crypt_avg: 5.64
   crypt:
+  - count: 5
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
   - count: 3
     name: Cybele
     id: 200305
@@ -79,13 +84,6 @@ deck:
     disciplines: ANI
     clan: Nosferatu antitribu
     grouping: 4
-  - count: 5
-    name: Anarch Convert
-    id: 200076
-    capacity: 1
-    disciplines: ''
-    clan: Caitiff
-    grouping: ANY
   library_count: 78
   library_sections:
   - name: Master
@@ -122,7 +120,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: The Parthenon
+      name: Parthenon, The
       id: 101355
     - count: 1
       name: Vessel

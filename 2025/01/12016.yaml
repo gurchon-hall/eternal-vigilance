@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 2
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
@@ -26,18 +27,21 @@ deck:
     grouping: 6
   - count: 2
     name: Regina Blake
+    id: 201648
     capacity: 5
     disciplines: AUS PRE
     clan: Toreador
     grouping: 6
   - count: 2
     name: Valentina Osako
+    id: 201707
     capacity: 3
     disciplines: PRE
     clan: Toreador
     grouping: 7
   - count: 1
     name: Annabelle Triabell
+    id: 201693
     capacity: 9
     disciplines: dom for AUS CEL PRE
     title: Primogen
@@ -45,30 +49,35 @@ deck:
     grouping: 6
   - count: 1
     name: Carmelita Neillson
+    id: 201625
     capacity: 5
     disciplines: cel pre AUS
     clan: Toreador
     grouping: 7
   - count: 1
     name: Kathy Glens
+    id: 201552
     capacity: 5
     disciplines: aus cel tha PRE
     clan: Toreador
     grouping: 6
   - count: 1
     name: Tamoszius
+    id: 201571
     capacity: 5
     disciplines: aus CEL PRE
     clan: Toreador
     grouping: 6
   - count: 1
     name: Bret Stryker
+    id: 201538
     capacity: 4
     disciplines: CEL PRE
     clan: Toreador
     grouping: 6
   - count: 1
     name: Silvian Popescu
+    id: 201706
     capacity: 4
     disciplines: cel PRE
     clan: Toreador
@@ -80,57 +89,79 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Society Hunting Ground
+      id: 101821
     - count: 3
       name: Vessel
+      id: 102113
   - name: Action
     count: 18
     cards:
     - count: 3
       name: Entrancement
+      id: 100652
     - count: 11
       name: Intimidation
+      id: 100999
     - count: 4
       name: Mind Numb
+      id: 101211
   - name: Action Modifier
     count: 18
     cards:
     - count: 9
       name: Aire of Elation
+      id: 100031
     - count: 2
       name: Change of Target
+      id: 100323
     - count: 7
       name: Loup
+      id: 102273
   - name: Reaction
     count: 18
     cards:
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 8
     cards:
     - count: 5
       name: Majesty
+      id: 101144
     - count: 3
       name: Staredown
+      id: 101859

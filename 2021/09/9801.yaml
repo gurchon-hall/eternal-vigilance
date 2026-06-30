@@ -1,0 +1,201 @@
+name: Pulled Fang
+location: Sazava, Czech Republic
+date_start: 2021-09-04
+rounds_format: 3R+F
+players_count: 27
+winner: Daniel Gargulák
+vekn_number: 8430007
+event_url: https://www.vekn.net/event-calendar/event/9801
+event_id: 9801
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9801
+deck:
+  name: Legionnaires
+  description: ''
+  crypt_count: 12
+  crypt_min: 5
+  crypt_max: 14
+  crypt_avg: 2.33
+  crypt:
+  - count: 1
+    name: Agrippina
+    id: 200022
+    capacity: 4
+    disciplines: pot OBF
+    clan: Nosferatu
+    grouping: 1
+  - count: 1
+    name: Tansu Bekir
+    id: 201340
+    capacity: 4
+    disciplines: cel OBF
+    clan: Banu Haqim
+    grouping: 2
+  - count: 1
+    name: Max Lowell
+    id: 200965
+    capacity: 3
+    disciplines: cel obf
+    clan: Gangrel antitribu
+    grouping: 2
+  - count: 1
+    name: Watenda
+    id: 201464
+    capacity: 3
+    disciplines: obf
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Zöe
+    id: 201509
+    capacity: 3
+    disciplines: cel obf AUS
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Angel
+    id: 200088
+    capacity: 2
+    disciplines: cel
+    clan: Brujah
+    grouping: 1
+  - count: 1
+    name: Carter
+    id: 200251
+    capacity: 2
+    disciplines: cel
+    clan: Toreador antitribu
+    grouping: 2
+  - count: 1
+    name: Dimple
+    id: 200346
+    capacity: 2
+    disciplines: obf
+    clan: Nosferatu
+    grouping: 1
+  - count: 1
+    name: Normal
+    id: 201065
+    capacity: 2
+    disciplines: obf
+    clan: Malkavian
+    grouping: 1
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Basil
+    id: 200173
+    capacity: 1
+    disciplines: obf
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Nik
+    id: 201059
+    capacity: 1
+    disciplines: cel
+    clan: Caitiff
+    grouping: 1
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 35
+    cards:
+    - count: 9
+      name: Agent of Power
+      id: 100025
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 5
+      name: Information Highway
+      id: 100984
+    - count: 9
+      name: Liquidation
+      id: 101112
+    - count: 5
+      name: Parthenon, The
+      id: 101355
+    - count: 4
+      name: Spontaneous Power
+      id: 101855
+  - name: Action
+    count: 25
+    cards:
+    - count: 6
+      name: Distraction
+      id: 100560
+    - count: 6
+      name: Scrounging
+      id: 101700
+    - count: 13
+      name: Summon History
+      id: 101897
+  - name: Ally
+    count: 14
+    cards:
+    - count: 11
+      name: Emerald Legionnaire
+      id: 100634
+    - count: 1
+      name: Gianna di Canneto
+      id: 100823
+    - count: 1
+      name: Vagabond Mystic
+      id: 102087
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Action Modifier
+    count: 11
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 1
+      name: Domain of Evernight
+      id: 100571
+    - count: 1
+      name: Faceless Night
+      id: 100687
+    - count: 2
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 1
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Pocket Out of Time
+      id: 101405
+    - count: 1
+      name: Spying Mission
+      id: 101857
+    - count: 1
+      name: Veil the Legions
+      id: 102097
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Swallowed by the Night
+      id: 101913
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Gift of Sleep
+      id: 100828
+  - name: Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Delaying Tactics
+      id: 100519

@@ -19,42 +19,49 @@ deck:
   crypt:
   - count: 2
     name: Abaddon
+    id: 201663
     capacity: 8
     disciplines: cel pot AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 2
     name: Seraphina
+    id: 201686
     capacity: 8
     disciplines: cel tha AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 2
     name: Ilonka
+    id: 201673
     capacity: 7
     disciplines: tha AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 2
     name: Aniel
+    id: 201666
     capacity: 6
     disciplines: for AUS DOM
     clan: Salubri
     grouping: 7
   - count: 2
     name: Malachi
+    id: 201676
     capacity: 6
     disciplines: AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Opikun
+    id: 201680
     capacity: 5
     disciplines: aus dom FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Yael
+    id: 201691
     capacity: 4
     disciplines: aus dom for
     clan: Salubri
@@ -65,77 +72,107 @@ deck:
     count: 13
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Fragment of the Book of Nod
+      id: 100785
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Misdirection
+      id: 101225
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Sudden Reversal
+      id: 101896
     - count: 1
       name: Visit from the Capuchin
+      id: 102126
   - name: Action
     count: 17
     cards:
     - count: 11
       name: Feast of the Soul's Secrets
+      id: 102248
     - count: 6
       name: Govern the Unaligned
+      id: 100845
   - name: Action/Combat
     count: 2
     cards:
     - count: 2
       name: Touch of Valeren
+      id: 102262
   - name: Action Modifier
     count: 40
     cards:
     - count: 5
       name: Bonding
+      id: 100236
     - count: 5
       name: Conditioning
+      id: 100401
     - count: 1
       name: Daring the Dawn
+      id: 100492
     - count: 8
       name: Forced Confessional
+      id: 102250
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
     - count: 3
       name: Freak Drive
+      id: 100788
     - count: 10
       name: Seduction
+      id: 101712
     - count: 3
       name: Threats
+      id: 101978
     - count: 4
       name: Unleashing the Bestial Soul
+      id: 102263
   - name: Reaction
     count: 16
     cards:
     - count: 2
       name: Deflection
+      id: 100518
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: Redirection
+      id: 101578
   - name: Combat
     count: 2
     cards:
     - count: 2
       name: Rolling with the Punches
+      id: 101649

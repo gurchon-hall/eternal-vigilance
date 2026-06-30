@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Inyanga
+    id: 200638
     capacity: 9
     disciplines: dom nec ANI AUS FOR PRO
     title: Primogen
@@ -26,6 +27,7 @@ deck:
     grouping: 4
   - count: 3
     name: Randall
+    id: 201160
     capacity: 8
     disciplines: ANI AUS FOR PRO
     title: 1 Vote
@@ -33,18 +35,21 @@ deck:
     grouping: 4
   - count: 2
     name: Nadima
+    id: 201029
     capacity: 8
     disciplines: ani aus FOR PRO SER
     clan: Gangrel
     grouping: 3
   - count: 2
     name: Danielle Diron (ADV)
+    id: 200317
     capacity: 7
     disciplines: aus cel chi for ANI PRO
     clan: Gangrel
     grouping: 3
   - count: 2
     name: Dr. Allan Woodstock
+    id: 200373
     capacity: 5
     disciplines: ani aus for PRO
     clan: Gangrel
@@ -56,67 +61,91 @@ deck:
     cards:
     - count: 4
       name: Auspex
+      id: 100114
     - count: 1
       name: Backways
+      id: 100126
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Minion Tap
+      id: 101217
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 3
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 2
       name: Vessel
+      id: 102113
     - count: 1
       name: Villein
+      id: 102121
     - count: 1
       name: Zoo Hunting Ground
+      id: 102212
   - name: Action
     count: 8
     cards:
     - count: 4
       name: Army of Rats
+      id: 100093
     - count: 4
       name: Restoration
+      id: 101613
   - name: Equipment
     count: 5
     cards:
     - count: 2
       name: Bowl of Convergence
+      id: 100243
     - count: 3
       name: Sniper Rifle
+      id: 101816
   - name: Retainer
     count: 4
     cards:
     - count: 4
       name: Raptor
+      id: 101545
   - name: Action Modifier
     count: 6
     cards:
     - count: 6
       name: Earth Control
+      id: 100600
   - name: Reaction
     count: 30
     cards:
     - count: 4
       name: Enhanced Senses
+      id: 100644
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 12
       name: Eyes of the Wild
+      id: 102222
     - count: 2
       name: Precognition
+      id: 101475
     - count: 3
       name: Spirit's Touch
+      id: 101850
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 17
     cards:
     - count: 14
       name: Earth Meld
+      id: 100601
     - count: 3
       name: Pack Alpha
+      id: 101342

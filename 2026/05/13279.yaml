@@ -1,5 +1,5 @@
 name: Liga Powerbase JF 2026 Maio
-location: Juiz de Fora, Brasil
+location: Juiz de Fora, Brazil
 date_start: 2026-05-07
 rounds_format: 2R+F
 players_count: 14
@@ -7,8 +7,8 @@ winner: Guilherme Machado
 vekn_number: 6130009
 event_url: https://www.vekn.net/event-calendar/event/13279
 event_id: 13279
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/83001-twd-liga-powerbase-jf-2026-maio
+vp_comment: 2GW8 + 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13279
 deck:
   name: Salubri BleedDeny
   description: ''
@@ -17,13 +17,6 @@ deck:
   crypt_max: 34
   crypt_avg: 6.58
   crypt:
-  - count: 2
-    name: Djeneba
-    id: 201782
-    capacity: 9
-    disciplines: obf ANI AUS DOM FOR
-    clan: Salubri
-    grouping: 7
   - count: 3
     name: Abaddon
     id: 201663
@@ -31,11 +24,11 @@ deck:
     disciplines: cel pot AUS DOM FOR
     clan: Salubri
     grouping: 7
-  - count: 1
-    name: Ilonka
-    id: 201673
-    capacity: 7
-    disciplines: tha AUS DOM FOR
+  - count: 2
+    name: Djeneba
+    id: 201782
+    capacity: 9
+    disciplines: obf ANI AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 2
@@ -50,6 +43,13 @@ deck:
     id: 201676
     capacity: 6
     disciplines: AUS DOM FOR
+    clan: Salubri
+    grouping: 7
+  - count: 1
+    name: Ilonka
+    id: 201673
+    capacity: 7
+    disciplines: tha AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 1
@@ -78,7 +78,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Dark Influences
@@ -96,7 +96,7 @@ deck:
       name: Misdirection
       id: 101225
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
       name: Perfectionist
@@ -144,13 +144,13 @@ deck:
       name: Freak Drive
       id: 100788
     - count: 1
-      name: The Kiss of Ra
+      name: Kiss of Ra, The
       id: 101062
     - count: 6
       name: Seduction
       id: 101712
     - count: 2
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
       id: 101805
     - count: 6
       name: Unleashing the Bestial Soul

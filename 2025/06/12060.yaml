@@ -7,9 +7,8 @@ winner: Bill Troxel
 vekn_number: 2150015
 event_url: https://www.vekn.net/event-calendar/event/12060
 event_id: 12060
-vp_comment: 1GW5, 3VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82450-twd-week-of-nightmares-event-6-2025
+vp_comment: 1GW5, 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12060
 deck:
   name: Don't Try This At Home, a.k.a. Enema Gathering
   description: This toolboxy Creeping Sabotage deck was made from two other 
@@ -23,22 +22,25 @@ deck:
   crypt_max: 25
   crypt_avg: 5.25
   crypt:
-  - count: 1
-    name: Vivian VI
-    capacity: 7
-    disciplines: obf tha PRE PRO
-    title: Baron
-    clan: Ministry
-    grouping: 6
   - count: 3
     name: Benedito, a Lanterna
+    id: 201524
     capacity: 6
     disciplines: ani aus obf POT
     title: Baron
     clan: Nosferatu
     grouping: 6
   - count: 1
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -46,6 +48,7 @@ deck:
     grouping: 6
   - count: 1
     name: Jacques Rouge
+    id: 201523
     capacity: 6
     disciplines: ani pot pre OBF
     title: Baron
@@ -53,6 +56,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -60,30 +64,35 @@ deck:
     grouping: 6
   - count: 1
     name: Clara Hjortshøj
+    id: 201669
     capacity: 5
     disciplines: ani aus dom PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Daria
+    id: 201639
     capacity: 5
     disciplines: ani AUS OBF
     clan: Nosferatu
     grouping: 6
   - count: 1
     name: Slag
+    id: 201298
     capacity: 4
     disciplines: ani obf pot
     clan: Nosferatu
     grouping: 5
   - count: 1
     name: Joseph Fischer
+    id: 200723
     capacity: 3
     disciplines: PRO
     clan: Gangrel antitribu
     grouping: 5
   - count: 1
     name: Veejay Vinod
+    id: 201433
     capacity: 3
     disciplines: AUS
     clan: Nagaraja
@@ -95,103 +104,142 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 2
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
+      id: 101070
     - count: 1
       name: Protected Resources
+      id: 101500
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 2
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
     - count: 2
       name: Warsaw Station
+      id: 102149
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 15
     cards:
     - count: 6
       name: Anima Gathering
+      id: 100068
     - count: 2
       name: Army of Rats
+      id: 100093
     - count: 7
       name: Creeping Sabotage
-  - name: Political Action
-    count: 2
-    cards:
-    - count: 1
-      name: Confiscation
-    - count: 1
-      name: Eat the Rich
+      id: 102213
   - name: Equipment
     count: 6
     cards:
     - count: 2
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 2
       name: Sniper Rifle
+      id: 101816
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 1
+      name: Confiscation
+      id: 102271
+    - count: 1
+      name: Eat the Rich
+      id: 100605
   - name: Action Modifier
     count: 5
     cards:
     - count: 1
       name: Cloak the Gathering
+      id: 100362
     - count: 1
       name: Earth Control
+      id: 100600
     - count: 1
       name: Forgotten Labyrinth
+      id: 100769
     - count: 1
       name: Memory Rift
+      id: 101199
     - count: 1
       name: Smoke and Mirrors
+      id: 101813
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 1
       name: Rapid Change
+      id: 101542
     - count: 1
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 26
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Deep Ecology
+      id: 102219
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 1
       name: On the Qui Vive
+      id: 101321
     - count: 15
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 12
     cards:
     - count: 1
       name: Disguised Weapon
+      id: 100555
     - count: 6
       name: Earth Meld
+      id: 100601
     - count: 1
       name: Form of Mist
+      id: 100771
     - count: 4
       name: Groundfighting
+      id: 100861

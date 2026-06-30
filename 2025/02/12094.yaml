@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Nehemiah
+    id: 201044
     capacity: 9
     disciplines: obt POT PRE SER TEM
     title: 2 Votes
@@ -26,6 +27,7 @@ deck:
     grouping: 4
   - count: 1
     name: Adana de Sforza
+    id: 200011
     capacity: 11
     disciplines: aus CEL OBF POT PRE PRO
     title: Inner Circle
@@ -33,6 +35,7 @@ deck:
     grouping: 4
   - count: 1
     name: Lutz von Hohenzollern
+    id: 200890
     capacity: 11
     disciplines: pot AUS DEM OBF PRE
     title: Inner Circle
@@ -40,6 +43,7 @@ deck:
     grouping: 4
   - count: 1
     name: Mistress Fanchon
+    id: 200999
     capacity: 11
     disciplines: AUS CEL DOM OBF THA VIC
     title: Inner Circle
@@ -47,6 +51,7 @@ deck:
     grouping: 4
   - count: 1
     name: Rafael de Corazon
+    id: 201151
     capacity: 11
     disciplines: AUS CEL DOM OBF PRE
     title: Inner Circle
@@ -54,6 +59,7 @@ deck:
     grouping: 4
   - count: 1
     name: Dmitra Ilyanova
+    id: 200349
     capacity: 9
     disciplines: obf CEL FOR POT PRE
     title: Justicar
@@ -61,6 +67,7 @@ deck:
     grouping: 5
   - count: 1
     name: Malgorzata
+    id: 200905
     capacity: 9
     disciplines: pre AUS DOM THA VIC
     title: Priscus
@@ -68,6 +75,7 @@ deck:
     grouping: 4
   - count: 1
     name: Orlando Oriundus
+    id: 201084
     capacity: 9
     disciplines: obf AUS DOM THA
     title: Bishop
@@ -75,6 +83,7 @@ deck:
     grouping: 4
   - count: 1
     name: Stavros
+    id: 201313
     capacity: 7
     disciplines: dem AUS OBF PRE
     title: Priscus
@@ -87,83 +96,115 @@ deck:
     cards:
     - count: 1
       name: Dark Influences
+      id: 100493
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 2
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 1
       name: Protected Resources
+      id: 101500
     - count: 1
       name: Tabriz Assembly
+      id: 101924
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 9
     cards:
     - count: 9
       name: Summon History
+      id: 101897
   - name: Equipment
     count: 5
     cards:
     - count: 1
-      name: The Ankara Citadel, Turkey
+      name: Ankara Citadel, Turkey, The
+      id: 100071
     - count: 2
       name: Changeling Skin Mask
+      id: 100325
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
-      name: The Sargon Fragment
+      name: Sargon Fragment, The
+      id: 101681
   - name: Political Action
     count: 16
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Banishment
+      id: 100131
     - count: 2
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 7
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 30
     cards:
     - count: 4
       name: Awe
+      id: 100119
     - count: 3
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 5
       name: Forgotten Labyrinth
+      id: 100769
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 4
       name: Tangle Atropos' Hand
+      id: 101935
     - count: 7
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 1
     cards:
     - count: 1
       name: Rewind Time
+      id: 101633
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Majesty
+      id: 101144

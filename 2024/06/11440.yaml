@@ -11,8 +11,7 @@ vp_comment: Finally gave in and dropped the Zephyrs for Org Resist, dropped a
   Manifest for another bounce and considering Saku's [for] swapped one Dust up 
   for Diversion.  Otherwise largely unchanged from previous versions despite 
   hating the Thrown Gates most of the time.
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81586-twd-origins-thursday-2-columbus-oh-usa-20-june-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11440
 deck:
   name: Alpha Beta
   created_by: Darby Keeney
@@ -23,21 +22,8 @@ deck:
   crypt_avg: 6.83
   crypt:
   - count: 2
-    name: Aline Gädeke
-    capacity: 7
-    disciplines: cel POT PRE
-    title: Baron
-    clan: Brujah
-    grouping: 6
-  - count: 2
-    name: Leumeah
-    capacity: 6
-    disciplines: cel for pot PRE
-    title: Baron
-    clan: Brujah
-    grouping: 6
-  - count: 2
     name: Saku Pihlajamäki
+    id: 201658
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
@@ -45,19 +31,38 @@ deck:
     grouping: 6
   - count: 2
     name: Theo Bell
+    id: 201613
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 2
+    name: Aline Gädeke
+    id: 201576
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
     clan: Brujah
     grouping: 6
+  - count: 2
+    name: Leumeah
+    id: 201526
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -65,6 +70,7 @@ deck:
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
@@ -76,71 +82,97 @@ deck:
     cards:
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: New Carthage
+      id: 101277
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 20
     cards:
     - count: 9
       name: Illegalism
+      id: 100952
     - count: 10
       name: Line Brawl
+      id: 102229
     - count: 1
       name: Open War
+      id: 101324
   - name: Equipment
     count: 1
     cards:
     - count: 1
-      name: An Anarch Manifesto
+      name: Anarch Manifesto, An
+      id: 100053
   - name: Action Modifier
     count: 6
     cards:
     - count: 6
       name: Power of One
+      id: 101429
       comment: oddly valuable both for output and increasing bleed success
   - name: Reaction
     count: 8
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
       comment: added copies in concession to V5 meta
     - count: 2
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 38
     cards:
     - count: 2
       name: Bollix
+      id: 100232
     - count: 2
       name: Disarm
+      id: 100549
     - count: 4
       name: Diversion
+      id: 100563
     - count: 9
       name: Dust Up
+      id: 100597
     - count: 6
       name: Immortal Grapple
+      id: 100959
       comment: slightly increased
     - count: 2
       name: Pulled Fangs
+      id: 101515
     - count: 5
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 4
       name: Thrown Gate
+      id: 101982

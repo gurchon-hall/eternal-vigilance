@@ -1,5 +1,5 @@
 name: Forced Awakening
-location: Campina Grande, Brasil
+location: Campina Grande, Brazil
 date_start: 2022-11-27
 rounds_format: 3R+F
 players_count: 12
@@ -7,18 +7,18 @@ winner: Rafael Barbosa da Silva
 vekn_number: 7060055
 event_url: https://www.vekn.net/event-calendar/event/10453
 event_id: 10453
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80210-twda-forced-awakening
+forum_post_url: https://www.vekn.net/event-calendar/event/10453
 deck:
   name: Le Mat
   description: ''
   crypt_count: 12
-  crypt_min: 40
-  crypt_max: 26
+  crypt_min: 20
+  crypt_max: 40
   crypt_avg: 8.17
   crypt:
   - count: 4
     name: Wynn
+    id: 201476
     capacity: 10
     disciplines: obf pot ANI FOR PRO
     title: Primogen
@@ -26,6 +26,7 @@ deck:
     grouping: 1
   - count: 3
     name: Basilia
+    id: 200174
     capacity: 10
     disciplines: obf pot ANI FOR PRO
     title: Primogen
@@ -33,26 +34,30 @@ deck:
     grouping: 1
   - count: 2
     name: Badger
+    id: 200159
     capacity: 6
     disciplines: ani pot FOR PRO
     clan: Gangrel
     grouping: 1
   - count: 1
     name: Faruq
+    id: 200457
     capacity: 8
     disciplines: dom for pot ANI PRO
     clan: Gangrel
     grouping: 2
   - count: 1
-    name: Vliam Andor
-    capacity: 2
-    disciplines: ani
+    name: Zack North
+    id: 201498
+    capacity: 6
+    disciplines: ani for pot pro
     clan: Gangrel
     grouping: 1
   - count: 1
-    name: Zack North
-    capacity: 6
-    disciplines: ani for pot pro
+    name: Vliam Andor
+    id: 201457
+    capacity: 2
+    disciplines: ani
     clan: Gangrel
     grouping: 1
   library_count: 87
@@ -62,83 +67,115 @@ deck:
     cards:
     - count: 1
       name: Depravity
+      id: 100526
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Gangrel Revel
+      id: 100807
     - count: 2
       name: Haven Uncovered
+      id: 100897
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Zoo Hunting Ground
+      id: 102212
   - name: Action
     count: 9
     cards:
     - count: 2
       name: Ambush
+      id: 100046
     - count: 1
       name: Arson
+      id: 100094
     - count: 4
       name: Deep Song
+      id: 100515
     - count: 2
       name: Harass
+      id: 100886
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Procurer
+      id: 101491
   - name: Retainer
     count: 2
     cards:
     - count: 2
       name: Dog Pack
+      id: 100568
   - name: Action Modifier
     count: 14
     cards:
     - count: 4
       name: Earth Control
+      id: 100600
     - count: 10
       name: Freak Drive
+      id: 100788
   - name: Action Modifier/Combat
     count: 1
     cards:
     - count: 1
       name: Rapid Change
+      id: 101542
   - name: Combat
     count: 46
     cards:
     - count: 1
       name: Body Flare
+      id: 100230
     - count: 3
       name: Bone Spur
+      id: 100237
     - count: 3
       name: Call the Wild Hunt
+      id: 100282
     - count: 7
       name: Carrion Crows
+      id: 100301
     - count: 7
       name: Drawing Out the Beast
+      id: 100585
     - count: 4
       name: Flesh of Marble
+      id: 100749
     - count: 6
       name: Rolling with the Punches
+      id: 101649
     - count: 1
       name: Skin of Night
+      id: 101790
     - count: 3
       name: Skin of Rock
+      id: 101791
     - count: 3
       name: Soak
+      id: 101817
     - count: 3
       name: Superior Mettle
+      id: 101905
     - count: 2
       name: Taste of Vitae
+      id: 101945
     - count: 3
       name: Wolf Claws
+      id: 102190

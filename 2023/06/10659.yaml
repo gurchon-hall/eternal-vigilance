@@ -7,8 +7,7 @@ winner: Kelly Lyons
 vekn_number: 1004352
 event_url: https://www.vekn.net/event-calendar/event/10659
 event_id: 10659
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80659-twd-won-event-3-trophy-library-columbus
+forum_post_url: https://www.vekn.net/event-calendar/event/10659
 deck:
   name: Water Dog - Tiny Dominate
   description: This is an updated version of the same deck that I discussed on 
@@ -20,84 +19,98 @@ deck:
   crypt:
   - count: 1
     name: Brooke
+    id: 200221
     capacity: 3
     disciplines: dom tha
     clan: Tremere antitribu
     grouping: 2
   - count: 1
     name: Cameron
+    id: 200239
     capacity: 3
     disciplines: dom pot
     clan: Lasombra
     grouping: 2
   - count: 1
     name: Diana Vick
+    id: 200342
     capacity: 3
     disciplines: dom pre
     clan: Ventrue
     grouping: 3
   - count: 1
     name: Ehrich Weiss
+    id: 200406
     capacity: 3
     disciplines: dom tha
     clan: Tremere
     grouping: 3
   - count: 1
     name: Ember Wright
+    id: 200418
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Lana Butcher
+    id: 200812
     capacity: 3
     disciplines: dom for
     clan: Ventrue
     grouping: 3
   - count: 1
     name: Lia Milliner
+    id: 200834
     capacity: 3
     disciplines: dom nec
     clan: Giovanni
     grouping: 3
   - count: 1
     name: Saiz
+    id: 201222
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Sister Evelyn
+    id: 201294
     capacity: 3
     disciplines: aus dom
     clan: Ventrue antitribu
     grouping: 3
   - count: 1
     name: Christine Boscacci
+    id: 200273
     capacity: 2
     disciplines: dom vic
     clan: Pander
     grouping: 2
   - count: 1
     name: Mustafa Rahman
+    id: 201027
     capacity: 2
     disciplines: dom
     clan: Tremere
     grouping: 2
   - count: 1
     name: Ohanna
+    id: 201073
     capacity: 2
     disciplines: dom
     clan: Malkavian
     grouping: 2
   - count: 1
     name: Samson
+    id: 201231
     capacity: 2
     disciplines: dom
     clan: Ventrue antitribu
     grouping: 2
   - count: 1
     name: Royce
+    id: 201208
     capacity: 1
     disciplines: dom
     clan: Pander
@@ -109,39 +122,52 @@ deck:
     cards:
     - count: 3
       name: Dominate
+      id: 100572
     - count: 4
       name: Effective Management
+      id: 100616
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 4
       name: Life in the City
+      id: 101104
     - count: 2
       name: Wash
+      id: 102151
   - name: Action
     count: 23
     cards:
     - count: 14
       name: Govern the Unaligned
+      id: 100845
     - count: 9
       name: Scouting Mission
+      id: 101698
   - name: Action Modifier
     count: 17
     cards:
     - count: 10
       name: Foreshadowing Destruction
+      id: 100765
     - count: 3
       name: Seduction
+      id: 101712
     - count: 4
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
+      id: 101805
   - name: Reaction
     count: 6
     cards:
     - count: 3
       name: Deflection
+      id: 100518
     - count: 3
       name: Delaying Tactics
+      id: 100519
   - name: Combat
     count: 5
     cards:
     - count: 5
       name: Absorb the Mind
+      id: 100013

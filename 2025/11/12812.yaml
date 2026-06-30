@@ -7,9 +7,8 @@ winner: Tomasz Pietkiewicz
 vekn_number: 1004624
 event_url: https://www.vekn.net/event-calendar/event/12812
 event_id: 12812
-vp_comment: 2GW 9VP + 1,5VP in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82670-twd-back-from-torpor-poznan-2025-15-11-2025
+vp_comment: 2GW9 + 1.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12812
 deck:
   name: Aaradhya Vote
   created_by: Tomasz Pietkiewicz
@@ -21,6 +20,7 @@ deck:
   crypt:
   - count: 5
     name: Aaradhya, The Callous Tyrant
+    id: 201733
     capacity: 10
     disciplines: ANI DOM FOR POT PRE
     title: Cardinal
@@ -29,6 +29,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Carolina Vález
+    id: 200249
     capacity: 9
     disciplines: aus DOM OBT POT PRE
     title: Archbishop
@@ -36,6 +37,7 @@ deck:
     grouping: 5
   - count: 1
     name: Dark Selina
+    id: 200321
     capacity: 9
     disciplines: dom for CEL POT PRE
     title: Cardinal
@@ -43,21 +45,24 @@ deck:
     grouping: 5
   - count: 1
     name: De Sade
+    id: 200327
     capacity: 9
     disciplines: AUS DOM FOR PRE
     title: Archbishop
     clan: Ventrue antitribu
     grouping: 5
   - count: 1
-    name: Khin Aye
-    capacity: 7
-    disciplines: dom for POT PRE
-    title: Priscus
-    clan: Ventrue
+    name: Věnceslava, The Implacable
+    id: 201776
+    capacity: 9
+    disciplines: cel DOM FOR POT PRE
+    title: Archbishop
+    clan: Brujah
     grouping: 6
     path: Power and the Inner Voice
   - count: 1
     name: Rexton "Savage" Abernathy
+    id: 201770
     capacity: 8
     disciplines: cel DOM POT PRE
     title: Archbishop
@@ -66,6 +71,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Üresség
+    id: 201775
     capacity: 8
     disciplines: dom for CEL POT PRE
     title: Archbishop
@@ -73,11 +79,12 @@ deck:
     grouping: 6
     path: Power and the Inner Voice
   - count: 1
-    name: Věnceslava, The Implacable
-    capacity: 9
-    disciplines: cel DOM FOR POT PRE
-    title: Archbishop
-    clan: Brujah
+    name: Khin Aye
+    id: 201760
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
     grouping: 6
     path: Power and the Inner Voice
   library_count: 80
@@ -87,64 +94,88 @@ deck:
     cards:
     - count: 1
       name: Black Forest Base
+      id: 100165
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 4
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 1
       name: Ventrue Headquarters
+      id: 102109
     - count: 6
       name: Villein
+      id: 102121
   - name: Action
     count: 5
     cards:
     - count: 5
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 16
     cards:
     - count: 4
       name: Banishment
+      id: 100131
     - count: 6
       name: Cold War
+      id: 102312
     - count: 4
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 30
     cards:
     - count: 4
       name: Dominant Personality
+      id: 102316
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 5
       name: Iron Glare
+      id: 101008
     - count: 4
       name: Perfect Paragon
+      id: 101387
     - count: 2
       name: Private Audience
+      id: 101490
     - count: 4
       name: Relentlessness
+      id: 102337
     - count: 5
       name: Unthinkable Humiliation
+      id: 102346
     - count: 5
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 5
     cards:
     - count: 5
       name: Force of Personality
+      id: 100758
   - name: Reaction
     count: 7
     cards:
     - count: 7
       name: Deflection
+      id: 100518

@@ -19,36 +19,42 @@ deck:
   crypt:
   - count: 5
     name: Angelique
+    id: 200093
     capacity: 9
     disciplines: AUS FOR NEC SER THA
     clan: Harbinger of Skulls
     grouping: 6
   - count: 2
     name: Mordechai Ben-Nun
+    id: 201009
     capacity: 8
     disciplines: ANI AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 5
   - count: 2
     name: La Viuda Blanca
+    id: 200801
     capacity: 6
     disciplines: for obf AUS NEC
     clan: Harbinger of Skulls
     grouping: 6
   - count: 1
     name: Alcoan
+    id: 200042
     capacity: 7
     disciplines: for AUS CEL NEC
     clan: Harbinger of Skulls
     grouping: 6
   - count: 1
     name: Hecate
+    id: 200580
     capacity: 6
     disciplines: AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 5
   - count: 1
     name: Veejay Vinod
+    id: 201433
     capacity: 3
     disciplines: AUS
     clan: Nagaraja
@@ -59,95 +65,128 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Charisma
+      id: 100332
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Fragment of the Book of Nod
+      id: 100785
     - count: 1
-      name: The Line
+      name: Line, The
+      id: 101110
     - count: 2
       name: Liquidation
+      id: 101112
     - count: 1
       name: Mob Connections
+      id: 101229
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 1
       name: Vessel
+      id: 102113
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 2
     cards:
     - count: 2
       name: Divine Sign
+      id: 100566
   - name: Ally
     count: 22
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 6
       name: Emerald Legionnaire
+      id: 100634
     - count: 1
       name: Repo Man
+      id: 101605
     - count: 14
       name: Shambling Hordes
+      id: 101751
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Unlicensed Taxicab
+      id: 102078
   - name: Action Modifier
     count: 13
     cards:
     - count: 5
       name: Acheron Vortex
+      id: 100016
     - count: 5
       name: Call of the Hungry Dead
+      id: 100279
     - count: 1
       name: Inevitability of the Void
+      id: 100974
     - count: 2
       name: Trochomancy
+      id: 102026
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Breath of Thanatos
+      id: 100249
   - name: Action Modifier/Reaction
     count: 5
     cards:
     - count: 5
       name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 19
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: Enhanced Senses
+      id: 100644
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Spirit's Touch
+      id: 101850
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 7
     cards:
     - count: 7
       name: Spiritual Intervention
+      id: 101852
   - name: Event
     count: 2
     cards:
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

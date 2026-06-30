@@ -19,24 +19,28 @@ deck:
   crypt:
   - count: 5
     name: Fakir al Sidi
+    id: 200455
     capacity: 11
     disciplines: abo ANI FOR PRE PRO THA
     clan: Gangrel
     grouping: 4
   - count: 5
     name: Aksinya Daclau
+    id: 200034
     capacity: 9
     disciplines: cel tha ANI FOR PRE PRO
     clan: Gangrel antitribu
     grouping: 4
   - count: 1
     name: Matasuntha
+    id: 200956
     capacity: 10
     disciplines: ANI AUS CEL FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 1
     name: Crow
+    id: 200303
     capacity: 5
     disciplines: for pro tha ANI
     clan: Gangrel
@@ -48,64 +52,88 @@ deck:
     cards:
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Ennoia's Theater
+      id: 100646
     - count: 2
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 4
       name: Haven Uncovered
+      id: 100897
     - count: 3
       name: Information Highway
+      id: 100984
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 8
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 10
     cards:
     - count: 10
       name: Deep Song
+      id: 100515
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Dog Pack
+      id: 100568
   - name: Reaction
     count: 14
     cards:
     - count: 2
       name: Cats' Guidance
+      id: 100308
     - count: 2
       name: Eyes of the Wild
+      id: 102222
     - count: 2
       name: Guard Dogs
+      id: 100863
     - count: 4
       name: Rat's Warning
+      id: 101547
     - count: 4
       name: Sense the Savage Way
+      id: 101717
   - name: Combat
     count: 41
     cards:
     - count: 4
       name: Bear's Skin
+      id: 100145
     - count: 10
       name: Carrion Crows
+      id: 100301
     - count: 3
       name: Conquer the Beast
+      id: 100408
     - count: 9
       name: Flesh of Marble
+      id: 100749
     - count: 4
       name: Hidden Strength
+      id: 100918
     - count: 6
       name: Taste of Vitae
+      id: 101945
     - count: 5
       name: Trap
+      id: 102012
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

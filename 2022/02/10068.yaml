@@ -1,0 +1,212 @@
+name: Pelos Fundos
+location: Online
+date_start: 2022-02-12
+rounds_format: 2R+F
+players_count: 16
+winner: Rafael Barbosa da Silva
+vekn_number: 7060055
+event_url: https://www.vekn.net/event-calendar/event/10068
+event_id: 10068
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10068
+deck:
+  name: Takamura
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 40
+  crypt_avg: 7.75
+  crypt:
+  - count: 2
+    name: Karsh
+    id: 200757
+    capacity: 10
+    disciplines: ANI CEL FOR POT PRO
+    clan: Gangrel
+    grouping: 3
+  - count: 2
+    name: Jalan-Aajav
+    id: 200667
+    capacity: 9
+    disciplines: ani CEL FOR POT PRO
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 2
+    name: Maxwell
+    id: 200966
+    capacity: 9
+    disciplines: CEL FOR POT PRE PRO
+    clan: Brujah
+    grouping: 3
+  - count: 1
+    name: Gwendolyn
+    id: 200554
+    capacity: 11
+    disciplines: aus tha CEL FOR POT PRE
+    title: Inner Circle
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Hrothulf
+    id: 200608
+    capacity: 8
+    disciplines: dom pot pro CEL FOR PRE
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Richter, The Templar of Du Mont
+    id: 201187
+    capacity: 7
+    disciplines: for pre CEL POT
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Pug Jackson
+    id: 201135
+    capacity: 6
+    disciplines: for pre CEL POT
+    title: Primogen
+    clan: Brujah
+    grouping: 3
+  - count: 1
+    name: Jimmy Dunn
+    id: 200705
+    capacity: 4
+    disciplines: for CEL POT
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Guardian Angel
+      id: 100866
+    - count: 1
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 13
+    cards:
+    - count: 3
+      name: Ambush
+      id: 100046
+    - count: 1
+      name: Big Game
+      id: 100159
+    - count: 4
+      name: Bum's Rush
+      id: 100266
+    - count: 3
+      name: Harass
+      id: 100886
+    - count: 2
+      name: Heroic Might
+      id: 100913
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 4
+      name: Forced March
+      id: 100761
+    - count: 6
+      name: Freak Drive
+      id: 100788
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Wake with Evening's Freshness
+      id: 102137
+  - name: Combat
+    count: 50
+    cards:
+    - count: 4
+      name: Blur
+      id: 100227
+    - count: 3
+      name: Flash
+      id: 100744
+    - count: 1
+      name: Flesh of Marble
+      id: 100749
+    - count: 8
+      name: Immortal Grapple
+      id: 100959
+    - count: 2
+      name: Psyche!
+      id: 101507
+    - count: 4
+      name: Pursuit
+      id: 101523
+    - count: 4
+      name: Quickness
+      id: 101532
+    - count: 1
+      name: Resilience
+      id: 101608
+    - count: 4
+      name: Rolling with the Punches
+      id: 101649
+    - count: 4
+      name: Roundhouse
+      id: 102215
+    - count: 1
+      name: Sideslip
+      id: 101779
+    - count: 1
+      name: Skin of Steel
+      id: 101792
+    - count: 2
+      name: Soak
+      id: 101817
+    - count: 2
+      name: Taste of Vitae
+      id: 101945
+    - count: 8
+      name: Torn Signpost
+      id: 101993
+    - count: 1
+      name: Wolf Claws
+      id: 102190
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581

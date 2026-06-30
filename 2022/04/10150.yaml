@@ -7,18 +7,17 @@ winner: Alexandre Marçal de Barros Costa
 vekn_number: 1003843
 event_url: https://www.vekn.net/event-calendar/event/10150
 event_id: 10150
-vp_comment: 3 Vp in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79736-twd-fee-stake-maceio-brazil-17-april-2022
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10150
 deck:
   name: The Might of Ur-Shulgi, The Shepherd
   description: 'Basically this is a toolbox bleed with stealth deck focused on the
-    power of Ur-Shulgi. Using murmur (redirect or bleed) with blood awakening (block
-    fails or intercept) and some shenanigans like spying mission (stealth, anti redirections
-    or extra bleed with the 5 caps), I managed to honor our mighty assamite clan with
-    a glorious victory crushing the filthy ventrue on a very tight finals (with some
-    off the books helps from the ministry). Holding Khabar: Glory for the right time
-    for that extra 4 pool is crucial. Also Black Sunrise or mylan with enkil cog is
+    power of Ur-Shulgi. Using Murmur (redirect or bleed) with Blood Awakening (block
+    fails or intercept) and some shenanigans like Spying Mission (stealth, anti redirections
+    or extra bleed with the 5 caps), I managed to honor our mighty Assamite clan with
+    a glorious victory crushing the filthy Ventrue on a very tight finals (with some
+    off the books helps from the Ministry). Holding Khabar: Glory for the right time
+    for that extra 4 pool is crucial. Also Black Sunrise or Mylan with Enkil Cog is
     really interesting.'
   crypt_count: 12
   crypt_min: 20
@@ -27,6 +26,7 @@ deck:
   crypt:
   - count: 4
     name: Ur-Shulgi, The Shepherd
+    id: 201413
     capacity: 11
     disciplines: aus CEL DOM OBF QUI THA
     title: 2 Votes
@@ -34,35 +34,40 @@ deck:
     grouping: 2
   - count: 2
     name: Rebekah
+    id: 201170
     capacity: 9
     disciplines: AUS CEL DOM OBF QUI
     title: Prince
     clan: Banu Haqim
     grouping: 3
-  - count: 2
-    name: Badr al-Budur
-    capacity: 5
-    disciplines: cel dom qui OBF
-    clan: Banu Haqim
-    grouping: 2
-  - count: 2
-    name: Count Ormonde
-    capacity: 5
-    disciplines: dom pre ser OBF
-    clan: Ministry
-    grouping: 2
   - count: 1
     name: Yazid Tamari
+    id: 201485
     capacity: 8
     disciplines: ani dom obf CEL QUI
     clan: Banu Haqim
     grouping: 3
   - count: 1
     name: Yazid Tamari (ADV)
+    id: 201486
     capacity: 8
     disciplines: ani dom obf CEL QUI
     clan: Banu Haqim
     grouping: 3
+  - count: 2
+    name: Badr al-Budur
+    id: 200161
+    capacity: 5
+    disciplines: cel dom qui OBF
+    clan: Banu Haqim
+    grouping: 2
+  - count: 2
+    name: Count Ormonde
+    id: 200295
+    capacity: 5
+    disciplines: dom pre ser OBF
+    clan: Ministry
+    grouping: 2
   library_count: 90
   library_sections:
   - name: Master
@@ -70,97 +75,133 @@ deck:
     cards:
     - count: 2
       name: Dominate
+      id: 100572
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Market Square
+      id: 101171
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 2
       name: Sudden Reversal
+      id: 101896
     - count: 1
       name: Tajdid
+      id: 101927
     - count: 1
       name: Underworld Hunting Ground
+      id: 102066
     - count: 2
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
   - name: Action
     count: 17
     cards:
     - count: 1
       name: Dominate Kine
+      id: 100573
     - count: 1
       name: Far Mastery
+      id: 100703
     - count: 11
       name: Govern the Unaligned
+      id: 100845
     - count: 3
       name: 'Khabar: Glory'
+      id: 101043
     - count: 1
       name: Rutor's Hand
+      id: 101664
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Action Modifier
     count: 24
     cards:
     - count: 5
       name: Bonding
+      id: 100236
     - count: 2
       name: Deed the Heart's Desire
+      id: 100513
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 6
       name: Lost in Crowds
+      id: 101125
     - count: 5
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 9
     cards:
     - count: 4
       name: Blood Awakening
+      id: 100193
     - count: 5
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 12
     cards:
     - count: 4
       name: Black Sunrise
+      id: 100171
     - count: 4
       name: Deflection
+      id: 100518
     - count: 2
       name: Obedience
+      id: 101309
     - count: 2
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 6
     cards:
     - count: 5
       name: Preternatural Evasion
+      id: 101482
     - count: 1
       name: Taste of Death
+      id: 101944
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

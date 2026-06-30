@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 5
     name: Lord Tremere
+    id: 200856
     capacity: 11
     disciplines: obe ANI AUS DOM THA VIC
     clan: Tremere
     grouping: 5
   - count: 3
     name: Gabrielle di Righetti
+    id: 200489
     capacity: 10
     disciplines: obf pot ANI AUS DOM THA
     title: Justicar
@@ -32,6 +34,7 @@ deck:
     grouping: 5
   - count: 2
     name: Dr. John Dee
+    id: 200377
     capacity: 9
     disciplines: chi ANI AUS DOM THA
     title: Prince
@@ -39,6 +42,7 @@ deck:
     grouping: 4
   - count: 2
     name: Gerald Windham
+    id: 200508
     capacity: 9
     disciplines: AUS DOM FOR THA
     clan: Tremere
@@ -50,59 +54,82 @@ deck:
     cards:
     - count: 1
       name: Arcane Library
+      id: 100081
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 6
       name: Villein
+      id: 102121
   - name: Action
     count: 18
     cards:
     - count: 12
       name: Govern the Unaligned
+      id: 100845
     - count: 4
       name: Magic of the Smith
+      id: 101143
     - count: 2
       name: Rutor's Hand
+      id: 101664
   - name: Equipment
     count: 4
     cards:
     - count: 1
-      name: The Ankara Citadel, Turkey
+      name: Ankara Citadel, Turkey, The
+      id: 100071
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
   - name: Action Modifier
     count: 16
     cards:
     - count: 1
       name: Bonding
+      id: 100236
     - count: 1
       name: Conditioning
+      id: 100401
     - count: 5
       name: Mind of the Wilds
+      id: 101214
     - count: 9
       name: Mirror Walk
+      id: 101223
   - name: Reaction
     count: 37
     cards:
     - count: 15
       name: Deflection
+      id: 100518
     - count: 5
       name: Eluding the Arms of Morpheus
+      id: 100628
     - count: 8
       name: Eyes of Argus
+      id: 100680
     - count: 7
       name: Obedience
+      id: 101309
     - count: 2
       name: Telepathic Misdirection
+      id: 101949

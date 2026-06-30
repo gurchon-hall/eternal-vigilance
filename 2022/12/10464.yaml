@@ -19,72 +19,84 @@ deck:
   crypt:
   - count: 1
     name: Jimmy Dunn
+    id: 200705
     capacity: 4
     disciplines: for CEL POT
     clan: Pander
     grouping: 2
   - count: 1
     name: Lena Rowe
+    id: 200830
     capacity: 3
     disciplines: aus obf pre
     clan: Pander
     grouping: 2
   - count: 1
     name: Rex, The Necronomist
+    id: 201184
     capacity: 3
     disciplines: pot pro vic
     clan: Pander
     grouping: 2
   - count: 1
     name: Christine Boscacci
+    id: 200273
     capacity: 2
     disciplines: dom vic
     clan: Pander
     grouping: 2
   - count: 1
     name: Mitchell, The Headhunter
+    id: 201000
     capacity: 2
     disciplines: obt pot
     clan: Pander
     grouping: 2
   - count: 1
     name: Angela Decker
+    id: 200090
     capacity: 1
     disciplines: pre
     clan: Pander
     grouping: 2
   - count: 1
     name: Basil
+    id: 200173
     capacity: 1
     disciplines: obf
     clan: Pander
     grouping: 2
   - count: 1
     name: Feo Ramos
+    id: 200462
     capacity: 1
     disciplines: aus
     clan: Pander
     grouping: 3
   - count: 1
     name: Huang, Blood Cultist
+    id: 200609
     capacity: 1
     disciplines: pro
     clan: Pander
     grouping: 2
   - count: 1
     name: March Halcyon
+    id: 200911
     capacity: 1
     disciplines: for
     clan: Pander
     grouping: 2
   - count: 1
     name: Olga Triminov
+    id: 201075
     capacity: 1
     disciplines: vic
     clan: Pander
     grouping: 3
   - count: 1
     name: Royce
+    id: 201208
     capacity: 1
     disciplines: dom
     clan: Pander
@@ -96,52 +108,73 @@ deck:
     cards:
     - count: 1
       name: Día de los Muertos
+      id: 100541
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fear of Mekhet
+      id: 100710
     - count: 1
       name: Fortschritt Library
+      id: 100775
     - count: 4
       name: Information Highway
+      id: 100984
     - count: 3
       name: Kaymakli Nightmares
+      id: 101036
     - count: 1
       name: Not to Be
+      id: 101303
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 3
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Madrid'
+      id: 101437
   - name: Action
     count: 2
     cards:
     - count: 2
-      name: The Embrace
+      name: Embrace, The
+      id: 100633
   - name: Political Action
     count: 35
     cards:
     - count: 7
       name: Consanguineous Boon
+      id: 100410
     - count: 4
       name: Conservative Agitation
+      id: 100414
     - count: 13
       name: Kine Resources Contested
+      id: 101056
     - count: 8
       name: Legacy of Pander
+      id: 101087
     - count: 2
       name: Neonate Breach
+      id: 101271
     - count: 1
       name: Rumors of Gehenna
+      id: 101663
   - name: Event
     count: 4
     cards:
     - count: 1
       name: Blood Weakens
+      id: 100217
     - count: 1
-      name: The Rising
+      name: Rising, The
+      id: 101640
     - count: 1
-      name: The Slow Withering
+      name: Slow Withering, The
+      id: 101807
     - count: 1
       name: Veil of Darkness
+      id: 102095

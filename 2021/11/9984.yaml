@@ -1,0 +1,165 @@
+name: Sede de Vitae Part 24
+location: Online
+date_start: 2021-11-29
+date_end: 2021-12-02
+rounds_format: 2R+F
+players_count: 20
+winner: Ed Gonçalves
+vekn_number: 7060071
+event_url: https://www.vekn.net/event-calendar/event/9984
+event_id: 9984
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/9984
+deck:
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 29
+  crypt_avg: 3.92
+  crypt:
+  - count: 5
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 3
+    name: Nana Buruku
+    id: 201035
+    capacity: 8
+    disciplines: ANI POT PRE
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Céleste Lamontagne
+    id: 200259
+    capacity: 5
+    disciplines: for ANI PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Fish
+    id: 200468
+    capacity: 5
+    disciplines: pre ANI POT
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Lord Ashton
+    id: 200853
+    capacity: 5
+    disciplines: for pro ANI
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Stick
+    id: 201318
+    capacity: 3
+    disciplines: ANI
+    clan: Nosferatu antitribu
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 29
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+      id: 100052
+    - count: 5
+      name: Anarch Revolt
+      id: 100055
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Guardian Angel
+      id: 100866
+    - count: 3
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: KRCG News Radio
+      id: 101067
+    - count: 2
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rumor Mill, Tabloid Newspaper, The
+      id: 101662
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
+  - name: Action
+    count: 8
+    cards:
+    - count: 2
+      name: Army of Rats
+      id: 100093
+    - count: 6
+      name: Deep Song
+      id: 100515
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 2
+      name: Sport Bike
+      id: 101856
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Raven Spy
+      id: 101550
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 5
+      name: Cats' Guidance
+      id: 100308
+    - count: 3
+      name: Delaying Tactics
+      id: 100519
+    - count: 5
+      name: On the Qui Vive
+      id: 101321
+    - count: 5
+      name: Sense the Savage Way
+      id: 101717
+  - name: Combat
+    count: 30
+    cards:
+    - count: 8
+      name: Aid from Bats
+      id: 100029
+    - count: 8
+      name: Carrion Crows
+      id: 100301
+    - count: 4
+      name: Drawing Out the Beast
+      id: 100585
+    - count: 2
+      name: Flesh Bond
+      id: 100748
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+    - count: 3
+      name: Terror Frenzy
+      id: 101960

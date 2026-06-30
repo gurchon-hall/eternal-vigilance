@@ -7,12 +7,12 @@ winner: Tero Aalto
 vekn_number: 8460002
 event_url: https://www.vekn.net/event-calendar/event/11331
 event_id: 11331
-vp_comment: 0 GW 3,5 + 2,5 in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81336-twd-shell-break-2024-2024-04-01
+vp_comment: Throughout the tournament, the MVP of the deck was Secure Haven, and
+  the final especially would have been completely unwinnable without it. The 
+  crypt is a bit unconventional but I'm very satisfied with it.
+forum_post_url: https://www.vekn.net/event-calendar/event/11331
 deck:
   name: Lavatanssit
-  created_by: Tero Aalto
   description: ''
   crypt_count: 12
   crypt_min: 25
@@ -36,6 +36,13 @@ deck:
     clan: Gangrel antitribu
     grouping: 3
   - count: 1
+    name: Soldat
+    id: 201304
+    capacity: 7
+    disciplines: cel dom obf POT PRO
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 1
     name: Caitlin
     id: 200233
     capacity: 6
@@ -50,13 +57,6 @@ deck:
     disciplines: san
     clan: Blood Brother
     grouping: ANY
-  - count: 1
-    name: Soldat
-    id: 201304
-    capacity: 7
-    disciplines: cel dom obf POT PRO
-    clan: Gangrel antitribu
-    grouping: 3
   library_count: 77
   library_sections:
   - name: Master
@@ -66,7 +66,7 @@ deck:
       name: Backways
       id: 100126
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Giant's Blood

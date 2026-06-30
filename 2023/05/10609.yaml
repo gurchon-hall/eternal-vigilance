@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 4
     name: Lutz von Hohenzollern
+    id: 200890
     capacity: 11
     disciplines: pot AUS DEM OBF PRE
     title: Inner Circle
@@ -25,6 +26,7 @@ deck:
     grouping: 4
   - count: 2
     name: Armin Brenner
+    id: 200138
     capacity: 10
     disciplines: ani obf CEL FOR POT PRE
     title: Archbishop
@@ -32,6 +34,7 @@ deck:
     grouping: 4
   - count: 2
     name: Undele
+    id: 201409
     capacity: 9
     disciplines: obf pre ser CEL FOR
     title: Magaji
@@ -39,6 +42,7 @@ deck:
     grouping: 5
   - count: 2
     name: Ubende
+    id: 201399
     capacity: 7
     disciplines: for obf qui CEL PRE
     title: Magaji
@@ -46,12 +50,14 @@ deck:
     grouping: 4
   - count: 1
     name: Ayo Igoli
+    id: 200153
     capacity: 10
     disciplines: obf tha AUS CEL FOR PRE
     clan: Ishtarri
     grouping: 4
   - count: 1
     name: Stavros
+    id: 201313
     capacity: 7
     disciplines: dem AUS OBF PRE
     title: Priscus
@@ -64,89 +70,121 @@ deck:
     cards:
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 5
       name: Villein
+      id: 102121
     - count: 4
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 8
     cards:
     - count: 7
       name: Enchant Kindred
+      id: 100640
     - count: 1
       name: Entrancement
+      id: 100652
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
   - name: Political Action
     count: 16
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 8
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 27
     cards:
     - count: 4
       name: Bewitching Oration
+      id: 100157
     - count: 3
       name: Cloak the Gathering
+      id: 100362
     - count: 3
       name: Forced March
+      id: 100761
     - count: 3
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 4
       name: Perfect Paragon
+      id: 101387
     - count: 6
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Scalpel Tongue
+      id: 101686
   - name: Reaction
     count: 11
     cards:
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 7
     cards:
     - count: 7
       name: Majesty
+      id: 101144

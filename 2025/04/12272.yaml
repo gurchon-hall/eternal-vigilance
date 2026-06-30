@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 2
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -40,30 +43,35 @@ deck:
     grouping: 6
   - count: 2
     name: Neserian
+    id: 201678
     capacity: 6
     disciplines: cel pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Clara Hjortshøj
+    id: 201669
     capacity: 5
     disciplines: ani aus dom PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Marialena
+    id: 201677
     capacity: 5
     disciplines: ani DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Whisper
+    id: 201690
     capacity: 5
     disciplines: pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Prentis Derby
+    id: 201682
     capacity: 4
     disciplines: ani dom pro
     clan: Tzimisce
@@ -74,78 +82,104 @@ deck:
     count: 17
     cards:
     - count: 5
-      name: The British Museum, London
+      name: British Museum, London, The
+      id: 102236
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 2
       name: Two Wrongs
+      id: 102052
     - count: 3
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 8
     cards:
     - count: 8
       name: Govern the Unaligned
+      id: 100845
   - name: Equipment
     count: 12
     cards:
     - count: 2
       name: Cooler
+      id: 100422
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Incriminating Videotape
+      id: 100972
     - count: 6
       name: Living Manse
+      id: 101114
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
+      id: 101781
   - name: Political Action
     count: 2
     cards:
     - count: 2
       name: Eat the Rich
+      id: 100605
   - name: Action Modifier
     count: 9
     cards:
     - count: 2
       name: Conditioning
+      id: 100401
     - count: 6
       name: Earth Control
+      id: 100600
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Obedient Flesh
+      id: 102255
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 18
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 4
       name: Deep Ecology
+      id: 102219
     - count: 6
       name: Deflection
+      id: 100518
     - count: 4
       name: Guard Dogs
+      id: 100863
   - name: Combat
     count: 8
     cards:
     - count: 4
       name: Earth Meld
+      id: 100601
     - count: 4
       name: Form of Mist
+      id: 100771

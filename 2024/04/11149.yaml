@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 1
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 1
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -47,42 +51,49 @@ deck:
     grouping: 6
   - count: 1
     name: Octane
+    id: 201609
     capacity: 6
     disciplines: CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 1
     name: Brandon Grime
+    id: 201581
     capacity: 5
     disciplines: pot pre tha CEL
     clan: Brujah
     grouping: 6
   - count: 1
     name: Siarhei Levchenko
+    id: 201612
     capacity: 5
     disciplines: pot CEL PRE
     clan: Brujah
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
     grouping: 6
   - count: 1
     name: Anita Wainwright
+    id: 201657
     capacity: 3
     disciplines: cel pre
     clan: Brujah
     grouping: 6
   - count: 1
     name: Ariane
+    id: 200132
     capacity: 3
     disciplines: cel pot pre
     clan: Brujah
     grouping: 5
   - count: 1
     name: Rayne
+    id: 201610
     capacity: 2
     disciplines: pot
     clan: Brujah
@@ -93,74 +104,101 @@ deck:
     count: 30
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 8
       name: Brujah Debate
+      id: 100260
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: New Carthage
+      id: 101277
     - count: 3
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 2
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Warzone Hunting Ground
+      id: 102150
   - name: Action
     count: 9
     cards:
     - count: 1
       name: Aranthebes, The Immortal
+      id: 100079
     - count: 6
-      name: The Embrace
+      name: Embrace, The
+      id: 100633
     - count: 2
       name: Open War
+      id: 101324
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Sport Bike
+      id: 101856
   - name: Political Action
     count: 6
     cards:
     - count: 6
       name: Consanguineous Boon
+      id: 100410
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Reaction
     count: 19
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 10
       name: Organized Resistance
+      id: 102230
     - count: 3
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 24
     cards:
     - count: 2
       name: Disarm
+      id: 100549
     - count: 10
       name: Dust Up
+      id: 100597
     - count: 8
       name: Immortal Grapple
+      id: 100959
     - count: 4
       name: Taste of Vitae
+      id: 101945

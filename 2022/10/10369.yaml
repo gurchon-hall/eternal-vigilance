@@ -18,43 +18,50 @@ deck:
   crypt_avg: 7.75
   crypt:
   - count: 6
-    name: Lucian, the Perfect
+    name: Lucian, The Perfect
+    id: 200871
     capacity: 11
     disciplines: ANI AUS DOM OBF POT PRE
     clan: Guruhi
     grouping: 4
   - count: 1
     name: Drusilla Euphemia
+    id: 200390
     capacity: 6
     disciplines: dem vic AUS OBF
     clan: Malkavian antitribu
     grouping: 4
   - count: 1
     name: Abdelsobek
+    id: 200005
     capacity: 5
     disciplines: for nec obf pre ser
     clan: Ministry
     grouping: 5
   - count: 1
     name: Arthur Denholm
+    id: 200144
     capacity: 5
     disciplines: obf AUS DEM
     clan: Malkavian
     grouping: 5
   - count: 1
     name: Florentina Lengauer
+    id: 200471
     capacity: 4
     disciplines: aus OBF
     clan: Malkavian
     grouping: 4
   - count: 1
     name: Pearl
+    id: 201106
     capacity: 4
     disciplines: obf AUS
     clan: Malkavian antitribu
     grouping: 5
   - count: 1
     name: Kalila
+    id: 200744
     capacity: 3
     disciplines: aus obf
     clan: Malkavian
@@ -66,126 +73,175 @@ deck:
     cards:
     - count: 1
       name: Ancestor Spirit
+      id: 100061
     - count: 3
       name: Blind Spot
+      id: 100188
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Legendary Vampire
+      id: 101091
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
     - count: 1
       name: Wider View
+      id: 102180
     - count: 4
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 10
     cards:
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 1
       name: Heart of the City
+      id: 100904
     - count: 1
       name: Precognizant Mobility
+      id: 101476
     - count: 1
       name: Propaganda
+      id: 101495
     - count: 1
       name: Pulse of the Canaille
+      id: 101517
     - count: 1
       name: Puppet Master
+      id: 101215
     - count: 3
       name: Revelations
+      id: 101627
     - count: 1
       name: Trainer
+      id: 102007
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Kduva's Mask
+      id: 101037
   - name: Political Action
     count: 3
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Banishment
+      id: 100131
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 29
     cards:
     - count: 2
       name: Cloak the Gathering
+      id: 100362
     - count: 1
       name: Conditioning
+      id: 100401
     - count: 2
       name: Crocodile's Tongue
+      id: 100450
     - count: 1
       name: Edge of the World
+      id: 100613
     - count: 4
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
     - count: 2
       name: Iron Glare
+      id: 101008
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 1
       name: Mask of a Thousand Faces
+      id: 101179
     - count: 1
       name: Perfect Paragon
+      id: 101387
     - count: 4
       name: Seduction
+      id: 101712
     - count: 2
       name: Spying Mission
+      id: 101857
     - count: 1
       name: True Love's Face
+      id: 102041
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 1
       name: Hide the Mind
+      id: 100921
     - count: 2
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 14
     cards:
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: King's Favor
+      id: 101058
     - count: 1
       name: Mental Maze
+      id: 101201
     - count: 4
       name: Obedience
+      id: 101309
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 8
     cards:
     - count: 4
       name: Charismatic Aura
+      id: 100333
     - count: 4
       name: Majesty
+      id: 101144
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

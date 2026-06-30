@@ -1,0 +1,189 @@
+name: Fillip CG
+location: Campina Grande (PB), Brazil
+date_start: 2026-04-25
+rounds_format: 2R+F
+players_count: 15
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/13252
+event_id: 13252
+vp_comment: 2GW9 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13252
+deck:
+  name: Esquina da Sujeira
+  description: ''
+  crypt_count: 12
+  crypt_min: 5
+  crypt_max: 18
+  crypt_avg: 2.75
+  crypt:
+  - count: 2
+    name: Skulk
+    id: 201297
+    capacity: 4
+    disciplines: ani OBF
+    clan: Nosferatu antitribu
+    grouping: 5
+  - count: 2
+    name: Lubomira Hradok
+    id: 200865
+    capacity: 3
+    disciplines: OBF
+    clan: Nosferatu antitribu
+    grouping: 5
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Frank Litzpar
+    id: 200480
+    capacity: 5
+    disciplines: ani for pot OBF
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 1
+    name: Skidmark
+    id: 201295
+    capacity: 5
+    disciplines: aus pot FOR OBF
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 1
+    name: Bloodfeud
+    id: 200208
+    capacity: 2
+    disciplines: obf
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Denette Stensen
+    id: 200336
+    capacity: 2
+    disciplines: obf
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Old Neddacka
+    id: 201074
+    capacity: 2
+    disciplines: obf
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 1
+    name: César Holfield
+    id: 200261
+    capacity: 1
+    disciplines: obf
+    clan: Caitiff
+    grouping: 4
+  library_count: 67
+  library_sections:
+  - name: Master
+    count: 23
+    cards:
+    - count: 1
+      name: Antediluvian Awakening
+      id: 100073
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 1
+      name: Heidelberg Castle, Germany
+      id: 100908
+    - count: 2
+      name: Jake Washington
+      id: 101019
+    - count: 3
+      name: Life in the City
+      id: 101104
+    - count: 2
+      name: Obfuscate
+      id: 101310
+    - count: 1
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 14
+    cards:
+    - count: 6
+      name: Computer Hacking
+      id: 100390
+    - count: 8
+      name: Inside Dirt
+      id: 100990
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Camera Phone
+      id: 100287
+    - count: 1
+      name: Laptop Computer
+      id: 101073
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+      id: 101015
+    - count: 1
+      name: Tasha Morgan
+      id: 101943
+  - name: Action Modifier
+    count: 21
+    cards:
+    - count: 5
+      name: Cloak the Gathering
+      id: 100362
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 5
+      name: Lost in Crowds
+      id: 101125
+    - count: 3
+      name: Marked Path
+      id: 101169
+    - count: 2
+      name: Spying Mission
+      id: 101857
+    - count: 2
+      name: Veil the Legions
+      id: 102097
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Swallowed by the Night
+      id: 101913
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The
+      id: 100163
+    - count: 1
+      name: Narrow Minds
+      id: 101265

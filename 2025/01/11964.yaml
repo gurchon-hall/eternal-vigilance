@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 4
     name: Velya, The Flayer
+    id: 201434
     capacity: 9
     disciplines: for ANI AUS PRE VIC
     title: Cardinal
@@ -25,6 +26,7 @@ deck:
     grouping: 3
   - count: 2
     name: Lambach
+    id: 200810
     capacity: 10
     disciplines: pre ANI AUS DOM VIC
     title: Cardinal
@@ -32,19 +34,22 @@ deck:
     grouping: 2
   - count: 2
     name: Little Tailor of Prague
+    id: 200844
     capacity: 8
     disciplines: dem ANI AUS VIC
     clan: Tzimisce
     grouping: 2
   - count: 2
     name: Meshenka
+    id: 200980
     capacity: 8
     disciplines: ANI AUS VIC
     title: Priscus
     clan: Tzimisce
     grouping: 2
   - count: 2
-    name: The Rose
+    name: Rose, The
+    id: 201205
     capacity: 5
     disciplines: aus PRE VIC
     clan: Tzimisce
@@ -56,101 +61,139 @@ deck:
     cards:
     - count: 2
       name: Charisma
+      id: 100332
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 2
       name: Fame
+      id: 100698
     - count: 1
       name: Gurchon Hall
+      id: 100871
     - count: 1
       name: Haven Uncovered
+      id: 100897
     - count: 2
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 2
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 5
     cards:
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 4
-      name: The Summoning
+      name: Summoning, The
+      id: 101902
   - name: Ally
     count: 13
     cards:
     - count: 3
       name: Asanbonsam Ghoul
+      id: 100103
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Gregory Winter
+      id: 100855
     - count: 1
       name: Mylan Horseed
+      id: 101261
     - count: 2
       name: Underbridge Stray
+      id: 102065
     - count: 5
       name: War Ghoul
+      id: 102144
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Ritual Goblet
+      id: 102243
   - name: Political Action
     count: 6
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Banishment
+      id: 100131
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 2
       name: Public Vilification
+      id: 101514
   - name: Action Modifier
     count: 17
     cards:
     - count: 4
       name: Changeling
+      id: 100324
     - count: 2
       name: Crocodile's Tongue
+      id: 100450
     - count: 2
       name: Lobotomy
+      id: 101116
     - count: 4
       name: Mind of the Wilds
+      id: 101214
     - count: 2
       name: Private Audience
+      id: 101490
     - count: 3
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Plasmic Form
+      id: 101402
   - name: Reaction
     count: 15
     cards:
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 8
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 10
     cards:
     - count: 3
       name: Breath of the Dragon
+      id: 100250
     - count: 4
       name: Chiropteran Marauder
+      id: 100344
     - count: 1
       name: Meld with the Land
+      id: 101196
     - count: 2
       name: Trap
+      id: 102012

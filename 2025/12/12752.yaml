@@ -1,5 +1,5 @@
-name: Loughman's Birthday Part 1:The Eldest Command Undeath
-location: Newark, Ohio
+name: "Loughman's Birthday Part 1: The Eldest Command Undeath"
+location: Newark (OH), USA
 date_start: 2025-12-13
 rounds_format: 3R+F
 players_count: 16
@@ -7,20 +7,19 @@ winner: Will Matson
 vekn_number: 2970007
 event_url: https://www.vekn.net/event-calendar/event/12752
 event_id: 12752
-vp_comment: 3GW+8VP + 4VP in finals
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82729-twd-loughman-s-birthday-part-1-the-eldest-command-undeath-newark-oh
+vp_comment: 3GW8 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12752
 deck:
   name: Inverted Pyramid
-  created_by: Will Matson
-  description: ''
+  description: 'Final Table:'
   crypt_count: 12
-  crypt_min: 31
-  crypt_max: 31
-  crypt_avg: 10.33
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 10.17
   crypt:
   - count: 5
     name: Malgorzata
+    id: 200905
     capacity: 9
     disciplines: pre AUS DOM THA VIC
     title: Priscus
@@ -28,12 +27,14 @@ deck:
     grouping: 4
   - count: 4
     name: Lord Tremere
+    id: 200856
     capacity: 11
     disciplines: obe ANI AUS DOM THA VIC
     clan: Tremere
     grouping: 5
   - count: 3
     name: Mistress Fanchon
+    id: 200999
     capacity: 11
     disciplines: AUS CEL DOM OBF THA VIC
     title: Inner Circle
@@ -44,83 +45,114 @@ deck:
   - name: Master
     count: 18
     cards:
-    - count: 6
-      name: Villein
-    - count: 3
-      name: Dreams of the Sphinx
-    - count: 3
-      name: Information Highway
     - count: 1
       name: Academic Hunting Ground
+      id: 100015
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
+    - count: 3
+      name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: University Hunting Ground
+      id: 102075
+    - count: 6
+      name: Villein
+      id: 102121
   - name: Action
     count: 2
     cards:
     - count: 2
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 4
     cards:
-    - count: 2
-      name: Heart of Nizchetus
     - count: 1
       name: Bowl of Convergence
+      id: 100243
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Sniper Rifle
+      id: 101816
+  - name: Political Action
+    count: 9
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 2
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 4
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 17
     cards:
     - count: 6
       name: Changeling
-    - count: 6
-      name: Mirror Walk
-    - count: 3
-      name: Seduction
+      id: 100324
     - count: 2
       name: Conditioning
-  - name: Political Action
-    count: 9
-    cards:
-    - count: 4
-      name: Banishment
-    - count: 2
-      name: Ancilla Empowerment
-    - count: 1
-      name: Anarchist Uprising
-    - count: 1
-      name: Kine Resources Contested
-    - count: 1
-      name: Reins of Power
-  - name: Reaction
-    count: 25
-    cards:
-    - count: 8
-      name: Obedience
+      id: 100401
     - count: 6
-      name: Eyes of Argus
-    - count: 5
-      name: Deflection
-    - count: 2
-      name: On the Qui Vive
-    - count: 1
-      name: Eagle's Sight
-    - count: 1
-      name: My Enemy's Enemy
-    - count: 1
-      name: Redirection
-    - count: 1
-      name: Telepathic Misdirection
+      name: Mirror Walk
+      id: 101223
+    - count: 3
+      name: Seduction
+      id: 101712
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Plasmic Form
+      id: 101402
+  - name: Reaction
+    count: 25
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Eagle's Sight
+      id: 100598
+    - count: 6
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 8
+      name: Obedience
+      id: 101309
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Redirection
+      id: 101578
+    - count: 1
+      name: Telepathic Misdirection
+      id: 101949

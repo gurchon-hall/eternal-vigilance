@@ -1,0 +1,210 @@
+name: Middle European Championship
+location: Vienna, Austria
+date_start: 2021-10-31
+rounds_format: 3R+F
+players_count: 25
+winner: Łukasz Ho Thanh
+vekn_number: 1950006
+event_url: https://www.vekn.net/event-calendar/event/9830
+event_id: 9830
+vp_comment: "Description: Since Polish Nationals l've changed all fortitudge prevent
+  for CE (Spiritual Intervention). As it turned out, the change was crucial for the
+  final in Vienna;)"
+forum_post_url: https://www.vekn.net/event-calendar/event/9830
+deck:
+  name: Harbingers Emerald Legion
+  description: Since Polish Nationals l've changed all fortitudge prevent for CE
+    (Spiritual Intervention). As it turned out, the change was crucial for the 
+    final in Vienna;)
+  crypt_count: 12
+  crypt_min: 11
+  crypt_max: 32
+  crypt_avg: 5.58
+  crypt:
+  - count: 3
+    name: Khurshid
+    id: 200781
+    capacity: 8
+    disciplines: AUS FOR NEC POT
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 2
+    name: Mordechai Ben-Nun
+    id: 201009
+    capacity: 8
+    disciplines: ANI AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 2
+    name: Veejay Vinod
+    id: 201433
+    capacity: 3
+    disciplines: AUS
+    clan: Nagaraja
+    grouping: 6
+  - count: 1
+    name: Hecate
+    id: 200580
+    capacity: 6
+    disciplines: AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 1
+    name: La Viuda Blanca
+    id: 200801
+    capacity: 6
+    disciplines: for obf AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: America Johnson
+    id: 201512
+    capacity: 4
+    disciplines: vic AUS
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Pearl
+    id: 201106
+    capacity: 4
+    disciplines: obf AUS
+    clan: Malkavian antitribu
+    grouping: 5
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Fragment of the Book of Nod
+      id: 100785
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Guardian Angel
+      id: 100866
+    - count: 2
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 4
+      name: Vessel
+      id: 102113
+  - name: Action
+    count: 2
+    cards:
+    - count: 1
+      name: Abbot
+      id: 100006
+    - count: 1
+      name: Anima Gathering
+      id: 100068
+  - name: Ally
+    count: 11
+    cards:
+    - count: 11
+      name: Emerald Legionnaire
+      id: 100634
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 1
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+    - count: 2
+      name: Sniper Rifle
+      id: 101816
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 2
+      name: Call of the Hungry Dead
+      id: 100279
+    - count: 1
+      name: Kiss of Ra, The
+      id: 101062
+    - count: 2
+      name: Trochomancy
+      id: 102026
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Breath of Thanatos
+      id: 100249
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Spectral Divination
+      id: 101843
+  - name: Reaction
+    count: 36
+    cards:
+    - count: 4
+      name: Eagle's Sight
+      id: 100598
+    - count: 3
+      name: Enhanced Senses
+      id: 100644
+    - count: 11
+      name: Eyes of Argus
+      id: 100680
+    - count: 5
+      name: Forced Awakening
+      id: 100760
+    - count: 3
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Spiritual Intervention
+      id: 101852
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Unmasking, The
+      id: 102079

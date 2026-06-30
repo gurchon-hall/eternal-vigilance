@@ -14,8 +14,7 @@ vp_comment: "Description: Thanks to Jorge Delgado and Iñaki Jimenez for being a
   very well as it is. Just let the predator of your predator to get their VP and aim
   for GW3 or GW4, never for the sweep as you need a player to be happy getting 1vp
   and not ousting you cross table in order to win."
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81857-twd-praxis-seizure-london-26th-october-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11680
 deck:
   name: Fine Purge v3
   description: Thanks to Jorge Delgado and Iñaki Jimenez for being always there 
@@ -112,7 +111,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
       name: Villein

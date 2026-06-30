@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 5
     name: Stanislava
+    id: 201312
     capacity: 11
     disciplines: ANI CEL DOM FOR PRO
     title: Inner Circle
@@ -26,6 +27,7 @@ deck:
     grouping: 2
   - count: 2
     name: Hartmut Stover
+    id: 200575
     capacity: 10
     disciplines: dom for CEL OBF PRO
     title: Archbishop
@@ -33,6 +35,7 @@ deck:
     grouping: 3
   - count: 2
     name: Xaviar (ADV)
+    id: 201478
     capacity: 10
     disciplines: aus cel pot ABO ANI FOR PRO
     title: Justicar
@@ -40,6 +43,7 @@ deck:
     grouping: 3
   - count: 2
     name: Ingrid Rossler
+    id: 200634
     capacity: 9
     disciplines: dom ANI FOR PRO
     title: Prince
@@ -47,6 +51,7 @@ deck:
     grouping: 2
   - count: 1
     name: Mark Decker
+    id: 200937
     capacity: 8
     disciplines: ani for obf pot CEL PRO
     title: Prince
@@ -59,90 +64,124 @@ deck:
     cards:
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
       name: Camarilla Conclave
+      id: 102269
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Ennoia's Theater
+      id: 100646
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 5
       name: Villein
+      id: 102121
     - count: 6
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 7
     cards:
     - count: 7
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 15
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 2
       name: Banishment
+      id: 100131
     - count: 1
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 5
       name: Kine Resources Contested
+      id: 101056
     - count: 4
       name: Parity Shift
+      id: 101353
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 17
     cards:
     - count: 1
       name: Beast Meld
+      id: 100146
     - count: 5
       name: Earth Control
+      id: 100600
     - count: 1
       name: Enkil Cog
+      id: 100645
     - count: 3
       name: Forced March
+      id: 100761
     - count: 1
       name: Foreshadowing Destruction
+      id: 100765
     - count: 3
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Instantaneous Transformation
+      id: 100994
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Rapid Change
+      id: 101542
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 3
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 12
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 12
     cards:
     - count: 6
       name: Earth Meld
+      id: 100601
     - count: 6
       name: Form of Mist
+      id: 100771

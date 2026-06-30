@@ -1,0 +1,152 @@
+name: 5th Tragic Love Affair
+location: Espoo, Finland
+date_start: 2023-08-05
+rounds_format: 2R+F
+players_count: 13
+winner: Joona Tuominen
+vekn_number: 9350038
+event_url: https://www.vekn.net/event-calendar/event/10880
+event_id: 10880
+vp_comment: 1GW3 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10880
+deck:
+  name: The Need For Bleed, starring The unnamed
+  description: Heavily inspired by Tero Aalto:s version of The unnamed with my 
+    own little twists to it, deck is fun to play but will get table hate all the
+    time
+  crypt_count: 12
+  crypt_min: 10
+  crypt_max: 40
+  crypt_avg: 6.33
+  crypt:
+  - count: 6
+    name: unnamed, The
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 5
+    name: Horde, The
+    id: 200605
+    capacity: 3
+    disciplines: dai obf pre
+    clan: Baali
+    grouping: 6
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 66
+  library_sections:
+  - name: Master
+    count: 11
+    cards:
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 3
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+  - name: Action
+    count: 14
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 2
+      name: Entrancement
+      id: 100652
+    - count: 6
+      name: Flurry of Action
+      id: 100752
+    - count: 2
+      name: Intimidation
+      id: 100999
+    - count: 3
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 3
+    cards:
+    - count: 3
+      name: Infernal Servitor
+      id: 100981
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 25
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 4
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 3
+      name: I am Legion
+      id: 100947
+    - count: 7
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 3
+      name: Lost in Crowds
+      id: 101125
+    - count: 1
+      name: Psychomachia
+      id: 101511
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Sense the Sin
+      id: 101718
+  - name: Combat
+    count: 4
+    cards:
+    - count: 2
+      name: Earth Meld
+      id: 100601
+    - count: 2
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697

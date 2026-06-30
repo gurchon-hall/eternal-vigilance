@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 5
     name: Sascha Vykos, The Angel of Caine (ADV)
+    id: 201245
     capacity: 8
     disciplines: ani dom AUS THA VIC
     title: Archbishop
@@ -25,42 +26,49 @@ deck:
     grouping: 2
   - count: 1
     name: Caliban
+    id: 200236
     capacity: 6
     disciplines: ANI AUS VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Corine Marcón
+    id: 200290
     capacity: 6
     disciplines: ani AUS VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Ana Rita Montaña
+    id: 200075
     capacity: 5
     disciplines: aus dom obf VIC
     clan: Tzimisce
     grouping: 3
   - count: 1
     name: Elizabeth Westcott
+    id: 200415
     capacity: 5
     disciplines: ani cel vic AUS
     clan: Tzimisce
     grouping: 3
   - count: 1
-    name: The Rose
+    name: Rose, The
+    id: 201205
     capacity: 5
     disciplines: aus PRE VIC
     clan: Tzimisce
     grouping: 3
   - count: 1
     name: Lolita Houston
+    id: 200850
     capacity: 4
     disciplines: aus VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Horatio
+    id: 200603
     capacity: 2
     disciplines: vic
     clan: Tzimisce
@@ -72,79 +80,109 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 3
       name: Rötschreck
+      id: 101654
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 4
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 10
     cards:
     - count: 1
       name: Abbot
+      id: 100006
     - count: 5
       name: Fiendish Tongue
+      id: 100726
     - count: 1
       name: Graverobbing
+      id: 100852
     - count: 3
       name: Magic of the Smith
+      id: 101143
   - name: Equipment
     count: 6
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Kevlar Vest
+      id: 101040
     - count: 1
       name: Living Manse
+      id: 101114
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Action Modifier
     count: 5
     cards:
     - count: 5
       name: Changeling
+      id: 100324
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Plasmic Form
+      id: 101402
   - name: Reaction
     count: 21
     cards:
     - count: 3
       name: Eagle's Sight
+      id: 100598
     - count: 2
       name: Enhanced Senses
+      id: 100644
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 13
     cards:
     - count: 3
       name: Breath of the Dragon
+      id: 100250
     - count: 8
       name: Chiropteran Marauder
+      id: 100344
     - count: 2
       name: Meld with the Land
+      id: 101196

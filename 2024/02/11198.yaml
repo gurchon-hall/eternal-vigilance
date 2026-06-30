@@ -7,11 +7,9 @@ winner: Alessandro Donati
 vekn_number: 4740000
 event_url: https://www.vekn.net/event-calendar/event/11198
 event_id: 11198
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81213-twd-line-brawl-florence-italy-03-feb-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11198
 deck:
   name: This Girl Has No Name
-  created_by: Alessandro "Nekrós" Donati
   description: ''
   crypt_count: 12
   crypt_min: 4
@@ -19,14 +17,14 @@ deck:
   crypt_avg: 4.67
   crypt:
   - count: 4
-    name: The unnamed
+    name: unnamed, The
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
     grouping: 6
   - count: 4
-    name: The Horde
+    name: Horde, The
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -81,7 +79,7 @@ deck:
       name: Contagion
       id: 100418
     - count: 6
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
       id: 102232
     - count: 3
       name: Unleash Hell's Fury

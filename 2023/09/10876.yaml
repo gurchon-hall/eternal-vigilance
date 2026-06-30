@@ -19,42 +19,49 @@ deck:
   crypt:
   - count: 4
     name: Erlik
+    id: 200434
     capacity: 10
     disciplines: AUS CEL FOR NEC THN
     clan: Harbinger of Skulls
     grouping: 3
   - count: 2
     name: Erebus
+    id: 200428
     capacity: 7
     disciplines: dem AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 3
   - count: 2
     name: Nicomedes
+    id: 201057
     capacity: 5
     disciplines: aus for nec vic
     clan: Harbinger of Skulls
     grouping: 4
   - count: 1
     name: Babalawo Alafin
+    id: 200158
     capacity: 7
     disciplines: ani AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 4
   - count: 1
     name: Mina Grotius
+    id: 200992
     capacity: 6
     disciplines: cel FOR NEC
     clan: Harbinger of Skulls
     grouping: 3
   - count: 1
     name: Zygodat
+    id: 201511
     capacity: 6
     disciplines: pot AUS NEC
     clan: Harbinger of Skulls
     grouping: 4
   - count: 1
     name: Solomon Batanea
+    id: 201305
     capacity: 5
     disciplines: nec AUS FOR
     clan: Harbinger of Skulls
@@ -65,86 +72,116 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Jake Washington
+      id: 101019
     - count: 5
       name: Liquidation
+      id: 101112
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 2
       name: Villein
+      id: 102121
   - name: Ally
     count: 8
     cards:
     - count: 8
       name: Emerald Legionnaire
+      id: 100634
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
   - name: Action Modifier
     count: 7
     cards:
     - count: 3
       name: Call of the Hungry Dead
+      id: 100279
     - count: 4
       name: Trochomancy
+      id: 102026
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Breath of Thanatos
+      id: 100249
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 3
       name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 17
     cards:
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 29
     cards:
     - count: 2
       name: Fake Out
+      id: 100693
     - count: 3
       name: Glancing Blow
+      id: 100834
     - count: 5
       name: Hidden Strength
+      id: 100918
     - count: 5
       name: Indomitability
+      id: 100973
     - count: 3
       name: Rolling with the Punches
+      id: 101649
     - count: 5
       name: Target Vitals
+      id: 101942
     - count: 2
       name: Taste of Vitae
+      id: 101945
     - count: 4
       name: Weighted Walking Stick
+      id: 102169
   - name: Event
     count: 3
     cards:
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

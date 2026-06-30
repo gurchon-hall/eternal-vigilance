@@ -1,0 +1,194 @@
+name: When the Sun Goes Down
+location: Paderno Dugnano, Italy
+date_start: 2022-09-04
+rounds_format: 3R+F
+players_count: 27
+winner: Miro Albertazzi
+vekn_number: 3020055
+event_url: https://www.vekn.net/event-calendar/event/10316
+event_id: 10316
+forum_post_url: https://www.vekn.net/event-calendar/event/10316
+deck:
+  name: The one and only
+  created_by: Pit&Mairos
+  description: ''
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 40
+  crypt_avg: 5.08
+  crypt:
+  - count: 5
+    name: Shalmath
+    id: 201274
+    capacity: 10
+    disciplines: POT PRE TEM
+    clan: True Brujah
+    grouping: 6
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 2
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Iris Bennett
+    id: 200641
+    capacity: 1
+    disciplines: pro
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Walker Grimes
+    id: 201462
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 5
+  library_count: 75
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 2
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fragment of the Book of Nod
+      id: 100785
+    - count: 1
+      name: Marrakesh Codex, The
+      id: 101172
+    - count: 1
+      name: Obfuscate
+      id: 101310
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Tabriz Assembly
+      id: 101924
+    - count: 1
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 13
+    cards:
+    - count: 3
+      name: Entrancement
+      id: 100652
+    - count: 1
+      name: Path of the Scorched Heart, The
+      id: 101371
+    - count: 8
+      name: Summon History
+      id: 101897
+    - count: 1
+      name: Vaticination
+      id: 102093
+  - name: Ally
+    count: 8
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 3
+      name: Emerald Legionnaire
+      id: 100634
+    - count: 1
+      name: Muddled Vampire Hunter
+      id: 101250
+    - count: 1
+      name: Ponticulus
+      id: 101419
+    - count: 1
+      name: Tye Cooper
+      id: 102053
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 1
+      name: Aaron's Feeding Razor
+      id: 100003
+    - count: 1
+      name: Camera Phone
+      id: 100287
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+    - count: 1
+      name: Sargon Fragment, The
+      id: 101681
+    - count: 1
+      name: Saturday-Night Special
+      id: 101682
+    - count: 1
+      name: Talbot's Chainsaw
+      id: 101931
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Crypt's Sons
+      id: 100476
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 9
+      name: Domain of Evernight
+      id: 100571
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 3
+      name: Pocket Out of Time
+      id: 101405
+  - name: Reaction
+    count: 5
+    cards:
+    - count: 1
+      name: Lost in Translation
+      id: 101126
+    - count: 4
+      name: Rewind Time
+      id: 101633
+  - name: Combat
+    count: 9
+    cards:
+    - count: 9
+      name: Outside the Hourglass
+      id: 101338
+  - name: Event
+    count: 2
+    cards:
+    - count: 2
+      name: Unmasking, The
+      id: 102079

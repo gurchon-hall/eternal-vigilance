@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 4
     name: Alabástrom
+    id: 200039
     capacity: 7
     disciplines: aus cel for POT VIS
     clan: Gargoyle
     grouping: 6
   - count: 4
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 4
     name: Handsome Dan
+    id: 200563
     capacity: 5
     disciplines: aus cel for pot vis
     clan: Gargoyle
@@ -43,93 +46,130 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Flames of Insurrection
+      id: 100740
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 5
       name: Vessel
+      id: 102113
   - name: Action
     count: 10
     cards:
     - count: 2
       name: Armor of Terra
+      id: 100088
     - count: 1
       name: 'Fee Stake: Boston'
+      id: 100712
     - count: 1
       name: 'Fee Stake: Los Angeles'
+      id: 100714
     - count: 1
       name: Heroic Might
+      id: 100913
     - count: 2
       name: Line Brawl
+      id: 102229
     - count: 1
       name: Open War
+      id: 101324
     - count: 2
       name: Preternatural Strength
+      id: 101483
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Razor Bat
+      id: 101556
   - name: Action Modifier
     count: 8
     cards:
     - count: 2
       name: As the Crow
+      id: 100102
     - count: 2
       name: Forced March
+      id: 100761
     - count: 2
       name: Monkey Wrench
+      id: 101239
     - count: 2
       name: Skin of the Chameleon
+      id: 101794
   - name: Reaction
     count: 30
     cards:
     - count: 8
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 6
       name: Guardian Vigil
+      id: 100868
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 10
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 23
     cards:
     - count: 2
       name: Bond with the Mountain
+      id: 100235
     - count: 8
       name: Diversion
+      id: 100563
     - count: 3
       name: Dust Up
+      id: 100597
     - count: 2
       name: Lam Into
+      id: 101071
     - count: 3
       name: Raking Talons
+      id: 101538
     - count: 2
       name: Roll
+      id: 101648
     - count: 3
       name: Taste of Vitae
+      id: 101945

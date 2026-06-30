@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Kasim Bayar
+    id: 201598
     capacity: 9
     disciplines: aus pot CEL OBF THA
     title: Justicar
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
@@ -33,6 +35,7 @@ deck:
     grouping: 6
   - count: 2
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Khadija Al-Kindi
+    id: 201599
     capacity: 6
     disciplines: CEL OBF THA
     title: Primogen
@@ -47,6 +51,7 @@ deck:
     grouping: 6
   - count: 1
     name: Tegyrius, Vizier
+    id: 201654
     capacity: 10
     disciplines: AUS CEL FOR PRE THA
     title: 2 Votes
@@ -54,6 +59,7 @@ deck:
     grouping: 6
   - count: 1
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -61,6 +67,7 @@ deck:
     grouping: 6
   - count: 1
     name: Nayarana
+    id: 201607
     capacity: 4
     disciplines: cel THA
     clan: Banu Haqim
@@ -72,80 +79,109 @@ deck:
     cards:
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Guardian Angel
+      id: 100866
     - count: 3
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 3
       name: Priority Contract
+      id: 101487
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 11
     cards:
     - count: 2
       name: Biothaumaturgic Experiment
+      id: 100162
     - count: 8
       name: Hunter's Mark
+      id: 102228
     - count: 1
       name: Rutor's Hand
+      id: 101664
   - name: Equipment
     count: 5
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Blade of Enoch
+      id: 100176
     - count: 1
       name: Kali's Fang
+      id: 101032
     - count: 1
       name: Kevlar Vest
+      id: 101040
     - count: 1
       name: Sport Bike
+      id: 101856
   - name: Political Action
     count: 4
     cards:
     - count: 3
       name: Anathema
+      id: 100060
     - count: 1
       name: Perpetual Care
+      id: 101391
   - name: Action Modifier/Combat
     count: 9
     cards:
     - count: 4
       name: Resist Earth's Grasp
+      id: 101610
     - count: 5
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 7
     cards:
     - count: 7
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 37
     cards:
     - count: 5
       name: Blur
+      id: 100227
     - count: 11
       name: Hunger of Marduk
+      id: 102227
     - count: 2
       name: Lightning Reflexes
+      id: 101107
     - count: 7
       name: Psyche!
+      id: 101507
     - count: 5
       name: Quickness
+      id: 101532
     - count: 5
       name: Rego Motum
+      id: 101588
     - count: 2
       name: Weather Control
+      id: 102164
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

@@ -1,0 +1,183 @@
+name: Gehenna store championship - Campeonato Mineiro 2023
+location: Belo Horizonte, Brazil
+date_start: 2023-10-07
+rounds_format: 3R+F
+players_count: 43
+winner: Guilherme Machado
+vekn_number: 6130009
+event_url: https://www.vekn.net/event-calendar/event/10915
+event_id: 10915
+forum_post_url: https://www.vekn.net/event-calendar/event/10915
+deck:
+  name: Sons of Anarchy
+  created_by: VTES Team
+  description: ''
+  crypt_count: 12
+  crypt_min: 10
+  crypt_max: 24
+  crypt_avg: 3.92
+  crypt:
+  - count: 2
+    name: Atiena
+    id: 201579
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Leumeah
+    id: 201526
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Anita Wainwright
+    id: 201657
+    capacity: 3
+    disciplines: cel pre
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Ariane
+    id: 200132
+    capacity: 3
+    disciplines: cel pot pre
+    clan: Brujah
+    grouping: 5
+  - count: 2
+    name: Laura Goldman
+    id: 200816
+    capacity: 3
+    disciplines: cel pre
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Elen Kamjian
+    id: 201585
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+      id: 100052
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Celerity
+      id: 100312
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 3
+      name: Hackerspace
+      id: 100876
+    - count: 1
+      name: KRCG News Radio
+      id: 101067
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+      id: 101435
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 4
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Warzone Hunting Ground
+      id: 102150
+  - name: Action
+    count: 10
+    cards:
+    - count: 1
+      name: Childe of the Revolution
+      id: 102246
+    - count: 8
+      name: Line Brawl
+      id: 102229
+    - count: 1
+      name: Open War
+      id: 101324
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Grey Thorne
+      id: 100858
+    - count: 1
+      name: Vivienne Géroux
+      id: 102128
+  - name: Equipment
+    count: 9
+    cards:
+    - count: 6
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Book of Going Forth by Night, The
+      id: 100239
+    - count: 2
+      name: Sport Bike
+      id: 101856
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Power of One
+      id: 101429
+  - name: Reaction
+    count: 20
+    cards:
+    - count: 6
+      name: Bait and Switch
+      id: 102218
+    - count: 11
+      name: Organized Resistance
+      id: 102230
+    - count: 3
+      name: Protection Racket
+      id: 101501
+  - name: Combat
+    count: 30
+    cards:
+    - count: 6
+      name: Concealed Weapon
+      id: 100392
+    - count: 8
+      name: Dust Up
+      id: 100597
+    - count: 6
+      name: Hell-for-Leather
+      id: 100910
+    - count: 6
+      name: Target Vitals
+      id: 101942
+    - count: 4
+      name: Taste of Vitae
+      id: 101945

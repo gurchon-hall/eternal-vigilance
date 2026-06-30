@@ -1,5 +1,5 @@
-name: HAVEN UNCOVERED
-location: PARIS (FRANCE)
+name: Haven Uncovered
+location: Paris, France
 date_start: 2023-04-22
 rounds_format: 2R+F
 players_count: 17
@@ -7,31 +7,17 @@ winner: Édouard Menneson
 vekn_number: 3200360
 event_url: https://www.vekn.net/event-calendar/event/10675
 event_id: 10675
-vp_comment: 'Description : Classic Gangrel Wall. Hell-For-Leather is a real mvp. Sniper
-  may be reomved or replaced by Ivory Bow. A 2nd Carfax Abbey or a Zoo Hunting Grounded
-  may be needed. 2nd Gangrel Revel could also help.'
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80502-twd-haven-uncovered-paris-2023-04-22
+forum_post_url: https://www.vekn.net/event-calendar/event/10675
 deck:
-  name: PROWall streamlined
-  created_by: Rhazoo
-  description: Classic Gangrel Wall. Hell-For-Leather is a real mvp. Sniper may 
-    be reomved or replaced by Ivory Bow. A 2nd Carfax Abbey or a Zoo Hunting 
-    Grounded may be needed. 2nd Gangrel Revel could also help.
+  description: ''
   crypt_count: 12
   crypt_min: 13
   crypt_max: 25
   crypt_avg: 5.0
   crypt:
-  - count: 1
-    name: Massimiliano
-    capacity: 7
-    disciplines: pro ANI FOR
-    title: Baron
-    clan: Gangrel
-    grouping: 6
   - count: 2
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -39,49 +25,65 @@ deck:
     grouping: 6
   - count: 2
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
     clan: Gangrel
     grouping: 6
   - count: 1
+    name: Massimiliano
+    id: 201602
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
     name: Martina Srnankova
+    id: 201601
     capacity: 6
     disciplines: ani FOR PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Kamile Paukstys
+    id: 201597
     capacity: 5
     disciplines: ani for PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Mickey Wheeler
+    id: 201644
     capacity: 5
     disciplines: ani cel for pro
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Hanna Nokelainen
+    id: 201590
     capacity: 4
     disciplines: ani for pro
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Nathan Turner
+    id: 201606
     capacity: 4
     disciplines: ani PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Indira
+    id: 201592
     capacity: 3
     disciplines: PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Ruslan Fedorenko
+    id: 201611
     capacity: 2
     disciplines: pro
     clan: Gangrel
@@ -92,77 +94,104 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 2
       name: Club Illusion
+      id: 100366
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Gangrel Revel
+      id: 100807
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Rötschreck
+      id: 101654
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 4
       name: Villein
+      id: 102121
   - name: Action
     count: 8
     cards:
     - count: 8
       name: Thing
+      id: 101972
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Political Action
     count: 1
     cards:
     - count: 1
       name: Reckless Agitation
+      id: 101567
   - name: Retainer
     count: 4
     cards:
     - count: 4
       name: Raven Spy
+      id: 101550
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 26
     cards:
     - count: 5
       name: Bait and Switch
+      id: 102218
     - count: 6
       name: Deep Ecology
+      id: 102219
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: Eyes of the Wild
+      id: 102222
     - count: 9
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 16
     cards:
     - count: 2
       name: Claws of the Dead
+      id: 100356
     - count: 6
       name: Donnybrook
+      id: 100576
     - count: 4
       name: Earth Meld
+      id: 100601
     - count: 4
       name: Hell-for-Leather
+      id: 100910

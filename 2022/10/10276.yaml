@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Arishat
+    id: 200136
     capacity: 6
     disciplines: DAI OBF PRE
     title: 1 Vote
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Vivian VI
+    id: 201615
     capacity: 7
     disciplines: obf tha PRE PRO
     title: Baron
@@ -33,12 +35,14 @@ deck:
     grouping: 6
   - count: 2
     name: Xeper, Sultan of Lepers
+    id: 201480
     capacity: 7
     disciplines: ani dai pro OBF PRE
     clan: Baali
     grouping: 6
   - count: 2
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
@@ -46,6 +50,7 @@ deck:
     grouping: 6
   - count: 1
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -53,6 +58,7 @@ deck:
     grouping: 6
   - count: 1
     name: Jacques Rouge
+    id: 201523
     capacity: 6
     disciplines: ani pot pre OBF
     title: Baron
@@ -65,62 +71,85 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 3
       name: Information Highway
+      id: 100984
     - count: 6
       name: Villein
+      id: 102121
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 8
     cards:
     - count: 5
       name: 'Condemnation: Mute'
+      id: 100400
     - count: 3
       name: Unleash Hell's Fury
+      id: 102076
   - name: Political Action
     count: 19
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 3
       name: Eat the Rich
+      id: 100605
     - count: 11
       name: Kine Resources Contested
+      id: 101056
     - count: 3
       name: Reckless Agitation
+      id: 101567
   - name: Action Modifier
     count: 20
     cards:
     - count: 2
       name: Bewitching Oration
+      id: 100157
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 5
       name: Forgotten Labyrinth
+      id: 100769
     - count: 5
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Monkey Wrench
+      id: 101239
     - count: 4
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 6
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: Majesty
+      id: 101144

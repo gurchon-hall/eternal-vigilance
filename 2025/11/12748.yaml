@@ -1,4 +1,4 @@
-name: Campeonato Nacional Mexicano 2025 (MX)
+name: Mexican NC 2025
 location: Mexico City, Mexico
 date_start: 2025-11-30
 rounds_format: 3R+F
@@ -7,25 +7,19 @@ winner: Alberto Ramírez León
 vekn_number: 7400029
 event_url: https://www.vekn.net/event-calendar/event/12748
 event_id: 12748
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82734-campeonato-nacional-mexicano-2025-mx
+vp_comment: 2GW7 + 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12748
 deck:
   name: La sal de la tierra
-  created_by: mrleon
   description: ''
   crypt_count: 12
   crypt_min: 21
   crypt_max: 40
   crypt_avg: 7.92
   crypt:
-  - count: 2
-    name: Elimelech the Twice-Damned
-    capacity: 11
-    disciplines: pro AUS DEM DOM FOR OBF
-    clan: Ventrue antitribu
-    grouping: 5
   - count: 4
     name: Aelswith, The Irresistible
+    id: 201735
     capacity: 9
     disciplines: pot AUS DOM FOR OBF
     title: Cardinal
@@ -33,13 +27,22 @@ deck:
     grouping: 6
     path: Cathari
   - count: 2
+    name: Elimelech the Twice-Damned
+    id: 200410
+    capacity: 11
+    disciplines: pro AUS DEM DOM FOR OBF
+    clan: Ventrue antitribu
+    grouping: 5
+  - count: 2
     name: Abraham Mellon
+    id: 201634
     capacity: 8
     disciplines: for tha AUS DOM OBF
     clan: Malkavian
     grouping: 6
   - count: 2
     name: Fotini Katsikaris
+    id: 201751
     capacity: 7
     disciplines: for pot AUS DOM OBF
     clan: Malkavian
@@ -47,6 +50,7 @@ deck:
     path: Cathari
   - count: 1
     name: Coco Thorn
+    id: 201743
     capacity: 4
     disciplines: dom for obf
     clan: Malkavian
@@ -54,6 +58,7 @@ deck:
     path: Cathari
   - count: 1
     name: Ashley
+    id: 201533
     capacity: 3
     disciplines: dom obf
     clan: Malkavian
@@ -65,69 +70,94 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 3
       name: Blood Doll
+      id: 100199
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 5
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 14
     cards:
     - count: 10
       name: Govern the Unaligned
+      id: 100845
     - count: 4
       name: Restoration
+      id: 101613
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 37
     cards:
     - count: 3
       name: Bonding
+      id: 100236
     - count: 5
       name: Conditioning
+      id: 100401
     - count: 1
       name: Daring the Dawn
+      id: 100492
     - count: 5
       name: Faceless Night
+      id: 100687
     - count: 10
       name: Freak Drive
+      id: 100788
     - count: 5
       name: Lost in Crowds
+      id: 101125
     - count: 3
       name: Mask of a Thousand Faces
+      id: 101179
     - count: 5
       name: Seduction
+      id: 101712
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 12
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Kiss of Cathari
+      id: 102330

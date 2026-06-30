@@ -19,18 +19,21 @@ deck:
   crypt:
   - count: 4
     name: Máddji, Mistress of Szlachtas
+    id: 201784
     capacity: 7
     disciplines: for ANI DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 2
     name: Whisper
+    id: 201690
     capacity: 5
     disciplines: pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -38,6 +41,7 @@ deck:
     grouping: 6
   - count: 1
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -45,24 +49,28 @@ deck:
     grouping: 6
   - count: 1
     name: Saankaláxt
+    id: 201786
     capacity: 7
     disciplines: aus ANI DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Neserian
+    id: 201678
     capacity: 6
     disciplines: cel pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Clara Hjortshøj
+    id: 201669
     capacity: 5
     disciplines: ani aus dom PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Prentis Derby
+    id: 201682
     capacity: 4
     disciplines: ani dom pro
     clan: Tzimisce
@@ -74,105 +82,142 @@ deck:
     cards:
     - count: 1
       name: Charisma
+      id: 100332
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Fleshforge Chamber
+      id: 102354
     - count: 2
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 4
       name: Piper
+      id: 101401
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Shard, London
+      name: Shard, London, The
+      id: 102244
     - count: 1
       name: Vampiric Disease
+      id: 102088
     - count: 3
       name: Vessel
+      id: 102113
   - name: Action
     count: 6
     cards:
     - count: 6
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 10
     cards:
     - count: 1
       name: Gregory Winter
+      id: 100855
     - count: 1
       name: Vagabond Mystic
+      id: 102087
     - count: 2
-      name: The Vozhd of Gravesend
+      name: Vozhd of Gravesend, The
+      id: 102363
     - count: 1
-      name: The Vozhd of Juiz de Fora
+      name: Vozhd of Juiz de Fora, The
+      id: 102364
     - count: 1
-      name: The Vozhd of Sofia
+      name: Vozhd of Sofia, The
+      id: 102267
     - count: 2
-      name: The Vozhd of Szczecin
+      name: Vozhd of Szczecin, The
+      id: 102365
     - count: 2
       name: War Ghoul
+      id: 102144
   - name: Equipment
     count: 5
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 3
       name: Living Manse
+      id: 101114
     - count: 1
       name: Unlicensed Taxicab
+      id: 102078
   - name: Retainer
     count: 11
     cards:
     - count: 1
       name: Crypt's Sons
+      id: 100476
     - count: 8
       name: Szlachta Assistant
+      id: 102360
     - count: 2
       name: Szlachta Bodyguard
+      id: 102361
   - name: Action Modifier
     count: 6
     cards:
     - count: 2
       name: Beast Meld
+      id: 100146
     - count: 4
       name: Earth Control
+      id: 100600
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Rapid Change
+      id: 101542
   - name: Action Modifier/Reaction
     count: 6
     cards:
     - count: 6
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 12
     cards:
     - count: 8
       name: Deflection
+      id: 100518
     - count: 4
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 8
     cards:
     - count: 3
       name: Fake Out
+      id: 100693
     - count: 5
       name: Form of Mist
+      id: 100771
   - name: Event
     count: 2
     cards:
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
     - count: 1
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

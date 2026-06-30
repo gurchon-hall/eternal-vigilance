@@ -20,18 +20,21 @@ deck:
   crypt:
   - count: 2
     name: Nonu Dis
+    id: 201608
     capacity: 8
     disciplines: for OBF PRE PRO
     clan: Ministry
     grouping: 6
   - count: 2
     name: Hesha Ruhadze
+    id: 201591
     capacity: 7
     disciplines: ani aus obf PRE PRO
     clan: Ministry
     grouping: 6
   - count: 2
     name: Vivian VI
+    id: 201615
     capacity: 7
     disciplines: obf tha PRE PRO
     title: Baron
@@ -39,6 +42,7 @@ deck:
     grouping: 6
   - count: 2
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
@@ -46,24 +50,28 @@ deck:
     grouping: 6
   - count: 1
     name: Crystal Lynn
+    id: 201582
     capacity: 6
     disciplines: OBF PRE PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Doctor Morocco
+    id: 201584
     capacity: 5
     disciplines: cel obf pre PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Jenny Silver
+    id: 201593
     capacity: 5
     disciplines: obf PRE PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Marcel
+    id: 201600
     capacity: 4
     disciplines: obf pre pro
     clan: Ministry
@@ -75,86 +83,118 @@ deck:
     cards:
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 2
       name: Libertas
+      id: 101100
     - count: 1
       name: Opium Den
+      id: 101326
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 4
       name: Vessel
+      id: 102113
     - count: 1
       name: Wash
+      id: 102151
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 12
     cards:
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 1
       name: 'Fee Stake: Boston'
+      id: 100712
     - count: 10
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
+      id: 102232
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Saatet-ta
+      id: 101665
   - name: Equipment
     count: 3
     cards:
     - count: 1
       name: Blade of Enoch
+      id: 100176
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Sire's Index Finger
+      id: 101785
   - name: Action Modifier
     count: 28
     cards:
     - count: 4
       name: CrimethInc.
+      id: 100446
     - count: 4
       name: Earth Control
+      id: 100600
     - count: 4
       name: Enchanting Gaze
+      id: 102221
     - count: 6
       name: Memory Rift
+      id: 101199
     - count: 2
       name: Monkey Wrench
+      id: 101239
     - count: 8
       name: Revelation of the Serpent
+      id: 102233
   - name: Reaction
     count: 12
     cards:
     - count: 3
       name: Bait and Switch
+      id: 102218
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Party Out Of Bounds
+      id: 102231
     - count: 2
       name: Wake with Evening's Freshness
+      id: 102137
   - name: Combat
     count: 15
     cards:
     - count: 3
       name: Donnybrook
+      id: 100576
     - count: 6
       name: Earth Meld
+      id: 100601
     - count: 6
       name: Form of Mist
+      id: 100771
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265

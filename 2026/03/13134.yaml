@@ -1,0 +1,198 @@
+name: François Villon
+location: Fortaleza (CE), Brazil
+date_start: 2026-03-08
+rounds_format: 2R+F
+players_count: 16
+winner: Mailton Silva
+vekn_number: 4790003
+event_url: https://www.vekn.net/event-calendar/event/13134
+event_id: 13134
+vp_comment: 0GW2.5 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13134
+deck:
+  name: Goratrix, The blood mage
+  description: ''
+  crypt_count: 12
+  crypt_min: 7
+  crypt_max: 40
+  crypt_avg: 6.42
+  crypt:
+  - count: 4
+    name: Goratrix
+    id: 200528
+    capacity: 10
+    disciplines: vic ANI AUS DOM THA
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 2
+    name: Anton
+    id: 200113
+    capacity: 8
+    disciplines: cel obf vic ANI AUS
+    clan: Tzimisce
+    grouping: 2
+  - count: 2
+    name: Omaya
+    id: 201079
+    capacity: 7
+    disciplines: pro ANI AUS FOR
+    clan: Gangrel antitribu
+    grouping: 2
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Darva Felispa
+    id: 200324
+    capacity: 3
+    disciplines: ani pot
+    clan: Nosferatu
+    grouping: 3
+  - count: 1
+    name: Mouse
+    id: 201014
+    capacity: 2
+    disciplines: ani
+    clan: Nosferatu
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 4
+      name: Ashur Tablets
+      id: 100106
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Guardian Angel
+      id: 100866
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: 'Powerbase: Barranquilla'
+      id: 101431
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Rebel
+      id: 101564
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 8
+    cards:
+    - count: 1
+      name: Army of Rats
+      id: 100093
+    - count: 3
+      name: Creeping Sabotage
+      id: 102213
+    - count: 4
+      name: Magic of the Smith
+      id: 101143
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Neighborhood Watch Commander
+      id: 101270
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+    - count: 1
+      name: Ruins of Ceoris
+      id: 101658
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+  - name: Reaction
+    count: 44
+    cards:
+    - count: 5
+      name: Cats' Guidance
+      id: 100308
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 5
+      name: Eagle's Sight
+      id: 100598
+    - count: 4
+      name: Enhanced Senses
+      id: 100644
+    - count: 8
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Precognition
+      id: 101475
+    - count: 8
+      name: Sense the Savage Way
+      id: 101717
+    - count: 2
+      name: Spirit's Touch
+      id: 101850
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 9
+    cards:
+    - count: 1
+      name: Canine Horde
+      id: 100290
+    - count: 5
+      name: Carrion Crows
+      id: 100301
+    - count: 3
+      name: Rego Motum
+      id: 101588

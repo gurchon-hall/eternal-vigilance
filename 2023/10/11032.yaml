@@ -1,4 +1,4 @@
-name: VtES European Championship Day 2
+name: EC 2023 - Day 2
 location: Barcelona, Spain
 date_start: 2023-10-15
 rounds_format: 3R+F
@@ -7,64 +7,71 @@ winner: Jonas Ståhle
 vekn_number: 8090005
 event_url: https://www.vekn.net/event-calendar/event/11032
 event_id: 11032
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81204-twd-vtes-european-championship-day-2-barcelona-spain-15-oct-2023
+vp_comment: 2GW8 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11032
 deck:
   name: 'Fee Snake: Hyvinkää'
-  created_by: Jonas Ståhle
   description: ''
   crypt_count: 12
   crypt_min: 19
   crypt_max: 31
   crypt_avg: 6.33
   crypt:
-  - count: 2
-    name: Nonu Dis
-    capacity: 8
-    disciplines: for OBF PRE PRO
-    clan: Ministry
-    grouping: 6
-  - count: 1
-    name: Sergio Bueno
-    capacity: 8
-    disciplines: aus pot OBF PRE PRO
-    title: Baron
-    clan: Ministry
-    grouping: 6
   - count: 3
     name: Vivian VI
+    id: 201615
     capacity: 7
     disciplines: obf tha PRE PRO
     title: Baron
     clan: Ministry
     grouping: 6
+  - count: 2
+    name: Nonu Dis
+    id: 201608
+    capacity: 8
+    disciplines: for OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Jenny Silver
+    id: 201593
+    capacity: 5
+    disciplines: obf PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Sergio Bueno
+    id: 201662
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
   - count: 1
     name: Crystal Lynn
+    id: 201582
     capacity: 6
     disciplines: OBF PRE PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
     clan: Ministry
     grouping: 6
-  - count: 2
-    name: Jenny Silver
-    capacity: 5
-    disciplines: obf PRE PRO
-    clan: Ministry
-    grouping: 6
   - count: 1
     name: Aluc Romas de Leon
+    id: 201577
     capacity: 5
     disciplines: aus obf pro PRE
     clan: Ministry
     grouping: 6
   - count: 1
     name: Marcel
+    id: 201600
     capacity: 4
     disciplines: obf pre pro
     clan: Ministry
@@ -76,88 +83,121 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 3
       name: Dabbler
+      id: 100485
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 5
       name: Minion Tap
+      id: 101217
     - count: 1
       name: Opium Den
+      id: 101326
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
   - name: Action
     count: 20
     cards:
     - count: 1
       name: Dream World
+      id: 100587
     - count: 3
       name: Entrancement
+      id: 100652
     - count: 1
       name: 'Fee Stake: Corte'
+      id: 100713
     - count: 1
       name: 'Fee Stake: Perth'
+      id: 100716
     - count: 1
       name: Intimidation
+      id: 100999
     - count: 3
       name: Mind Numb
+      id: 101211
     - count: 10
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
+      id: 102232
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Saatet-ta
+      id: 101665
   - name: Action Modifier
     count: 27
     cards:
     - count: 2
       name: Aire of Elation
+      id: 100031
     - count: 5
       name: CrimethInc.
+      id: 100446
     - count: 4
       name: Enchanting Gaze
+      id: 102221
     - count: 1
       name: Faceless Night
+      id: 100687
     - count: 1
       name: Lost in Crowds
+      id: 101125
     - count: 5
       name: Memory Rift
+      id: 101199
     - count: 7
       name: Revelation of the Serpent
+      id: 102233
     - count: 1
       name: Spying Mission
+      id: 101857
     - count: 1
       name: True Love's Face
+      id: 102041
   - name: Action Modifier/Combat
     count: 1
     cards:
     - count: 1
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 11
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Party Out Of Bounds
+      id: 102231
   - name: Combat
     count: 6
     cards:
     - count: 2
       name: Earth Meld
+      id: 100601
     - count: 4
       name: Form of Mist
+      id: 100771

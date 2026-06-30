@@ -7,12 +7,10 @@ winner: Eduardo Carona
 vekn_number: 3120011
 event_url: https://www.vekn.net/event-calendar/event/12922
 event_id: 12922
-vp_comment: 1GW6VP + 1.5VP in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82848-twd-liga-gl-pt-25-26-mercadia-sul
+vp_comment: 1GW7.5 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12922
 deck:
   name: Black Hand Rush
-  created_by: Eduardo Carona
   description: ''
   crypt_count: 12
   crypt_min: 27
@@ -21,36 +19,42 @@ deck:
   crypt:
   - count: 4
     name: Karif al Numair
+    id: 200754
     capacity: 10
     disciplines: for AUS CEL OBF QUI
     clan: Banu Haqim
     grouping: 5
   - count: 2
     name: Izhim abd Azrael
+    id: 200650
     capacity: 9
     disciplines: pot CEL OBF QUI THA
     clan: Banu Haqim
     grouping: 5
   - count: 2
     name: Nizzam al-Latif
+    id: 201062
     capacity: 9
     disciplines: dem ANI CEL OBF QUI
     clan: Banu Haqim
     grouping: 5
   - count: 2
     name: Joe "Boot" Hill
+    id: 200710
     capacity: 7
     disciplines: for obf CEL QUI
     clan: Banu Haqim
     grouping: 4
   - count: 1
     name: Djuhah, The Bronze Bow
+    id: 200348
     capacity: 7
     disciplines: aus cel pre OBF QUI
     clan: Banu Haqim
     grouping: 5
   - count: 1
     name: Reza Fatir, The Dark Angel
+    id: 201185
     capacity: 6
     disciplines: obf pro CEL QUI
     clan: Banu Haqim
@@ -62,66 +66,91 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Fame
+      id: 100698
     - count: 8
       name: Hand Contract
+      id: 100880
     - count: 2
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: Monster
+      id: 101242
     - count: 3
       name: Priority Contract
+      id: 101487
     - count: 1
       name: 'Shakar: the Hunt'
+      id: 101749
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 10
     cards:
     - count: 2
       name: Loss
+      id: 101124
     - count: 6
       name: Reunion Kamut
+      id: 101621
     - count: 2
       name: Tattoo Signal
+      id: 101946
   - name: Action Modifier
     count: 1
     cards:
     - count: 1
       name: Enkil Cog
+      id: 100645
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Provision of the Silsila
+      id: 101503
   - name: Reaction
     count: 9
     cards:
     - count: 4
       name: Black Sunrise
+      id: 100171
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: Truth in Ink
+      id: 102043
   - name: Combat
     count: 46
     cards:
     - count: 9
       name: Dam the Heart's River
+      id: 100489
     - count: 1
       name: Fast Hands
+      id: 100704
     - count: 9
       name: Pursuit
+      id: 101523
     - count: 8
       name: Sanguine Entrapment
+      id: 101679
     - count: 3
       name: Side Strike
+      id: 101778
     - count: 2
       name: Sideslip
+      id: 101779
     - count: 1
       name: Taste of Death
+      id: 101944
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 9
       name: Thin Blood
+      id: 101970

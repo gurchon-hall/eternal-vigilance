@@ -1,5 +1,5 @@
 name: Grand Prix Germany
-location: Essen, Gernany
+location: Essen, Germany
 date_start: 2023-09-17
 rounds_format: 3R+F
 players_count: 35
@@ -7,11 +7,9 @@ winner: Jeroen van Oort
 vekn_number: 3600003
 event_url: https://www.vekn.net/event-calendar/event/10694
 event_id: 10694
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80825-17-09-2023-grand-prix-germany-2023-essen-nrw
+forum_post_url: https://www.vekn.net/event-calendar/event/10694
 deck:
   name: Ministrery G56 boring is better
-  created_by: Jeroen van Oort
   description: ''
   crypt_count: 12
   crypt_min: 19
@@ -20,19 +18,15 @@ deck:
   crypt:
   - count: 2
     name: Sergio Bueno
+    id: 201662
     capacity: 8
     disciplines: aus pot OBF PRE PRO
     title: Baron
     clan: Ministry
     grouping: 6
-  - count: 1
-    name: Nonu Dis
-    capacity: 8
-    disciplines: for OBF PRE PRO
-    clan: Ministry
-    grouping: 6
   - count: 2
     name: Vivian VI
+    id: 201615
     capacity: 7
     disciplines: obf tha PRE PRO
     title: Baron
@@ -40,37 +34,50 @@ deck:
     grouping: 6
   - count: 2
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
     clan: Ministry
     grouping: 6
   - count: 1
+    name: Nonu Dis
+    id: 201608
+    capacity: 8
+    disciplines: for OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
     name: Crystal Lynn
+    id: 201582
     capacity: 6
     disciplines: OBF PRE PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Aluc Romas de Leon
+    id: 201577
     capacity: 5
     disciplines: aus obf pro PRE
     clan: Ministry
     grouping: 6
   - count: 1
     name: Doctor Morocco
+    id: 201584
     capacity: 5
     disciplines: cel obf pre PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Jenny Silver
+    id: 201593
     capacity: 5
     disciplines: obf PRE PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Marcel
+    id: 201600
     capacity: 4
     disciplines: obf pre pro
     clan: Ministry
@@ -82,67 +89,91 @@ deck:
     cards:
     - count: 2
       name: Club Illusion
+      id: 100366
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 5
       name: Dabbler
+      id: 100485
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 2
       name: Grooming the Protégé
+      id: 100860
     - count: 1
       name: Opium Den
+      id: 101326
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 22
     cards:
     - count: 2
       name: Corruption
+      id: 100430
     - count: 2
       name: Mesu Bedshet
+      id: 101206
     - count: 18
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
+      id: 102232
   - name: Equipment
     count: 2
     cards:
     - count: 2
       name: Learjet
+      id: 101080
   - name: Action Modifier
     count: 27
     cards:
     - count: 2
       name: CrimethInc.
+      id: 100446
     - count: 3
       name: Enchanting Gaze
+      id: 102221
     - count: 1
       name: Lost in Crowds
+      id: 101125
     - count: 6
       name: Memory Rift
+      id: 101199
     - count: 15
       name: Revelation of the Serpent
+      id: 102233
   - name: Action Modifier/Combat
     count: 1
     cards:
     - count: 1
       name: Hide the Mind
+      id: 100921
   - name: Reaction
     count: 9
     cards:
     - count: 3
       name: Bait and Switch
+      id: 102218
     - count: 6
       name: Party Out Of Bounds
+      id: 102231
   - name: Combat
     count: 11
     cards:
     - count: 1
       name: Donnybrook
+      id: 100576
     - count: 2
       name: Earth Meld
+      id: 100601
     - count: 8
       name: Form of Mist
+      id: 100771

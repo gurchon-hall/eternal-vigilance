@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 1
     name: Bloody Mary
+    id: 200209
     capacity: 8
     disciplines: pre AUS DEM OBF
     title: Primogen
@@ -26,36 +27,42 @@ deck:
     grouping: 5
   - count: 1
     name: Lazarus James
+    id: 200822
     capacity: 8
     disciplines: obf tha AUS DEM PRE
     clan: Malkavian
     grouping: 4
   - count: 1
     name: Persephone Tar-Anis
+    id: 201110
     capacity: 8
     disciplines: cel pot AUS DEM OBF
     clan: Malkavian antitribu
     grouping: 4
   - count: 1
     name: Aleister Crowley
+    id: 200043
     capacity: 7
     disciplines: aus obf DEM PRE THA
     clan: Malkavian
     grouping: 5
   - count: 1
     name: Apolonia Czarnecki
+    id: 200123
     capacity: 7
     disciplines: pre AUS DEM OBF
     clan: Malkavian
     grouping: 5
   - count: 1
     name: Osric Vladislav
+    id: 201085
     capacity: 7
     disciplines: cel AUS DEM OBF
     clan: Malkavian
     grouping: 5
   - count: 1
     name: Gem Ghastly
+    id: 200498
     capacity: 6
     disciplines: aus DEM OBF
     title: Primogen
@@ -63,36 +70,42 @@ deck:
     grouping: 5
   - count: 1
     name: Hagar Stone
+    id: 200560
     capacity: 6
     disciplines: obf AUS DEM
     clan: Malkavian antitribu
     grouping: 5
   - count: 1
     name: Morel
+    id: 201010
     capacity: 6
     disciplines: AUS DEM OBF
     clan: Malkavian
     grouping: 4
   - count: 1
     name: Apache Jones
+    id: 200122
     capacity: 5
     disciplines: aus for obf DEM
     clan: Malkavian antitribu
     grouping: 4
   - count: 1
     name: Arthur Denholm
+    id: 200144
     capacity: 5
     disciplines: obf AUS DEM
     clan: Malkavian
     grouping: 5
   - count: 1
     name: Sean Rycek
+    id: 201255
     capacity: 4
     disciplines: aus dem
     clan: Malkavian
     grouping: 4
   - count: 1
     name: Jackie
+    id: 200658
     capacity: 3
     disciplines: DEM
     clan: Malkavian antitribu
@@ -104,72 +117,97 @@ deck:
     cards:
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 3
       name: Perfectionist
+      id: 101388
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
   - name: Action
     count: 18
     cards:
     - count: 7
-      name: The Call
+      name: Call, The
+      id: 100278
     - count: 10
       name: Kindred Spirits
+      id: 101055
     - count: 1
       name: Restructure
+      id: 101615
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 30
     cards:
     - count: 3
       name: Cloak the Gathering
+      id: 100362
     - count: 6
       name: Confusion
+      id: 100405
     - count: 3
       name: Elder Impersonation
+      id: 100617
     - count: 6
       name: Eyes of Chaos
+      id: 100682
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Mind Tricks
+      id: 101216
     - count: 3
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 9
     cards:
     - count: 2
       name: Deny
+      id: 100524
     - count: 4
       name: Hide the Mind
+      id: 100921
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Touch of Clarity
+      id: 101998
   - name: Reaction
     count: 12
     cards:
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
     - count: 4
       name: Wrong and Crosswise
+      id: 102197
   - name: Combat
     count: 4
     cards:
     - count: 4
       name: No Trace
+      id: 101292

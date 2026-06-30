@@ -1,14 +1,13 @@
-name: Dutch Nationals 2024
-location: Wijchen, The Netherlands
+name: Dutch NC 2024
+location: Wijchen, Netherlands
 date_start: 2024-11-24
 rounds_format: 3R+F
 players_count: 24
 winner: Roy Opitz
 vekn_number: 8580065
-event_url: https://www.vekn.net/player-registry/event/11560
+event_url: https://www.vekn.net/event-calendar/event/11560
 event_id: 11560
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81937-twd-dutch-nationals-wijchen-november-24th-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11560
 deck:
   name: Anarch Tzimisce haunting your graves
   description: ''
@@ -19,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -26,6 +26,7 @@ deck:
     grouping: 6
   - count: 2
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -33,39 +34,45 @@ deck:
     grouping: 6
   - count: 2
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
     clan: Tzimisce
     grouping: 6
   - count: 1
+    name: Neserian
+    id: 201678
+    capacity: 6
+    disciplines: cel pro ANI DOM
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
     name: Clara Hjortshøj
+    id: 201669
     capacity: 5
     disciplines: ani aus dom PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Marialena
+    id: 201677
     capacity: 5
     disciplines: ani DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
-    name: Neserian
-    capacity: 6
-    disciplines: cel pro ANI DOM
+    name: Whisper
+    id: 201690
+    capacity: 5
+    disciplines: pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Prentis Derby
+    id: 201682
     capacity: 4
     disciplines: ani dom pro
-    clan: Tzimisce
-    grouping: 6
-  - count: 1
-    name: Whisper
-    capacity: 5
-    disciplines: pro ANI DOM
     clan: Tzimisce
     grouping: 6
   library_count: 90
@@ -74,75 +81,101 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 2
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 3
       name: Rötschreck
+      id: 101654
     - count: 5
       name: Vessel
+      id: 102113
     - count: 1
       name: Wall Street Night, Financial Newspaper
+      id: 102142
   - name: Action
     count: 22
     cards:
     - count: 10
       name: Deep Song
+      id: 100515
     - count: 4
       name: Govern the Unaligned
+      id: 100845
     - count: 6
       name: Graverobbing
+      id: 100852
     - count: 2
-      name: The Status Perfectus
+      name: Status Perfectus, The
+      id: 101863
   - name: Equipment
     count: 4
     cards:
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 3
       name: Living Manse
+      id: 101114
   - name: Action Modifier
     count: 1
     cards:
     - count: 1
       name: Conditioning
+      id: 100401
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Obedient Flesh
+      id: 102255
   - name: Reaction
     count: 29
     cards:
     - count: 7
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Cats' Guidance
+      id: 100308
     - count: 4
       name: Deep Ecology
+      id: 102219
     - count: 4
       name: One With the Land
+      id: 102256
     - count: 10
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 14
     cards:
     - count: 10
       name: Claws of the Dead
+      id: 100356
     - count: 4
       name: Sculpt the Flesh
+      id: 102260
   - name: Event
     count: 2
     cards:
     - count: 2
       name: Scourge of the Enochians
+      id: 101697

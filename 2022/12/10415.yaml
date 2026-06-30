@@ -1,5 +1,5 @@
 name: 'Dragonbound: Polaris'
-location: Dragon's Lair Comics & Fantasy, Lewis Center, Ohio, United States
+location: Lewis Center (OH), USA
 date_start: 2022-12-04
 rounds_format: 2R+F
 players_count: 12
@@ -7,20 +7,21 @@ winner: Bill Troxel
 vekn_number: 2150015
 event_url: https://www.vekn.net/event-calendar/event/10415
 event_id: 10415
-vp_comment: Swept a 4-player table round 1, got 1 VP in round 2. Went into 
-  finals as
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80198-twd-dragonbound-polaris-ohio-usa-04-december-2022
+vp_comment: Swept a 4-player table round 1, got 1vp in round 2. Went into finals
+  as
+forum_post_url: https://www.vekn.net/event-calendar/event/10415
 deck:
   name: '"Great Beast Takes the Skin: A Stupid Deck for Crappy Jerks"'
-  description: ''
+  description: Brings out the Unnamed who gets Abombwe, grabs a Soul Gem and 
+    Calls the Great
   crypt_count: 12
   crypt_min: 40
   crypt_max: 40
   crypt_avg: 10.0
   crypt:
   - count: 12
-    name: The unnamed
+    name: unnamed, The
+    id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
@@ -32,88 +33,111 @@ deck:
     cards:
     - count: 7
       name: Abombwe
+      id: 100009
       comment: a lot, I know, but early draw is important
     - count: 5
       name: Dreams of the Sphinx
+      id: 100588
       comment: I make no apologies here. 4 might have been enough
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
       comment: for when you're ready for a fresh, new Great Beast
     - count: 1
       name: Monastery of Shadows
+      id: 101238
       comment: fantastic in this deck; keeping for sure
     - count: 1
       name: Redeem the Lost Soul
+      id: 101577
       comment: 'quite good: play master, gain 5 pool'
     - count: 3
       name: Villein
+      id: 102121
       comment: especially nice just prior to blowing up the vamp
   - name: Action
     count: 18
     cards:
     - count: 5
       name: Call the Great Beast
+      id: 100280
       comment: core card, usually played twice per game, sometimes thrice
     - count: 7
       name: Flurry of Action
+      id: 100752
       comment: core card; would not recommend removing any copies
     - count: 2
       name: Mantle of the Bestial Majesty
+      id: 101161
       comment: might replace 1 copy with another Claws of the Dead
     - count: 4
       name: Unleash Hell's Fury
+      id: 102076
       comment: was the perfect number for this deck in this tournament!
   - name: Ally
     count: 2
     cards:
     - count: 2
       name: Mylan Horseed
+      id: 101261
       comment: would remove 1 copy if I played this tourney over
   - name: Equipment
     count: 6
     cards:
     - count: 6
       name: Soul Gem of Etrius
+      id: 101832
       comment: early draw important for immediately Calling the Beast
   - name: Action Modifier
     count: 20
     cards:
     - count: 1
       name: Cloak the Gathering
+      id: 100362
       comment: was always nice, but 1 was probably enough
     - count: 4
       name: Earth Control
+      id: 100600
       comment: about right, might have liked 1 more
     - count: 3
       name: Enkil Cog
+      id: 100645
       comment: don't get too attached; the Unnamed gets blown up twice
     - count: 9
       name: Instantaneous Transformation
+      id: 100994
       comment: of course
     - count: 1
       name: Revelation of the Serpent
+      id: 102233
       comment: gold every time, but 1 was enough; only Unnamed can play
     - count: 2
       name: Zephyr
+      id: 102205
       comment: helped once in each of two rounds; might remove 1 copy
   - name: Action Modifier/Combat
     count: 7
     cards:
     - count: 4
       name: Predator's Transformation
-      comment: gold! Cheap to cycle, directly responsible for 2VPs that day
+      id: 101479
+      comment: gold! Cheap to cycle, directly responsible for 2vp that day
     - count: 3
       name: 'Taking the Skin: Minion'
+      id: 101928
       comment: use w/Great Beast and Flurry for lunge gimmick
   - name: Combat
     count: 8
     cards:
     - count: 1
       name: Claws of the Dead
+      id: 100356
       comment: used for maneuvering to close more often than for the agg
     - count: 4
       name: Form of Mist
+      id: 100771
       comment: of course super useful; might add another
     - count: 3
       name: Pursuit
+      id: 101523
       comment: critical at both uses; would definitely add one more

@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Kasim Bayar
+    id: 201598
     capacity: 9
     disciplines: aus pot CEL OBF THA
     title: Justicar
@@ -25,6 +26,7 @@ deck:
     grouping: 6
   - count: 3
     name: Kassandra Tassaki
+    id: 201604
     capacity: 6
     disciplines: obf CEL THA
     title: Prince
@@ -32,6 +34,7 @@ deck:
     grouping: 6
   - count: 2
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
@@ -39,6 +42,7 @@ deck:
     grouping: 6
   - count: 2
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
@@ -46,6 +50,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kalinda
+    id: 201596
     capacity: 6
     disciplines: tha CEL OBF
     title: Primogen
@@ -53,6 +58,7 @@ deck:
     grouping: 6
   - count: 1
     name: Khadija Al-Kindi
+    id: 201599
     capacity: 6
     disciplines: CEL OBF THA
     title: Primogen
@@ -65,88 +71,121 @@ deck:
     cards:
     - count: 1
       name: Alamut
+      id: 100037
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
-      name: The Black Throne
+      name: Black Throne, The
+      id: 100172
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Guardian Angel
+      id: 100866
     - count: 2
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
-      name: 'The Khabar: Community'
+      name: 'Khabar: Community, The'
+      id: 101042
     - count: 1
       name: Market Square
+      id: 101171
     - count: 3
       name: Priority Contract
+      id: 101487
     - count: 3
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 15
     cards:
     - count: 2
       name: Biothaumaturgic Experiment
+      id: 100162
     - count: 3
       name: Fleetness
+      id: 100747
     - count: 7
       name: Hunter's Mark
+      id: 102228
     - count: 2
       name: Magic of the Smith
+      id: 101143
     - count: 1
       name: Rutor's Hand
+      id: 101664
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
   - name: Political Action
     count: 4
     cards:
     - count: 2
       name: Anathema
+      id: 100060
     - count: 2
       name: Parity Shift
+      id: 101353
   - name: Retainer
     count: 3
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
     - count: 1
       name: Nar-Sheptha
+      id: 101264
     - count: 1
       name: Omael Kuman
+      id: 101320
   - name: Action Modifier/Combat
     count: 6
     cards:
     - count: 3
       name: Resist Earth's Grasp
+      id: 101610
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 7
     cards:
     - count: 7
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 31
     cards:
     - count: 2
       name: Blur
+      id: 100227
     - count: 4
       name: Flash
+      id: 100744
     - count: 9
       name: Hunger of Marduk
+      id: 102227
     - count: 5
       name: Lightning Reflexes
+      id: 101107
     - count: 3
       name: Psyche!
+      id: 101507
     - count: 4
       name: Pursuit
+      id: 101523
     - count: 4
       name: Rego Motum
+      id: 101588

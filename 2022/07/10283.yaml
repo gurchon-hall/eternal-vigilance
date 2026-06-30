@@ -1,5 +1,5 @@
-name: The great Tiger
-location: Campina Grande, Brasil
+name: The Great Tiger
+location: Campina Grande, Brazil
 date_start: 2022-07-24
 rounds_format: 3R+F
 players_count: 10
@@ -7,10 +7,10 @@ winner: José Roberio Barbosa da Silva
 vekn_number: 1004066
 event_url: https://www.vekn.net/event-calendar/event/10283
 event_id: 10283
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79945-twda-the-great-tiger-campina-grande-brasil-24-july-2022
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10283
 deck:
-  name: O abraço de caos
+  name: O abraço de Caos
   description: ''
   crypt_count: 24
   crypt_min: 4
@@ -19,48 +19,56 @@ deck:
   crypt:
   - count: 16
     name: Tupdog
+    id: 201393
     capacity: 1
     disciplines: POT VIS
     clan: Gargoyle
     grouping: 3
   - count: 2
     name: Antonio d'Erlette
+    id: 200116
     capacity: 5
     disciplines: dom for pot THA
     clan: Tremere antitribu
     grouping: 4
   - count: 1
-    name: Ember Wright
-    capacity: 3
-    disciplines: aus dom
-    clan: Tremere antitribu
-    grouping: 3
-  - count: 1
     name: Janine
+    id: 200674
     capacity: 4
     disciplines: aus dom tha
     clan: Tremere antitribu
     grouping: 4
   - count: 1
+    name: Mosfair
+    id: 201013
+    capacity: 4
+    disciplines: cel dom tha
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Ember Wright
+    id: 200418
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
     name: Keith Moody
+    id: 200767
     capacity: 3
     disciplines: DOM
     clan: Tremere antitribu
     grouping: 4
   - count: 1
     name: Lectora
+    id: 200827
     capacity: 3
     disciplines: aus tha
     clan: Tremere antitribu
     grouping: 4
   - count: 1
-    name: Mosfair
-    capacity: 4
-    disciplines: cel dom tha
-    clan: Tremere antitribu
-    grouping: 4
-  - count: 1
     name: Saiz
+    id: 201222
     capacity: 3
     disciplines: aus dom
     clan: Tremere antitribu
@@ -72,54 +80,73 @@ deck:
     cards:
     - count: 3
       name: Effective Management
+      id: 100616
     - count: 2
       name: Fame
+      id: 100698
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 2
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 2
       name: Vessel
+      id: 102113
     - count: 1
       name: Villein
+      id: 102121
     - count: 4
       name: Wider View
+      id: 102180
   - name: Action
     count: 2
     cards:
     - count: 2
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 8
     cards:
     - count: 7
       name: Nephandus
+      id: 101272
     - count: 1
       name: Rock Cat
+      id: 101645
   - name: Reaction
     count: 5
     cards:
     - count: 5
       name: Deflection
+      id: 100518
   - name: Combat
     count: 43
     cards:
     - count: 9
       name: Brick by Brick
+      id: 100252
     - count: 10
       name: Immortal Grapple
+      id: 100959
     - count: 10
       name: Raking Talons
+      id: 101538
     - count: 5
       name: Stonestrength
+      id: 101876
     - count: 9
       name: Torn Signpost
+      id: 101993
   - name: Event
     count: 2
     cards:
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

@@ -7,12 +7,11 @@ winner: José Ramón Rodríguez Álvarez-Solís
 vekn_number: 9510025
 event_url: https://www.vekn.net/event-calendar/event/10775
 event_id: 10775
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80737-twd-liga-noroeste-final-aviles-spain-25-jun-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10775
 deck:
   name: Carna&Oli
   created_by: Rollshausen
-  description: '[2023-05-12]'
+  description: ''
   crypt_count: 12
   crypt_min: 16
   crypt_max: 34
@@ -20,12 +19,14 @@ deck:
   crypt:
   - count: 3
     name: Oliver Thrace
+    id: 201076
     capacity: 9
     disciplines: nec obf pot AUS DOM THA
     clan: Tremere
     grouping: 3
   - count: 3
     name: Carna, The Princess Witch
+    id: 200248
     capacity: 7
     disciplines: AUS DOM THA
     title: Primogen
@@ -33,36 +34,42 @@ deck:
     grouping: 3
   - count: 1
     name: Eugenio Estevez
+    id: 200442
     capacity: 6
     disciplines: dom for AUS THA
     clan: Tremere
     grouping: 3
   - count: 1
     name: Selena
+    id: 201261
     capacity: 6
     disciplines: AUS DOM THA
     clan: Tremere antitribu
     grouping: 3
   - count: 1
     name: Aisling Sturbridge
+    id: 200031
     capacity: 5
     disciplines: dom AUS THA
     clan: Tremere
     grouping: 2
   - count: 1
     name: Hannigan
+    id: 200567
     capacity: 5
     disciplines: dom AUS THA
     clan: Tremere antitribu
     grouping: 2
   - count: 1
     name: Brooke
+    id: 200221
     capacity: 3
     disciplines: dom tha
     clan: Tremere antitribu
     grouping: 2
   - count: 1
     name: Ehrich Weiss
+    id: 200406
     capacity: 3
     disciplines: dom tha
     clan: Tremere
@@ -74,93 +81,127 @@ deck:
     cards:
     - count: 1
       name: Academic Hunting Ground
+      id: 100015
     - count: 1
       name: Chantry
+      id: 100329
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Wasserschloss Anif, Austria
+      id: 102152
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 15
     cards:
     - count: 10
       name: Govern the Unaligned
+      id: 100845
     - count: 5
       name: Magic of the Smith
+      id: 101143
   - name: Ally
     count: 2
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Ponticulus
+      id: 101419
   - name: Equipment
     count: 6
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Sniper Rifle
+      id: 101816
     - count: 1
       name: Sport Bike
+      id: 101856
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Action Modifier
     count: 10
     cards:
     - count: 4
       name: Conditioning
+      id: 100401
     - count: 6
       name: Mirror Walk
+      id: 101223
   - name: Reaction
     count: 28
     cards:
     - count: 10
       name: Deflection
+      id: 100518
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: Eagle's Sight
+      id: 100598
     - count: 8
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 12
     cards:
     - count: 4
       name: Movement of the Mind
+      id: 101246
     - count: 3
       name: Rego Motum
+      id: 101588
     - count: 5
       name: Theft of Vitae
+      id: 101966
   - name: Event
     count: 2
     cards:
     - count: 1
       name: NRA PAC
+      id: 101305
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

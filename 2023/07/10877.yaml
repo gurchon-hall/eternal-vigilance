@@ -7,8 +7,7 @@ winner: Miguel Vega Piniella
 vekn_number: 9510100
 event_url: https://www.vekn.net/event-calendar/event/10877
 event_id: 10877
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80739-twd-precoya-gijon-spain-29-jul-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10877
 deck:
   name: Masik
   created_by: Wolfflin
@@ -20,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Masika
+    id: 200950
     capacity: 10
     disciplines: AUS CEL PRE
     title: Primogen
@@ -27,13 +27,22 @@ deck:
     grouping: 1
   - count: 2
     name: Anson
+    id: 200107
     capacity: 8
     disciplines: aus dom CEL PRE
     title: Prince
     clan: Toreador
     grouping: 1
+  - count: 2
+    name: Felicia Mostrom
+    id: 200461
+    capacity: 5
+    disciplines: pre AUS CEL
+    clan: Toreador
+    grouping: 1
   - count: 1
     name: Eliott Sinclair, Virtuoso Thespian
+    id: 200411
     capacity: 7
     disciplines: aus cel PRE
     title: Primogen
@@ -41,25 +50,22 @@ deck:
     grouping: 1
   - count: 1
     name: Kallista, Master Sculptor
+    id: 200746
     capacity: 6
     disciplines: pre pro AUS CEL
     clan: Toreador
     grouping: 1
   - count: 1
     name: Victoria Ash
+    id: 201444
     capacity: 6
     disciplines: aus cel dom PRE
     title: Primogen
     clan: Toreador
     grouping: 2
-  - count: 2
-    name: Felicia Mostrom
-    capacity: 5
-    disciplines: pre AUS CEL
-    clan: Toreador
-    grouping: 1
   - count: 1
     name: Mariana Gilbert
+    id: 200924
     capacity: 4
     disciplines: cel PRE
     clan: Toreador
@@ -71,117 +77,163 @@ deck:
     cards:
     - count: 2
       name: Aching Beauty
+      id: 100018
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 2
       name: Grooming the Protégé
+      id: 100860
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Perfectionist
+      id: 101388
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Society Hunting Ground
+      id: 101821
     - count: 1
       name: Toreador Grand Ball
+      id: 101989
     - count: 1
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 3
     cards:
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 1
       name: Revelations
+      id: 101627
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Arcane Appraiser
+      id: 100080
   - name: Equipment
     count: 9
     cards:
     - count: 2
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Desert Eagle
+      id: 100529
     - count: 1
       name: Enhanced Coagulant
+      id: 102238
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Sawed-Off Shotgun
+      id: 101685
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Retainer
     count: 2
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
     - count: 1
       name: Resplendent Protector
+      id: 101612
   - name: Action Modifier
     count: 6
     cards:
     - count: 5
       name: Aire of Elation
+      id: 100031
     - count: 1
       name: Enkil Cog
+      id: 100645
   - name: Reaction
     count: 32
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: Eagle's Sight
+      id: 100598
     - count: 1
       name: Enhanced Senses
+      id: 100644
     - count: 6
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 8
       name: Protected District
+      id: 102214
     - count: 3
       name: Quicken Sight
+      id: 101531
     - count: 2
       name: Telepathic Counter
+      id: 101948
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 15
     cards:
     - count: 2
       name: Blur
+      id: 100227
     - count: 5
       name: Concealed Weapon
+      id: 100392
     - count: 1
       name: Dragon's Breath Rounds
+      id: 100580
     - count: 5
       name: Majesty
+      id: 101144
     - count: 2
       name: Sideslip
+      id: 101779
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

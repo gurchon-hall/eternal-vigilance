@@ -1,0 +1,145 @@
+name: Bituin
+location: Fortaleza (CE), Brazil
+date_start: 2022-06-12
+rounds_format: 2R+F
+players_count: 14
+winner: Nilceu Galvão
+vekn_number: 6050001
+event_url: https://www.vekn.net/event-calendar/event/10216
+event_id: 10216
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10216
+deck:
+  name: Pulhas de dominação - Kaymakli
+  description: ''
+  crypt_count: 12
+  crypt_min: 5
+  crypt_max: 12
+  crypt_avg: 2.25
+  crypt:
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Brooke
+    id: 200221
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: Diana Vick
+    id: 200342
+    capacity: 3
+    disciplines: dom pre
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Ehrich Weiss
+    id: 200406
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Ember Wright
+    id: 200418
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Lana Butcher
+    id: 200812
+    capacity: 3
+    disciplines: dom for
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Lia Milliner
+    id: 200834
+    capacity: 3
+    disciplines: dom nec
+    clan: Giovanni
+    grouping: 3
+  - count: 1
+    name: Mustafa Rahman
+    id: 201027
+    capacity: 2
+    disciplines: dom
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Ohanna
+    id: 201073
+    capacity: 2
+    disciplines: dom
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Samson
+    id: 201231
+    capacity: 2
+    disciplines: dom
+    clan: Ventrue antitribu
+    grouping: 2
+  library_count: 63
+  library_sections:
+  - name: Master
+    count: 34
+    cards:
+    - count: 2
+      name: Anarch Revolt
+      id: 100055
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Antediluvian Awakening
+      id: 100073
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 5
+      name: Information Highway
+      id: 100984
+    - count: 6
+      name: Kaymakli Nightmares
+      id: 101036
+    - count: 4
+      name: Life in the City
+      id: 101104
+    - count: 4
+      name: Misdirection
+      id: 101225
+    - count: 1
+      name: Nocturn Theater
+      id: 101294
+    - count: 5
+      name: Parthenon, The
+      id: 101355
+    - count: 2
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+  - name: Action
+    count: 15
+    cards:
+    - count: 11
+      name: Computer Hacking
+      id: 100390
+    - count: 4
+      name: Govern the Unaligned
+      id: 100845
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 14
+      name: Conditioning
+      id: 100401

@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 3
     name: Massimiliano
+    id: 201602
     capacity: 7
     disciplines: pro ANI FOR
     title: Baron
@@ -27,6 +28,7 @@ deck:
     grouping: 6
   - count: 3
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -34,6 +36,7 @@ deck:
     grouping: 6
   - count: 3
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -41,18 +44,21 @@ deck:
     grouping: 6
   - count: 1
     name: Keegan
+    id: 201659
     capacity: 8
     disciplines: aus cel ANI FOR PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Ragnar Nordstrom
+    id: 201660
     capacity: 8
     disciplines: cel pot ANI FOR PRO
     clan: Gangrel
     grouping: 6
   - count: 1
     name: Martina Srnankova
+    id: 201601
     capacity: 6
     disciplines: ani FOR PRO
     clan: Gangrel
@@ -64,98 +70,136 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Ennoia's Theater
+      id: 100646
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Haven Uncovered
+      id: 100897
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 4
       name: Vessel
+      id: 102113
     - count: 1
       name: Zoo Hunting Ground
+      id: 102212
   - name: Action
     count: 13
     cards:
     - count: 7
       name: Deep Song
+      id: 100515
     - count: 1
       name: Rewilding
+      id: 101632
     - count: 5
       name: Thing
+      id: 101972
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Double Deuce
+      id: 102220
   - name: Retainer
     count: 7
     cards:
     - count: 1
       name: Dog Pack
+      id: 100568
     - count: 2
       name: Murder of Crows
+      id: 101254
     - count: 2
       name: Raptor
+      id: 101545
     - count: 2
       name: Raven Spy
+      id: 101550
   - name: Action Modifier
     count: 3
     cards:
     - count: 3
       name: Earth Control
+      id: 100600
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 21
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Cats' Guidance
+      id: 100308
     - count: 7
       name: Deep Ecology
+      id: 102219
     - count: 5
       name: Eyes of the Wild
+      id: 102222
     - count: 3
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 25
     cards:
     - count: 6
       name: Bear's Skin
+      id: 100145
     - count: 6
       name: Carrion Crows
+      id: 100301
     - count: 2
       name: Claws of the Dead
+      id: 100356
     - count: 3
       name: Donnybrook
+      id: 100576
     - count: 1
       name: Drawing Out the Beast
+      id: 100585
     - count: 2
       name: Flesh of Marble
+      id: 100749
     - count: 3
       name: Hidden Strength
+      id: 100918
     - count: 2
       name: Pack Alpha
+      id: 101342

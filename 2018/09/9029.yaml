@@ -24,36 +24,42 @@ deck:
   crypt:
   - count: 4
     name: Erlik
+    id: 200434
     capacity: 10
     disciplines: AUS CEL FOR NEC THN
     clan: Harbinger of Skulls
     grouping: 3
   - count: 3
     name: Erebus
+    id: 200428
     capacity: 7
     disciplines: dem AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 3
   - count: 2
     name: Zygodat
+    id: 201511
     capacity: 6
     disciplines: pot AUS NEC
     clan: Harbinger of Skulls
     grouping: 4
   - count: 1
     name: Babalawo Alafin
+    id: 200158
     capacity: 7
     disciplines: ani AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 4
   - count: 1
     name: Nicomedes
+    id: 201057
     capacity: 5
     disciplines: aus for nec vic
     clan: Harbinger of Skulls
     grouping: 4
   - count: 1
     name: Solomon Batanea
+    id: 201305
     capacity: 5
     disciplines: nec AUS FOR
     clan: Harbinger of Skulls
@@ -65,67 +71,91 @@ deck:
     cards:
     - count: 1
       name: Charisma
+      id: 100332
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fragment of the Book of Nod
+      id: 100785
     - count: 5
       name: Liquidation
+      id: 101112
     - count: 1
       name: Maabara
+      id: 101136
   - name: Action
     count: 12
     cards:
     - count: 1
       name: Chair of Hades
+      id: 100318
     - count: 6
       name: Disciple of Lazarus
+      id: 100552
     - count: 1
       name: Soul Feasting
+      id: 101831
     - count: 4
       name: Summon Soul
+      id: 101898
   - name: Ally
     count: 14
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 12
       name: Emerald Legionnaire
+      id: 100634
     - count: 1
       name: Puppeteer
+      id: 101519
   - name: Action Modifier
     count: 30
     cards:
     - count: 7
       name: Acheron Vortex
+      id: 100016
     - count: 7
       name: Call of the Hungry Dead
+      id: 100279
     - count: 6
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Inevitability of the Void
+      id: 100974
     - count: 7
       name: Shroud Mastery
+      id: 101773
   - name: Reaction
     count: 12
     cards:
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 5
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Spiritual Intervention
+      id: 101852
   - name: Event
     count: 3
     cards:
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

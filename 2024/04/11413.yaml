@@ -7,59 +7,64 @@ winner: Enrique Montaño Torres
 vekn_number: 1000545
 event_url: https://www.vekn.net/event-calendar/event/11413
 event_id: 11413
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81426-liga-chilanga-2024-jornada-2-mx
+forum_post_url: https://www.vekn.net/event-calendar/event/11413
 deck:
   name: What we do in the shadows
-  created_by: Geek Doctor
   description: ''
   crypt_count: 12
   crypt_min: 16
   crypt_max: 21
   crypt_avg: 4.75
   crypt:
-  - count: 1
-    name: Ozmo
-    capacity: 6
-    disciplines: dom obf AUS
-    clan: Malkavian
-    grouping: 1
   - count: 2
     name: Badr al-Budur
+    id: 200161
     capacity: 5
     disciplines: cel dom qui OBF
     clan: Banu Haqim
     grouping: 2
   - count: 2
     name: Didi Meyers
+    id: 200343
     capacity: 5
     disciplines: aus cel obf DOM
     clan: Malkavian
     grouping: 1
   - count: 2
     name: Zebulon
+    id: 201503
     capacity: 5
     disciplines: aus dom pro OBF
     clan: Malkavian
     grouping: 1
-  - count: 1
-    name: Count Ormonde
-    capacity: 5
-    disciplines: dom pre ser OBF
-    clan: Ministry
-    grouping: 2
   - count: 2
     name: Laurent de Valois
+    id: 200817
     capacity: 4
     disciplines: ani dom obf
     clan: Nosferatu
     grouping: 2
   - count: 2
     name: Roland Bishop
+    id: 201199
     capacity: 4
     disciplines: aus dom obf
     clan: Malkavian
     grouping: 1
+  - count: 1
+    name: Ozmo
+    id: 201089
+    capacity: 6
+    disciplines: dom obf AUS
+    clan: Malkavian
+    grouping: 1
+  - count: 1
+    name: Count Ormonde
+    id: 200295
+    capacity: 5
+    disciplines: dom pre ser OBF
+    clan: Ministry
+    grouping: 2
   library_count: 70
   library_sections:
   - name: Master
@@ -67,59 +72,79 @@ deck:
     cards:
     - count: 1
       name: Asylum Hunting Ground
+      id: 100108
     - count: 2
       name: Effective Management
+      id: 100616
     - count: 4
       name: Information Highway
+      id: 100984
     - count: 4
       name: Life in the City
+      id: 101104
     - count: 1
       name: Vessel
+      id: 102113
     - count: 1
       name: Wash
+      id: 102151
   - name: Action
     count: 10
     cards:
     - count: 10
       name: Govern the Unaligned
+      id: 100845
   - name: Action Modifier
     count: 26
     cards:
     - count: 4
       name: Cloak the Gathering
+      id: 100362
     - count: 10
       name: Conditioning
+      id: 100401
     - count: 1
       name: Elder Impersonation
+      id: 100617
     - count: 4
       name: Faceless Night
+      id: 100687
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 3
       name: Spying Mission
+      id: 101857
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 12
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 5
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 4
     cards:
     - count: 2
       name: Behind You!
+      id: 100149
     - count: 2
       name: No Trace
+      id: 101292
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265

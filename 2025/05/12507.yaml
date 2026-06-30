@@ -18,30 +18,35 @@ deck:
   crypt:
   - count: 5
     name: Alabástrom
+    id: 200039
     capacity: 7
     disciplines: aus cel for POT VIS
     clan: Gargoyle
     grouping: 6
   - count: 3
     name: Verbruch
+    id: 201436
     capacity: 5
     disciplines: for POT VIS
     clan: Gargoyle
     grouping: 5
   - count: 2
     name: Porphyry
+    id: 201130
     capacity: 4
     disciplines: vis POT
     clan: Gargoyle
     grouping: 6
   - count: 1
     name: Monica Chang
+    id: 201003
     capacity: 3
     disciplines: dom tha
     clan: Tremere
     grouping: 5
   - count: 1
     name: Rosalina Cortez
+    id: 201567
     capacity: 3
     disciplines: THA
     clan: Tremere
@@ -53,66 +58,91 @@ deck:
     cards:
     - count: 1
       name: Alvusia
+      id: 100041
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 25
     cards:
     - count: 2
       name: Ambush
+      id: 100046
     - count: 3
       name: Bum's Rush
+      id: 100266
     - count: 8
       name: Dive Bomb
+      id: 100561
     - count: 3
       name: Harass
+      id: 100886
     - count: 3
       name: Preternatural Strength
+      id: 101483
     - count: 6
       name: Raw Recruit
+      id: 101554
   - name: Equipment
     count: 3
     cards:
     - count: 2
       name: Codex of the Edenic Groundskeepers
+      id: 100374
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 6
     cards:
     - count: 6
       name: As the Crow
+      id: 100102
   - name: Combat
     count: 36
     cards:
     - count: 5
       name: Brick by Brick
+      id: 100252
     - count: 1
       name: Disarm
+      id: 100549
     - count: 8
       name: Immortal Grapple
+      id: 100959
     - count: 8
       name: Raking Talons
+      id: 101538
     - count: 2
       name: Rockheart
+      id: 101646
     - count: 6
       name: Roundhouse
+      id: 102215
     - count: 4
       name: Stonestrength
+      id: 101876
     - count: 2
       name: Taste of Vitae
+      id: 101945
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Waiting Game
+      id: 102136

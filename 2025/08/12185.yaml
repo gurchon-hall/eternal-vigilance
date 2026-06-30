@@ -1,5 +1,5 @@
 name: Revelation of Despair
-location: Gulfport, Mississippi
+location: Gulfport (MS), USA
 date_start: 2025-08-24
 rounds_format: 2R+F
 players_count: 12
@@ -7,9 +7,8 @@ winner: Devin Villegas
 vekn_number: 1001123
 event_url: https://www.vekn.net/event-calendar/event/12185
 event_id: 12185
-vp_comment: 2GW+7VP + 3VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82531-twd-revelation-of-despair
+vp_comment: 2GW7 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12185
 deck:
   name: Scout it out
   created_by: andis, dev
@@ -21,6 +20,7 @@ deck:
   crypt:
   - count: 5
     name: Scout Youngwood
+    id: 201253
     capacity: 8
     disciplines: for qui MEL OBF PRE
     title: 2 Votes
@@ -28,30 +28,35 @@ deck:
     grouping: 6
   - count: 3
     name: Hillanvale
+    id: 200598
     capacity: 5
     disciplines: obf FOR MEL
     clan: Daughter of Cacophony
     grouping: 6
   - count: 1
     name: Phaibun
+    id: 201681
     capacity: 5
     disciplines: ani OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Zafira
+    id: 201692
     capacity: 4
     disciplines: obf PRE
     clan: Ravnos
     grouping: 7
   - count: 1
     name: '"Coach" Tyrone Soros'
+    id: 201661
     capacity: 3
     disciplines: obf pre
     clan: Ministry
     grouping: 6
   - count: 1
     name: Oleg Kaprizov
+    id: 201679
     capacity: 3
     disciplines: obf pre
     clan: Ravnos
@@ -63,66 +68,91 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 2
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 1
       name: Tension in the Ranks
+      id: 101958
     - count: 4
       name: Wider View
+      id: 102180
   - name: Action
     count: 27
     cards:
     - count: 3
       name: Concert Tour
+      id: 100393
     - count: 24
       name: Shattering Crescendo
+      id: 101761
   - name: Action Modifier
     count: 17
     cards:
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 5
       name: Forgotten Labyrinth
+      id: 100769
     - count: 2
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Lost in Crowds
+      id: 101125
     - count: 4
       name: Veil the Legions
+      id: 102097
   - name: Action Modifier/Combat
     count: 7
     cards:
     - count: 3
       name: Force of Personality
+      id: 100758
     - count: 4
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 12
     cards:
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Party Out Of Bounds
+      id: 102231
     - count: 4
       name: Visions of Zapathasura
+      id: 102265
   - name: Combat
     count: 7
     cards:
     - count: 2
       name: Gemini's Mirror
+      id: 100814
     - count: 5
       name: Majesty
+      id: 101144

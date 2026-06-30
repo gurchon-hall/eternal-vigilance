@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 3
     name: Hel-Blá
+    id: 201731
     capacity: 9
     disciplines: obf AUS FOR OBL POT
     clan: Hecata
     grouping: 6
   - count: 3
     name: Aitana, The Unholy
+    id: 201737
     capacity: 6
     disciplines: for tha AUS OBL
     clan: Hecata
@@ -32,12 +34,14 @@ deck:
     path: Death and the Soul
   - count: 2
     name: Lenelle, Mambo of Birmingham
+    id: 201721
     capacity: 6
     disciplines: aus FOR OBL
     clan: Hecata
     grouping: 6
   - count: 2
     name: Nadezhda
+    id: 201765
     capacity: 3
     disciplines: aus obl
     clan: Hecata
@@ -45,12 +49,14 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Gebeyehu Abdu
+    id: 201718
     capacity: 5
     disciplines: for AUS OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Alek König
+    id: 201717
     capacity: 3
     disciplines: OBL
     clan: Hecata
@@ -62,83 +68,115 @@ deck:
     cards:
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 1
       name: Biotech Company Hunting Ground
+      id: 102287
     - count: 1
       name: Burial Site Hunting Ground
+      id: 102311
     - count: 1
       name: Charisma
+      id: 100332
     - count: 1
       name: Cursed Abattoir
+      id: 102313
     - count: 1
       name: Fame
+      id: 100698
     - count: 2
       name: Family Gathering
+      id: 102289
     - count: 1
       name: Fortschritt Library
+      id: 100775
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 6
       name: Liquidation
+      id: 101112
     - count: 5
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: 'Powerbase: Munich'
+      id: 102301
     - count: 1
       name: Vox Domini
+      id: 102132
   - name: Action
     count: 13
     cards:
     - count: 4
       name: Dance of the Dead
+      id: 102314
     - count: 3
       name: Shroud of Decay
+      id: 102295
     - count: 6
       name: Split the Veil
+      id: 102297
   - name: Ally
     count: 17
     cards:
     - count: 6
       name: Aggressive Corpse
+      id: 102286
     - count: 5
       name: Bone Shambler
+      id: 102293
     - count: 1
       name: Fiorella, Empty One
+      id: 102322
     - count: 4
       name: Freakish Conglomeration
+      id: 102324
     - count: 1
       name: Ponticulus
+      id: 101419
   - name: Action Modifier
     count: 6
     cards:
     - count: 3
       name: Paths in Two Worlds
+      id: 102300
     - count: 3
       name: Stygian Shroud
+      id: 102282
   - name: Reaction
     count: 13
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 6
       name: Shadow Sentinel
+      id: 102294
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 7
     cards:
     - count: 4
       name: Target Vitals
+      id: 101942
     - count: 3
       name: Trap
+      id: 102012
   - name: Event
     count: 3
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
     - count: 1
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

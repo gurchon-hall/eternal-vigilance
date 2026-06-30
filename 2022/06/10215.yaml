@@ -21,6 +21,7 @@ deck:
   crypt:
   - count: 5
     name: Dmitra Ilyanova
+    id: 200349
     capacity: 9
     disciplines: obf CEL FOR POT PRE
     title: Justicar
@@ -28,6 +29,7 @@ deck:
     grouping: 5
   - count: 2
     name: Carlak
+    id: 200244
     capacity: 8
     disciplines: dom pot CEL PRE
     title: Prince
@@ -35,6 +37,7 @@ deck:
     grouping: 5
   - count: 2
     name: Karen Suadela
+    id: 200753
     capacity: 7
     disciplines: obf pre CEL POT
     title: Prince
@@ -42,6 +45,7 @@ deck:
     grouping: 5
   - count: 1
     name: Catalina Vega
+    id: 201540
     capacity: 8
     disciplines: for AUS CEL PRE
     title: Prince
@@ -49,6 +53,7 @@ deck:
     grouping: 6
   - count: 1
     name: Flávio Gonçalves
+    id: 201547
     capacity: 7
     disciplines: aus for CEL PRE
     title: Prince
@@ -56,6 +61,7 @@ deck:
     grouping: 6
   - count: 1
     name: Mkhokheli
+    id: 201561
     capacity: 6
     disciplines: aus cel for PRE
     title: Prince
@@ -68,72 +74,97 @@ deck:
     cards:
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fame
+      id: 100698
     - count: 5
       name: Grooming the Protégé
+      id: 100860
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: New Carthage
+      id: 101277
     - count: 1
       name: Wider View
+      id: 102180
   - name: Equipment
     count: 4
     cards:
     - count: 3
       name: Assault Rifle
+      id: 100107
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 15
     cards:
     - count: 5
       name: Alastor
+      id: 100038
     - count: 2
       name: Anarchist Uprising
+      id: 100059
     - count: 2
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
-      name: The Meddling of Semsith
+      name: Meddling of Semsith, The
+      id: 101192
     - count: 4
       name: Parity Shift
+      id: 101353
     - count: 1
       name: Political Stranglehold
+      id: 101417
   - name: Action Modifier
     count: 16
     cards:
     - count: 3
       name: Closed Session
+      id: 100364
     - count: 5
       name: Forced March
+      id: 100761
     - count: 1
       name: Iron Glare
+      id: 101008
     - count: 3
       name: Perfect Paragon
+      id: 101387
     - count: 4
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Combat
     count: 6
     cards:
     - count: 6
       name: Resist Earth's Grasp
+      id: 101610
   - name: Reaction
     count: 8
     cards:
     - count: 8
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 10
     cards:
     - count: 6
       name: Psyche!
+      id: 101507
     - count: 2
       name: Side Strike
+      id: 101778
     - count: 2
       name: Superior Mettle
+      id: 101905
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

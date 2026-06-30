@@ -1,5 +1,5 @@
 name: The King The Power The Best
-location: São Paulo SP
+location: São paulo, Brazil
 date_start: 2025-06-01
 rounds_format: 2R+F
 players_count: 30
@@ -7,11 +7,9 @@ winner: DK Magaji
 vekn_number: 6010167
 event_url: https://www.vekn.net/event-calendar/event/12366
 event_id: 12366
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82390-twd-the-king-the-power-the-best-sao-paulo-brazil-01-jun-2025
+forum_post_url: https://www.vekn.net/event-calendar/event/12366
 deck:
   name: Turbo Unnamed
-  created_by: Dk Magaji
   description: ''
   crypt_count: 12
   crypt_min: 40
@@ -19,7 +17,8 @@ deck:
   crypt_avg: 10.0
   crypt:
   - count: 12
-    name: The unnamed
+    name: unnamed, The
+    id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
@@ -31,71 +30,97 @@ deck:
     cards:
     - count: 8
       name: Abombwe
+      id: 100009
     - count: 1
       name: Antediluvian Awakening
+      id: 100073
     - count: 1
       name: Bleeding the Vine
+      id: 100178
     - count: 6
       name: Dreams of the Sphinx
+      id: 100588
     - count: 3
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Life Boon
+      id: 101103
     - count: 1
       name: Metro Underground
+      id: 101207
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Redeem the Lost Soul
+      id: 101577
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Vulnerability
+      id: 102134
   - name: Action
     count: 10
     cards:
     - count: 6
       name: Call the Great Beast
+      id: 100280
     - count: 1
       name: Contagion
+      id: 100418
     - count: 3
       name: Unleash Hell's Fury
+      id: 102076
   - name: Ally
     count: 3
     cards:
     - count: 1
       name: Infernal Servitor
+      id: 100981
     - count: 1
       name: Mylan Horseed
+      id: 101261
     - count: 1
       name: Veneficti
+      id: 102103
   - name: Equipment
     count: 7
     cards:
     - count: 7
       name: Soul Gem of Etrius
+      id: 101832
   - name: Action Modifier
     count: 21
     cards:
     - count: 2
       name: Earth Control
+      id: 100600
     - count: 4
       name: Elder Impersonation
+      id: 100617
     - count: 2
       name: Enkil Cog
+      id: 100645
     - count: 3
       name: Forgotten Labyrinth
+      id: 100769
     - count: 8
       name: Instantaneous Transformation
+      id: 100994
     - count: 2
       name: Lost in Crowds
+      id: 101125
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Form of Mist
+      id: 100771
   - name: Event
     count: 2
     cards:
     - count: 2
       name: Scourge of the Enochians
+      id: 101697

@@ -8,25 +8,15 @@ vekn_number: 6130022
 event_url: https://www.vekn.net/event-calendar/event/13322
 event_id: 13322
 vp_comment: 1GW3 + 3vp in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/83032-twd-anti-jogo-sao-paulo-br-24-may
+forum_post_url: https://www.vekn.net/event-calendar/event/13322
 deck:
-  name: '!Ventrue G2 Voter PaIV'
-  created_by: DuduJF
+  name: '!Ventrue G2 Voter Path of the Inner Voice'
   description: ''
   crypt_count: 12
   crypt_min: 29
   crypt_max: 37
   crypt_avg: 8.5
   crypt:
-  - count: 1
-    name: Lazverinus, Thrall of Lambach
-    id: 200823
-    capacity: 10
-    disciplines: pro AUS DOM FOR POT
-    title: Archbishop
-    clan: Ventrue antitribu
-    grouping: 2
   - count: 4
     name: Quentin
     id: 201140
@@ -50,6 +40,14 @@ deck:
     disciplines: dom AUS CEL PRE
     title: Archbishop
     clan: Toreador antitribu
+    grouping: 2
+  - count: 1
+    name: Lazverinus, Thrall of Lambach
+    id: 200823
+    capacity: 10
+    disciplines: pro AUS DOM FOR POT
+    title: Archbishop
+    clan: Ventrue antitribu
     grouping: 2
   - count: 1
     name: Gratiano

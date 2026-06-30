@@ -7,11 +7,10 @@ winner: Randal Rudstam
 vekn_number: 3382226
 event_url: https://www.vekn.net/event-calendar/event/12587
 event_id: 12587
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82684-twd-swedish-national-championship-2025-stockholm-sweden-22-november-2025
+vp_comment: 2GW9 + 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12587
 deck:
   name: Bleed/Bounce Swedish Champ
-  created_by: Matsdur
   description: ''
   crypt_count: 12
   crypt_min: 17
@@ -20,55 +19,64 @@ deck:
   crypt:
   - count: 2
     name: Gwendolyn Fleming
+    id: 200555
     capacity: 6
     disciplines: cel pro AUS PRE
     clan: Toreador
     grouping: 5
   - count: 2
     name: Maila
+    id: 201633
     capacity: 6
     disciplines: cel AUS PRE
     title: Primogen
     clan: Toreador
     grouping: 6
-  - count: 1
-    name: Guggenheim
-    capacity: 6
-    disciplines: AUS CEL PRE
-    clan: Toreador antitribu
-    grouping: 5
   - count: 2
     name: Regina Blake
+    id: 201648
     capacity: 5
     disciplines: AUS PRE
     clan: Toreador
     grouping: 6
   - count: 1
+    name: Guggenheim
+    id: 201515
+    capacity: 6
+    disciplines: AUS CEL PRE
+    clan: Toreador antitribu
+    grouping: 5
+  - count: 1
     name: Amber
+    id: 200067
     capacity: 5
     disciplines: cel AUS PRE
     clan: Toreador antitribu
     grouping: 5
   - count: 1
     name: Anne-Marie Bourgeois, Inconnu Recruiter
+    id: 200105
     capacity: 5
     disciplines: cel pre AUS
     clan: Toreador
     grouping: 5
   - count: 1
     name: Bethany Ray
+    id: 200194
     capacity: 4
     disciplines: aus PRE
     clan: Toreador
     grouping: 5
   - count: 1
     name: Bret Stryker
+    id: 201538
     capacity: 4
     disciplines: CEL PRE
     clan: Toreador
     grouping: 6
   - count: 1
     name: Tyler McGill
+    id: 201398
     capacity: 4
     disciplines: pre AUS
     clan: Toreador
@@ -80,77 +88,106 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 3
       name: Life in the City
+      id: 101104
     - count: 3
       name: Misdirection
+      id: 101225
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Wash
+      id: 102151
   - name: Action
     count: 22
     cards:
     - count: 6
       name: Enchant Kindred
+      id: 100640
     - count: 2
       name: Entrancement
+      id: 100652
     - count: 8
       name: Intimidation
+      id: 100999
     - count: 4
       name: Mind Numb
+      id: 101211
     - count: 2
       name: Revelations
+      id: 101627
   - name: Equipment
     count: 2
     cards:
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 13
     cards:
     - count: 7
       name: Aire of Elation
+      id: 100031
     - count: 3
       name: Change of Target
+      id: 100323
     - count: 3
       name: Loup
+      id: 102273
   - name: Reaction
     count: 19
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 5
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 10
     cards:
     - count: 2
       name: Aura Reading
+      id: 100113
     - count: 2
       name: Charismatic Aura
+      id: 100333
     - count: 6
       name: Majesty
+      id: 101144
   - name: Event
     count: 2
     cards:
     - count: 1
       name: Blood Trade
+      id: 100215
     - count: 1
       name: Nightmares upon Nightmares
+      id: 101285

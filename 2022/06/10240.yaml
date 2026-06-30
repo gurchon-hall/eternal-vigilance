@@ -1,14 +1,15 @@
 name: Game of the instinct
 location: Online
 date_start: 2022-06-27
+date_end: 2022-06-29
 rounds_format: 2R+F
 players_count: 12
 winner: Bruno Patrício Silva Pontes
 vekn_number: 1001905
 event_url: https://www.vekn.net/event-calendar/event/10240
 event_id: 10240
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79947-twda-game-of-the-instinct
+vp_comment: 2vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10240
 deck:
   name: bruno pontes, the crow
   description: ''
@@ -18,7 +19,7 @@ deck:
   crypt_avg: 5.75
   crypt:
   - count: 2
-    name: The Dowager
+    name: Dowager, The
     id: 201545
     capacity: 6
     disciplines: aus pot ANI OBF
@@ -39,27 +40,6 @@ deck:
     capacity: 6
     disciplines: obf pot pre ANI
     title: Primogen
-    clan: Nosferatu
-    grouping: 6
-  - count: 1
-    name: Anarch Convert
-    id: 200076
-    capacity: 1
-    disciplines: ''
-    clan: Caitiff
-    grouping: ANY
-  - count: 1
-    name: Baixinho
-    id: 201536
-    capacity: 3
-    disciplines: ani obf
-    clan: Nosferatu
-    grouping: 6
-  - count: 1
-    name: Horace Radcliffe
-    id: 201549
-    capacity: 5
-    disciplines: obf ANI POT
     clan: Nosferatu
     grouping: 6
   - count: 1
@@ -84,6 +64,27 @@ deck:
     title: Primogen
     clan: Nosferatu
     grouping: 5
+  - count: 1
+    name: Horace Radcliffe
+    id: 201549
+    capacity: 5
+    disciplines: obf ANI POT
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Baixinho
+    id: 201536
+    capacity: 3
+    disciplines: ani obf
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
   library_count: 90
   library_sections:
   - name: Master
@@ -99,7 +100,7 @@ deck:
       name: Fame
       id: 100698
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
       id: 101070
     - count: 2
       name: Perfectionist
@@ -108,7 +109,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 2
       name: Vessel

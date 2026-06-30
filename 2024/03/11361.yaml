@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 2
     name: Sascha Vykos, The Angel of Caine (ADV)
+    id: 201245
     capacity: 8
     disciplines: ani dom AUS THA VIC
     title: Archbishop
@@ -25,60 +26,70 @@ deck:
     grouping: 2
   - count: 1
     name: Goratrix
+    id: 200528
     capacity: 10
     disciplines: vic ANI AUS DOM THA
     clan: Tremere antitribu
     grouping: 2
   - count: 1
     name: Little Tailor of Prague
+    id: 200844
     capacity: 8
     disciplines: dem ANI AUS VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Kazimir Savostin
+    id: 200766
     capacity: 7
     disciplines: ani pot AUS VIC
     clan: Tzimisce
     grouping: 3
   - count: 1
     name: Omaya
+    id: 201079
     capacity: 7
     disciplines: pro ANI AUS FOR
     clan: Gangrel antitribu
     grouping: 2
   - count: 1
     name: Caliban
+    id: 200236
     capacity: 6
     disciplines: ANI AUS VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Corine Marcón
+    id: 200290
     capacity: 6
     disciplines: ani AUS VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Devin Bisley
+    id: 200339
     capacity: 5
     disciplines: vic ANI AUS
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Elizabeth Westcott
+    id: 200415
     capacity: 5
     disciplines: ani cel vic AUS
     clan: Tzimisce
     grouping: 3
   - count: 1
     name: Lolita Houston
+    id: 200850
     capacity: 4
     disciplines: aus VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Isabel de Leon
+    id: 200642
     capacity: 3
     disciplines: AUS
     clan: Toreador
@@ -90,79 +101,109 @@ deck:
     cards:
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Guardian Angel
+      id: 100866
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Rötschreck
+      id: 101654
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 6
       name: Villein
+      id: 102121
   - name: Action
     count: 4
     cards:
     - count: 3
       name: Anonymous Freight
+      id: 100072
     - count: 1
       name: Army of Rats
+      id: 100093
   - name: Equipment
     count: 9
     cards:
     - count: 3
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 1
       name: Kevlar Vest
+      id: 101040
     - count: 1
       name: Leather Jacket
+      id: 101081
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Action Modifier
     count: 2
     cards:
     - count: 2
       name: Changeling
+      id: 100324
   - name: Reaction
     count: 42
     cards:
     - count: 7
       name: Eagle's Sight
+      id: 100598
     - count: 9
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: Forced Awakening
+      id: 100760
     - count: 6
       name: My Enemy's Enemy
+      id: 101259
     - count: 6
       name: On the Qui Vive
+      id: 101321
     - count: 13
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 14
     cards:
     - count: 4
       name: Breath of the Dragon
+      id: 100250
     - count: 8
       name: Chiropteran Marauder
+      id: 100344
     - count: 2
       name: Quick Jab
+      id: 101529

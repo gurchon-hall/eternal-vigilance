@@ -1,4 +1,4 @@
-name: German Nationals 2025
+name: German NC 2025
 location: Darmstadt-Eberstadt, Germany
 date_start: 2025-11-08
 rounds_format: 3R+F
@@ -7,12 +7,11 @@ winner: Joscha Düll
 vekn_number: 1000565
 event_url: https://www.vekn.net/event-calendar/event/12548
 event_id: 12548
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82662-twd-german-nationals-2025-darmstadt-eberstadt-8-nov-2025
+forum_post_url: https://www.vekn.net/event-calendar/event/12548
 deck:
   name: Lasombra Path of Power v2
-  created_by: Joscha "Yosha" Düll
-  description: ''
+  description: The deck was fun, but as always you need the right meta and a 
+    good seating to be succesful with it. It is no magical wonder deck.
   crypt_count: 12
   crypt_min: 33
   crypt_max: 40
@@ -20,6 +19,7 @@ deck:
   crypt:
   - count: 4
     name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
     capacity: 10
     disciplines: aus for DOM OBT POT PRE
     title: Cardinal
@@ -27,13 +27,23 @@ deck:
     grouping: 2
   - count: 3
     name: Antonio Delgado
+    id: 200117
     capacity: 9
     disciplines: tha DOM OBT POT
     title: Archbishop
     clan: Lasombra
     grouping: 2
+  - count: 3
+    name: Gratiano
+    id: 200534
+    capacity: 8
+    disciplines: obf pot DOM OBT
+    title: Priscus
+    clan: Lasombra
+    grouping: 2
   - count: 1
     name: Alvaro, The Scion of Angelica
+    id: 200063
     capacity: 9
     disciplines: dom pre OBT POT
     title: Archbishop
@@ -41,16 +51,10 @@ deck:
     grouping: 2
   - count: 1
     name: Francisco Domingo de Polonia
+    id: 200476
     capacity: 9
     disciplines: pro DOM OBT POT PRE
     title: Archbishop
-    clan: Lasombra
-    grouping: 2
-  - count: 3
-    name: Gratiano
-    capacity: 8
-    disciplines: obf pot DOM OBT
-    title: Priscus
     clan: Lasombra
     grouping: 2
   library_count: 78
@@ -60,83 +64,157 @@ deck:
     cards:
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 1
       name: Fear of Mekhet
+      id: 100710
+      comment: never played it, could have twice but it was not the right time. 
+        Still a very strong card imho
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Gurchon Hall
+      id: 100871
+      comment: had it only in the final, the deck ran smoothly without. An 
+        autoinclude thinking about all the blood intensive cards like 
+        Deflection, Govern, Obt-stealth, Villein, though I did not miss it. 
+        Could be a Monastery of Shadows probably
     - count: 1
       name: Information Highway
+      id: 100984
+      comment: useful also in the later stages of game to cycle Unholy 
+        Sacraments, three on, three back
     - count: 1
       name: Power Structure
+      id: 101430
+      comment: autoinclude
     - count: 1
       name: 'Powerbase: Madrid'
+      id: 101437
+      comment: I like that card, though it wasn't needed in the prelims. a good 
+        addition beside Power Structure
     - count: 1
       name: Privileged Position
+      id: 102334
+      comment: not bad, especially if you get it early. Great there is no pool 
+        cost
     - count: 1
       name: Regent
+      id: 101587
+      comment: was the gamechanging and probably the winning card in the finals,
+        but you have to look out for fighty sabbats, then it is not playable
     - count: 6
       name: Unholy Sacrament
+      id: 102345
     - count: 6
       name: Villein
+      id: 102121
+      comment: Villein 5, play Unholy Sacrament ;)
   - name: Action
     count: 6
     cards:
     - count: 6
       name: Govern the Unaligned
+      id: 100845
+      comment: quite right imho, enough to speed up the second minion, great to 
+        bleed in late game
   - name: Political Action
     count: 18
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Banishment
+      id: 100131
+      comment: could be two, so strong
     - count: 4
       name: Cold War
+      id: 102312
+      comment: strong, good for negotiations or powerful if you have vote lock, 
+        there are sooo many locations these days
     - count: 4
       name: Empires Fall
+      id: 102318
+      comment: very, very strong when prey and maybe pred plays 8 cap plus, had 
+        surprisingly four preys who did not, glad I cut to four
     - count: 5
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 1
       name: War of Ages
+      id: 102348
+      comment: good card, strong early, nice to have later
   - name: Action Modifier
     count: 19
     cards:
     - count: 1
       name: Blanket of Night
+      id: 100177
+      comment: great for the decisive strike, good with Monçada special
     - count: 2
       name: Dominant Personality
+      id: 102316
+      comment: a good versatile mix of Shroud of Night and Seduction, 
+        flexibility is always nice, beware, Gratiano can only play it on 
+        inferior
     - count: 4
       name: Magnetic Authority
+      id: 102331
+      comment: great card, imho better than Amici Noctis,can speed up influence,
+        goes well with getting back pool via Info Highway, you don't need a 
+        referendum to pass with many votes, just pass = gain benefit
     - count: 6
       name: Shadow Play
+      id: 101743
+      comment: political action and this means the magical 3 stealth to pass 
+        Second Tradition or two ORs
     - count: 4
       name: Shroud of Absence
+      id: 101774
+      comment: for a probable third intercept or to go for a bleed without much 
+        danger
     - count: 1
       name: Shroud of Night
+      id: 101775
     - count: 1
       name: Unthinkable Humiliation
+      id: 102346
+      comment: good vs. Unmasking ally blockers
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Ominous Chorus
+      id: 102278
+      comment: good for a key referendum, did not need it
   - name: Reaction
     count: 8
     cards:
     - count: 8
       name: Deflection
+      id: 100518
+      comment: was a good number, not enough against a dedicated bleeder, then 
+        backoust ;)
   - name: Combat
     count: 4
     cards:
     - count: 1
       name: Oubliette
+      id: 101334
     - count: 3
       name: Shadow Body
+      id: 101735
+      comment: rather not many, deck dies to dedicated rush, but then no combat 
+        ends help, right? Was good vs. Assault rifle Anarchs or is good vs. a 
+        Behemoth or War Ghoul

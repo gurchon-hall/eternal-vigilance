@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 4
     name: Molly MacDonald
+    id: 201704
     capacity: 10
     disciplines: ANI OBF POT PRO
     title: Justicar
@@ -25,6 +26,7 @@ deck:
     grouping: 7
   - count: 3
     name: Nikolaus Vermeulen
+    id: 201705
     capacity: 7
     disciplines: for obf ANI POT
     title: Prince
@@ -32,12 +34,14 @@ deck:
     grouping: 6
   - count: 1
     name: Nathaniel Bordruff
+    id: 201632
     capacity: 7
     disciplines: ani DOM OBF POT
     clan: Nosferatu
     grouping: 6
   - count: 1
     name: Benedito, a Lanterna
+    id: 201524
     capacity: 6
     disciplines: ani aus obf POT
     title: Baron
@@ -45,18 +49,21 @@ deck:
     grouping: 6
   - count: 1
     name: Horace Radcliffe
+    id: 201549
     capacity: 5
     disciplines: obf ANI POT
     clan: Nosferatu
     grouping: 6
   - count: 1
     name: Okulos
+    id: 201618
     capacity: 5
     disciplines: ani pot OBF
     clan: Nosferatu
     grouping: 7
   - count: 1
     name: Aunt Linda
+    id: 201534
     capacity: 4
     disciplines: obf POT
     clan: Nosferatu
@@ -68,79 +75,109 @@ deck:
     cards:
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
+      id: 101070
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Slum Hunting Ground
+      id: 101808
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 3
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 3
       name: Warsaw Station
+      id: 102149
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 14
     cards:
     - count: 1
       name: Army of Rats
+      id: 100093
     - count: 4
       name: Creeping Sabotage
+      id: 102213
     - count: 7
       name: Deep Song
+      id: 100515
     - count: 2
       name: Preternatural Strength
+      id: 101483
   - name: Retainer
     count: 3
     cards:
     - count: 1
       name: J. S. Simmons, Esq.
+      id: 101015
     - count: 1
       name: Mr. Winthrop
+      id: 101249
     - count: 1
       name: Raven Spy
+      id: 101550
   - name: Action Modifier/Combat
     count: 6
     cards:
     - count: 6
       name: Shadow Boxing
+      id: 101736
   - name: Reaction
     count: 14
     cards:
     - count: 2
       name: Cats' Guidance
+      id: 100308
     - count: 8
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 4
-      name: The Warrens
+      name: Warrens, The
+      id: 102216
   - name: Combat
     count: 33
     cards:
     - count: 2
       name: Disarm
+      id: 100549
     - count: 7
       name: Flesh of Marble
+      id: 100749
     - count: 8
       name: Immortal Grapple
+      id: 100959
     - count: 11
       name: Roundhouse
+      id: 102215
     - count: 5
       name: Taste of Vitae
+      id: 101945
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581

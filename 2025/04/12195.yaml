@@ -18,30 +18,35 @@ deck:
   crypt:
   - count: 4
     name: Erebus
+    id: 200428
     capacity: 7
     disciplines: dem AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 3
   - count: 4
     name: Eurayle Gelasia Mylonas
+    id: 200443
     capacity: 6
     disciplines: for pre AUS OBE
     clan: Salubri
     grouping: 4
   - count: 3
     name: Béatrice "Oracle171" Tremblay
+    id: 200181
     capacity: 3
     disciplines: inn ven
     clan: Innocent
     grouping: 4
   - count: 1
     name: Sennadurek
+    id: 201263
     capacity: 6
     disciplines: dom AUS NEC
     clan: Nagaraja
     grouping: 4
   - count: 1
     name: Nicomedes
+    id: 201057
     capacity: 5
     disciplines: aus for nec vic
     clan: Harbinger of Skulls
@@ -53,104 +58,142 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 3
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
       name: Vessel
+      id: 102113
     - count: 4
       name: Villein
+      id: 102121
     - count: 3
       name: Wider View
+      id: 102180
   - name: Conviction
     count: 3
     cards:
     - count: 1
       name: React with Conviction
+      id: 101557
     - count: 1
       name: Second Sight
+      id: 101705
     - count: 1
       name: Strike with Conviction
+      id: 101886
   - name: Action
     count: 11
     cards:
     - count: 1
       name: Bum's Rush
+      id: 100266
     - count: 2
       name: Nose of the Hound
+      id: 101296
     - count: 1
       name: Renewed Vigor
+      id: 101603
     - count: 7
       name: Spirit Marionette
+      id: 101848
   - name: Ally
     count: 2
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Equipment
     count: 4
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Codex of the Edenic Groundskeepers
+      id: 100374
     - count: 1
       name: Erebus Mask
+      id: 100657
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Retainer
     count: 7
     cards:
     - count: 7
       name: Vengeful Spirit
+      id: 102107
   - name: Action Modifier
     count: 19
     cards:
     - count: 1
       name: Acheron Vortex
+      id: 100016
     - count: 1
       name: Call of the Hungry Dead
+      id: 100279
     - count: 3
       name: Daring the Dawn
+      id: 100492
     - count: 10
       name: Freak Drive
+      id: 100788
     - count: 2
       name: Inevitability of the Void
+      id: 100974
     - count: 2
       name: Repulsion
+      id: 101606
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Spectral Divination
+      id: 101843
   - name: Reaction
     count: 11
     cards:
     - count: 2
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: My Enemy's Enemy
+      id: 101259
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 16
     cards:
     - count: 2
       name: Anesthetic Touch
+      id: 100066
     - count: 6
       name: Indomitability
+      id: 100973
     - count: 1
       name: Resilience
+      id: 101608
     - count: 3
       name: Rolling with the Punches
+      id: 101649
     - count: 2
       name: Skin of Rock
+      id: 101791
     - count: 2
       name: Telepathic Tracking
+      id: 101950

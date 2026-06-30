@@ -1,5 +1,5 @@
-name: No duermas
-location: Badia del Valles, Spain
+name: No duermas - Torneo en Badia
+location: Badia del Vallès, Spain
 date_start: 2023-03-05
 rounds_format: 3R+F
 players_count: 27
@@ -7,12 +7,10 @@ winner: Albert Dulcet Belmonte
 vekn_number: 4960023
 event_url: https://www.vekn.net/event-calendar/event/10597
 event_id: 10597
-vp_comment: 3VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80361-twd-no-duermas-2023-badia-del-valles-spain-5-march-2023
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10597
 deck:
   name: Nobody expects the Spanish Inquisition
-  created_by: Albert Dulcet Belmonte
   description: ''
   crypt_count: 12
   crypt_min: 6
@@ -119,10 +117,10 @@ deck:
       name: Not to Be
       id: 101303
     - count: 3
-      name: The Parthenon
+      name: Parthenon, The
       id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: Smiling Jack, The Anarch
@@ -209,8 +207,8 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: The Slow Withering
+      name: Slow Withering, The
       id: 101807
     - count: 1
-      name: The Unmasking
+      name: Unmasking, The
       id: 102079

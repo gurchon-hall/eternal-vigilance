@@ -20,72 +20,84 @@ deck:
   crypt:
   - count: 1
     name: Banjoko
+    id: 200165
     capacity: 5
     disciplines: obt pot DOM
     clan: Lasombra
     grouping: 3
   - count: 1
     name: Catherine du Bois
+    id: 200256
     capacity: 5
     disciplines: for obf pre DOM
     clan: Ventrue
     grouping: 3
   - count: 1
     name: Isabel Giovanni
+    id: 200643
     capacity: 5
     disciplines: pot DOM NEC
     clan: Giovanni
     grouping: 2
   - count: 1
     name: Kurt Strauss
+    id: 200796
     capacity: 5
     disciplines: aus tha DOM
     clan: Tremere antitribu
     grouping: 2
   - count: 1
     name: Ranjan Rishi, Camarilla Scholar
+    id: 201162
     capacity: 5
     disciplines: for DOM PRE
     clan: Ventrue
     grouping: 2
   - count: 1
     name: Gloria Giovanni
+    id: 200525
     capacity: 4
     disciplines: nec DOM
     clan: Giovanni
     grouping: 2
   - count: 1
     name: Ingrid Russo
+    id: 200635
     capacity: 4
     disciplines: for DOM
     clan: Ventrue antitribu
     grouping: 2
   - count: 1
     name: Lia Milliner
+    id: 200834
     capacity: 3
     disciplines: dom nec
     clan: Giovanni
     grouping: 3
   - count: 1
     name: Christine Boscacci
+    id: 200273
     capacity: 2
     disciplines: dom vic
     clan: Pander
     grouping: 2
   - count: 1
     name: Mustafa Rahman
+    id: 201027
     capacity: 2
     disciplines: dom
     clan: Tremere
     grouping: 2
   - count: 1
     name: Ohanna
+    id: 201073
     capacity: 2
     disciplines: dom
     clan: Malkavian
     grouping: 2
   - count: 1
     name: Samson
+    id: 201231
     capacity: 2
     disciplines: dom
     clan: Ventrue antitribu
@@ -97,42 +109,58 @@ deck:
     cards:
     - count: 6
       name: Ashur Tablets
+      id: 100106
     - count: 12
       name: Brainwash
+      id: 100245
     - count: 2
       name: Cairo Int'l Airport
+      id: 100277
     - count: 4
       name: Dominate
+      id: 100572
     - count: 4
       name: Information Highway
+      id: 100984
     - count: 10
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 2
       name: Specialization
+      id: 101842
   - name: Action
     count: 8
     cards:
     - count: 8
       name: Govern the Unaligned
+      id: 100845
   - name: Action Modifier
     count: 21
     cards:
     - count: 5
       name: Bonding
+      id: 100236
     - count: 6
       name: Conditioning
+      id: 100401
     - count: 5
       name: Foreshadowing Destruction
+      id: 100765
     - count: 2
       name: Seduction
+      id: 101712
     - count: 3
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
+      id: 101805
   - name: Reaction
     count: 9
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: Poison Pill
+      id: 101406

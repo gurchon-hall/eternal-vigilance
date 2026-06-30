@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 5
     name: Montano
+    id: 201006
     capacity: 11
     disciplines: ANI DOM FOR OBT POT
     title: 2 Votes
@@ -26,36 +27,42 @@ deck:
     grouping: 3
   - count: 2
     name: Lucita
+    id: 200874
     capacity: 8
     disciplines: cel pot DOM FOR OBT
     clan: Lasombra
     grouping: 2
   - count: 1
     name: Guido Lucciano
+    id: 200544
     capacity: 5
     disciplines: dom obf OBT
     clan: Lasombra
     grouping: 2
   - count: 1
     name: Ignacio, The Black Priest
+    id: 200622
     capacity: 4
     disciplines: dom obt pot
     clan: Lasombra
     grouping: 2
   - count: 1
     name: Ramiro
+    id: 201157
     capacity: 4
     disciplines: dom obt vic
     clan: Lasombra
     grouping: 2
   - count: 1
     name: Cameron
+    id: 200239
     capacity: 3
     disciplines: dom pot
     clan: Lasombra
     grouping: 2
   - count: 1
     name: Aaron Duggan, Cameron's Toady
+    id: 200003
     capacity: 2
     disciplines: obt
     clan: Lasombra
@@ -67,80 +74,112 @@ deck:
     cards:
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: 'Golconda: Inner Peace'
+      id: 100842
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 4
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Political Hunting Ground
+      id: 101415
     - count: 4
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 21
     cards:
     - count: 9
       name: Baltimore Purge
+      id: 100128
     - count: 4
       name: Graverobbing
+      id: 100852
     - count: 6
       name: Puppet Master
+      id: 101215
     - count: 2
       name: Renewed Vigor
+      id: 101603
   - name: Ally
     count: 3
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 1
       name: Gregory Winter
+      id: 100855
     - count: 1
       name: Mylan Horseed
+      id: 101261
   - name: Action Modifier
     count: 34
     cards:
     - count: 2
       name: Blanket of Night
+      id: 100177
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 2
       name: Enkil Cog
+      id: 100645
     - count: 16
       name: Freak Drive
+      id: 100788
     - count: 2
       name: Seduction
+      id: 101712
     - count: 3
       name: Shadow Play
+      id: 101743
     - count: 3
       name: Shroud of Absence
+      id: 101774
     - count: 2
       name: Shroud of Night
+      id: 101775
     - count: 1
       name: Tenebrous Form
+      id: 101957
   - name: Reaction
     count: 9
     cards:
     - count: 3
       name: Deflection
+      id: 100518
     - count: 2
       name: Eluding the Arms of Morpheus
+      id: 100628
     - count: 4
       name: Obedience
+      id: 101309
   - name: Combat
     count: 3
     cards:
     - count: 1
       name: Oubliette
+      id: 101334
     - count: 2
       name: Shadow Body
+      id: 101735

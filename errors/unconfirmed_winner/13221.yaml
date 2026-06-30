@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 5
     name: Anneke
+    id: 200106
     capacity: 10
     disciplines: dom AUS CEL PRE
     title: Justicar
@@ -25,18 +26,21 @@ deck:
     grouping: 1
   - count: 2
     name: Kallista, Master Sculptor
+    id: 200746
     capacity: 6
     disciplines: pre pro AUS CEL
     clan: Toreador
     grouping: 1
   - count: 2
     name: Felicia Mostrom
+    id: 200461
     capacity: 5
     disciplines: pre AUS CEL
     clan: Toreador
     grouping: 1
   - count: 1
     name: Masika
+    id: 200950
     capacity: 10
     disciplines: AUS CEL PRE
     title: Primogen
@@ -44,12 +48,14 @@ deck:
     grouping: 1
   - count: 1
     name: Dorian Strack
+    id: 200368
     capacity: 4
     disciplines: cel AUS
     clan: Toreador
     grouping: 1
   - count: 1
     name: Isabel de Leon
+    id: 200642
     capacity: 3
     disciplines: AUS
     clan: Toreador
@@ -61,115 +67,163 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
       name: Art Museum
+      id: 100095
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elder Library
+      id: 100620
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Rack, The
+      id: 101536
     - count: 1
       name: Rebel
+      id: 101564
     - count: 2
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Society Hunting Ground
+      id: 101821
     - count: 1
       name: Society of Leopold
+      id: 101822
     - count: 4
       name: Vessel
+      id: 102113
     - count: 1
       name: Wash
+      id: 102151
     - count: 2
       name: Wider View
+      id: 102180
   - name: Action
     count: 2
     cards:
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 1
       name: Revelations
+      id: 101627
   - name: Equipment
     count: 9
     cards:
     - count: 4
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Leather Jacket
+      id: 101081
     - count: 1
       name: Palatial Estate
+      id: 101345
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Action Modifier
     count: 1
     cards:
     - count: 1
       name: Aire of Elation
+      id: 100031
   - name: Reaction
     count: 28
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 2
       name: Eagle's Sight
+      id: 100598
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: Melange
+      id: 101195
     - count: 1
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Precognition
+      id: 101475
     - count: 5
       name: Quicken Sight
+      id: 101531
     - count: 4
       name: 'Second Tradition: Domain'
+      id: 101706
     - count: 2
       name: Spirit's Touch
+      id: 101850
     - count: 4
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 25
     cards:
     - count: 3
       name: Blur
+      id: 100227
     - count: 2
       name: Charismatic Aura
+      id: 100333
     - count: 5
       name: Concealed Weapon
+      id: 100392
     - count: 2
       name: Flash
+      id: 100744
     - count: 3
       name: Psyche!
+      id: 101507
     - count: 3
       name: Pursuit
+      id: 101523
     - count: 4
       name: Quickness
+      id: 101532
     - count: 3
       name: Sideslip
+      id: 101779
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Scourge of the Enochians
+      id: 101697

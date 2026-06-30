@@ -1,0 +1,173 @@
+name: 6th Game of Malkav
+location: Helsinki, Finland
+date_start: 2025-01-09
+rounds_format: 2R+F
+players_count: 10
+winner: Tommi Hakomaa
+vekn_number: 3530067
+event_url: https://www.vekn.net/event-calendar/event/12005
+event_id: 12005
+vp_comment: 1GW3 + 1.5 in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12005
+deck:
+  name: H AE VE N _ 13
+  created_by: gotcha
+  description: Shout-out to Bram who is mastermind behind this beautiful pile of
+    red cards. Thank you also to Teemu Sainomaa who made it much easier for me 
+    to choose which deck to play.
+  crypt_count: 12
+  crypt_min: 13
+  crypt_max: 24
+  crypt_avg: 4.75
+  crypt:
+  - count: 2
+    name: Asguresh
+    id: 200145
+    capacity: 6
+    disciplines: aus CEL NEC
+    clan: Nagaraja
+    grouping: 5
+  - count: 1
+    name: Kalinda
+    id: 201596
+    capacity: 6
+    disciplines: tha CEL OBF
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Kassandra Tassaki
+    id: 201604
+    capacity: 6
+    disciplines: obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Khadija Al-Kindi
+    id: 201599
+    capacity: 6
+    disciplines: CEL OBF THA
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Asmin Kobane
+    id: 201578
+    capacity: 5
+    disciplines: dom obf tha CEL
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Omer
+    id: 201080
+    capacity: 5
+    disciplines: obf CEL QUI
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Bret Stryker
+    id: 201538
+    capacity: 4
+    disciplines: CEL PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Elen Kamjian
+    id: 201585
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Mateusz Kazimirski, Biker of Blood
+    id: 200959
+    capacity: 4
+    disciplines: qui CEL
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Bleeding the Vine
+      id: 100178
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 5
+      name: Priority Contract
+      id: 101487
+    - count: 6
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 12
+    cards:
+    - count: 8
+      name: Bum's Rush
+      id: 100266
+    - count: 2
+      name: Clandestine Contract
+      id: 100355
+    - count: 2
+      name: Harass
+      id: 100886
+  - name: Equipment
+    count: 9
+    cards:
+    - count: 9
+      name: .44 Magnum
+      id: 100001
+  - name: Combat
+    count: 46
+    cards:
+    - count: 5
+      name: Blur
+      id: 100227
+    - count: 8
+      name: Concealed Weapon
+      id: 100392
+    - count: 8
+      name: Infernal Pursuit
+      id: 100980
+    - count: 8
+      name: Psyche!
+      id: 101507
+    - count: 7
+      name: Pursuit
+      id: 101523
+    - count: 1
+      name: Side Strike
+      id: 101778
+    - count: 3
+      name: Sideslip
+      id: 101779
+    - count: 6
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581

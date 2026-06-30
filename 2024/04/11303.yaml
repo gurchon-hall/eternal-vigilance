@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 3
     name: Vivian VI
+    id: 201615
     capacity: 7
     disciplines: obf tha PRE PRO
     title: Baron
@@ -25,18 +26,21 @@ deck:
     grouping: 6
   - count: 2
     name: Crystal Lynn
+    id: 201582
     capacity: 6
     disciplines: OBF PRE PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Nonu Dis
+    id: 201608
     capacity: 8
     disciplines: for OBF PRE PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Sergio Bueno
+    id: 201662
     capacity: 8
     disciplines: aus pot OBF PRE PRO
     title: Baron
@@ -44,6 +48,7 @@ deck:
     grouping: 6
   - count: 1
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
@@ -51,24 +56,28 @@ deck:
     grouping: 6
   - count: 1
     name: Aluc Romas de Leon
+    id: 201577
     capacity: 5
     disciplines: aus obf pro PRE
     clan: Ministry
     grouping: 6
   - count: 1
     name: Doctor Morocco
+    id: 201584
     capacity: 5
     disciplines: cel obf pre PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Jenny Silver
+    id: 201593
     capacity: 5
     disciplines: obf PRE PRO
     clan: Ministry
     grouping: 6
   - count: 1
     name: Marcel
+    id: 201600
     capacity: 4
     disciplines: obf pre pro
     clan: Ministry
@@ -80,86 +89,118 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 4
       name: Dabbler
+      id: 100485
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Opium Den
+      id: 101326
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 24
     cards:
     - count: 4
       name: Enchant Kindred
+      id: 100640
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 1
       name: Field Training
+      id: 100725
     - count: 2
       name: Mind Numb
+      id: 101211
     - count: 16
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
+      id: 102232
   - name: Political Action
     count: 2
     cards:
     - count: 1
       name: Reckless Agitation
+      id: 101567
     - count: 1
       name: Revolutionary Council
+      id: 101631
   - name: Action Modifier
     count: 23
     cards:
     - count: 5
       name: CrimethInc.
+      id: 100446
     - count: 1
       name: Elder Impersonation
+      id: 100617
     - count: 1
       name: Enchanting Gaze
+      id: 102221
     - count: 1
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Monkey Wrench
+      id: 101239
     - count: 12
       name: Revelation of the Serpent
+      id: 102233
     - count: 1
       name: Veil the Legions
+      id: 102097
   - name: Action Modifier/Combat
     count: 1
     cards:
     - count: 1
       name: Swallowed by the Night
+      id: 101913
   - name: Action Modifier/Reaction
     count: 1
     cards:
     - count: 1
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 14
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: Organized Resistance
+      id: 102230
     - count: 3
       name: Party Out Of Bounds
+      id: 102231
     - count: 2
       name: Visions of Zapathasura
+      id: 102265
   - name: Combat
     count: 11
     cards:
     - count: 1
       name: Donnybrook
+      id: 100576
     - count: 5
       name: Earth Meld
+      id: 100601
     - count: 5
       name: Form of Mist
+      id: 100771

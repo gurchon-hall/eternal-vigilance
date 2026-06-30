@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 3
     name: Charles Delmare
+    id: 201513
     capacity: 8
     disciplines: cel DOM OBT POT
     title: Cardinal
@@ -27,6 +28,7 @@ deck:
     grouping: 5
   - count: 3
     name: Lord Leopold Valdemar
+    id: 201517
     capacity: 8
     disciplines: cel dom obf OBT POT
     title: Priscus
@@ -34,6 +36,7 @@ deck:
     grouping: 5
   - count: 3
     name: Percival
+    id: 201518
     capacity: 8
     disciplines: aus dom FOR OBT POT
     title: Archbishop
@@ -41,6 +44,7 @@ deck:
     grouping: 5
   - count: 1
     name: Andrew Emory
+    id: 200085
     capacity: 5
     disciplines: aus dom pot OBT
     title: Bishop
@@ -48,12 +52,14 @@ deck:
     grouping: 4
   - count: 1
     name: Ermenegildo, The Rake
+    id: 200435
     capacity: 5
     disciplines: pot DOM OBT
     clan: Lasombra
     grouping: 4
   - count: 1
     name: Lucy Markowitz
+    id: 200878
     capacity: 3
     disciplines: dom obt
     clan: Lasombra
@@ -65,79 +71,109 @@ deck:
     cards:
     - count: 4
       name: Capitalist
+      id: 100292
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dominate
+      id: 100572
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Elysian Fields
+      id: 100629
     - count: 1
       name: Festivo dello Estinto
+      id: 100723
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
-      name: The Path of Night
+      name: Path of Night, The
+      id: 101365
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: Political Hunting Ground
+      id: 101415
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 2
       name: Vessel
+      id: 102113
     - count: 2
       name: Wash
+      id: 102151
   - name: Action
     count: 14
     cards:
     - count: 1
       name: Far Mastery
+      id: 100703
     - count: 10
       name: Govern the Unaligned
+      id: 100845
     - count: 1
       name: Graverobbing
+      id: 100852
     - count: 2
       name: Under Siege
+      id: 102063
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 1
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
   - name: Action Modifier
     count: 20
     cards:
     - count: 2
       name: Blanket of Night
+      id: 100177
     - count: 8
       name: Conditioning
+      id: 100401
     - count: 4
       name: Shadow Play
+      id: 101743
     - count: 2
       name: Shroud of Absence
+      id: 101774
     - count: 2
       name: Shroud of Night
+      id: 101775
     - count: 2
       name: Tenebrous Form
+      id: 101957
   - name: Reaction
     count: 12
     cards:
     - count: 7
       name: Deflection
+      id: 100518
     - count: 5
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 12
     cards:
     - count: 1
       name: Amaranth
+      id: 100043
     - count: 6
       name: Arms of the Abyss
+      id: 100091
     - count: 5
       name: Entombment
+      id: 100651

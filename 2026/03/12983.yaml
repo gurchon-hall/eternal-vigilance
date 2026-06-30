@@ -7,11 +7,10 @@ winner: Hugo Coelho
 vekn_number: 3260056
 event_url: https://www.vekn.net/event-calendar/event/12983
 event_id: 12983
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82929-twd-elysium-leiriacon-vieira-de-leiria-portugal-29-mar-2026
+vp_comment: 1GW5.5 + 2.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12983
 deck:
   name: Power Punch Girls
-  created_by: Hugo Coelho
   description: ''
   crypt_count: 12
   crypt_min: 11
@@ -20,20 +19,15 @@ deck:
   crypt:
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
     clan: Brujah
     grouping: 6
-  - count: 1
-    name: Valeriya Zinovieva
-    capacity: 7
-    disciplines: cel pre pro POT
-    title: Baron
-    clan: Brujah
-    grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -41,37 +35,51 @@ deck:
     grouping: 6
   - count: 2
     name: Leumeah
+    id: 201526
     capacity: 6
     disciplines: cel for pot PRE
     title: Baron
     clan: Brujah
     grouping: 6
   - count: 1
+    name: Valeriya Zinovieva
+    id: 201614
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
     grouping: 6
   - count: 1
     name: Anita Wainwright
+    id: 201657
     capacity: 3
     disciplines: cel pre
     clan: Brujah
     grouping: 6
   - count: 1
     name: Ariane
+    id: 200132
     capacity: 3
     disciplines: cel pot pre
     clan: Brujah
     grouping: 5
   - count: 1
     name: Laura Goldman
+    id: 200816
     capacity: 3
     disciplines: cel pre
     clan: Brujah
     grouping: 5
   - count: 1
     name: Rayne
+    id: 201610
     capacity: 2
     disciplines: pot
     clan: Brujah
@@ -82,73 +90,101 @@ deck:
     count: 38
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 6
       name: Brujah Debate
+      id: 100260
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Papillon
+      id: 101350
     - count: 4
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 1
       name: Poacher's Hunting Ground
+      id: 101404
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 4
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wash
+      id: 102151
   - name: Action
     count: 5
     cards:
     - count: 4
       name: Line Brawl
+      id: 102229
     - count: 1
       name: Open War
+      id: 101324
   - name: Action Modifier
     count: 1
     cards:
     - count: 1
       name: Monkey Wrench
+      id: 101239
   - name: Reaction
     count: 20
     cards:
     - count: 6
       name: Bait and Switch
+      id: 102218
     - count: 13
       name: Organized Resistance
+      id: 102230
     - count: 1
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 15
     cards:
     - count: 3
       name: Bollix
+      id: 100232
     - count: 2
       name: Disarm
+      id: 100549
     - count: 10
       name: Dust Up
+      id: 100597
   - name: Event
     count: 1
     cards:
     - count: 1
       name: NSA Trio
+      id: 101306

@@ -7,11 +7,10 @@ winner: Pedro Santana de Araújo Filho
 vekn_number: 3560152
 event_url: https://www.vekn.net/event-calendar/event/11844
 event_id: 11844
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81934-twd-velei-me-ta-acabando-o-pool-teresina-brasil-01-12-2024
+vp_comment: 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11844
 deck:
   name: Me chame pelo meu nome (Call me by my name)
-  created_by: Pedro Santana
   description: BLEEED!!!!! com +2 de percepção!!!!!???
   crypt_count: 12
   crypt_min: 10
@@ -19,10 +18,17 @@ deck:
   crypt_avg: 6.33
   crypt:
   - count: 5
-    name: The unnamed
+    name: unnamed, The
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 4
+    name: Horde, The
+    id: 200605
+    capacity: 3
+    disciplines: dai obf pre
     clan: Baali
     grouping: 6
   - count: 1
@@ -38,13 +44,6 @@ deck:
     capacity: 6
     disciplines: DAI OBF PRE
     title: 1 Vote
-    clan: Baali
-    grouping: 6
-  - count: 4
-    name: The Horde
-    id: 200605
-    capacity: 3
-    disciplines: dai obf pre
     clan: Baali
     grouping: 6
   - count: 1
@@ -71,12 +70,12 @@ deck:
     - count: 1
       name: Monastery of Shadows
       id: 101238
-    - count: 1
-      name: Ruins of Charizel
-      id: 101659
     - count: 2
       name: Rötschreck
       id: 101654
+    - count: 1
+      name: Ruins of Charizel
+      id: 101659
     - count: 1
       name: Sudden Reversal
       id: 101896

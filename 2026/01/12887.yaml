@@ -1,5 +1,5 @@
 name: Camarilla Conclave
-location: Fortaleza - Ceará - Brazil
+location: Fortaleza (CE), Brazil
 date_start: 2026-01-25
 rounds_format: 2R+F
 players_count: 18
@@ -7,11 +7,10 @@ winner: Valdemir Santos
 vekn_number: 7301303
 event_url: https://www.vekn.net/event-calendar/event/12887
 event_id: 12887
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82793-twd-camarilla-conclave
+vp_comment: 1GW3 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12887
 deck:
   name: Dr. Stein
-  created_by: Valdemir
   description: ''
   crypt_count: 12
   crypt_min: 14
@@ -20,6 +19,7 @@ deck:
   crypt:
   - count: 1
     name: Ashur-uballit, Son of the Abyss
+    id: 201741
     capacity: 10
     disciplines: AUS DOM FOR OBL THA
     title: Cardinal
@@ -28,6 +28,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Abderrahim, Death's Hand
+    id: 201734
     capacity: 9
     disciplines: tha AUS DOM OBL POT
     clan: Lasombra
@@ -35,6 +36,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Eulogio Sánchez de los Reyes
+    id: 201750
     capacity: 8
     disciplines: AUS DOM OBL THA
     clan: Tremere
@@ -42,6 +44,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Huldu, The Desecrator
+    id: 201757
     capacity: 8
     disciplines: obf tha AUS FOR OBL
     clan: Hecata
@@ -49,6 +52,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Frau Schädel
+    id: 201752
     capacity: 7
     disciplines: aus dom for OBL THA
     clan: Tremere
@@ -56,6 +60,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Sakura, The Merciless
+    id: 201771
     capacity: 7
     disciplines: aus pot DOM OBL THA
     clan: Lasombra
@@ -63,6 +68,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Aitana, The Unholy
+    id: 201737
     capacity: 6
     disciplines: for tha AUS OBL
     clan: Hecata
@@ -70,6 +76,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Anxo Vilela
+    id: 201740
     capacity: 6
     disciplines: dom obl AUS THA
     clan: Tremere
@@ -77,6 +84,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Zbigniew, Hunter of Mekhet
+    id: 201780
     capacity: 5
     disciplines: aus dom tha OBL
     clan: Lasombra
@@ -84,6 +92,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: El Monseñor
+    id: 201749
     capacity: 4
     disciplines: dom OBL
     clan: Lasombra
@@ -91,6 +100,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Nadezhda
+    id: 201765
     capacity: 3
     disciplines: aus obl
     clan: Hecata
@@ -98,6 +108,7 @@ deck:
     path: Death and the Soul
   - count: 1
     name: Yurena, The Boor
+    id: 201779
     capacity: 2
     disciplines: tha
     clan: Tremere
@@ -110,87 +121,121 @@ deck:
     cards:
     - count: 3
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Burial Site Hunting Ground
+      id: 102311
     - count: 1
       name: Charisma
+      id: 100332
     - count: 1
       name: Cursed Abattoir
+      id: 102313
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
-      name: The Line
+      name: Line, The
+      id: 101110
     - count: 2
       name: Perfectionist
+      id: 101388
   - name: Action
     count: 10
     cards:
     - count: 2
       name: Dance of the Dead
+      id: 102314
     - count: 2
       name: Graverobbing
+      id: 100852
     - count: 2
       name: Putrescent Sustenance
+      id: 102335
     - count: 4
       name: Shroud of Decay
+      id: 102295
   - name: Ally
     count: 15
     cards:
     - count: 1
       name: Aggressive Corpse
+      id: 102286
     - count: 1
       name: Fiorella, Empty One
+      id: 102322
     - count: 3
       name: Freakish Conglomeration
+      id: 102324
     - count: 8
       name: Gravebound Drone
+      id: 102326
     - count: 1
       name: Heartrender
+      id: 102327
     - count: 1
       name: Rotting Behemoth
+      id: 102304
   - name: Action Modifier
     count: 24
     cards:
     - count: 5
       name: Gifts From Hereafter
+      id: 102325
     - count: 4
       name: Paths in Two Worlds
+      id: 102300
     - count: 3
       name: Shadow Cast
+      id: 102280
     - count: 4
       name: Shadow Cloak
+      id: 102281
     - count: 4
       name: Stygian Shroud
+      id: 102282
     - count: 4
       name: Where the Veil Thins
+      id: 102285
   - name: Reaction
     count: 13
     cards:
     - count: 3
       name: Deflection
+      id: 100518
     - count: 1
       name: My Enemy's Enemy
+      id: 101259
     - count: 2
       name: Redirection
+      id: 101578
     - count: 6
       name: Shadow Sentinel
+      id: 102294
     - count: 1
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 10
     cards:
     - count: 7
       name: Pass Through Shadow
+      id: 102279
     - count: 3
       name: Target Vitals
+      id: 101942
   - name: Event
     count: 2
     cards:
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
     - count: 1
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

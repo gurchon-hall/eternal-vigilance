@@ -1,0 +1,162 @@
+name: Dismemberment of Osiris
+location: Game Table Adventures, Newark, Ohio, USA
+date_start: 2024-12-07
+rounds_format: 2R+F
+players_count: 14
+winner: Erik Albenze
+vekn_number: 2970004
+event_url: https://www.vekn.net/event-calendar/event/11729
+event_id: 11729
+forum_post_url: https://www.vekn.net/event-calendar/event/11729
+deck:
+  name: Banu sleaze bleed
+  description: ''
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 24
+  crypt_avg: 4.58
+  crypt:
+  - count: 4
+    name: Kalinda
+    id: 201596
+    capacity: 6
+    disciplines: tha CEL OBF
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Asmin Kobane
+    id: 201578
+    capacity: 5
+    disciplines: dom obf tha CEL
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Omer
+    id: 201080
+    capacity: 5
+    disciplines: obf CEL QUI
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Wise Frog
+    id: 201472
+    capacity: 5
+    disciplines: aus cel qui OBF
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Greg Mazouni
+    id: 201589
+    capacity: 4
+    disciplines: cel obf tha
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Mateusz Kazimirski, Biker of Blood
+    id: 200959
+    capacity: 4
+    disciplines: qui CEL
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Adisa
+    id: 201636
+    capacity: 3
+    disciplines: cel obf
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Bijou
+    id: 201580
+    capacity: 3
+    disciplines: cel tha
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Alu
+    id: 200062
+    capacity: 2
+    disciplines: obf
+    clan: Banu Haqim
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 2
+      name: Blood Doll
+      id: 100199
+    - count: 6
+      name: "Haqim's Law: Retribution"
+      id: 102226
+    - count: 2
+      name: Tribute to the Master
+      id: 102023
+    - count: 1
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 17
+    cards:
+    - count: 7
+      name: "Haqim's Law: Leadership"
+      id: 100885
+    - count: 2
+      name: 'Khabar: Glory'
+      id: 101043
+    - count: 7
+      name: 'Khabar: Loyalty'
+      id: 101045
+    - count: 1
+      name: Rutor's Hand
+      id: 101664
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 6
+      name: Cloak the Gathering
+      id: 100362
+  - name: Action Modifier/Combat
+    count: 13
+    cards:
+    - count: 13
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Protected District
+      id: 102214
+  - name: Combat
+    count: 35
+    cards:
+    - count: 5
+      name: Flash
+      id: 100744
+    - count: 5
+      name: Pursuit
+      id: 101523
+    - count: 5
+      name: Quickness
+      id: 101532
+    - count: 5
+      name: Side Strike
+      id: 101778
+    - count: 5
+      name: Sideslip
+      id: 101779
+    - count: 4
+      name: Target Vitals
+      id: 101942
+    - count: 6
+      name: Weighted Walking Stick
+      id: 102169

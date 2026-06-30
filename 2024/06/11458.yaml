@@ -7,11 +7,9 @@ winner: Jan-Willem Kaagman
 vekn_number: 5720021
 event_url: https://www.vekn.net/event-calendar/event/11458
 event_id: 11458
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81852-twd-what-we-do-in-the-maximus-utrecht-netherlands-june-8th-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11458
 deck:
   name: Vozhd on a Hawg
-  created_by: Jan-Willem Kaagman
   description: The deck is based on the standard 2024 Tzimisce deck. I didn't 
     understand why the "Childe of the revolution" was in the standard V5 deck, 
     so I took them out. The goal was to get either a Vozhd or a War ghoul on a 
@@ -23,6 +21,7 @@ deck:
   crypt:
   - count: 3
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -30,6 +29,7 @@ deck:
     grouping: 6
   - count: 2
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -37,12 +37,14 @@ deck:
     grouping: 6
   - count: 2
     name: Prentis Derby
+    id: 201682
     capacity: 4
     disciplines: ani dom pro
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -50,24 +52,28 @@ deck:
     grouping: 6
   - count: 1
     name: Neserian
+    id: 201678
     capacity: 6
     disciplines: cel pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Clara Hjortshøj
+    id: 201669
     capacity: 5
     disciplines: ani aus dom PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Marialena
+    id: 201677
     capacity: 5
     disciplines: ani DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Whisper
+    id: 201690
     capacity: 5
     disciplines: pro ANI DOM
     clan: Tzimisce
@@ -78,105 +84,143 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Anarch Revolt
+      id: 100055
     - count: 3
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 1
       name: Papillon
+      id: 101350
     - count: 4
       name: Piper
+      id: 101401
   - name: Action
     count: 9
     cards:
     - count: 2
       name: Army of Rats
+      id: 100093
     - count: 1
       name: Constant Revolution
+      id: 100416
     - count: 1
       name: Far Mastery
+      id: 100703
     - count: 5
       name: Govern the Unaligned
+      id: 100845
   - name: Ally
     count: 7
     cards:
     - count: 2
       name: Underbridge Stray
+      id: 102065
     - count: 2
-      name: The Vozhd of Sofia
+      name: Vozhd of Sofia, The
+      id: 102267
     - count: 3
       name: War Ghoul
+      id: 102144
   - name: Equipment
     count: 4
     cards:
     - count: 2
       name: Hawg
+      id: 100898
     - count: 2
       name: Living Manse
+      id: 101114
   - name: Retainer
     count: 8
     cards:
     - count: 2
       name: Homunculus
+      id: 100932
     - count: 1
       name: J. S. Simmons, Esq.
+      id: 101015
     - count: 3
       name: Owl Companion
+      id: 101340
     - count: 2
       name: Revenant
+      id: 101628
   - name: Action Modifier
     count: 11
     cards:
     - count: 4
       name: Earth Control
+      id: 100600
     - count: 2
       name: Foreshadowing Destruction
+      id: 100765
     - count: 3
       name: Invigorate
+      id: 102251
     - count: 1
       name: Seduction
+      id: 101712
     - count: 1
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
+      id: 101805
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Obedient Flesh
+      id: 102255
   - name: Action Modifier/Reaction
     count: 2
     cards:
     - count: 2
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 26
     cards:
     - count: 3
       name: Bait and Switch
+      id: 102218
     - count: 5
       name: Cats' Guidance
+      id: 100308
     - count: 2
       name: Deep Ecology
+      id: 102219
     - count: 3
       name: Deflection
+      id: 100518
     - count: 1
-      name: The Mole
+      name: Mole, The
+      id: 101233
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: One With the Land
+      id: 102256
     - count: 4
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 7
     cards:
     - count: 1
       name: Earth Meld
+      id: 100601
     - count: 3
       name: Form of Mist
+      id: 100771
     - count: 3
       name: Sculpt the Flesh
+      id: 102260

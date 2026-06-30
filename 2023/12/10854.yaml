@@ -7,11 +7,9 @@ winner: Ivan Candioli
 vekn_number: 1004093
 event_url: https://www.vekn.net/event-calendar/event/10854
 event_id: 10854
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81052-twd-italian-tour-2023-stage-9-milano-italy-december-8th-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10854
 deck:
-  name: Zlegion 2.0 [by Wotan75]
-  created_by: Wotan75
+  name: Zlegion 2.0
   description: ''
   crypt_count: 12
   crypt_min: 18
@@ -69,7 +67,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: The Barrens
+      name: Barrens, The
       id: 100135
     - count: 2
       name: Direct Intervention
@@ -174,5 +172,5 @@ deck:
       name: Scourge of the Enochians
       id: 101697
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
       id: 102079

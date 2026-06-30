@@ -19,6 +19,7 @@ deck:
   crypt:
   - count: 2
     name: Alexa Draper
+    id: 201529
     capacity: 8
     disciplines: for pot DOM PRE
     title: Prince
@@ -26,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Lodin (Olaf Holte)
+    id: 200848
     capacity: 8
     disciplines: aus pro DOM FOR PRE
     title: Prince
@@ -33,6 +35,7 @@ deck:
     grouping: 5
   - count: 2
     name: Alice Chen
+    id: 201531
     capacity: 7
     disciplines: dom obf FOR PRE
     title: Prince
@@ -40,6 +43,7 @@ deck:
     grouping: 6
   - count: 2
     name: Graham Gottesman
+    id: 200533
     capacity: 7
     disciplines: obf pre tha DOM FOR
     title: Prince
@@ -47,6 +51,7 @@ deck:
     grouping: 5
   - count: 2
     name: Sybren van Oosten
+    id: 201570
     capacity: 7
     disciplines: dom tha FOR PRE
     title: Prince
@@ -54,6 +59,7 @@ deck:
     grouping: 6
   - count: 2
     name: Horst von Brühl
+    id: 201550
     capacity: 6
     disciplines: aus dom pre FOR
     title: Prince
@@ -66,84 +72,118 @@ deck:
     cards:
     - count: 1
       name: Anarch Troublemaker
+      id: 100058
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: 'Elysium: The Palace of Versailles'
+      id: 100632
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Jake Washington
+      id: 101019
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 1
       name: Uptown Hunting Ground
+      id: 102084
     - count: 1
       name: Ventrue Headquarters
+      id: 102109
     - count: 2
       name: Villein
+      id: 102121
   - name: Action
     count: 12
     cards:
     - count: 1
       name: Dominate Kine
+      id: 100573
     - count: 6
       name: Enchant Kindred
+      id: 100640
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 4
       name: Govern the Unaligned
+      id: 100845
   - name: Political Action
     count: 12
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Banishment
+      id: 100131
     - count: 3
       name: Camarilla's Iron Fist
+      id: 102270
     - count: 1
       name: Expulsion
+      id: 102276
     - count: 3
       name: Kine Resources Contested
+      id: 101056
     - count: 3
       name: Parity Shift
+      id: 101353
   - name: Action Modifier
     count: 21
     cards:
     - count: 4
       name: Bewitching Oration
+      id: 100157
     - count: 3
       name: Conditioning
+      id: 100401
     - count: 2
       name: Daring the Dawn
+      id: 100492
     - count: 7
       name: Freak Drive
+      id: 100788
     - count: 3
       name: Seduction
+      id: 101712
     - count: 2
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 11
     cards:
     - count: 5
       name: Deflection
+      id: 100518
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 4
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 10
     cards:
     - count: 2
       name: Hidden Strength
+      id: 100918
     - count: 6
       name: Majesty
+      id: 101144
     - count: 2
       name: Rolling with the Punches
+      id: 101649

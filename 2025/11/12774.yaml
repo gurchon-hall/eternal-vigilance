@@ -7,65 +7,72 @@ winner: Jennifer Fuss
 vekn_number: 1820011
 event_url: https://www.vekn.net/event-calendar/event/12774
 event_id: 12774
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82742-twd-ueberwald-league-of-temperance-zurich-switzerland-22-nov-2025
+vp_comment: 0GW3 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12774
 deck:
   name: Servitor Swarm
-  created_by: Jennifer Fuss
   description: Servitor Swarm with Path of Death & Soul basis for more bleed.
   crypt_count: 12
   crypt_min: 13
   crypt_max: 27
   crypt_avg: 5.0
   crypt:
+  - count: 3
+    name: El Monseñor
+    id: 201749
+    capacity: 4
+    disciplines: dom OBL
+    clan: Lasombra
+    grouping: 6
+    path: Death and the Soul
   - count: 2
     name: Sakura, The Merciless
+    id: 201771
     capacity: 7
     disciplines: aus pot DOM OBL THA
     clan: Lasombra
     grouping: 6
     path: Death and the Soul
-  - count: 1
-    name: Parijat, the Dark Oracle
-    capacity: 7
-    disciplines: AUS DOM FOR OBL
-    clan: Hecata
-    grouping: 6
   - count: 2
     name: Aitana, The Unholy
+    id: 201737
     capacity: 6
     disciplines: for tha AUS OBL
     clan: Hecata
     grouping: 6
     path: Death and the Soul
   - count: 1
+    name: Parijat, the Dark Oracle
+    id: 201726
+    capacity: 7
+    disciplines: AUS DOM FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
     name: Azucena
+    id: 201710
     capacity: 5
     disciplines: pot DOM OBL
     clan: Lasombra
     grouping: 6
   - count: 1
     name: Zbigniew, Hunter of Mekhet
+    id: 201780
     capacity: 5
     disciplines: aus dom tha OBL
     clan: Lasombra
     grouping: 6
     path: Death and the Soul
-  - count: 3
-    name: El Monseñor
-    capacity: 4
-    disciplines: dom OBL
-    clan: Lasombra
-    grouping: 6
-    path: Death and the Soul
   - count: 1
     name: Alek König
+    id: 201717
     capacity: 3
     disciplines: OBL
     clan: Hecata
     grouping: 6
   - count: 1
     name: Peter St. John
+    id: 201727
     capacity: 2
     disciplines: obl
     clan: Hecata
@@ -77,69 +84,94 @@ deck:
     cards:
     - count: 2
       name: Archon Investigation
+      id: 100085
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Burial Site Hunting Ground
+      id: 102311
     - count: 1
       name: Charisma
+      id: 100332
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 2
       name: Effective Management
+      id: 100616
     - count: 1
       name: Fragment of the Book of Nod
+      id: 100785
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: 'Powerbase: Munich'
+      id: 102301
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 10
     cards:
     - count: 2
       name: Govern the Unaligned
+      id: 100845
     - count: 8
       name: Shroud of Decay
+      id: 102295
   - name: Ally
     count: 16
     cards:
     - count: 16
       name: Spectral Servitor
+      id: 102296
   - name: Action Modifier
     count: 26
     cards:
     - count: 1
       name: Conditioning
+      id: 100401
     - count: 9
       name: Gifts From Hereafter
+      id: 102325
     - count: 5
       name: Shadow Cast
+      id: 102280
     - count: 5
       name: Shadow Cloak
+      id: 102281
     - count: 3
       name: Stygian Shroud
+      id: 102282
     - count: 3
       name: Where the Veil Thins
+      id: 102285
   - name: Reaction
     count: 14
     cards:
     - count: 6
       name: Deflection
+      id: 100518
     - count: 3
       name: Delaying Tactics
+      id: 100519
     - count: 5
       name: Shadow Sentinel
+      id: 102294
   - name: Combat
     count: 6
     cards:
     - count: 6
       name: Pass Through Shadow
+      id: 102279
   - name: Event
     count: 2
     cards:
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

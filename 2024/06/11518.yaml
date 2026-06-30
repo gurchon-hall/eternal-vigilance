@@ -18,6 +18,7 @@ deck:
   crypt:
   - count: 4
     name: Montano
+    id: 201006
     capacity: 11
     disciplines: ANI DOM FOR OBT POT
     title: 2 Votes
@@ -25,6 +26,7 @@ deck:
     grouping: 3
   - count: 3
     name: Malgorzata
+    id: 200905
     capacity: 9
     disciplines: pre AUS DOM THA VIC
     title: Priscus
@@ -32,6 +34,7 @@ deck:
     grouping: 4
   - count: 1
     name: Adana de Sforza
+    id: 200011
     capacity: 11
     disciplines: aus CEL OBF POT PRE PRO
     title: Inner Circle
@@ -39,6 +42,7 @@ deck:
     grouping: 4
   - count: 1
     name: Lutz von Hohenzollern
+    id: 200890
     capacity: 11
     disciplines: pot AUS DEM OBF PRE
     title: Inner Circle
@@ -46,6 +50,7 @@ deck:
     grouping: 4
   - count: 1
     name: Mistress Fanchon
+    id: 200999
     capacity: 11
     disciplines: AUS CEL DOM OBF THA VIC
     title: Inner Circle
@@ -53,6 +58,7 @@ deck:
     grouping: 4
   - count: 1
     name: Rafael de Corazon
+    id: 201151
     capacity: 11
     disciplines: AUS CEL DOM OBF PRE
     title: Inner Circle
@@ -60,6 +66,7 @@ deck:
     grouping: 4
   - count: 1
     name: Orlando Oriundus
+    id: 201084
     capacity: 9
     disciplines: obf AUS DOM THA
     title: Bishop
@@ -72,90 +79,124 @@ deck:
     cards:
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Power Structure
+      id: 101430
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 5
       name: Villein
+      id: 102121
     - count: 2
       name: Vulnerability
+      id: 102134
     - count: 4
       name: Zillah's Valley
+      id: 102207
   - name: Action
     count: 15
     cards:
     - count: 5
       name: Baltimore Purge
+      id: 100128
     - count: 7
       name: Govern the Unaligned
+      id: 100845
     - count: 3
       name: Graverobbing
+      id: 100852
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Political Action
     count: 9
     cards:
     - count: 1
       name: Ancient Influence
+      id: 100064
     - count: 2
       name: Banishment
+      id: 100131
     - count: 4
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: Reins of Power
+      id: 101591
   - name: Retainer
     count: 2
     cards:
     - count: 2
       name: Camarilla Vitae Slave
+      id: 100286
   - name: Action Modifier
     count: 28
     cards:
     - count: 2
       name: Enkil Cog
+      id: 100645
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 2
       name: Forgotten Labyrinth
+      id: 100769
     - count: 9
       name: Freak Drive
+      id: 100788
     - count: 2
       name: Lost in Crowds
+      id: 101125
     - count: 4
       name: Shadow Play
+      id: 101743
     - count: 2
       name: Shroud of Absence
+      id: 101774
     - count: 2
       name: Shroud of Night
+      id: 101775
     - count: 3
       name: Voter Captivation
+      id: 102131
   - name: Reaction
     count: 6
     cards:
     - count: 4
       name: Deflection
+      id: 100518
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
   - name: Combat
     count: 1
     cards:
     - count: 1
       name: Entombment
+      id: 100651

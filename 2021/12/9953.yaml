@@ -20,42 +20,49 @@ deck:
   crypt:
   - count: 5
     name: Angelique
+    id: 200093
     capacity: 9
     disciplines: AUS FOR NEC SER THA
     clan: Harbinger of Skulls
     grouping: 6
   - count: 2
     name: Hecate
+    id: 200580
     capacity: 6
     disciplines: AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 5
   - count: 2
     name: La Viuda Blanca
+    id: 200801
     capacity: 6
     disciplines: for obf AUS NEC
     clan: Harbinger of Skulls
     grouping: 6
   - count: 1
     name: America Johnson
+    id: 201512
     capacity: 4
     disciplines: vic AUS
     clan: Tzimisce
     grouping: 5
   - count: 1
     name: Pearl
+    id: 201106
     capacity: 4
     disciplines: obf AUS
     clan: Malkavian antitribu
     grouping: 5
   - count: 1
     name: Tyler McGill
+    id: 201398
     capacity: 4
     disciplines: pre AUS
     clan: Toreador
     grouping: 5
   - count: 1
     name: Veejay Vinod
+    id: 201433
     capacity: 3
     disciplines: AUS
     clan: Nagaraja
@@ -66,44 +73,58 @@ deck:
     count: 14
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 4
       name: Dreams of the Sphinx
+      id: 100588
       comment: this is from a phase of my deckbuilding where I relied on Dreams 
         too much; 2 of these should be Villeins
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Information Highway
+      id: 100984
     - count: 1
       name: Mob Connections
+      id: 101229
     - count: 2
       name: Perfectionist
+      id: 101388
     - count: 1
       name: Wider View
+      id: 102180
   - name: Ally
     count: 21
     cards:
     - count: 1
       name: Carlton Van Wyk
+      id: 100298
     - count: 7
       name: Emerald Legionnaire
+      id: 100634
       comment: always try to recruit; I usually never recycle more than 3
     - count: 1
       name: Mylan Horseed
+      id: 101261
       comment: never saw today; could probably be something else the unlock 
         isn't critical, but the cheap bleeding is
     - count: 12
       name: Shambling Hordes
+      id: 101751
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
       comment: discarded every time I saw it; smaller decks seems good without 
         it
   - name: Action Modifier
@@ -111,10 +132,12 @@ deck:
     cards:
     - count: 4
       name: Call of the Hungry Dead
+      id: 100279
       comment: the stealth package is light, so you have to time actions 
         depending on potential blockers
     - count: 2
       name: Trochomancy
+      id: 102026
       comment: ousts mostly with lots of bleeds for 1, these are to throw off 
         the math
   - name: Action Modifier/Combat
@@ -122,11 +145,13 @@ deck:
     cards:
     - count: 3
       name: Breath of Thanatos
+      id: 100249
   - name: Action Modifier/Reaction
     count: 4
     cards:
     - count: 4
       name: Spectral Divination
+      id: 101843
       comment: was more useful for intercept today; if intending to block a NEC 
         vampire is usually the better choice for more intercept options
   - name: Reaction
@@ -134,35 +159,46 @@ deck:
     cards:
     - count: 3
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: Funeral Wake
+      id: 100797
       comment: free with Angelique's special; so good when it's free
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 3
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 5
     cards:
     - count: 2
       name: Fake Out
+      id: 100693
     - count: 2
       name: Target Vitals
+      id: 101942
       comment: just enough surprises to make them think
     - count: 1
       name: Trap
+      id: 102012
   - name: Event
     count: 4
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581
       comment: managed my final oust in round 1 with this; sometimes important, 
         sometimes not
     - count: 1
       name: FBI Special Affairs Division
+      id: 100709
       comment: so critical against the Fortitude vampires I encountered
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079
       comment: this card is broken

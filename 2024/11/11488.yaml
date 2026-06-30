@@ -1,0 +1,188 @@
+name: All hallow's bleed
+location: Lisboa, Portugal
+date_start: 2024-11-01
+rounds_format: 3R+F
+players_count: 28
+winner: Paul Direktor
+vekn_number: 3340152
+event_url: https://www.vekn.net/event-calendar/event/11488
+event_id: 11488
+vp_comment: 2GW6.5 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11488
+deck:
+  name: Bestiary of a sober haunting
+  description: Based on Alessandro Donati's TWD The Ultimate Meat Experience! 
+    from 2024. I decided to change a few ratios and add some cards that might be
+    useful, especially Aranthebes and the Library Hunting Ground were nice 
+    additions. The underbridge strays also proved useful, although they can be 
+    removed.  I would remove the graverobbing since it's too opportunistic and 
+    readding Montreal for the pool gain. But the deck proved very consistent and
+    reliable in a quite bleed heavy meta.
+  crypt_count: 12
+  crypt_min: 6
+  crypt_max: 21
+  crypt_avg: 3.5
+  crypt:
+  - count: 3
+    name: Susie Kano
+    id: 201688
+    capacity: 3
+    disciplines: ani dom
+    clan: Tzimisce
+    grouping: 6
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 2
+    name: Marialena
+    id: 201677
+    capacity: 5
+    disciplines: ani DOM PRO
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Branimira
+    id: 201667
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Clara Hjortshøj
+    id: 201669
+    capacity: 5
+    disciplines: ani aus dom PRO
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Whisper
+    id: 201690
+    capacity: 5
+    disciplines: pro ANI DOM
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Prentis Derby
+    id: 201682
+    capacity: 4
+    disciplines: ani dom pro
+    clan: Tzimisce
+    grouping: 6
+  library_count: 63
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 6
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Library Hunting Ground
+      id: 101102
+    - count: 6
+      name: Piper
+      id: 101401
+  - name: Action
+    count: 2
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 1
+      name: Graverobbing
+      id: 100852
+  - name: Ally
+    count: 13
+    cards:
+    - count: 1
+      name: Asanbonsam Ghoul
+      id: 100103
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Ossian
+      id: 101333
+    - count: 2
+      name: Underbridge Stray
+      id: 102065
+    - count: 1
+      name: Vagabond Mystic
+      id: 102087
+    - count: 1
+      name: Vozhd of Sofia, The
+      id: 102267
+    - count: 6
+      name: War Ghoul
+      id: 102144
+  - name: Retainer
+    count: 4
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+      id: 101015
+    - count: 1
+      name: Jackie Therman
+      id: 101018
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 1
+      name: Tasha Morgan
+      id: 101943
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 3
+      name: Deep Ecology
+      id: 102219
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 3
+      name: One With the Land
+      id: 102256
+  - name: Combat
+    count: 9
+    cards:
+    - count: 2
+      name: Donnybrook
+      id: 100576
+    - count: 2
+      name: Fake Out
+      id: 100693
+    - count: 2
+      name: Target Vitals
+      id: 101942
+    - count: 3
+      name: Trap
+      id: 102012
+  - name: Event
+    count: 4
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: Unmasking, The
+      id: 102079

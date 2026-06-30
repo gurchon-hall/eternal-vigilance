@@ -1,0 +1,211 @@
+name: 'Crusade: Kecskemét - HQS'
+location: Kecskemét, Hungary
+date_start: 2025-06-14
+rounds_format: 3R+F
+players_count: 39
+winner: Máté Vaka
+vekn_number: 1006172
+event_url: https://www.vekn.net/event-calendar/event/12053
+event_id: 12053
+vp_comment: 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12053
+deck:
+  name: Dorka's Pin Puppies v2
+  description: ''
+  crypt_count: 12
+  crypt_min: 10
+  crypt_max: 25
+  crypt_avg: 4.5
+  crypt:
+  - count: 2
+    name: Casey Snyder
+    id: 201521
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 2
+    name: Kuyén
+    id: 201574
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Massimiliano
+    id: 201602
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Kamile Paukstys
+    id: 201597
+    capacity: 5
+    disciplines: ani for PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Hanna Nokelainen
+    id: 201590
+    capacity: 4
+    disciplines: ani for pro
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Nathan Turner
+    id: 201606
+    capacity: 4
+    disciplines: ani PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Indira
+    id: 201592
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Joaquín de Cádiz
+    id: 201595
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Malcolm
+    id: 200902
+    capacity: 2
+    disciplines: ani
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Ruslan Fedorenko
+    id: 201611
+    capacity: 2
+    disciplines: pro
+    clan: Gangrel
+    grouping: 6
+  library_count: 71
+  library_sections:
+  - name: Master
+    count: 24
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+      id: 100052
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Ecoterrorists
+      id: 100609
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Fortschritt Library
+      id: 100775
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Parthenon, The
+      id: 101355
+    - count: 3
+      name: Piper
+      id: 101401
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 5
+    cards:
+    - count: 1
+      name: Rewilding
+      id: 101632
+    - count: 4
+      name: Thing
+      id: 101972
+  - name: Ally
+    count: 9
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Ossian
+      id: 101333
+    - count: 7
+      name: Renegade Garou
+      id: 101602
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 6
+      name: Bait and Switch
+      id: 102218
+    - count: 3
+      name: Deep Ecology
+      id: 102219
+    - count: 3
+      name: Eyes of the Wild
+      id: 102222
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+    - count: 5
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 9
+    cards:
+    - count: 1
+      name: Boxed In
+      id: 100244
+    - count: 1
+      name: Dodge
+      id: 100567
+    - count: 5
+      name: Glancing Blow
+      id: 100834
+    - count: 2
+      name: Pulled Fangs
+      id: 101515
+  - name: Event
+    count: 4
+    cards:
+    - count: 1
+      name: Blood Weakens
+      id: 100217
+    - count: 1
+      name: Dragonbound
+      id: 100581
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 1
+      name: Unmasking, The
+      id: 102079

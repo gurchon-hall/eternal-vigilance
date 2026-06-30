@@ -7,12 +7,10 @@ winner: Marko Oja
 vekn_number: 3530053
 event_url: https://www.vekn.net/event-calendar/event/13183
 event_id: 13183
-vp_comment: 0 GW 3 + 1,5 VP in the final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82969-twd-8th-tragic-love-affair
+vp_comment: 0GW3 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13183
 deck:
   name: Break the bonds
-  created_by: Marko Oja
   description: ''
   crypt_count: 12
   crypt_min: 13
@@ -20,43 +18,50 @@ deck:
   crypt_avg: 4.92
   crypt:
   - count: 2
-    name: Gathii
-    capacity: 5
-    disciplines: obf ANI PRE
-    clan: Ravnos
-    grouping: 7
-  - count: 2
     name: Hafthor Thorsteinsson
+    id: 201783
     capacity: 7
     disciplines: pot ANI OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 2
-    name: Jean-François
-    capacity: 4
-    disciplines: ani obf pre
+    name: Roberto Rivamonte
+    id: 201683
+    capacity: 6
+    disciplines: ANI OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 2
+    name: Gathii
+    id: 201672
+    capacity: 5
+    disciplines: obf ANI PRE
     clan: Ravnos
     grouping: 7
   - count: 2
     name: Phaibun
+    id: 201681
     capacity: 5
     disciplines: ani OBF PRE
     clan: Ravnos
     grouping: 7
   - count: 2
-    name: Roberto Rivamonte
-    capacity: 6
-    disciplines: ANI OBF PRE
+    name: Jean-François
+    id: 201674
+    capacity: 4
+    disciplines: ani obf pre
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Oleg Kaprizov
+    id: 201679
     capacity: 3
     disciplines: obf pre
     clan: Ravnos
     grouping: 7
   - count: 1
     name: Roy
+    id: 201684
     capacity: 2
     disciplines: obf
     clan: Ravnos
@@ -67,81 +72,110 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Black Market Cache
+      id: 102351
     - count: 3
       name: Dabbler
+      id: 100485
     - count: 1
       name: Fortune Teller Shop
+      id: 100777
     - count: 4
       name: Hackerspace
+      id: 100876
     - count: 1
       name: Kumpania
+      id: 101068
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Week of Nightmares
+      id: 102166
   - name: Action
     count: 13
     cards:
     - count: 13
       name: Break the Bonds
+      id: 102247
   - name: Equipment
     count: 8
     cards:
     - count: 8
       name: .44 Magnum
+      id: 100001
   - name: Retainer
     count: 1
     cards:
     - count: 1
       name: Feral Hound
+      id: 102249
   - name: Action Modifier
     count: 11
     cards:
     - count: 2
       name: Cloak the Gathering
+      id: 100362
     - count: 2
       name: Lost in Crowds
+      id: 101125
     - count: 2
       name: Memory Rift
+      id: 101199
     - count: 1
       name: Monkey Wrench
+      id: 101239
     - count: 2
       name: Power of One
+      id: 101429
     - count: 1
       name: Spying Mission
+      id: 101857
     - count: 1
       name: Visions of Gehenna
+      id: 102264
   - name: Action Modifier/Combat
     count: 2
     cards:
     - count: 2
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 15
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 5
       name: Dogged Pursuit
+      id: 102353
     - count: 2
       name: Night Terrors
+      id: 102254
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Party Out Of Bounds
+      id: 102231
     - count: 2
       name: Protection Racket
+      id: 101501
   - name: Combat
     count: 10
     cards:
     - count: 5
       name: Contraband
+      id: 102352
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 1
       name: Terror Frenzy
+      id: 101960

@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 1
     name: Morel
+    id: 201010
     capacity: 6
     disciplines: AUS DEM OBF
     clan: Malkavian
     grouping: 4
   - count: 1
     name: Ruth McGinley
+    id: 201212
     capacity: 6
     disciplines: aus cel obf DEM
     title: Primogen
@@ -32,60 +34,70 @@ deck:
     grouping: 3
   - count: 1
     name: Tony
+    id: 201381
     capacity: 6
     disciplines: dom obf AUS DEM
     clan: Malkavian
     grouping: 3
   - count: 1
     name: Apache Jones
+    id: 200122
     capacity: 5
     disciplines: aus for obf DEM
     clan: Malkavian antitribu
     grouping: 4
   - count: 1
     name: Luc
+    id: 200866
     capacity: 5
     disciplines: dem vic OBF
     clan: Malkavian antitribu
     grouping: 4
   - count: 1
     name: Persia, The Beautiful Statue
+    id: 201111
     capacity: 5
     disciplines: aus obf DEM
     clan: Malkavian
     grouping: 3
   - count: 1
     name: Uncle George
+    id: 201408
     capacity: 5
     disciplines: aus dom obf DEM
     clan: Malkavian antitribu
     grouping: 3
   - count: 1
     name: Jackie
+    id: 200658
     capacity: 3
     disciplines: DEM
     clan: Malkavian antitribu
     grouping: 4
   - count: 1
     name: Marta
+    id: 200941
     capacity: 3
     disciplines: aus dem
     clan: Malkavian antitribu
     grouping: 4
   - count: 1
     name: Midget
+    id: 200985
     capacity: 3
     disciplines: obf pre DEM
     clan: Malkavian antitribu
     grouping: 3
   - count: 1
     name: Cassandra Langely, The Waif
+    id: 200254
     capacity: 2
     disciplines: dem
     clan: Malkavian
     grouping: 4
   - count: 1
     name: Eddie Gaines
+    id: 200400
     capacity: 1
     disciplines: dem pot
     clan: Caitiff
@@ -97,53 +109,73 @@ deck:
     cards:
     - count: 1
       name: Antediluvian Awakening
+      id: 100073
     - count: 1
-      name: The Barrens
+      name: Barrens, The
+      id: 100135
     - count: 4
       name: Dementation
+      id: 100521
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Gambit Accepted
+      id: 100799
     - count: 1
       name: Kaymakli Nightmares
+      id: 101036
     - count: 3
       name: Wash
+      id: 102151
   - name: Action
     count: 21
     cards:
     - count: 20
       name: Kindred Spirits
+      id: 101055
     - count: 1
       name: Madman's Quill
+      id: 101138
   - name: Action Modifier
     count: 37
     cards:
     - count: 1
       name: Cloak the Gathering
+      id: 100362
     - count: 12
       name: Confusion
+      id: 100405
     - count: 7
       name: Eyes of Chaos
+      id: 100682
     - count: 2
       name: Faceless Night
+      id: 100687
     - count: 1
       name: Lost in Crowds
+      id: 101125
     - count: 6
       name: Mind Tricks
+      id: 101216
     - count: 1
       name: Spying Mission
+      id: 101857
     - count: 7
       name: Veil the Legions
+      id: 102097
   - name: Action Modifier/Combat
     count: 7
     cards:
     - count: 6
       name: Deny
+      id: 100524
     - count: 1
       name: Swallowed by the Night
+      id: 101913
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Bitter and Sweet Story
+      name: Bitter and Sweet Story, The
+      id: 100163

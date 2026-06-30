@@ -8,7 +8,7 @@ vekn_number: 9290014
 event_url: https://www.vekn.net/event-calendar/event/12336
 event_id: 12336
 vp_comment: Very happy with how the deck worked (2GW6 in the preliminary rounds 
-  and 4VPs in the finals it seems like a pretty good score). I had 2 very good 
+  and 4vp in the finals it seems like a pretty good score). I had 2 very good 
   tables in which the deck played as a dream (graverobbing Fanchon and Lucinde 
   Alastor from 2 different players in the first round or playing Ancient 
   Influence and Reins when no one had vamps). Sometimes people tend to 
@@ -18,12 +18,14 @@ vp_comment: Very happy with how the deck worked (2GW6 in the preliminary rounds
   but we don't care much about the other vampires to be honest. I also recall 
   one league game where I managed to graverob Stanislava and then she was there 
   playing the Alpha Glints, awesome.
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82350-twd-family-gathering
+forum_post_url: https://www.vekn.net/event-calendar/event/12336
 deck:
   name: Montano Baltimore Purge
   created_by: Jorge Delgado with suggestions from Antonio Cobo Cuenca
-  description: ''
+  description: This is the last iteration of a 60 version Montano deck I shared 
+    with Antonio a couple of months ago. To be honest the old version was not 
+    very optimized, he trimmed it and won a tournament with it. I then took his 
+    version, modified it to my taste and then played it in this tournament.
   crypt_count: 12
   crypt_min: 7
   crypt_max: 44
@@ -40,18 +42,25 @@ deck:
     clan: Lasombra
     grouping: 3
   - count: 1
+    name: Ignacio, The Black Priest
+    id: 200622
+    capacity: 4
+    disciplines: dom obt pot
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Ramiro
+    id: 201157
+    capacity: 4
+    disciplines: dom obt vic
+    clan: Lasombra
+    grouping: 2
+  - count: 1
     name: Cameron
     id: 200239
     comment: remove him from the next version
     capacity: 3
     disciplines: dom pot
-    clan: Lasombra
-    grouping: 2
-  - count: 1
-    name: Ignacio, The Black Priest
-    id: 200622
-    capacity: 4
-    disciplines: dom obt pot
     clan: Lasombra
     grouping: 2
   - count: 1
@@ -75,13 +84,6 @@ deck:
     disciplines: san
     clan: Blood Brother
     grouping: ANY
-  - count: 1
-    name: Ramiro
-    id: 201157
-    capacity: 4
-    disciplines: dom obt vic
-    clan: Lasombra
-    grouping: 2
   - count: 1
     name: Royce
     id: 201208
@@ -137,15 +139,6 @@ deck:
     - count: 4
       name: Puppet Master
       id: 101215
-  - name: Political Action
-    count: 2
-    cards:
-    - count: 1
-      name: Ancient Influence
-      id: 100064
-    - count: 1
-      name: Reins of Power
-      id: 101591
   - name: Ally
     count: 2
     cards:
@@ -158,6 +151,15 @@ deck:
     - count: 1
       name: Mylan Horseed
       id: 101261
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Reins of Power
+      id: 101591
   - name: Action Modifier
     count: 27
     cards:

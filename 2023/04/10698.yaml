@@ -7,33 +7,34 @@ winner: Edgar David Caudillo Garrido
 vekn_number: 7400011
 event_url: https://www.vekn.net/event-calendar/event/10698
 event_id: 10698
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80476-liga-chilanga-jornada-1
+forum_post_url: https://www.vekn.net/event-calendar/event/10698
 deck:
   name: better call Arishat
-  created_by: Edgar David Caudillo Garrido
   description: ''
   crypt_count: 12
   crypt_min: 24
   crypt_max: 26
   crypt_avg: 6.17
   crypt:
-  - count: 2
-    name: Vivian VI
-    capacity: 7
-    disciplines: obf tha PRE PRO
-    title: Baron
-    clan: Ministry
-    grouping: 6
   - count: 4
     name: Arishat
+    id: 200136
     capacity: 6
     disciplines: DAI OBF PRE
     title: 1 Vote
     clan: Baali
     grouping: 6
   - count: 2
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -41,6 +42,7 @@ deck:
     grouping: 6
   - count: 2
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
@@ -48,6 +50,7 @@ deck:
     grouping: 6
   - count: 2
     name: Jacques Rouge
+    id: 201523
     capacity: 6
     disciplines: ani pot pre OBF
     title: Baron
@@ -60,59 +63,82 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 1
       name: Creepshow Casino
+      id: 100444
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Ferraille
+      id: 100722
     - count: 2
       name: Information Highway
+      id: 100984
     - count: 2
       name: Protected Resources
+      id: 101500
     - count: 1
       name: Secure Haven
+      id: 101711
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 6
     cards:
     - count: 3
       name: 'Condemnation: Mute'
+      id: 100400
     - count: 3
       name: Unleash Hell's Fury
+      id: 102076
   - name: Political Action
     count: 16
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Eat the Rich
+      id: 100605
     - count: 7
       name: Kine Resources Contested
+      id: 101056
     - count: 6
       name: Reckless Agitation
+      id: 101567
   - name: Action Modifier
     count: 24
     cards:
     - count: 3
       name: Awe
+      id: 100119
     - count: 3
       name: Elder Impersonation
+      id: 100617
     - count: 3
       name: Faceless Night
+      id: 100687
     - count: 5
       name: Forgotten Labyrinth
+      id: 100769
     - count: 4
       name: Lost in Crowds
+      id: 101125
     - count: 6
       name: Voter Captivation
+      id: 102131
   - name: Combat
     count: 5
     cards:
     - count: 5
       name: Majesty
+      id: 101144

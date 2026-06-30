@@ -1,0 +1,145 @@
+name: Bleeding in Wroclaw
+location: Wroclaw, Poland
+date_start: 2023-07-22
+rounds_format: 3R+F
+players_count: 19
+winner: Paweł Domański
+vekn_number: 3080035
+event_url: https://www.vekn.net/event-calendar/event/10858
+event_id: 10858
+forum_post_url: https://www.vekn.net/event-calendar/event/10858
+deck:
+  name: Punching party vol 1.01
+  description: ''
+  crypt_count: 12
+  crypt_min: 7
+  crypt_max: 32
+  crypt_avg: 5.5
+  crypt:
+  - count: 4
+    name: Theo Bell
+    id: 201613
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 3
+    name: Chun Hei
+    id: 201638
+    capacity: 7
+    disciplines: CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Octane
+    id: 201609
+    capacity: 6
+    disciplines: CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Elen Kamjian
+    id: 201585
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Carver's Meat Packing and Storage
+      id: 100303
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: Obtenebration
+      id: 101312
+    - count: 1
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 14
+    cards:
+    - count: 4
+      name: Bum's Rush
+      id: 100266
+    - count: 7
+      name: Line Brawl
+      id: 102229
+    - count: 3
+      name: Make the Misere
+      id: 101147
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Zephyr
+      id: 102205
+  - name: Combat
+    count: 52
+    cards:
+    - count: 5
+      name: Bollix
+      id: 100232
+    - count: 6
+      name: Dust Up
+      id: 100597
+    - count: 6
+      name: Hell-for-Leather
+      id: 100910
+    - count: 9
+      name: Immortal Grapple
+      id: 100959
+    - count: 2
+      name: Psyche!
+      id: 101507
+    - count: 6
+      name: Pursuit
+      id: 101523
+    - count: 2
+      name: Sideslip
+      id: 101779
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+    - count: 2
+      name: Thrown Sewer Lid
+      id: 101983
+    - count: 9
+      name: Torn Signpost
+      id: 101993
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581

@@ -1,94 +1,105 @@
 name: Sede de Vitae Part 30
-location: online
+location: Online
 date_start: 2022-02-14
+date_end: 2022-02-16
 rounds_format: 2R+F
 players_count: 27
 winner: Rafael Barbosa da Silva
 vekn_number: 7060055
 event_url: https://www.vekn.net/event-calendar/event/10077
 event_id: 10077
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79700-twd-sede-de-vitae-part-30
+vp_comment: 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10077
 deck:
   name: toreador antitribu
-  created_by: Rafael Barbosa
   description: ''
   crypt_count: 12
   crypt_min: 22
   crypt_max: 37
   crypt_avg: 7.5
   crypt:
+  - count: 2
+    name: Melisande
+    id: 200972
+    capacity: 9
+    disciplines: tha AUS CEL DOM PRE
+    clan: Toreador antitribu
+    grouping: 2
   - count: 1
-    name: Ian Wallingford
-    capacity: 6
-    disciplines: aus CEL PRE
+    name: Jessica (ADV)
+    id: 200700
+    capacity: 8
+    disciplines: AUS CEL OBT PRE
     title: Bishop
     clan: Toreador antitribu
     grouping: 2
   - count: 1
     name: Jessica
+    id: 200699
     capacity: 7
     disciplines: AUS CEL OBT PRE
     title: Bishop
     clan: Toreador antitribu
     grouping: 2
   - count: 1
-    name: Jessica (ADV)
-    capacity: 8
-    disciplines: AUS CEL OBT PRE
-    title: Bishop
+    name: Matteus, Flesh Sculptor
+    id: 200960
+    capacity: 10
+    disciplines: AUS CEL PRE VIC
+    title: Priscus
+    clan: Toreador antitribu
+    grouping: 2
+  - count: 1
+    name: Donatien
+    id: 200367
+    capacity: 9
+    disciplines: cel pot AUS PRE
+    title: Cardinal
     clan: Toreador antitribu
     grouping: 2
   - count: 1
     name: Lachlan, Noddist
+    id: 200802
     capacity: 8
     disciplines: dom AUS CEL PRE
     title: Archbishop
     clan: Toreador antitribu
     grouping: 2
   - count: 1
-    name: Matteus, Flesh Sculptor
-    capacity: 10
-    disciplines: AUS CEL PRE VIC
-    title: Priscus
-    clan: Toreador antitribu
-    grouping: 2
-  - count: 2
-    name: Melisande
-    capacity: 9
-    disciplines: tha AUS CEL DOM PRE
-    clan: Toreador antitribu
-    grouping: 2
-  - count: 1
-    name: Mercy, Knight Inquisitor
-    capacity: 5
-    disciplines: cel dom pre AUS
-    clan: Toreador antitribu
-    grouping: 2
-  - count: 1
     name: Miller Delmardigan, Teacher of Bahari
+    id: 200989
     capacity: 8
     disciplines: aus pro CEL PRE
     title: Bishop
     clan: Toreador antitribu
     grouping: 2
   - count: 1
+    name: Ian Wallingford
+    id: 200617
+    capacity: 6
+    disciplines: aus CEL PRE
+    title: Bishop
+    clan: Toreador antitribu
+    grouping: 2
+  - count: 1
     name: Sheila Mezarin
+    id: 201280
     capacity: 6
     disciplines: cel for AUS PRE
     clan: Toreador antitribu
     grouping: 2
   - count: 1
-    name: Victor Revell, Loyalist
+    name: Mercy, Knight Inquisitor
+    id: 200978
     capacity: 5
-    disciplines: aus dem pre CEL
+    disciplines: cel dom pre AUS
     clan: Toreador antitribu
     grouping: 2
   - count: 1
-    name: Donatien
-    capacity: 9
-    disciplines: cel pot AUS PRE
-    title: Cardinal
+    name: Victor Revell, Loyalist
+    id: 201441
+    capacity: 5
+    disciplines: aus dem pre CEL
     clan: Toreador antitribu
     grouping: 2
   library_count: 88
@@ -97,94 +108,134 @@ deck:
     count: 20
     cards:
     - count: 1
-      name: The Art of Pain
+      name: Art of Pain, The
+      id: 100098
     - count: 2
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Creep Show
+      id: 100442
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Fetish Club Hunting Ground
+      id: 100724
     - count: 2
       name: Guardian Angel
+      id: 100866
     - count: 1
       name: Heidelberg Castle, Germany
+      id: 100908
     - count: 1
-      name: The Hungry Coyote
+      name: Hungry Coyote, The
+      id: 100945
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
-      name: The Rumor Mill, Tabloid Newspaper
+      name: Rumor Mill, Tabloid Newspaper, The
+      id: 101662
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 2
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
   - name: Action
     count: 6
     cards:
     - count: 2
       name: Art Scam
+      id: 100099
     - count: 1
       name: Enchant Kindred
+      id: 100640
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 2
       name: Under Siege
+      id: 102063
   - name: Equipment
     count: 5
     cards:
     - count: 4
       name: .44 Magnum
+      id: 100001
     - count: 1
       name: Sniper Rifle
+      id: 101816
   - name: Reaction
     count: 25
     cards:
     - count: 3
       name: Eagle's Sight
+      id: 100598
     - count: 3
       name: Enhanced Senses
+      id: 100644
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 1
       name: Forced Awakening
+      id: 100760
     - count: 2
       name: On the Qui Vive
+      id: 101321
     - count: 2
       name: Precognition
+      id: 101475
     - count: 1
       name: Quicken Sight
+      id: 101531
     - count: 3
       name: Spirit's Touch
+      id: 101850
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
     - count: 1
       name: Wake with Evening's Freshness
+      id: 102137
   - name: Combat
     count: 32
     cards:
     - count: 4
       name: Blur
+      id: 100227
     - count: 4
       name: Concealed Weapon
+      id: 100392
     - count: 1
       name: Fast Hands
+      id: 100704
     - count: 4
       name: Flash
+      id: 100744
     - count: 5
       name: Majesty
+      id: 101144
     - count: 3
       name: Psyche!
+      id: 101507
     - count: 3
       name: Pursuit
+      id: 101523
     - count: 5
       name: Quickness
+      id: 101532
     - count: 3
       name: Sideslip
+      id: 101779

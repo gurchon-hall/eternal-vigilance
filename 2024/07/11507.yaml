@@ -1,5 +1,5 @@
-name: Summer Con Gran Canaria
-location: Las Palmas de Gran Canaria
+name: Gran Canaria Summer Con
+location: Las Palmas, Spain
 date_start: 2024-07-21
 rounds_format: 2R+F
 players_count: 10
@@ -7,12 +7,11 @@ winner: Ivan Arenas
 vekn_number: 3680058
 event_url: https://www.vekn.net/event-calendar/event/11507
 event_id: 11507
-vp_comment: 0GW1,5VP + 4VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81696-twd-gran-canaria-summer-con
+vp_comment: 0GW1.5 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/11507
 deck:
   name: Defy the Edict of Worms
-  description: ''
+  description: Modified version of Darby Keeney deck
   crypt_count: 12
   crypt_min: 19
   crypt_max: 31
@@ -20,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -27,6 +27,7 @@ deck:
     grouping: 6
   - count: 2
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -34,38 +35,44 @@ deck:
     grouping: 6
   - count: 2
     name: Neserian
+    id: 201678
     capacity: 6
     disciplines: cel pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
+    name: Stephen Bateson
+    id: 201315
+    capacity: 6
+    disciplines: ani aus tha vic
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
     name: Clara Hjortshøj
+    id: 201669
     capacity: 5
     disciplines: ani aus dom PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
     name: Marialena
+    id: 201677
     capacity: 5
     disciplines: ani DOM PRO
     clan: Tzimisce
     grouping: 6
   - count: 1
-    name: Prentis Derby
-    capacity: 4
-    disciplines: ani dom pro
+    name: Whisper
+    id: 201690
+    capacity: 5
+    disciplines: pro ANI DOM
     clan: Tzimisce
     grouping: 6
   - count: 1
-    name: Stephen Bateson
-    capacity: 6
-    disciplines: ani aus tha vic
-    clan: Tzimisce
-    grouping: 5
-  - count: 1
-    name: Whisper
-    capacity: 5
-    disciplines: pro ANI DOM
+    name: Prentis Derby
+    id: 201682
+    capacity: 4
+    disciplines: ani dom pro
     clan: Tzimisce
     grouping: 6
   library_count: 90
@@ -75,94 +82,127 @@ deck:
     cards:
     - count: 1
       name: Anarch Railroad
+      id: 100054
     - count: 5
-      name: The British Museum, London
+      name: British Museum, London, The
+      id: 102236
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 3
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Libertas
+      id: 101100
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 1
       name: 'Powerbase: Savannah'
+      id: 101442
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 11
     cards:
     - count: 11
       name: Govern the Unaligned
+      id: 100845
   - name: Equipment
     count: 14
     cards:
     - count: 1
       name: Blood Tears of Kephran
+      id: 100212
     - count: 2
       name: Cooler
+      id: 100422
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
     - count: 7
       name: Living Manse
+      id: 101114
     - count: 1
       name: Monocle of Clarity
+      id: 101240
     - count: 1
       name: Palatial Estate
+      id: 101345
   - name: Political Action
     count: 2
     cards:
     - count: 1
       name: Anarchist Uprising
+      id: 100059
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
   - name: Action Modifier
     count: 5
     cards:
     - count: 5
       name: Earth Control
+      id: 100600
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 2
       name: Obedient Flesh
+      id: 102255
     - count: 1
       name: Rapid Change
+      id: 101542
   - name: Action Modifier/Reaction
     count: 6
     cards:
     - count: 3
       name: Form of the Bat
+      id: 102223
     - count: 3
       name: Murmur of the False Will
+      id: 101256
   - name: Reaction
     count: 17
     cards:
     - count: 2
       name: Deep Ecology
+      id: 102219
     - count: 9
       name: Deflection
+      id: 100518
     - count: 2
       name: One With the Land
+      id: 102256
     - count: 4
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 8
     cards:
     - count: 3
       name: Earth Meld
+      id: 100601
     - count: 5
       name: Form of Mist
+      id: 100771
   - name: Event
     count: 1
     cards:
     - count: 1
       name: NRA PAC
+      id: 101305

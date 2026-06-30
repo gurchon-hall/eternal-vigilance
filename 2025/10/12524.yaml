@@ -1,4 +1,4 @@
-name: “Last Chance” Qualifier (2025)
+name: Last Chance Qualifier
 location: Aarhus, Denmark
 date_start: 2025-10-17
 rounds_format: 3R+F
@@ -7,12 +7,10 @@ winner: Martin Weinmayer
 vekn_number: 3340035
 event_url: https://www.vekn.net/event-calendar/event/12524
 event_id: 12524
-vp_comment: 2GW 8.5VP + 1VP in final
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82926-twd-last-chance-qualifier-aarhus-denmark-17-october-2025
+vp_comment: 2GW8.5 + 1vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12524
 deck:
   name: The Evil Marko Experience
-  created_by: Martin Weinmayer
   description: Deck inspired by Marko Saari
   crypt_count: 12
   crypt_min: 24
@@ -21,13 +19,23 @@ deck:
   crypt:
   - count: 3
     name: Sergio Bueno
+    id: 201662
     capacity: 8
     disciplines: aus pot OBF PRE PRO
     title: Baron
     clan: Ministry
     grouping: 6
+  - count: 2
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
   - count: 1
     name: Adrino Manauara
+    id: 201664
     capacity: 8
     disciplines: pot ANI DOM PRO
     title: Baron
@@ -35,20 +43,15 @@ deck:
     grouping: 6
   - count: 1
     name: Saku Pihlajamäki
+    id: 201658
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
     clan: Brujah
     grouping: 6
-  - count: 2
-    name: Vivian VI
-    capacity: 7
-    disciplines: obf tha PRE PRO
-    title: Baron
-    clan: Ministry
-    grouping: 6
   - count: 1
     name: Ángel Guerrero
+    id: 201665
     capacity: 7
     disciplines: ANI DOM PRO
     title: Baron
@@ -56,6 +59,7 @@ deck:
     grouping: 6
   - count: 1
     name: Branimira
+    id: 201667
     capacity: 6
     disciplines: dom pre pro ANI
     title: Baron
@@ -63,6 +67,7 @@ deck:
     grouping: 6
   - count: 1
     name: Casey Snyder
+    id: 201521
     capacity: 6
     disciplines: ani cel for PRO
     title: Baron
@@ -70,6 +75,7 @@ deck:
     grouping: 6
   - count: 1
     name: Elisha Tucker
+    id: 201586
     capacity: 6
     disciplines: cel obf pro PRE
     title: Baron
@@ -77,6 +83,7 @@ deck:
     grouping: 6
   - count: 1
     name: Kuyén
+    id: 201574
     capacity: 6
     disciplines: ANI PRO
     title: Baron
@@ -89,84 +96,112 @@ deck:
     cards:
     - count: 2
       name: Anarch Railroad
+      id: 100054
     - count: 2
       name: Carfax Abbey
+      id: 100297
     - count: 2
       name: Club Illusion
+      id: 100366
     - count: 1
       name: Dark Influences
+      id: 100493
     - count: 1
       name: Ferraille
+      id: 100722
     - count: 2
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Life Boon
+      id: 101103
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Opium Den
+      id: 101326
     - count: 2
       name: Papillon
+      id: 101350
     - count: 1
       name: 'Powerbase: Los Angeles'
+      id: 101435
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 11
     cards:
     - count: 11
       name: Chameleon
-  - name: Political Action
-    count: 4
-    cards:
-    - count: 2
-      name: Banishment
-    - count: 2
-      name: Revolutionary Council
+      id: 100320
   - name: Equipment
     count: 3
     cards:
     - count: 2
       name: Heart of Nizchetus
+      id: 100903
     - count: 1
       name: Sport Bike
+      id: 101856
+  - name: Political Action
+    count: 4
+    cards:
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 2
+      name: Revolutionary Council
+      id: 101631
   - name: Retainer
     count: 2
     cards:
     - count: 1
       name: Crypt's Sons
+      id: 100476
     - count: 1
       name: Mr. Winthrop
+      id: 101249
   - name: Action Modifier
     count: 6
     cards:
     - count: 4
       name: Earth Control
+      id: 100600
     - count: 2
       name: Monkey Wrench
+      id: 101239
   - name: Action Modifier/Combat
     count: 4
     cards:
     - count: 4
       name: Form of the Cobra
+      id: 102224
   - name: Action Modifier/Reaction
     count: 6
     cards:
     - count: 6
       name: Form of the Bat
+      id: 102223
   - name: Reaction
     count: 18
     cards:
     - count: 8
       name: Bait and Switch
+      id: 102218
     - count: 10
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 14
     cards:
     - count: 7
       name: Earth Meld
+      id: 100601
     - count: 7
       name: Form of Mist
+      id: 100771

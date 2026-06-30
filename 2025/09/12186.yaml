@@ -17,36 +17,42 @@ deck:
   crypt:
   - count: 5
     name: Erlik
+    id: 200434
     capacity: 10
     disciplines: AUS CEL FOR NEC THN
     clan: Harbinger of Skulls
     grouping: 3
   - count: 2
     name: Babalawo Alafin
+    id: 200158
     capacity: 7
     disciplines: ani AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 4
   - count: 2
     name: Nicomedes
+    id: 201057
     capacity: 5
     disciplines: aus for nec vic
     clan: Harbinger of Skulls
     grouping: 4
   - count: 1
     name: Erebus
+    id: 200428
     capacity: 7
     disciplines: dem AUS FOR NEC
     clan: Harbinger of Skulls
     grouping: 3
   - count: 1
     name: Mina Grotius
+    id: 200992
     capacity: 6
     disciplines: cel FOR NEC
     clan: Harbinger of Skulls
     grouping: 3
   - count: 1
     name: Solomon Batanea
+    id: 201305
     capacity: 5
     disciplines: nec AUS FOR
     clan: Harbinger of Skulls
@@ -58,73 +64,97 @@ deck:
     cards:
     - count: 2
       name: Direct Intervention
+      id: 100545
     - count: 2
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
+      id: 100656
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Liquidation
+      id: 101112
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 5
       name: Villein
+      id: 102121
   - name: Action
     count: 8
     cards:
     - count: 8
       name: Disciple of Lazarus
+      id: 100552
   - name: Ally
     count: 8
     cards:
     - count: 8
       name: Emerald Legionnaire
+      id: 100634
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Heart of Nizchetus
+      id: 100903
   - name: Action Modifier
     count: 5
     cards:
     - count: 5
       name: Trochomancy
+      id: 102026
   - name: Action Modifier/Combat
     count: 3
     cards:
     - count: 3
       name: Breath of Thanatos
+      id: 100249
   - name: Reaction
     count: 23
     cards:
     - count: 4
       name: Delaying Tactics
+      id: 100519
     - count: 7
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 7
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 26
     cards:
     - count: 2
       name: Aura Reading
+      id: 100113
     - count: 5
       name: Hidden Strength
+      id: 100918
     - count: 5
       name: Rolling with the Punches
+      id: 101649
     - count: 6
       name: Target Vitals
+      id: 101942
     - count: 4
       name: Taste of Vitae
+      id: 101945
     - count: 4
       name: Weighted Walking Stick
+      id: 102169
   - name: Event
     count: 2
     cards:
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
+      id: 102079

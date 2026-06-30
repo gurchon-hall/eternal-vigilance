@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 4
     name: Matasuntha
+    id: 200956
     capacity: 10
     disciplines: ANI AUS CEL FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 3
     name: Inyanga
+    id: 200638
     capacity: 9
     disciplines: dom nec ANI AUS FOR PRO
     title: Primogen
@@ -32,12 +34,14 @@ deck:
     grouping: 4
   - count: 2
     name: Ariadne
+    id: 200131
     capacity: 8
     disciplines: chi ANI FOR PRO
     clan: Gangrel
     grouping: 5
   - count: 2
     name: Randall
+    id: 201160
     capacity: 8
     disciplines: ANI AUS FOR PRO
     title: 1 Vote
@@ -45,6 +49,7 @@ deck:
     grouping: 4
   - count: 1
     name: Robert Price
+    id: 201192
     capacity: 2
     disciplines: pro
     clan: Gangrel
@@ -56,78 +61,106 @@ deck:
     cards:
     - count: 1
       name: Backways
+      id: 100126
     - count: 1
       name: Blood Doll
+      id: 100199
     - count: 1
       name: Ecoterrorists
+      id: 100609
     - count: 1
       name: Gangrel Revel
+      id: 100807
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Rebel
+      id: 101564
     - count: 2
       name: Vessel
+      id: 102113
     - count: 3
       name: Villein
+      id: 102121
     - count: 1
       name: Zoo Hunting Ground
+      id: 102212
   - name: Action
     count: 6
     cards:
     - count: 6
       name: Deep Song
+      id: 100515
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: Double Deuce
+      id: 102220
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
   - name: Retainer
     count: 2
     cards:
     - count: 2
       name: Raven Spy
+      id: 101550
   - name: Action Modifier
     count: 5
     cards:
     - count: 1
-      name: The Kiss of Ra
+      name: Kiss of Ra, The
+      id: 101062
     - count: 4
       name: Mind of the Wilds
+      id: 101214
   - name: Reaction
     count: 16
     cards:
     - count: 4
       name: Cats' Guidance
+      id: 100308
     - count: 2
       name: Enhanced Senses
+      id: 100644
     - count: 4
       name: Read the Winds
+      id: 101559
     - count: 6
       name: Sense the Savage Way
+      id: 101717
   - name: Combat
     count: 47
     cards:
     - count: 6
       name: Bone Spur
+      id: 100237
     - count: 7
       name: Carrion Crows
+      id: 100301
     - count: 6
       name: Drawing Out the Beast
+      id: 100585
     - count: 2
       name: Earth Meld
+      id: 100601
     - count: 6
       name: Indomitability
+      id: 100973
     - count: 7
       name: Rolling with the Punches
+      id: 101649
     - count: 3
       name: Taste of Vitae
+      id: 101945
     - count: 6
       name: Telepathic Tracking
+      id: 101950
     - count: 4
       name: Undead Persistence
+      id: 102060

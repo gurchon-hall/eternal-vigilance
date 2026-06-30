@@ -7,12 +7,8 @@ winner: Tero Aalto
 vekn_number: 8460002
 event_url: https://www.vekn.net/event-calendar/event/10139
 event_id: 10139
-vp_comment: We got two new players, my first personal neonates, in fact, one of 
-  whom even made it to the final. A retired Hall of Fame player had donated 
-  several boxes of useful cards to share at the event, most of which naturally 
-  went to the new players and their friends.
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/79738-twd-shell-break-espoo-2022-04-17
+vp_comment: 1GW5 + 5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10139
 deck:
   name: '(Sem título): Maximum Security'
   description: A variation of the original "(Sem título)" tuned for a 
@@ -22,6 +18,20 @@ deck:
   crypt_max: 40
   crypt_avg: 6.33
   crypt:
+  - count: 6
+    name: unnamed, The
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 5
+    name: Horde, The
+    id: 200605
+    capacity: 3
+    disciplines: dai obf pre
+    clan: Baali
+    grouping: 6
   - count: 1
     name: Anarch Convert
     id: 200076
@@ -29,20 +39,6 @@ deck:
     disciplines: ''
     clan: Caitiff
     grouping: ANY
-  - count: 5
-    name: The Horde
-    id: 200605
-    capacity: 3
-    disciplines: dai obf pre
-    clan: Baali
-    grouping: 6
-  - count: 6
-    name: The unnamed
-    id: 201411
-    capacity: 10
-    disciplines: CEL DAI OBF PRE PRO
-    clan: Baali
-    grouping: 6
   library_count: 65
   library_sections:
   - name: Master
@@ -55,7 +51,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
       name: Perfectionist

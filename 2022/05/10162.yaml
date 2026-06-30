@@ -19,12 +19,14 @@ deck:
   crypt:
   - count: 4
     name: Sergei Voshkov, The Eye
+    id: 201267
     capacity: 10
     disciplines: dom pro ANI AUS OBF POT
     clan: Nosferatu
     grouping: 5
   - count: 3
     name: Benedito, a Lanterna
+    id: 201524
     capacity: 6
     disciplines: ani aus obf POT
     title: Baron
@@ -32,13 +34,15 @@ deck:
     grouping: 6
   - count: 3
     name: Jacques Rouge
+    id: 201523
     capacity: 6
     disciplines: ani pot pre OBF
     title: Baron
     clan: Nosferatu
     grouping: 6
   - count: 2
-    name: The Medic
+    name: Medic, The
+    id: 200968
     capacity: 6
     disciplines: dem for OBF POT
     clan: Nosferatu
@@ -49,103 +53,143 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Garibaldi-Meucci Museum
+      id: 100809
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
+      id: 101070
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Protected Resources
+      id: 101500
     - count: 1
-      name: The Rack
+      name: Rack, The
+      id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
+      id: 101811
     - count: 1
       name: Storm Sewers
+      id: 101878
     - count: 4
       name: Vessel
+      id: 102113
     - count: 2
       name: Villein
+      id: 102121
     - count: 1
       name: Warsaw Station
+      id: 102149
   - name: Action
     count: 11
     cards:
     - count: 1
       name: Army of Rats
+      id: 100093
     - count: 1
       name: Constant Revolution
+      id: 100416
     - count: 4
       name: Creeping Sabotage
+      id: 102213
     - count: 1
       name: Open War
+      id: 101324
     - count: 1
       name: 'Patagia: Flaps Allowing Limited Flight'
+      id: 101357
     - count: 3
       name: Preternatural Strength
+      id: 101483
   - name: Equipment
     count: 3
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 2
       name: Leather Jacket
+      id: 101081
   - name: Retainer
     count: 3
     cards:
     - count: 3
       name: Raven Spy
+      id: 101550
   - name: Action Modifier
     count: 6
     cards:
     - count: 3
       name: Forgotten Labyrinth
+      id: 100769
     - count: 3
       name: Lost in Crowds
+      id: 101125
   - name: Action Modifier/Combat
     count: 6
     cards:
     - count: 2
       name: Shadow Boxing
+      id: 101736
     - count: 4
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 26
     cards:
     - count: 2
       name: Bait and Switch
+      id: 102218
     - count: 2
       name: Cats' Guidance
+      id: 100308
     - count: 3
       name: Deep Ecology
+      id: 102219
     - count: 2
       name: Delaying Tactics
+      id: 100519
     - count: 8
       name: Organized Resistance
+      id: 102230
     - count: 2
       name: Party Out Of Bounds
+      id: 102231
     - count: 3
       name: Protection Racket
+      id: 101501
     - count: 2
       name: Read the Winds
+      id: 101559
     - count: 2
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 18
     cards:
     - count: 2
       name: Disarm
+      id: 100549
     - count: 2
       name: Hell-for-Leather
+      id: 100910
     - count: 6
       name: Immortal Grapple
+      id: 100959
     - count: 6
       name: Roundhouse
+      id: 102215
     - count: 2
       name: Taste of Vitae
+      id: 101945

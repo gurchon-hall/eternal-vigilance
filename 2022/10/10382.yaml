@@ -1,5 +1,5 @@
 name: Chá do Joel
-location: Eusébio, Ceará, Brazil
+location: Eusébio, Brazil
 date_start: 2022-10-09
 rounds_format: 2R+F
 players_count: 10
@@ -7,17 +7,30 @@ winner: Nilceu Galvão
 vekn_number: 6050001
 event_url: https://www.vekn.net/event-calendar/event/10382
 event_id: 10382
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80069-twd-cha-do-joel
+vp_comment: 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10382
 deck:
   name: Baali Ministry
-  created_by: Nilceu
   description: ''
   crypt_count: 12
   crypt_min: 6
   crypt_max: 25
   crypt_avg: 3.83
   crypt:
+  - count: 3
+    name: Horde, The
+    id: 200605
+    capacity: 3
+    disciplines: dai obf pre
+    clan: Baali
+    grouping: 6
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
   - count: 2
     name: Xeper, Sultan of Lepers
     id: 201480
@@ -53,20 +66,6 @@ deck:
     disciplines: obf pre pro
     clan: Ministry
     grouping: 6
-  - count: 3
-    name: The Horde
-    id: 200605
-    capacity: 3
-    disciplines: dai obf pre
-    clan: Baali
-    grouping: 6
-  - count: 3
-    name: Anarch Convert
-    id: 200076
-    capacity: 1
-    disciplines: ''
-    clan: Caitiff
-    grouping: ANY
   library_count: 90
   library_sections:
   - name: Master
@@ -88,10 +87,10 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 5
-      name: The Parthenon
+      name: Parthenon, The
       id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: Protean
@@ -115,7 +114,7 @@ deck:
       name: Field Training
       id: 100725
     - count: 12
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
       id: 102232
     - count: 5
       name: Unleash Hell's Fury

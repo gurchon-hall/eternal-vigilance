@@ -7,12 +7,10 @@ winner: Diogo Pratas
 vekn_number: 4300002
 event_url: https://www.vekn.net/event-calendar/event/11474
 event_id: 11474
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81810-twd-burning-wrath-13-07-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11474
 deck:
   name: Nameless and Shiny
-  created_by: Diogo Pratas
-  description: If you don't want to think...a multi-action deck is your best 
+  description: If you don't want to think... a multi-action deck is your best 
     strategy.
   crypt_count: 12
   crypt_min: 4
@@ -20,21 +18,21 @@ deck:
   crypt_avg: 4.67
   crypt:
   - count: 4
+    name: unnamed, The
+    id: 201411
+    capacity: 10
+    disciplines: CEL DAI OBF PRE PRO
+    clan: Baali
+    grouping: 6
+  - count: 4
     name: Anarch Convert
     id: 200076
     capacity: 1
     disciplines: ''
     clan: Caitiff
     grouping: ANY
-  - count: 4
-    name: The unnamed
-    id: 201411
-    capacity: 10
-    disciplines: CEL DAI OBF PRE PRO
-    clan: Baali
-    grouping: 6
   - count: 3
-    name: The Horde
+    name: Horde, The
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -92,7 +90,7 @@ deck:
       name: Contagion
       id: 100418
     - count: 6
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
       id: 102232
     - count: 3
       name: Unleash Hell's Fury

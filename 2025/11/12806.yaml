@@ -1,5 +1,5 @@
 name: Vem pra cá Sabbat
-location: Recife- Pernambuco - Brazil
+location: Recife (PE), Brazil
 date_start: 2025-11-08
 rounds_format: 2R+F
 players_count: 10
@@ -7,11 +7,10 @@ winner: Wolney André Sampaio Alves de Oliveira
 vekn_number: 9200004
 event_url: https://www.vekn.net/event-calendar/event/12806
 event_id: 12806
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/82846-twd-vem-pra-ca-sabbat-dia-2025-11-08
+vp_comment: 0GW2 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/12806
 deck:
   name: Dark Inner Voice [by Wolbrujah]
-  created_by: Wolbrujah
   description: ''
   crypt_count: 12
   crypt_min: 31
@@ -20,6 +19,7 @@ deck:
   crypt:
   - count: 3
     name: Aaradhya, The Callous Tyrant
+    id: 201733
     capacity: 10
     disciplines: ANI DOM FOR POT PRE
     title: Cardinal
@@ -28,6 +28,7 @@ deck:
     path: Power and the Inner Voice
   - count: 2
     name: Dark Selina
+    id: 200321
     capacity: 9
     disciplines: dom for CEL POT PRE
     title: Cardinal
@@ -35,6 +36,7 @@ deck:
     grouping: 5
   - count: 2
     name: Věnceslava, The Implacable
+    id: 201776
     capacity: 9
     disciplines: cel DOM FOR POT PRE
     title: Archbishop
@@ -43,6 +45,7 @@ deck:
     path: Power and the Inner Voice
   - count: 2
     name: Rexton "Savage" Abernathy
+    id: 201770
     capacity: 8
     disciplines: cel DOM POT PRE
     title: Archbishop
@@ -51,6 +54,7 @@ deck:
     path: Power and the Inner Voice
   - count: 2
     name: Üresség
+    id: 201775
     capacity: 8
     disciplines: dom for CEL POT PRE
     title: Archbishop
@@ -59,6 +63,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Khin Aye
+    id: 201760
     capacity: 7
     disciplines: dom for POT PRE
     title: Priscus
@@ -72,85 +77,118 @@ deck:
     cards:
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Monastery of Shadows
+      id: 101238
     - count: 1
       name: Papillon
+      id: 101350
     - count: 1
       name: 'Powerbase: Madrid'
+      id: 101437
     - count: 1
       name: Privileged Position
+      id: 102334
     - count: 1
       name: Sudden Reversal
+      id: 101896
     - count: 4
       name: Unholy Sacrament
+      id: 102345
     - count: 5
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 8
     cards:
     - count: 5
       name: Enchant Kindred
+      id: 100640
     - count: 1
       name: Entrancement
+      id: 100652
     - count: 1
       name: Heart of the City
+      id: 100904
     - count: 1
       name: Under Siege
+      id: 102063
   - name: Political Action
     count: 15
     cards:
     - count: 1
       name: Ancilla Empowerment
+      id: 100065
     - count: 1
       name: Banishment
+      id: 100131
     - count: 3
       name: Cold War
+      id: 102312
     - count: 1
       name: Empires Fall
+      id: 102318
     - count: 6
       name: Kine Resources Contested
+      id: 101056
     - count: 1
       name: Neonate Breach
+      id: 101271
     - count: 1
       name: Political Stranglehold
+      id: 101417
     - count: 1
       name: War of Ages
+      id: 102348
   - name: Action Modifier
     count: 28
     cards:
     - count: 3
       name: Dominant Personality
+      id: 102316
     - count: 7
       name: Freak Drive
+      id: 100788
     - count: 4
       name: Iron Glare
+      id: 101008
     - count: 5
       name: Magnetic Authority
+      id: 102331
     - count: 3
       name: Perfect Paragon
+      id: 101387
     - count: 3
       name: Unthinkable Humiliation
+      id: 102346
     - count: 3
       name: Voter Captivation
+      id: 102131
   - name: Action Modifier/Reaction
     count: 3
     cards:
     - count: 3
       name: Absolute Tyranny
+      id: 102308
   - name: Reaction
     count: 12
     cards:
     - count: 7
       name: Deflection
+      id: 100518
     - count: 5
       name: On the Qui Vive
+      id: 101321
   - name: Combat
     count: 7
     cards:
     - count: 7
       name: Majesty
+      id: 101144

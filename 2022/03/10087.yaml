@@ -1,0 +1,169 @@
+name: Cleriston, I'm trying nothing more than trying
+location: Campina Grande, Brazil
+date_start: 2022-03-06
+rounds_format: 3R+F
+players_count: 10
+winner: José Roberio Barbosa da Silva
+vekn_number: 1004066
+event_url: https://www.vekn.net/event-calendar/event/10087
+event_id: 10087
+vp_comment: 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10087
+deck:
+  name: Tzimice da escuridão
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 33
+  crypt_avg: 6.25
+  crypt:
+  - count: 3
+    name: Duality
+    id: 200391
+    capacity: 6
+    disciplines: ani AUS VIC
+    clan: Tzimisce
+    grouping: 4
+  - count: 3
+    name: Rurik Rakoczy
+    id: 201519
+    capacity: 6
+    disciplines: aus ANI VIC
+    clan: Tzimisce
+    grouping: 5
+  - count: 2
+    name: Lady Vadislava
+    id: 201516
+    capacity: 9
+    disciplines: nec ANI AUS DOM VIC
+    title: Priscus
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Righteous Endeavor
+    id: 201191
+    capacity: 8
+    disciplines: ANI AUS THA VIC
+    title: Priscus
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Ludmijla Rakoczy
+    id: 200879
+    capacity: 7
+    disciplines: ANI AUS VIC
+    title: Bishop
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Dr. Morrow, The Skindoctor
+    id: 200381
+    capacity: 5
+    disciplines: for AUS VIC
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 88
+  library_sections:
+  - name: Master
+    count: 26
+    cards:
+    - count: 1
+      name: Animalism
+      id: 100070
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Library Hunting Ground
+      id: 101102
+    - count: 2
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Path of Metamorphosis, The
+      id: 101364
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 8
+    cards:
+    - count: 4
+      name: Bum's Rush
+      id: 100266
+    - count: 4
+      name: Deep Song
+      id: 100515
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 3
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: Forced Awakening
+      id: 100760
+    - count: 1
+      name: Read the Winds
+      id: 101559
+    - count: 7
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 41
+    cards:
+    - count: 2
+      name: Aid from Bats
+      id: 100029
+    - count: 6
+      name: Carrion Crows
+      id: 100301
+    - count: 2
+      name: Chiropteran Marauder
+      id: 100344
+    - count: 21
+      name: Horrid Form
+      id: 100934
+    - count: 2
+      name: Taste of Vitae
+      id: 101945
+    - count: 6
+      name: Telepathic Tracking
+      id: 101950
+    - count: 2
+      name: Trap
+      id: 102012

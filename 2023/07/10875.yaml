@@ -7,11 +7,10 @@ winner: Otso Saariluoma
 vekn_number: 3530054
 event_url: https://www.vekn.net/event-calendar/event/10875
 event_id: 10875
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/80769-twd-ropecon-warm-up
+vp_comment: 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/10875
 deck:
   name: Retribution Time
-  created_by: Otso Saariluoma
   description: Emiliano Imeroni's deck with a light personal touch. Increased 
     the number of Infernal Pursuits & added Parthenon to have more control over 
     the deck flow. Narrow Minds seemed a good fit.
@@ -20,8 +19,17 @@ deck:
   crypt_max: 32
   crypt_avg: 6.08
   crypt:
+  - count: 3
+    name: Kassandra Tassaki
+    id: 201604
+    capacity: 6
+    disciplines: obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
   - count: 2
     name: Kasim Bayar
+    id: 201598
     capacity: 9
     disciplines: aus pot CEL OBF THA
     title: Justicar
@@ -29,40 +37,38 @@ deck:
     grouping: 6
   - count: 2
     name: Farah Sarroub
+    id: 201587
     capacity: 7
     disciplines: aus obf CEL THA
     title: Prince
     clan: Banu Haqim
     grouping: 6
-  - count: 3
-    name: Kassandra Tassaki
-    capacity: 6
-    disciplines: obf CEL THA
-    title: Prince
-    clan: Banu Haqim
-    grouping: 6
-  - count: 1
-    name: Khadija Al-Kindi
-    capacity: 6
-    disciplines: CEL OBF THA
-    title: Primogen
-    clan: Banu Haqim
-    grouping: 6
   - count: 2
     name: Warmaksan
+    id: 201594
     capacity: 5
     disciplines: cel obf THA
     title: Prince
     clan: Banu Haqim
     grouping: 6
   - count: 1
+    name: Khadija Al-Kindi
+    id: 201599
+    capacity: 6
+    disciplines: CEL OBF THA
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
     name: Nayarana
+    id: 201607
     capacity: 4
     disciplines: cel THA
     clan: Banu Haqim
     grouping: 6
   - count: 1
     name: Bijou
+    id: 201580
     capacity: 3
     disciplines: cel tha
     clan: Banu Haqim
@@ -74,80 +80,109 @@ deck:
     cards:
     - count: 1
       name: Alamut
+      id: 100037
     - count: 1
       name: Archon Investigation
+      id: 100085
     - count: 9
       name: Ashur Tablets
+      id: 100106
     - count: 3
       name: "Haqim's Law: Retribution"
+      id: 102226
     - count: 1
       name: Papillon
+      id: 101350
     - count: 3
-      name: The Parthenon
+      name: Parthenon, The
+      id: 101355
     - count: 3
       name: Priority Contract
+      id: 101487
     - count: 4
       name: Villein
+      id: 102121
     - count: 1
       name: Wider View
+      id: 102180
   - name: Action
     count: 7
     cards:
     - count: 6
       name: Hunter's Mark
+      id: 102228
     - count: 1
       name: Rutor's Hand
+      id: 101664
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: .44 Magnum
+      id: 100001
   - name: Political Action
     count: 3
     cards:
     - count: 2
       name: Anathema
+      id: 100060
     - count: 1
       name: Rumors of Gehenna
+      id: 101663
   - name: Action Modifier/Combat
     count: 6
     cards:
     - count: 3
       name: Resist Earth's Grasp
+      id: 101610
     - count: 3
       name: Swallowed by the Night
+      id: 101913
   - name: Reaction
     count: 9
     cards:
     - count: 9
       name: 'Second Tradition: Domain'
+      id: 101706
   - name: Combat
     count: 37
     cards:
     - count: 3
       name: Blur
+      id: 100227
     - count: 9
       name: Hunger of Marduk
+      id: 102227
     - count: 7
       name: Infernal Pursuit
+      id: 100980
     - count: 2
       name: Psyche!
+      id: 101507
     - count: 5
       name: Pursuit
+      id: 101523
     - count: 4
       name: Quickness
+      id: 101532
     - count: 1
       name: Rego Motum
+      id: 101588
     - count: 1
       name: Side Strike
+      id: 101778
     - count: 1
       name: Sideslip
+      id: 101779
     - count: 3
       name: Weighted Walking Stick
+      id: 102169
     - count: 1
       name: Zip Gun
+      id: 102208
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Narrow Minds
+      id: 101265

@@ -7,8 +7,7 @@ winner: Peitsa Suominen
 vekn_number: 1004319
 event_url: https://www.vekn.net/event-calendar/event/11445
 event_id: 11445
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81976-twd-rumo-ao-sac-03-online-may-13-2024
+forum_post_url: https://www.vekn.net/event-calendar/event/11445
 deck:
   name: British manse for brazil!
   description: My take on british museum of london and living manses deck
@@ -19,62 +18,72 @@ deck:
   crypt:
   - count: 2
     name: Caliban
+    id: 200236
     capacity: 6
     disciplines: ANI AUS VIC
     clan: Tzimisce
     grouping: 2
   - count: 2
     name: Corine Marcón
+    id: 200290
     capacity: 6
     disciplines: ani AUS VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
+    name: Kazimir Savostin
+    id: 200766
+    capacity: 7
+    disciplines: ani pot AUS VIC
+    clan: Tzimisce
+    grouping: 3
+  - count: 1
     name: Ana Rita Montaña
+    id: 200075
     capacity: 5
     disciplines: aus dom obf VIC
     clan: Tzimisce
     grouping: 3
   - count: 1
     name: Devin Bisley
+    id: 200339
     capacity: 5
     disciplines: vic ANI AUS
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Elizabeth Westcott
+    id: 200415
     capacity: 5
     disciplines: ani cel vic AUS
     clan: Tzimisce
     grouping: 3
   - count: 1
-    name: Horatio
-    capacity: 2
-    disciplines: vic
-    clan: Tzimisce
-    grouping: 2
-  - count: 1
-    name: Kazimir Savostin
-    capacity: 7
-    disciplines: ani pot AUS VIC
-    clan: Tzimisce
-    grouping: 3
-  - count: 1
-    name: Lolita Houston
-    capacity: 4
-    disciplines: aus VIC
-    clan: Tzimisce
-    grouping: 2
-  - count: 1
-    name: The Rose
+    name: Rose, The
+    id: 201205
     capacity: 5
     disciplines: aus PRE VIC
     clan: Tzimisce
     grouping: 3
   - count: 1
+    name: Lolita Houston
+    id: 200850
+    capacity: 4
+    disciplines: aus VIC
+    clan: Tzimisce
+    grouping: 2
+  - count: 1
     name: Terrence
+    id: 201357
     capacity: 4
     disciplines: ani aus vic
+    clan: Tzimisce
+    grouping: 2
+  - count: 1
+    name: Horatio
+    id: 200603
+    capacity: 2
+    disciplines: vic
     clan: Tzimisce
     grouping: 2
   library_count: 90
@@ -84,79 +93,109 @@ deck:
     cards:
     - count: 2
       name: Anarch Troublemaker
+      id: 100058
     - count: 5
-      name: The British Museum, London
+      name: British Museum, London, The
+      id: 102236
     - count: 1
       name: Centralized Background Check
+      id: 100315
     - count: 1
-      name: The Coven
+      name: Coven, The
+      id: 100435
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Dreams of the Sphinx
+      id: 100588
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 1
       name: Life in the City
+      id: 101104
     - count: 1
       name: Misdirection
+      id: 101225
     - count: 1
-      name: The Path of Metamorphosis
+      name: Path of Metamorphosis, The
+      id: 101364
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
+      id: 101384
     - count: 2
       name: Rötschreck
+      id: 101654
     - count: 1
       name: Vicissitude
+      id: 102116
     - count: 2
       name: Villein
+      id: 102121
   - name: Action
     count: 13
     cards:
     - count: 2
       name: Abbot
+      id: 100006
     - count: 11
       name: Fiendish Tongue
+      id: 100726
   - name: Equipment
     count: 7
     cards:
     - count: 7
       name: Living Manse
+      id: 101114
   - name: Action Modifier
     count: 12
     cards:
     - count: 10
       name: Changeling
+      id: 100324
     - count: 2
       name: Mind of the Wilds
+      id: 101214
   - name: Action Modifier/Combat
     count: 5
     cards:
     - count: 5
       name: Plasmic Form
+      id: 101402
   - name: Reaction
     count: 17
     cards:
     - count: 1
       name: Delaying Tactics
+      id: 100519
     - count: 4
       name: Eyes of Argus
+      id: 100680
     - count: 3
       name: My Enemy's Enemy
+      id: 101259
     - count: 4
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 13
     cards:
     - count: 3
       name: Breath of the Dragon
+      id: 100250
     - count: 6
       name: Chiropteran Marauder
+      id: 100344
     - count: 2
       name: Inner Essence
+      id: 100986
     - count: 2
       name: Quick Jab
+      id: 101529
