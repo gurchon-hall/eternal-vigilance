@@ -4,6 +4,7 @@ date_start: 2025-12-14
 rounds_format: 2R+F
 players_count: 16
 winner: Alex Romano
+vekn_number: 5920001
 event_url: https://www.vekn.net/event-calendar/event/12783
 event_id: 12783
 vp_comment: The final was as follows
@@ -92,7 +93,7 @@ deck:
       name: Great Symposium
       id: 100853
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 1
       name: Metro Underground
@@ -104,16 +105,16 @@ deck:
       name: Papillon
       id: 101350
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Perfectionist
       id: 101388
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Ravager

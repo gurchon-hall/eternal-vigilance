@@ -4,6 +4,7 @@ date_start: 2022-02-06
 rounds_format: 2R+F
 players_count: 12
 winner: Alex Romano
+vekn_number: 5920001
 event_url: https://www.vekn.net/event-calendar/event/10043
 event_id: 10043
 vp_comment: 1GW5 + 2vp in final
@@ -95,7 +96,7 @@ deck:
       name: Campground Hunting Ground
       id: 100288
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -122,7 +123,7 @@ deck:
       name: Misdirection
       id: 101225
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Twisted Forest

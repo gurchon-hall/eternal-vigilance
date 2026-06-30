@@ -4,6 +4,7 @@ date_start: 2022-09-11
 rounds_format: 2R+F
 players_count: 14
 winner: Pedro Paulo
+vekn_number: 7300049
 event_url: https://www.vekn.net/event-calendar/event/10355
 event_id: 10355
 vp_comment: 3vp in final
@@ -87,7 +88,7 @@ deck:
       name: Blind Spot
       id: 100188
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -117,10 +118,10 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Secret Passage

@@ -101,10 +101,10 @@ deck:
       name: Liquidation
       id: 101112
     - count: 6
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 2
-      name: Shard, London, The
+      name: The Shard, London
       id: 102244
     - count: 2
       name: Wash
@@ -170,5 +170,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

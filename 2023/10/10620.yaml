@@ -4,6 +4,7 @@ date_start: 2023-10-22
 rounds_format: 2R+F
 players_count: 22
 winner: Pedro Paulo
+vekn_number: 7300049
 event_url: https://www.vekn.net/event-calendar/event/10620
 event_id: 10620
 forum_post_url: https://www.vekn.net/event-calendar/event/10620
@@ -92,7 +93,7 @@ deck:
     count: 23
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 2
       name: Anarch Revolt
@@ -116,7 +117,7 @@ deck:
       name: Information Highway
       id: 100984
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Montreal'

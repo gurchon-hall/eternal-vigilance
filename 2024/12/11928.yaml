@@ -4,6 +4,7 @@ date_start: 2024-12-22
 rounds_format: 2R+F
 players_count: 12
 winner: Thiago Sousa
+vekn_number: 5490002
 event_url: https://www.vekn.net/event-calendar/event/11928
 event_id: 11928
 vp_comment: 'Final Table:'
@@ -64,7 +65,7 @@ deck:
       name: Park Hunting Ground
       id: 101354
     - count: 3
-      name: Path of Paradox, The
+      name: The Path of Paradox
       id: 101366
     - count: 1
       name: Secure Haven

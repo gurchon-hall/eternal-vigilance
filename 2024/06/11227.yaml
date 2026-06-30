@@ -4,6 +4,7 @@ date_start: 2024-06-16
 rounds_format: 2R+F
 players_count: 38
 winner: Alex Romano
+vekn_number: 5920001
 event_url: https://www.vekn.net/event-calendar/event/11227
 event_id: 11227
 vp_comment: "Description: I don't think this is necessarily anything revolutionary
@@ -107,7 +108,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -119,7 +120,7 @@ deck:
       name: Park Hunting Ground
       id: 101354
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 4
       name: Ravnos Carnival
@@ -131,7 +132,7 @@ deck:
     count: 23
     cards:
     - count: 4
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 8
       name: Mozambique Allure
@@ -182,11 +183,11 @@ deck:
     count: 14
     cards:
     - count: 14
-      name: Eldest Are Kholo, The
+      name: The Eldest Are Kholo
       id: 100622
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057

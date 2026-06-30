@@ -4,6 +4,7 @@ date_start: 2026-03-21
 rounds_format: 2R+F
 players_count: 20
 winner: Thiago Sousa
+vekn_number: 5490002
 event_url: https://www.vekn.net/event-calendar/event/13156
 event_id: 13156
 vp_comment: 1GW4.5 + 2vp in final
@@ -75,7 +76,7 @@ deck:
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Fame
@@ -90,7 +91,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch

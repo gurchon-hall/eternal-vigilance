@@ -4,6 +4,7 @@ date_start: 2023-08-20
 rounds_format: 2R+F
 players_count: 17
 winner: Pedro Paulo
+vekn_number: 7300049
 event_url: https://www.vekn.net/event-calendar/event/10616
 event_id: 10616
 forum_post_url: https://www.vekn.net/event-calendar/event/10616
@@ -38,7 +39,7 @@ deck:
     clan: Brujah
     grouping: 4
   - count: 1
-    name: Lucian, The Perfect
+    name: Lucian, the Perfect
     id: 200871
     capacity: 11
     disciplines: ANI AUS DOM OBF POT PRE
@@ -82,7 +83,7 @@ deck:
       name: Blind Spot
       id: 100188
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Dreams of the Sphinx
@@ -109,10 +110,10 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Secret Passage

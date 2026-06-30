@@ -4,6 +4,7 @@ date_start: 2021-10-02
 rounds_format: 3R+F
 players_count: 14
 winner: Alex Romano
+vekn_number: 5920001
 event_url: https://www.vekn.net/event-calendar/event/9850
 event_id: 9850
 vp_comment: 1GW3.5 + 2.5 in final
@@ -58,7 +59,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Fear of Mekhet
@@ -79,7 +80,7 @@ deck:
       name: Protean
       id: 101498
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch

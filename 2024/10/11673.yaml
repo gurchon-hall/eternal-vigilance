@@ -4,6 +4,7 @@ date_start: 2024-10-13
 rounds_format: 2R+F
 players_count: 13
 winner: Andy Smith
+vekn_number: 2142002
 event_url: https://www.vekn.net/event-calendar/event/11673
 event_id: 11673
 vp_comment: I limped into the final on TPs w/ 2.5 & 0 where I was getting 
@@ -121,7 +122,7 @@ deck:
     count: 26
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -133,7 +134,7 @@ deck:
       name: Carfax Abbey
       id: 100297
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Garibaldi-Meucci Museum
@@ -211,5 +212,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057

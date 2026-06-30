@@ -1,4 +1,4 @@
-name: Danish Nationals 2023
+name: Danish NC 2023
 location: Vesterfælledvej 64G, 1799, Copenhagen, Hovedstaden, Denmark
 date_start: 2023-09-03
 rounds_format: 3R+F
@@ -7,8 +7,7 @@ winner: Nikolaj Wendt
 vekn_number: 1002045
 event_url: https://www.vekn.net/event-calendar/event/10860
 event_id: 10860
-forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/81466-twd-danish-nationals-2023
+forum_post_url: https://www.vekn.net/event-calendar/event/10860
 deck:
   name: Aksinya weenie PRE - Danish Nationals 2023
   description: Weenie PRE with Aksinya support
@@ -30,13 +29,6 @@ deck:
     capacity: 9
     disciplines: cel tha ANI FOR PRE PRO
     clan: Gangrel antitribu
-    grouping: 4
-  - count: 1
-    name: Jayne Jonestown
-    id: 200683
-    capacity: 2
-    disciplines: PRE
-    clan: Brujah antitribu
     grouping: 4
   - count: 1
     name: Loonar
@@ -66,6 +58,13 @@ deck:
     disciplines: PRE
     title: Primogen
     clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Jayne Jonestown
+    id: 200683
+    capacity: 2
+    disciplines: PRE
+    clan: Brujah antitribu
     grouping: 4
   library_count: 70
   library_sections:
