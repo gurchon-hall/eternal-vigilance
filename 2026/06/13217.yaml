@@ -92,10 +92,10 @@ deck:
       name: Millicent Smith, Puritan Vampire Hunter
       id: 101210
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
       id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Barranquilla'
@@ -110,13 +110,13 @@ deck:
       name: Protected Resources
       id: 101500
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 1
-      name: The Rumor Mill, Tabloid Newspaper
+      name: Rumor Mill, Tabloid Newspaper, The
       id: 101662
     - count: 6
-      name: The Slaughterhouse
+      name: Slaughterhouse, The
       id: 101800
     - count: 1
       name: Smiling Jack, The Anarch
