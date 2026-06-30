@@ -4,6 +4,7 @@ date_start: 2026-06-19
 rounds_format: 2R+F
 players_count: 55
 winner: Alex Romano
+vekn_number: 5920001
 event_url: https://www.vekn.net/event-calendar/event/13217
 event_id: 13217
 forum_post_url: 
@@ -91,10 +92,10 @@ deck:
       name: Millicent Smith, Puritan Vampire Hunter
       id: 101210
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Barranquilla'
@@ -109,13 +110,13 @@ deck:
       name: Protected Resources
       id: 101500
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
-      name: Rumor Mill, Tabloid Newspaper, The
+      name: The Rumor Mill, Tabloid Newspaper
       id: 101662
     - count: 6
-      name: Slaughterhouse, The
+      name: The Slaughterhouse
       id: 101800
     - count: 1
       name: Smiling Jack, The Anarch
