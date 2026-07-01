@@ -97,7 +97,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -124,7 +124,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 4
       name: Villein
