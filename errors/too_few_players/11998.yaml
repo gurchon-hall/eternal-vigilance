@@ -21,6 +21,7 @@ deck:
   crypt:
   - count: 2
     name: Aline Gädeke
+    id: 201576
     capacity: 7
     disciplines: cel POT PRE
     title: Baron
@@ -28,6 +29,7 @@ deck:
     grouping: 6
   - count: 2
     name: Atiena
+    id: 201579
     capacity: 6
     disciplines: obf pot pre CEL
     title: Baron
@@ -35,36 +37,42 @@ deck:
     grouping: 6
   - count: 2
     name: Theo Bell
+    id: 201613
     capacity: 8
     disciplines: aus dom CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 1
     name: Ariane
+    id: 200132
     capacity: 3
     disciplines: cel pot pre
     clan: Brujah
     grouping: 5
   - count: 1
     name: Chun Hei
+    id: 201638
     capacity: 7
     disciplines: CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 1
     name: Elen Kamjian
+    id: 201585
     capacity: 4
     disciplines: CEL POT
     clan: Brujah
     grouping: 6
   - count: 1
     name: Octane
+    id: 201609
     capacity: 6
     disciplines: CEL POT PRE
     clan: Brujah
     grouping: 6
   - count: 1
     name: Saku Pihlajamäki
+    id: 201658
     capacity: 8
     disciplines: for pro CEL POT PRE
     title: Baron
@@ -72,6 +80,7 @@ deck:
     grouping: 6
   - count: 1
     name: Valeriya Zinovieva
+    id: 201614
     capacity: 7
     disciplines: cel pre pro POT
     title: Baron
@@ -84,77 +93,106 @@ deck:
     cards:
     - count: 1
       name: Anarch Free Press, The
+      id: 100052
     - count: 1
       name: Carfax Abbey
+      id: 100297
     - count: 1
       name: Dummy Corporation
+      id: 100594
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Fragment of the Book of Nod
+      id: 100785
     - count: 1
       name: Giant's Blood
+      id: 100824
     - count: 2
       name: Haven Uncovered
+      id: 100897
     - count: 1
       name: Rumor Mill, Tabloid Newspaper, The
+      id: 101662
     - count: 1
       name: Tension in the Ranks
+      id: 101958
     - count: 4
       name: Vessel
+      id: 102113
     - count: 1
       name: Warzone Hunting Ground
+      id: 102150
   - name: Action
     count: 15
     cards:
     - count: 3
       name: Illegalism
+      id: 100952
     - count: 7
       name: Line Brawl
+      id: 102229
     - count: 3
       name: Make the Misere
+      id: 101147
     - count: 2
       name: Show of Force
+      id: 101772
   - name: Political Action
     count: 2
     cards:
     - count: 2
       name: Eat the Rich
+      id: 100605
   - name: Ally
     count: 1
     cards:
     - count: 1
       name: 47th Street Royals
+      id: 102217
   - name: Equipment
     count: 1
     cards:
     - count: 1
       name: Stolen Police Cruiser
+      id: 101872
   - name: Reaction
     count: 12
     cards:
     - count: 4
       name: Bait and Switch
+      id: 102218
     - count: 8
       name: Organized Resistance
+      id: 102230
   - name: Combat
     count: 44
     cards:
     - count: 2
       name: Blur
+      id: 100227
     - count: 3
       name: Bollix
+      id: 100232
     - count: 5
       name: Dust Up
+      id: 100597
     - count: 7
       name: Immortal Grapple
+      id: 100959
     - count: 5
       name: Pursuit
+      id: 101523
     - count: 6
       name: Quickness
+      id: 101532
     - count: 3
       name: Roundhouse
+      id: 102215
     - count: 6
       name: Taste of Vitae
+      id: 101945
     - count: 7
       name: Torn Signpost
+      id: 101993

@@ -21,6 +21,7 @@ deck:
   crypt:
   - count: 3
     name: Meshenka
+    id: 200980
     capacity: 8
     disciplines: ANI AUS VIC
     title: Priscus
@@ -28,18 +29,28 @@ deck:
     grouping: 2
   - count: 3
     name: Dragos
+    id: 200386
     capacity: 7
     disciplines: vic ANI AUS
     clan: Tzimisce
     grouping: 2
+  - count: 2
+    name: Caliban
+    id: 200236
+    capacity: 6
+    disciplines: ANI AUS VIC
+    clan: Tzimisce
+    grouping: 2
   - count: 1
     name: Lolita Houston
+    id: 200850
     capacity: 4
     disciplines: aus VIC
     clan: Tzimisce
     grouping: 2
   - count: 1
     name: Terrence
+    id: 201357
     capacity: 4
     disciplines: ani aus vic
     clan: Tzimisce
@@ -51,54 +62,73 @@ deck:
     cards:
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: Library Hunting Ground
+      id: 101102
     - count: 1
       name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
     - count: 1
       name: Path of Metamorphosis, The
+      id: 101364
     - count: 1
       name: 'Powerbase: Barranquilla'
+      id: 101431
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: Rack, The
+      id: 101536
   - name: Action
     count: 1
     cards:
     - count: 1
       name: Under Siege
+      id: 102063
   - name: Equipment
     count: 2
     cards:
     - count: 1
       name: Palatial Estate
+      id: 101345
     - count: 1
       name: bowl of comvergence
+      id: 100243
   - name: Reaction
     count: 19
     cards:
     - count: 4
       name: Cats' Guidance
+      id: 100308
     - count: 8
       name: Eagle's Sight
+      id: 100598
     - count: 1
       name: Precognition
+      id: 101475
     - count: 6
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 18
     cards:
     - count: 6
       name: Breath of the Dragon
+      id: 100250
     - count: 8
       name: Chiropteran Marauder
+      id: 100344
     - count: 2
       name: Meld with the Land
+      id: 101196
     - count: 2
       name: Inner Essence
+      id: 100986
   - name: Event
     count: 1
     cards:
     - count: 1
       name: Dragonbound
+      id: 100581
