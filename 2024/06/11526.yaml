@@ -93,13 +93,13 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Chantry
       id: 100329
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -108,7 +108,7 @@ deck:
       name: Elder Library
       id: 100620
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 4
       name: Vessel

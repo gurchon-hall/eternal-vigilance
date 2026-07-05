@@ -79,10 +79,10 @@ deck:
       name: Monster
       id: 101242
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'

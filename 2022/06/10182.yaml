@@ -78,7 +78,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Dreams of the Sphinx
@@ -102,10 +102,10 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 6
       name: Villein

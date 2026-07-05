@@ -83,7 +83,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Club Illusion
@@ -119,7 +119,7 @@ deck:
     count: 4
     cards:
     - count: 4
-      name: Anarch Manifesto, An
+      name: An Anarch Manifesto
       id: 100053
   - name: Action Modifier
     count: 6

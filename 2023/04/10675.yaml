@@ -94,7 +94,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -118,7 +118,7 @@ deck:
       name: 'Powerbase: Los Angeles'
       id: 101435
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Rötschreck

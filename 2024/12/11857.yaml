@@ -63,7 +63,7 @@ deck:
       name: Blind Spot
       id: 100188
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -90,7 +90,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 2
       name: Secure Haven

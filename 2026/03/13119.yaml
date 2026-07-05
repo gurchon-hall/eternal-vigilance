@@ -3,11 +3,11 @@ location: Juiz de Fora, Brasil
 date_start: 2026-03-12
 rounds_format: 2R+F
 players_count: 15
-winner: Guilherme Machado
+winner: Guilherme Machado (
 vekn_number: 6130009
 event_url: https://www.vekn.net/event-calendar/event/13119
 event_id: 13119
-forum_post_url:
+forum_post_url: 
   https://www.vekn.net/forum/event-reports-and-twd/82902-twd-liga-powerbase-jf-2026-marco
 deck:
   name: Salubri Rush
@@ -19,42 +19,49 @@ deck:
   crypt:
   - count: 3
     name: Abaddon
+    id: 201663
     capacity: 8
     disciplines: cel pot AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 3
     name: Barachiel
+    id: 201781
     capacity: 7
     disciplines: ani AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Ilonka
+    id: 201673
     capacity: 7
     disciplines: tha AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 2
     name: Malachi
+    id: 201676
     capacity: 6
     disciplines: AUS DOM FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Aniel
+    id: 201666
     capacity: 6
     disciplines: for AUS DOM
     clan: Salubri
     grouping: 7
   - count: 1
     name: Sakhar
+    id: 201685
     capacity: 6
     disciplines: dom AUS FOR
     clan: Salubri
     grouping: 7
   - count: 1
     name: Opikun
+    id: 201680
     capacity: 5
     disciplines: aus dom FOR
     clan: Salubri
@@ -66,77 +73,109 @@ deck:
     cards:
     - count: 1
       name: Depravity
+      id: 100526
     - count: 1
       name: Direct Intervention
+      id: 100545
     - count: 1
       name: Fame
+      id: 100698
     - count: 1
       name: KRCG News Radio
+      id: 101067
     - count: 1
       name: Meditative Grove
+      id: 102252
     - count: 1
       name: Mob Connections
+      id: 101229
     - count: 1
       name: 'Powerbase: Montreal'
+      id: 101439
     - count: 1
       name: The Rack
+      id: 101536
     - count: 1
       name: Rötschreck
+      id: 101654
     - count: 2
       name: Saulot's Avenging Fist
+      id: 102257
     - count: 1
       name: Sight Beyond Sight
+      id: 101780
     - count: 2
       name: Vessel
+      id: 102113
   - name: Action
     count: 11
     cards:
     - count: 5
       name: Feast of the Soul's Secrets
+      id: 102248
     - count: 6
       name: Hunting the Beast
+      id: 102356
   - name: Equipment
     count: 9
     cards:
     - count: 1
       name: Bowl of Convergence
+      id: 100243
     - count: 1
       name: Codex of the Edenic Groundskeepers
+      id: 100374
     - count: 1
       name: Ivory Bow
+      id: 101014
     - count: 3
       name: Righteous Blade
+      id: 102359
     - count: 1
       name: Sengir Dagger
+      id: 101715
     - count: 2
       name: Sword of the Archangel
+      id: 102261
   - name: Reaction
     count: 22
     cards:
     - count: 4
       name: Deflection
+      id: 100518
     - count: 8
       name: Eyes of Argus
+      id: 100680
     - count: 2
       name: My Enemy's Enemy
+      id: 101259
     - count: 3
       name: On the Qui Vive
+      id: 101321
     - count: 5
       name: Telepathic Misdirection
+      id: 101949
   - name: Combat
     count: 34
     cards:
     - count: 6
       name: Angel's Gift
+      id: 102349
     - count: 6
       name: Anticipation
+      id: 102350
     - count: 2
       name: Hidden Strength
+      id: 100918
     - count: 4
       name: Indomitability
+      id: 100973
     - count: 6
       name: Taste of Vitae
+      id: 101945
     - count: 3
       name: Telepathic Tracking
+      id: 101950
     - count: 7
       name: Tranquility Shield
+      id: 102362

@@ -17,7 +17,7 @@ deck:
   crypt_avg: 5.5
   crypt:
   - count: 2
-    name: Dowager, The
+    name: The Dowager
     id: 201545
     capacity: 6
     disciplines: aus pot ANI OBF
@@ -97,7 +97,7 @@ deck:
       name: Information Highway
       id: 100984
     - count: 2
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 1
       name: Saulot's Guiding Wisdom

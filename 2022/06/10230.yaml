@@ -18,7 +18,7 @@ deck:
   crypt_avg: 9.17
   crypt:
   - count: 6
-    name: Capuchin, The
+    name: The Capuchin
     id: 200242
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
@@ -72,7 +72,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Secure Haven
@@ -132,7 +132,7 @@ deck:
       name: Palatial Estate
       id: 101345
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Action Modifier
     count: 22

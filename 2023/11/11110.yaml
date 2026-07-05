@@ -58,7 +58,7 @@ deck:
     count: 28
     cards:
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Hostile Takeover
@@ -72,7 +72,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Protean

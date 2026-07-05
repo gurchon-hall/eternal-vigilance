@@ -105,7 +105,7 @@ deck:
       name: Blood Doll
       id: 100199
     - count: 1
-      name: Crocodile Temple, The
+      name: The Crocodile Temple
       id: 100449
     - count: 1
       name: Dreams of the Sphinx
@@ -120,7 +120,7 @@ deck:
       name: Opium Den
       id: 101326
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Visit from the Capuchin
@@ -150,7 +150,7 @@ deck:
       name: Mesu Bedshet
       id: 101206
     - count: 1
-      name: Summoning, The
+      name: The Summoning
       id: 101902
     - count: 2
       name: Temptation

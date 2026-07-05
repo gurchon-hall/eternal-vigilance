@@ -128,10 +128,10 @@ deck:
       name: Not to Be
       id: 101303
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 3
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Madrid'
@@ -140,7 +140,7 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Embrace, The
+      name: The Embrace
       id: 100633
   - name: Political Action
     count: 35
@@ -170,10 +170,10 @@ deck:
       name: Blood Weakens
       id: 100217
     - count: 1
-      name: Rising, The
+      name: The Rising
       id: 101640
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807
     - count: 1
       name: Veil of Darkness

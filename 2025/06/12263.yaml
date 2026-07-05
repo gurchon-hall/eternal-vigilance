@@ -99,7 +99,7 @@ deck:
     count: 24
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -195,5 +195,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

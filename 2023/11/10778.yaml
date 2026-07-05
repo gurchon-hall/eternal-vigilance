@@ -81,7 +81,7 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -105,7 +105,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 2
-      name: Shard, London, The
+      name: The Shard, London
       id: 102244
     - count: 1
       name: Smiling Jack, The Anarch

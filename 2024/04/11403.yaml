@@ -19,7 +19,7 @@ deck:
   crypt_avg: 10.0
   crypt:
   - count: 11
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -47,7 +47,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Dreams of the Sphinx

@@ -65,10 +65,10 @@ deck:
     count: 29
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
-      name: Church of Vindicated Faith, The
+      name: The Church of Vindicated Faith
       id: 100348
     - count: 2
       name: Dreams of the Sphinx
@@ -83,10 +83,10 @@ deck:
       name: Liquidation
       id: 101112
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Specialization
@@ -125,7 +125,7 @@ deck:
     count: 6
     cards:
     - count: 2
-      name: Crusader Sword, The
+      name: The Crusader Sword
       id: 100474
     - count: 1
       name: Heart of Nizchetus
@@ -185,7 +185,7 @@ deck:
       name: Recalled to the Founder
       id: 101566
     - count: 4
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
     - count: 2
       name: Veil of Darkness

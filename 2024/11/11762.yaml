@@ -20,7 +20,7 @@ deck:
   crypt_avg: 6.0
   crypt:
   - count: 5
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -64,7 +64,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 4
       name: Dabbler
@@ -100,7 +100,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 7
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 2
       name: Unleash Hell's Fury
@@ -118,7 +118,7 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
   - name: Retainer
     count: 3

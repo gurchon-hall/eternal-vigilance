@@ -44,13 +44,13 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Admonitions, The
+      name: The Admonitions
       id: 100023
     - count: 10
       name: Corporal Reservoir
       id: 100425
     - count: 3
-      name: Path of Night, The
+      name: The Path of Night
       id: 101365
     - count: 3
       name: Villein
@@ -83,7 +83,7 @@ deck:
     count: 39
     cards:
     - count: 12
-      name: Art of Memory, The
+      name: The Art of Memory
       id: 100097
     - count: 2
       name: Blanket of Night

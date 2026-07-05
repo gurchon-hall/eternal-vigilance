@@ -68,7 +68,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Black Forest Base
@@ -89,7 +89,7 @@ deck:
       name: Liquidation
       id: 101112
     - count: 5
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Madrid'
@@ -134,7 +134,7 @@ deck:
       name: Kine Resources Contested
       id: 101056
     - count: 1
-      name: Meddling of Semsith, The
+      name: The Meddling of Semsith
       id: 101192
   - name: Action Modifier
     count: 9
@@ -173,5 +173,5 @@ deck:
       name: Thirst
       id: 101974
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

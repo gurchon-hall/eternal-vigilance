@@ -109,7 +109,7 @@ deck:
       name: Nose of the Hound
       id: 101296
     - count: 1
-      name: Path of the Scorched Heart, The
+      name: The Path of the Scorched Heart
       id: 101371
     - count: 2
       name: Sense Death
@@ -124,10 +124,10 @@ deck:
     count: 3
     cards:
     - count: 1
-      name: Ankara Citadel, Turkey, The
+      name: The Ankara Citadel, Turkey
       id: 100071
     - count: 1
-      name: Book of Going Forth by Night, The
+      name: The Book of Going Forth by Night
       id: 100239
     - count: 1
       name: Heart of Nizchetus

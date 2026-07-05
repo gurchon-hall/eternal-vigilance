@@ -105,7 +105,7 @@ deck:
       id: 100058
       comment: key to finals win
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Frontal Assault
@@ -117,7 +117,7 @@ deck:
       name: Haven Uncovered
       id: 100897
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Priority Contract
@@ -126,7 +126,7 @@ deck:
     count: 11
     cards:
     - count: 9
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 2
       name: 'Khabar: Glory'

@@ -18,14 +18,14 @@ deck:
   crypt_avg: 6.5
   crypt:
   - count: 5
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
     grouping: 6
   - count: 5
-    name: Horde, The
+    name: The Horde
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -64,7 +64,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: Ruins of Charizel

@@ -95,7 +95,7 @@ deck:
       name: Guardian Angel
       id: 100866
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 2
       name: Perfectionist
@@ -161,7 +161,7 @@ deck:
       name: Organized Resistance
       id: 102230
     - count: 4
-      name: Warrens, The
+      name: The Warrens
       id: 102216
   - name: Combat
     count: 27

@@ -63,7 +63,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Failsafe
@@ -84,7 +84,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
   - name: Action
     count: 1
@@ -177,5 +177,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

@@ -103,10 +103,10 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Dreams of the Sphinx

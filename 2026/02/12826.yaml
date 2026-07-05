@@ -11,7 +11,7 @@ vp_comment: 1GW8.5 + 4vp in final
 forum_post_url: https://www.vekn.net/event-calendar/event/12826
 deck:
   name: Diana's Demise
-  description: You have to go back to 2021 to find a AAA vote deck in the TWDA.  
+  description: You have to go back to 2021 to find a AAA vote deck in the TWDA. 
     The time for these
   crypt_count: 13
   crypt_min: 30
@@ -98,7 +98,7 @@ deck:
       name: Papillon
       id: 101350
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
       comment: still good
     - count: 1

@@ -81,7 +81,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -120,7 +120,7 @@ deck:
       name: Graverobbing
       id: 100852
     - count: 2
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
   - name: Equipment
     count: 4

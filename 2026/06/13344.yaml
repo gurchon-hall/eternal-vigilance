@@ -74,7 +74,7 @@ deck:
       name: Camarilla Conclave
       id: 102269
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -89,7 +89,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Wider View

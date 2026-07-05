@@ -84,7 +84,7 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Revolt
@@ -126,7 +126,7 @@ deck:
       name: Underbridge Stray
       id: 102065
     - count: 2
-      name: Vozhd of Sofia, The
+      name: The Vozhd of Sofia
       id: 102267
     - count: 3
       name: War Ghoul
@@ -171,7 +171,7 @@ deck:
       name: Seduction
       id: 101712
     - count: 1
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
   - name: Action Modifier/Combat
     count: 4
@@ -201,7 +201,7 @@ deck:
       name: Deflection
       id: 100518
     - count: 1
-      name: Mole, The
+      name: The Mole
       id: 101233
     - count: 4
       name: On the Qui Vive

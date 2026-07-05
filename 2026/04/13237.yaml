@@ -76,7 +76,7 @@ deck:
       name: Body Bag
       id: 100229
     - count: 1
-      name: Book of Going Forth by Night, The
+      name: The Book of Going Forth by Night
       id: 100239
     - count: 1
       name: Bowl of Convergence
@@ -136,7 +136,7 @@ deck:
       name: Rowan Ring
       id: 101655
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
     - count: 1
       name: Seal of Veddartha
@@ -145,7 +145,7 @@ deck:
       name: Sengir Dagger
       id: 101715
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
     - count: 1
       name: Sire's Index Finger
@@ -157,7 +157,7 @@ deck:
       name: Tapestry of Blood
       id: 101936
     - count: 1
-      name: Textbook Damnation, The
+      name: The Textbook Damnation
       id: 101962
     - count: 1
       name: Veneficorum Artum Sanguis

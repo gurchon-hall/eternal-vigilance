@@ -82,7 +82,7 @@ deck:
     count: 17
     cards:
     - count: 5
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Carfax Abbey
@@ -127,7 +127,7 @@ deck:
       name: Living Manse
       id: 101114
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Political Action
     count: 2

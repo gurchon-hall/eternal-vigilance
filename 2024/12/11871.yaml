@@ -122,13 +122,13 @@ deck:
       name: Bleeding the Vine
       id: 100178
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Fetish Club Hunting Ground
       id: 100724
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 2
       name: Life Boon
@@ -152,7 +152,7 @@ deck:
       name: Art Scam
       id: 100099
     - count: 5
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 2
       name: Enchant Kindred
@@ -209,5 +209,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057

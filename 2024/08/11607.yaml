@@ -41,7 +41,7 @@ deck:
     clan: Nosferatu
     grouping: 6
   - count: 2
-    name: Dowager, The
+    name: The Dowager
     id: 201545
     capacity: 6
     disciplines: aus pot ANI OBF
@@ -67,10 +67,10 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Slum Hunting Ground

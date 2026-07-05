@@ -51,7 +51,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: Redeem the Lost Soul
@@ -144,7 +144,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163
     - count: 1
       name: Narrow Minds

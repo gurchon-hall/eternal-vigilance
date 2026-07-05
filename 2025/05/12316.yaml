@@ -64,7 +64,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Blood Doll

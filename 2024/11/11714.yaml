@@ -81,7 +81,7 @@ deck:
     count: 11
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Effective Management
@@ -102,7 +102,7 @@ deck:
       name: 'Powerbase: Savannah'
       id: 101442
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Vessel
@@ -177,5 +177,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163

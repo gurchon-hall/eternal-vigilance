@@ -17,7 +17,7 @@ deck:
   crypt_avg: 11.0
   crypt:
   - count: 4
-    name: Lucian, The Perfect
+    name: Lucian, the Perfect
     id: 200871
     capacity: 11
     disciplines: ANI AUS DOM OBF POT PRE
@@ -120,7 +120,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163
     - count: 1
       name: Narrow Minds

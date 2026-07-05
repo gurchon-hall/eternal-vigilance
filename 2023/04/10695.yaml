@@ -89,7 +89,7 @@ deck:
     count: 11
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Club Illusion
@@ -113,7 +113,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Rötschreck
@@ -128,7 +128,7 @@ deck:
       name: Constant Revolution
       id: 100416
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
       comment: Another Constant Revolution might be better
     - count: 9

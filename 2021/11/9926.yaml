@@ -88,7 +88,7 @@ deck:
       name: Haven Uncovered
       id: 100897
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 16
       name: Potence
@@ -163,5 +163,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057

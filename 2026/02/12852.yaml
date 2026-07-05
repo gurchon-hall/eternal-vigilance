@@ -96,7 +96,7 @@ deck:
       name: Corporate Hunting Ground
       id: 100426
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Dreams of the Sphinx
@@ -108,7 +108,7 @@ deck:
       name: KRCG News Radio
       id: 101067
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'

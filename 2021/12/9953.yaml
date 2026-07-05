@@ -73,7 +73,7 @@ deck:
     count: 14
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Blood Doll
@@ -199,6 +199,6 @@ deck:
       id: 100709
       comment: so critical against the Fortitude vampires I encountered
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
       comment: this card is broken

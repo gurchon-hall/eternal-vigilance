@@ -116,7 +116,7 @@ deck:
     count: 25
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -134,7 +134,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Garibaldi-Meucci Museum

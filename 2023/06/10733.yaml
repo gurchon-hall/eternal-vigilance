@@ -85,13 +85,13 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Blood Doll
       id: 100199
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Fear of Mekhet
@@ -217,5 +217,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057

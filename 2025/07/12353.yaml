@@ -93,7 +93,7 @@ deck:
       name: Bleeding the Vine
       id: 100178
     - count: 6
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Club Illusion
@@ -129,7 +129,7 @@ deck:
     count: 15
     cards:
     - count: 5
-      name: Anarch Manifesto, An
+      name: An Anarch Manifesto
       id: 100053
     - count: 1
       name: Blood Tears of Kephran
@@ -156,7 +156,7 @@ deck:
       name: Shilmulo Tarot
       id: 101767
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
     - count: 1
       name: Treasured Samadji

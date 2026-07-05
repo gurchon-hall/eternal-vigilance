@@ -62,7 +62,7 @@ deck:
     count: 44
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 6
       name: Ashur Tablets
@@ -89,7 +89,7 @@ deck:
       name: Papillon
       id: 101350
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Los Angeles'
@@ -98,7 +98,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 2
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Tension in the Ranks

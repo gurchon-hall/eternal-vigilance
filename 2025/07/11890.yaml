@@ -19,7 +19,7 @@ deck:
   crypt_avg: 6.83
   crypt:
   - count: 2
-    name: Arcadian, The
+    name: The Arcadian
     id: 200127
     capacity: 8
     disciplines: chi for DOM MYT OBT
@@ -71,7 +71,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Dark Influences
@@ -98,7 +98,7 @@ deck:
       name: Momentum's Edge
       id: 101237
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Vessel
@@ -140,7 +140,7 @@ deck:
       name: Shroud of Absence
       id: 101774
     - count: 2
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
     - count: 3
       name: Stone Travel
@@ -185,13 +185,13 @@ deck:
     count: 5
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163
     - count: 1
       name: Nightmares upon Nightmares
       id: 101285
     - count: 1
-      name: Rising, The
+      name: The Rising
       id: 101640
     - count: 1
       name: Thirst

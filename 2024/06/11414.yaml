@@ -127,7 +127,7 @@ deck:
       name: Field Training
       id: 100725
     - count: 2
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 2
       name: Public Trust
@@ -196,7 +196,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163
     - count: 1
       name: Narrow Minds

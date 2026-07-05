@@ -70,7 +70,7 @@ deck:
       name: Asylum Hunting Ground
       id: 100108
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 3
       name: Blood Doll
@@ -94,7 +94,7 @@ deck:
     count: 17
     cards:
     - count: 2
-      name: Call, The
+      name: The Call
       id: 100278
     - count: 15
       name: Kindred Spirits

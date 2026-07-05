@@ -67,12 +67,12 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
       comment: can be used during the discard phase and you can shuffle back the
         discarded card with Rachel Special
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Direct Intervention
@@ -97,7 +97,7 @@ deck:
       name: Perfectionist
       id: 101388
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Vessel

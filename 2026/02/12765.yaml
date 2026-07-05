@@ -81,7 +81,7 @@ deck:
       name: Charisma
       id: 100332
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Direct Intervention
@@ -162,5 +162,5 @@ deck:
       name: Scourge of the Enochians
       id: 101697
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

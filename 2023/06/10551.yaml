@@ -103,7 +103,7 @@ deck:
       name: Agent of Power
       id: 100025
     - count: 5
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Direct Intervention
@@ -178,7 +178,7 @@ deck:
       name: Ritual Goblet
       id: 102243
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
     - count: 8
       name: Vial of Elder Vitae
@@ -235,5 +235,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

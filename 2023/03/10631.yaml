@@ -83,7 +83,7 @@ deck:
     count: 20
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -101,7 +101,7 @@ deck:
       name: Life Boon
       id: 101103
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Los Angeles'
@@ -110,7 +110,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Rötschreck

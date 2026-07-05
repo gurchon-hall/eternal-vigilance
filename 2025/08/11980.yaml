@@ -63,7 +63,7 @@ deck:
       name: Asylum Hunting Ground
       id: 100108
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Carfax Abbey
@@ -78,7 +78,7 @@ deck:
       name: Garibaldi-Meucci Museum
       id: 100809
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Secure Haven

@@ -120,7 +120,7 @@ deck:
     count: 27
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Revolt
@@ -138,7 +138,7 @@ deck:
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Garibaldi-Meucci Museum
@@ -153,7 +153,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
@@ -225,5 +225,5 @@ deck:
       name: Scourge of the Enochians
       id: 101697
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807

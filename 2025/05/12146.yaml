@@ -91,7 +91,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Club Illusion
@@ -112,7 +112,7 @@ deck:
       name: Fragment of the Book of Nod
       id: 100785
     - count: 1
-      name: Marrakesh Codex, The
+      name: The Marrakesh Codex
       id: 101172
     - count: 2
       name: Wash

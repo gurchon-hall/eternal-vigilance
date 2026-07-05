@@ -100,7 +100,7 @@ deck:
       name: Opium Den
       id: 101326
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
       comment: still good
     - count: 1
@@ -122,7 +122,7 @@ deck:
       name: Heart of the City
       id: 100904
     - count: 10
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
       comment: this card is sooo good
   - name: Ally

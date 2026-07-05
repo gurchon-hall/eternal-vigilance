@@ -17,7 +17,7 @@ deck:
   crypt_avg: 6.08
   crypt:
   - count: 5
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -86,7 +86,7 @@ deck:
       name: 'Golconda: Inner Peace'
       id: 100842
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Rötschreck
@@ -113,7 +113,7 @@ deck:
       name: Illegalism
       id: 100952
     - count: 9
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 3
       name: Unleash Hell's Fury

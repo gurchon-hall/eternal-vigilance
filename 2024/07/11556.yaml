@@ -98,7 +98,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Creepshow Casino
@@ -116,7 +116,7 @@ deck:
       name: Papillon
       id: 101350
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Uptown Hunting Ground
@@ -167,7 +167,7 @@ deck:
       name: Freak Drive
       id: 100788
     - count: 2
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
       id: 101062
     - count: 4
       name: Seduction

@@ -73,7 +73,7 @@ deck:
     count: 28
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 10
       name: Corporal Reservoir

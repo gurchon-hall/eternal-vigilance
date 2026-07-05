@@ -87,7 +87,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 12
       name: Dementation
@@ -105,13 +105,13 @@ deck:
       name: Obfuscate
       id: 101310
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
   - name: Action
     count: 25
     cards:
     - count: 3
-      name: Becoming, The
+      name: The Becoming
       id: 100147
     - count: 4
       name: Dive into Madness

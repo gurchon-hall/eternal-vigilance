@@ -81,7 +81,7 @@ deck:
       name: Perfectionist
       id: 101388
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Tabriz Assembly
@@ -111,7 +111,7 @@ deck:
       name: Harass
       id: 100886
     - count: 1
-      name: Path of the Scorched Heart, The
+      name: The Path of the Scorched Heart
       id: 101371
     - count: 7
       name: Summon History
@@ -135,7 +135,7 @@ deck:
     count: 4
     cards:
     - count: 1
-      name: Book of Going Forth by Night, The
+      name: The Book of Going Forth by Night
       id: 100239
     - count: 1
       name: Eye of Hazimel
@@ -144,7 +144,7 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Action Modifier
     count: 14

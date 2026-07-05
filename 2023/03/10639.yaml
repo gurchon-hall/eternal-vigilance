@@ -58,10 +58,10 @@ deck:
     count: 13
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Dreams of the Sphinx
@@ -76,10 +76,10 @@ deck:
       name: Libertas
       id: 101100
     - count: 3
-      name: Path of Paradox, The
+      name: The Path of Paradox
       id: 101366
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Secure Haven

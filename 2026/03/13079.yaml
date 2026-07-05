@@ -100,13 +100,13 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 8
       name: Piper
       id: 101401
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
@@ -133,16 +133,16 @@ deck:
       name: Vagabond Mystic
       id: 102087
     - count: 1
-      name: Vozhd of Gravesend, The
+      name: The Vozhd of Gravesend
       id: 102363
     - count: 1
-      name: Vozhd of Juiz de Fora, The
+      name: The Vozhd of Juiz de Fora
       id: 102364
     - count: 1
-      name: Vozhd of Sofia, The
+      name: The Vozhd of Sofia
       id: 102267
     - count: 1
-      name: Vozhd of Szczecin, The
+      name: The Vozhd of Szczecin
       id: 102365
     - count: 3
       name: War Ghoul
@@ -205,5 +205,5 @@ deck:
       name: Dragonbound
       id: 100581
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

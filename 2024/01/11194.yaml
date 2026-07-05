@@ -90,7 +90,7 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -111,7 +111,7 @@ deck:
       name: Ennoia's Theater
       id: 100646
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 3
       name: Rötschreck

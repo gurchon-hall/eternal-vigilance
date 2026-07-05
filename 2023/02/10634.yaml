@@ -133,7 +133,7 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Anarch Manifesto, An
+      name: An Anarch Manifesto
       id: 100053
   - name: Action Modifier
     count: 8

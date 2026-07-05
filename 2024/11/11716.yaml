@@ -96,10 +96,10 @@ deck:
       name: Papillon
       id: 101350
     - count: 2
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
-      name: Rumor Mill, Tabloid Newspaper, The
+      name: The Rumor Mill, Tabloid Newspaper
       id: 101662
     - count: 3
       name: Vessel

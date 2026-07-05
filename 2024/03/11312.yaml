@@ -98,13 +98,13 @@ deck:
       id: 100866
       comment: gold in the current meta; might try to work in another copy
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
@@ -150,7 +150,7 @@ deck:
       id: 100001
       comment: could drop one or both; not used
     - count: 1
-      name: Ankara Citadel, Turkey, The
+      name: The Ankara Citadel, Turkey
       id: 100071
       comment: should be another Govern
     - count: 1

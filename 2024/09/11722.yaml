@@ -86,13 +86,13 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 1
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Slum Hunting Ground
@@ -155,7 +155,7 @@ deck:
       name: 'Second Tradition: Domain'
       id: 101706
     - count: 4
-      name: Warrens, The
+      name: The Warrens
       id: 102216
   - name: Combat
     count: 33

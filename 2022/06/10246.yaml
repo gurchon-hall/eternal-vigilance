@@ -17,7 +17,7 @@ deck:
   crypt_avg: 6.31
   crypt:
   - count: 4
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -80,7 +80,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -128,7 +128,7 @@ deck:
       name: Illegalism
       id: 100952
     - count: 7
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 1
       name: Unleash Hell's Fury

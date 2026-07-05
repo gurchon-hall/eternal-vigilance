@@ -92,7 +92,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Club Illusion
@@ -110,13 +110,13 @@ deck:
       name: Garibaldi-Meucci Museum
       id: 100809
     - count: 1
-      name: Marrakesh Codex, The
+      name: The Marrakesh Codex
       id: 101172
     - count: 1
       name: Park Hunting Ground
       id: 101354
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Secure Haven
@@ -146,7 +146,7 @@ deck:
     count: 3
     cards:
     - count: 1
-      name: Anarch Manifesto, An
+      name: An Anarch Manifesto
       id: 100053
     - count: 1
       name: Shilmulo Tarot

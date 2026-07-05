@@ -68,7 +68,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 6
       name: Villein
@@ -89,7 +89,7 @@ deck:
     count: 4
     cards:
     - count: 1
-      name: Ankara Citadel, Turkey, The
+      name: The Ankara Citadel, Turkey
       id: 100071
     - count: 1
       name: Bowl of Convergence
@@ -98,7 +98,7 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Action Modifier
     count: 16

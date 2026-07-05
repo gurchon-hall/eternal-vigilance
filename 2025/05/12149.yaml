@@ -113,7 +113,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Perfectionist
@@ -224,5 +224,5 @@ deck:
       name: Scourge of the Enochians
       id: 101697
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

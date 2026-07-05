@@ -101,7 +101,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
       comment: used to steal Carlton Van Wyk in round 1
     - count: 1
@@ -111,7 +111,7 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 1
       name: Jake Washington
@@ -120,7 +120,7 @@ deck:
       name: Palla Grande
       id: 101346
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Barranquilla'
@@ -129,7 +129,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch

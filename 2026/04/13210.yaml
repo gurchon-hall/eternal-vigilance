@@ -109,7 +109,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -124,7 +124,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Garibaldi-Meucci Museum
@@ -133,7 +133,7 @@ deck:
       name: Hackerspace
       id: 100876
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
@@ -157,7 +157,7 @@ deck:
       name: Creeping Sabotage
       id: 102213
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
   - name: Equipment
     count: 6

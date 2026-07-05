@@ -96,13 +96,13 @@ deck:
       name: Not to Be
       id: 101303
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: Secure Haven
       id: 101711
     - count: 2
-      name: Shard, London, The
+      name: The Shard, London
       id: 102244
     - count: 1
       name: Society of Leopold
@@ -204,10 +204,10 @@ deck:
       name: Restricted Vitae
       id: 101614
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
     - count: 1
       name: Veil of Darkness

@@ -76,7 +76,7 @@ deck:
       name: Angel of Berlin
       id: 100067
     - count: 2
-      name: Church of Vindicated Faith, The
+      name: The Church of Vindicated Faith
       id: 100348
     - count: 1
       name: Direct Intervention
@@ -88,7 +88,7 @@ deck:
       name: Fortschritt Library
       id: 100775
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Smiling Jack, The Anarch
@@ -127,7 +127,7 @@ deck:
       name: .44 Magnum
       id: 100001
     - count: 1
-      name: Crusader Sword, The
+      name: The Crusader Sword
       id: 100474
     - count: 1
       name: Flak Jacket
@@ -190,7 +190,7 @@ deck:
       name: NRA PAC
       id: 101305
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
     - count: 1
       name: Veil of Darkness

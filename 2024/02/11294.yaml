@@ -18,14 +18,14 @@ deck:
   crypt_avg: 5.42
   crypt:
   - count: 5
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
     grouping: 6
   - count: 4
-    name: Horde, The
+    name: The Horde
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -50,7 +50,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -68,7 +68,7 @@ deck:
       name: Obfuscate
       id: 101310
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 3
       name: Perfectionist

@@ -64,7 +64,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 12
       name: Brujah Debate
@@ -73,7 +73,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Libertas
@@ -85,7 +85,7 @@ deck:
       name: Oxford University, England
       id: 101341
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Los Angeles'

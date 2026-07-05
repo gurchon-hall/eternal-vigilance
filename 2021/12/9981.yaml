@@ -18,7 +18,7 @@ deck:
   crypt_avg: 5.33
   crypt:
   - count: 4
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -39,7 +39,7 @@ deck:
     clan: Baali
     grouping: 6
   - count: 2
-    name: Horde, The
+    name: The Horde
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -54,7 +54,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -66,7 +66,7 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: Perfectionist
@@ -84,7 +84,7 @@ deck:
       name: Illegalism
       id: 100952
     - count: 1
-      name: Summoning, The
+      name: The Summoning
       id: 101902
     - count: 2
       name: Unleash Hell's Fury

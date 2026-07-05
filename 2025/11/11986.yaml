@@ -18,7 +18,7 @@ deck:
   crypt_avg: 5.33
   crypt:
   - count: 4
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -113,7 +113,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 14
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 3
       name: Unleash Hell's Fury
@@ -182,7 +182,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163
     - count: 1
       name: Narrow Minds

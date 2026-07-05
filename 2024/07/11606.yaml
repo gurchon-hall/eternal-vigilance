@@ -41,7 +41,7 @@ deck:
     clan: Nosferatu
     grouping: 6
   - count: 3
-    name: Medic, The
+    name: The Medic
     id: 200968
     capacity: 6
     disciplines: dem for OBF POT
@@ -53,7 +53,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -62,7 +62,7 @@ deck:
       name: Hackerspace
       id: 100876
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 1
       name: 'Powerbase: Los Angeles'
@@ -149,7 +149,7 @@ deck:
       name: Protection Racket
       id: 101501
     - count: 5
-      name: Warrens, The
+      name: The Warrens
       id: 102216
   - name: Combat
     count: 7

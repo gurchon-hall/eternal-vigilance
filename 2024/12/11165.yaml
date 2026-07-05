@@ -17,7 +17,7 @@ deck:
   crypt_avg: 5.58
   crypt:
   - count: 7
-    name: Horde, The
+    name: The Horde
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -57,7 +57,7 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: Ruins of Charizel
@@ -132,7 +132,7 @@ deck:
       name: I am Legion
       id: 100947
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
       id: 101062
     - count: 4
       name: Lost in Crowds

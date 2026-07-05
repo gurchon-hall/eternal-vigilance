@@ -133,7 +133,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Call, The
+      name: The Call
       id: 100278
     - count: 1
       name: Derange

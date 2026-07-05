@@ -99,7 +99,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Giant's Blood
@@ -114,7 +114,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
@@ -132,7 +132,7 @@ deck:
     count: 11
     cards:
     - count: 4
-      name: Gate of Acheron, The
+      name: The Gate of Acheron
       id: 102290
     - count: 7
       name: Shroud of Decay

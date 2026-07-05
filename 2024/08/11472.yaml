@@ -104,10 +104,10 @@ deck:
       name: Liquidation
       id: 101112
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 2
-      name: Shard, London, The
+      name: The Shard, London
       id: 102244
       comment: terrible interpretation IMO, but play as ruled.
     - count: 1
@@ -164,6 +164,6 @@ deck:
     count: 3
     cards:
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
       comment: yeah, this does a thing and still deserves a nerf

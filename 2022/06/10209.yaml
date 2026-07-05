@@ -17,7 +17,7 @@ deck:
   crypt_avg: 7.0
   crypt:
   - count: 4
-    name: Arcadian, The
+    name: The Arcadian
     id: 200127
     capacity: 8
     disciplines: chi for DOM MYT OBT
@@ -75,7 +75,7 @@ deck:
       name: Great Symposium
       id: 100853
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 2
       name: Perfectionist
@@ -156,7 +156,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163
     - count: 1
       name: Narrow Minds

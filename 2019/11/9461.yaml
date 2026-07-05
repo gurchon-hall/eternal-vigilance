@@ -105,10 +105,10 @@ deck:
       name: Millicent Smith, Puritan Vampire Hunter
       id: 101210
     - count: 5
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Secure Haven
@@ -207,8 +207,8 @@ deck:
       name: Narrow Minds
       id: 101265
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

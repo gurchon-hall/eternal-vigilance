@@ -101,7 +101,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Blood Doll
@@ -113,7 +113,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Garibaldi-Meucci Museum

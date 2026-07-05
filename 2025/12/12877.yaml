@@ -84,7 +84,7 @@ deck:
       name: Perfectionist
       id: 101388
     - count: 2
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Tabriz Assembly
@@ -105,7 +105,7 @@ deck:
       name: Summon History
       id: 101897
     - count: 3
-      name: Summoning, The
+      name: The Summoning
       id: 101902
   - name: Ally
     count: 7
@@ -135,13 +135,13 @@ deck:
     count: 9
     cards:
     - count: 1
-      name: Ankara Citadel, Turkey, The
+      name: The Ankara Citadel, Turkey
       id: 100071
     - count: 3
       name: Heart of Nizchetus
       id: 100903
     - count: 2
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
     - count: 3
       name: Starshell Grenade Launcher
@@ -177,5 +177,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

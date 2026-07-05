@@ -86,7 +86,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -98,13 +98,13 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
   - name: Action
     count: 21
     cards:
     - count: 7
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 2
       name: Gear Up
@@ -161,5 +161,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

@@ -104,7 +104,7 @@ deck:
       name: Minion Tap
       id: 101217
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 3
       name: Piper
@@ -164,7 +164,7 @@ deck:
       name: Freak Drive
       id: 100788
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
       id: 101062
     - count: 1
       name: Monkey Wrench
@@ -218,5 +218,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

@@ -72,10 +72,10 @@ deck:
       name: Blood Buff
       id: 100196
     - count: 5
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 3
       name: Effective Management

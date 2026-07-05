@@ -93,7 +93,7 @@ deck:
       name: Conniver
       id: 100407
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Dreams of the Sphinx
@@ -132,7 +132,7 @@ deck:
     count: 7
     cards:
     - count: 1
-      name: Anarch Manifesto, An
+      name: An Anarch Manifesto
       id: 100053
     - count: 1
       name: Heart of Nizchetus

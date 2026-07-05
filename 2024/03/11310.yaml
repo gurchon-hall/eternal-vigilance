@@ -76,7 +76,7 @@ deck:
       name: Obfuscate
       id: 101310
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 7
       name: Villein
@@ -103,7 +103,7 @@ deck:
       name: Helicopter
       id: 100909
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
   - name: Political Action
     count: 14

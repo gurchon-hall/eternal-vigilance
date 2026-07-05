@@ -72,7 +72,7 @@ deck:
     count: 16
     cards:
     - count: 6
-      name: Eternals of Sirius, The
+      name: The Eternals of Sirius
       id: 100667
     - count: 1
       name: Fame
@@ -87,7 +87,7 @@ deck:
       name: Opium Den
       id: 101326
     - count: 2
-      name: Path of Typhon, The
+      name: The Path of Typhon
       id: 101373
     - count: 4
       name: Villein

@@ -120,7 +120,7 @@ deck:
       name: Magic of the Smith
       id: 101143
     - count: 3
-      name: Summoning, The
+      name: The Summoning
       id: 101902
   - name: Ally
     count: 9
@@ -144,10 +144,10 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Action Modifier
     count: 11
@@ -180,5 +180,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

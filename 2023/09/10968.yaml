@@ -67,7 +67,7 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -82,16 +82,16 @@ deck:
       name: Haven Uncovered
       id: 100897
     - count: 1
-      name: Marrakesh Codex, The
+      name: The Marrakesh Codex
       id: 101172
     - count: 1
       name: Papillon
       id: 101350
     - count: 1
-      name: Path of Lilith, The
+      name: The Path of Lilith
       id: 101363
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Tension in the Ranks
@@ -154,7 +154,7 @@ deck:
       name: Palatial Estate
       id: 101345
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
   - name: Reaction
     count: 19

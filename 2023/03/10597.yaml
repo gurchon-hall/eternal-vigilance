@@ -117,10 +117,10 @@ deck:
       name: Not to Be
       id: 101303
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Smiling Jack, The Anarch
@@ -207,8 +207,8 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

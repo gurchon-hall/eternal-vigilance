@@ -119,7 +119,7 @@ deck:
     count: 27
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Troublemaker
@@ -139,7 +139,7 @@ deck:
       id: 100493
       comment: a great defensive card
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
       comment: a last-minute addition, allowed me to oust to preys with their 
         own bleed cards

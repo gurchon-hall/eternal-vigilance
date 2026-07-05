@@ -76,7 +76,7 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Creepshow Casino
@@ -97,7 +97,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 5
       name: Villein

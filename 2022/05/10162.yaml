@@ -41,7 +41,7 @@ deck:
     clan: Nosferatu
     grouping: 6
   - count: 2
-    name: Medic, The
+    name: The Medic
     id: 200968
     capacity: 6
     disciplines: dem for OBF POT
@@ -53,7 +53,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -65,7 +65,7 @@ deck:
       name: Garibaldi-Meucci Museum
       id: 100809
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 1
       name: 'Powerbase: Montreal'
@@ -74,7 +74,7 @@ deck:
       name: Protected Resources
       id: 101500
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch

@@ -94,7 +94,7 @@ deck:
     count: 26
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -106,7 +106,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Dreams of the Sphinx
@@ -127,7 +127,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 3
       name: Vessel

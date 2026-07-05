@@ -83,7 +83,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Blood Doll
@@ -116,16 +116,16 @@ deck:
       name: Necromancy
       id: 101267
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Cape Verde'
       id: 101433
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Vessel
@@ -200,7 +200,7 @@ deck:
       name: Seduction
       id: 101712
     - count: 1
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
   - name: Action Modifier/Combat
     count: 1

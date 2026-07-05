@@ -18,7 +18,7 @@ deck:
   crypt_avg: 5.92
   crypt:
   - count: 4
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -113,7 +113,7 @@ deck:
       name: Illegalism
       id: 100952
     - count: 7
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 2
       name: Unleash Hell's Fury

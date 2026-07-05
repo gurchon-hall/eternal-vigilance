@@ -88,7 +88,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 2
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -109,7 +109,7 @@ deck:
       name: Madness Network
       id: 101139
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Sudden Reversal

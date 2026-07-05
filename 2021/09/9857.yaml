@@ -78,13 +78,13 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Fragment of the Book of Nod
@@ -96,13 +96,13 @@ deck:
       name: Guardian Angel
       id: 100866
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
@@ -150,7 +150,7 @@ deck:
       name: Call of the Hungry Dead
       id: 100279
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
       id: 101062
     - count: 2
       name: Trochomancy
@@ -204,5 +204,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

@@ -18,7 +18,7 @@ deck:
   crypt_avg: 6.58
   crypt:
   - count: 6
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -75,7 +75,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -90,7 +90,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Perfectionist
@@ -147,7 +147,7 @@ deck:
       name: Learjet
       id: 101080
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Retainer
     count: 2
@@ -207,7 +207,7 @@ deck:
       name: Nightmares upon Nightmares
       id: 101285
     - count: 2
-      name: Rising, The
+      name: The Rising
       id: 101640
     - count: 1
       name: Thirst

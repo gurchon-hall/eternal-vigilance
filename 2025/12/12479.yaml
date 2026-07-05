@@ -98,7 +98,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Direct Intervention

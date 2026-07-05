@@ -85,7 +85,7 @@ deck:
       name: Anarch Railroad
       id: 100054
     - count: 5
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Carfax Abbey
@@ -106,7 +106,7 @@ deck:
       name: Papillon
       id: 101350
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 5
       name: Villein
@@ -145,7 +145,7 @@ deck:
       name: Palatial Estate
       id: 101345
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Political Action
     count: 1

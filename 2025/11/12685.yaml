@@ -90,13 +90,13 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Gird Minions
       id: 100831
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 8
       name: Ravnos Carnival
@@ -111,7 +111,7 @@ deck:
     count: 30
     cards:
     - count: 15
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 15
       name: Mozambique Allure
@@ -132,5 +132,5 @@ deck:
     count: 7
     cards:
     - count: 7
-      name: Eldest Are Kholo, The
+      name: The Eldest Are Kholo
       id: 100622

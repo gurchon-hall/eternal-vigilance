@@ -94,10 +94,10 @@ deck:
       name: Liquidation
       id: 101112
     - count: 7
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 2
-      name: Shard, London, The
+      name: The Shard, London
       id: 102244
     - count: 1
       name: Wider View
@@ -172,5 +172,5 @@ deck:
       name: Scourge of the Enochians
       id: 101697
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

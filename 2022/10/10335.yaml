@@ -80,7 +80,7 @@ deck:
     count: 26
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Dark Influences
@@ -101,7 +101,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 7
       name: Villein

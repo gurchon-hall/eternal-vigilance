@@ -65,7 +65,7 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 4
       name: Blood Doll
@@ -149,7 +149,7 @@ deck:
       name: Seduction
       id: 101712
     - count: 2
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
   - name: Action Modifier/Reaction
     count: 3

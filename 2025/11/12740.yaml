@@ -52,7 +52,7 @@ deck:
     clan: Malkavian antitribu
     grouping: 4
   - count: 1
-    name: Colonel, The
+    name: The Colonel
     id: 200287
     capacity: 5
     disciplines: cel dem obf AUS
@@ -127,7 +127,7 @@ deck:
       name: Antediluvian Awakening
       id: 100073
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 3
       name: Dementation
@@ -139,7 +139,7 @@ deck:
       name: Misdirection
       id: 101225
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Vessel
@@ -208,5 +208,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163

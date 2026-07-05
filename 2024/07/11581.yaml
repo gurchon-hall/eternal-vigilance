@@ -19,7 +19,7 @@ deck:
   crypt_avg: 3.33
   crypt:
   - count: 11
-    name: Horde, The
+    name: The Horde
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -47,7 +47,7 @@ deck:
       name: Millicent Smith, Puritan Vampire Hunter
       id: 101210
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: Rötschreck
@@ -131,10 +131,10 @@ deck:
       name: Restricted Vitae
       id: 101614
     - count: 1
-      name: Rising, The
+      name: The Rising
       id: 101640
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807
     - count: 1
       name: Torpid Blood

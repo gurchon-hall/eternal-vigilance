@@ -73,7 +73,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Blind Spot
@@ -82,7 +82,7 @@ deck:
       name: Centralized Background Check
       id: 100315
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -118,10 +118,10 @@ deck:
       name: Morgue Hunting Ground
       id: 101243
     - count: 5
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Cape Verde'

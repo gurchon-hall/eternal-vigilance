@@ -65,10 +65,10 @@ deck:
       name: Backways
       id: 100126
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Dreams of the Sphinx
@@ -116,7 +116,7 @@ deck:
       name: Seal of Veddartha
       id: 101703
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Political Action
     count: 12

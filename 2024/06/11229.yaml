@@ -121,13 +121,13 @@ deck:
       name: Ritual Goblet
       id: 102243
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
     - count: 1
       name: Seal of Veddartha
       id: 101703
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
     - count: 1
       name: Sire's Index Finger
@@ -136,7 +136,7 @@ deck:
       name: Soul Gem of Etrius
       id: 101832
     - count: 1
-      name: Textbook Damnation, The
+      name: The Textbook Damnation
       id: 101962
     - count: 1
       name: Veneficorum Artum Sanguis
@@ -163,7 +163,7 @@ deck:
       name: Perfect Clarity
       id: 101386
     - count: 1
-      name: Red Question, The
+      name: The Red Question
       id: 101575
     - count: 1
       name: Under My Skin

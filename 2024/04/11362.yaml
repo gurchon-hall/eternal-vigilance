@@ -63,7 +63,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 9
       name: Piper
@@ -102,7 +102,7 @@ deck:
       name: Vagabond Mystic
       id: 102087
     - count: 2
-      name: Vozhd of Sofia, The
+      name: The Vozhd of Sofia
       id: 102267
     - count: 5
       name: War Ghoul
@@ -147,5 +147,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

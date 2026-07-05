@@ -90,10 +90,10 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 4
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Grooming the Protégé
@@ -105,7 +105,7 @@ deck:
       name: Misdirection
       id: 101225
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Uptown Hunting Ground
@@ -165,7 +165,7 @@ deck:
       name: Seduction
       id: 101712
     - count: 3
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
   - name: Action Modifier/Combat
     count: 2
@@ -210,7 +210,7 @@ deck:
     count: 4
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163
     - count: 1
       name: Nightmares upon Nightmares

@@ -65,7 +65,7 @@ deck:
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Fame
@@ -77,13 +77,13 @@ deck:
       name: Heidelberg Castle, Germany
       id: 100908
     - count: 2
-      name: Path of Lilith, The
+      name: The Path of Lilith
       id: 101363
     - count: 1
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Smiling Jack, The Anarch

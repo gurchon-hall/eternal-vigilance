@@ -82,7 +82,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -94,7 +94,7 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Sudden Reversal
@@ -136,7 +136,7 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
     - count: 1
       name: Sniper Rifle

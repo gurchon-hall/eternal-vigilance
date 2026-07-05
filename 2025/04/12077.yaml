@@ -82,7 +82,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Direct Intervention
@@ -91,7 +91,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Giant's Blood
@@ -100,7 +100,7 @@ deck:
       name: Meditative Grove
       id: 102252
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
@@ -151,7 +151,7 @@ deck:
       name: Forced Confessional
       id: 102250
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
       id: 101062
   - name: Reaction
     count: 24

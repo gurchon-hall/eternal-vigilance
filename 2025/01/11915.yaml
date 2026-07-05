@@ -98,7 +98,7 @@ deck:
       name: Carfax Abbey
       id: 100297
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Creepshow Casino
@@ -110,7 +110,7 @@ deck:
       name: Garibaldi-Meucci Museum
       id: 100809
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Protected Resources
@@ -161,7 +161,7 @@ deck:
       name: Kine Resources Contested
       id: 101056
     - count: 1
-      name: Meddling of Semsith, The
+      name: The Meddling of Semsith
       id: 101192
     - count: 3
       name: Reckless Agitation

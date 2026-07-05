@@ -76,7 +76,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Direct Intervention
@@ -97,7 +97,7 @@ deck:
       name: Mob Connections
       id: 101229
     - count: 5
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 9
       name: Piper
@@ -139,10 +139,10 @@ deck:
       name: Vagabond Mystic
       id: 102087
     - count: 1
-      name: Vozhd of Gravesend, The
+      name: The Vozhd of Gravesend
       id: 102363
     - count: 1
-      name: Vozhd of Sofia, The
+      name: The Vozhd of Sofia
       id: 102267
     - count: 5
       name: War Ghoul
@@ -190,5 +190,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

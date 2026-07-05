@@ -90,7 +90,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Creepshow Casino
@@ -111,7 +111,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 4
       name: Protected Resources

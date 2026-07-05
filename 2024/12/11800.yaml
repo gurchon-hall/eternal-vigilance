@@ -82,7 +82,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Giant's Blood
@@ -97,7 +97,7 @@ deck:
       name: Misdirection
       id: 101225
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Vessel
@@ -142,7 +142,7 @@ deck:
       name: Seduction
       id: 101712
     - count: 3
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
   - name: Reaction
     count: 9

@@ -97,7 +97,7 @@ deck:
       name: Liquidation
       id: 101112
     - count: 5
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Munich'
@@ -178,5 +178,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

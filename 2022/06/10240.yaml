@@ -19,7 +19,7 @@ deck:
   crypt_avg: 5.75
   crypt:
   - count: 2
-    name: Dowager, The
+    name: The Dowager
     id: 201545
     capacity: 6
     disciplines: aus pot ANI OBF
@@ -100,7 +100,7 @@ deck:
       name: Fame
       id: 100698
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 2
       name: Perfectionist
@@ -109,7 +109,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Vessel

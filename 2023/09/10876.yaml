@@ -72,7 +72,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Direct Intervention
@@ -90,7 +90,7 @@ deck:
       name: Liquidation
       id: 101112
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
@@ -183,5 +183,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

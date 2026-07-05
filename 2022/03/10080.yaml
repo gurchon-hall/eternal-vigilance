@@ -116,7 +116,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 2
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 10
       name: Dreams of the Sphinx
@@ -131,7 +131,7 @@ deck:
       name: Misdirection
       id: 101225
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
   - name: Action
     count: 24

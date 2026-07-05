@@ -18,7 +18,7 @@ deck:
   crypt_avg: 3.83
   crypt:
   - count: 3
-    name: Horde, The
+    name: The Horde
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -87,10 +87,10 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 5
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Protean
@@ -114,7 +114,7 @@ deck:
       name: Field Training
       id: 100725
     - count: 12
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 5
       name: Unleash Hell's Fury

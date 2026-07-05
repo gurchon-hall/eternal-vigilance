@@ -89,7 +89,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Backways
@@ -101,7 +101,7 @@ deck:
       name: Ecoterrorists
       id: 100609
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Fame
@@ -118,7 +118,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
@@ -147,7 +147,7 @@ deck:
       id: 101759
       comment: great surprise damage in late game, used it to torpor Great Beast
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
       comment: both effects are solid
     - count: 4

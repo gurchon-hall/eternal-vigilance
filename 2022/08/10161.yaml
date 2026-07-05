@@ -83,13 +83,13 @@ deck:
       name: Madness Network
       id: 101139
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 3
       name: Perfectionist
       id: 101388
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Secure Haven
@@ -197,5 +197,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057

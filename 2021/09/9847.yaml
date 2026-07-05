@@ -111,7 +111,7 @@ deck:
       id: 101112
       comment: key pool gain function and more wraiths.
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
       comment: still good, basically won the final.
     - count: 3
@@ -129,7 +129,7 @@ deck:
     count: 18
     cards:
     - count: 4
-      name: Embrace, The
+      name: The Embrace
       id: 100633
       comment: even better now that sect inheritance is a thing
     - count: 9
@@ -215,6 +215,6 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
       comment: greatly increases win ratios

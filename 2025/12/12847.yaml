@@ -26,7 +26,7 @@ deck:
     clan: Nosferatu
     grouping: 5
   - count: 3
-    name: Dowager, The
+    name: The Dowager
     id: 201545
     capacity: 6
     disciplines: aus pot ANI OBF
@@ -61,10 +61,10 @@ deck:
       name: Fame
       id: 100698
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Slum Hunting Ground
@@ -121,7 +121,7 @@ deck:
       name: Protected District
       id: 102214
     - count: 2
-      name: Warrens, The
+      name: The Warrens
       id: 102216
   - name: Combat
     count: 28

@@ -88,7 +88,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Carver's Meat Packing and Storage
@@ -115,7 +115,7 @@ deck:
       name: Morgue Hunting Ground
       id: 101243
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Cape Verde'

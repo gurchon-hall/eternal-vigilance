@@ -82,7 +82,7 @@ deck:
     count: 24
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 8
       name: Brujah Debate
@@ -97,13 +97,13 @@ deck:
       name: Life Boon
       id: 101103
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Smiling Jack, The Anarch

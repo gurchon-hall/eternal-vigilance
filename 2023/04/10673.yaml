@@ -73,7 +73,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Charisma
@@ -109,10 +109,10 @@ deck:
       name: Morgue Hunting Ground
       id: 101243
     - count: 5
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Perfectionist
@@ -217,5 +217,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

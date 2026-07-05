@@ -76,7 +76,7 @@ deck:
       name: Fragment of the Book of Nod
       id: 100785
     - count: 1
-      name: Marrakesh Codex, The
+      name: The Marrakesh Codex
       id: 101172
     - count: 1
       name: Obfuscate
@@ -103,7 +103,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 1
-      name: Path of the Scorched Heart, The
+      name: The Path of the Scorched Heart
       id: 101371
     - count: 8
       name: Summon History
@@ -145,7 +145,7 @@ deck:
       name: Kevlar Vest
       id: 101040
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
     - count: 1
       name: Saturday-Night Special
@@ -190,5 +190,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

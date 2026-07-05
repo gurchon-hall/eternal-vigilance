@@ -86,7 +86,7 @@ deck:
       name: Papillon
       id: 101350
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
@@ -95,7 +95,7 @@ deck:
       name: Priority Contract
       id: 101487
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 5
       name: Villein

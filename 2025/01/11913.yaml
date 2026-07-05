@@ -95,7 +95,7 @@ deck:
       name: Papillon
       id: 101350
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 2
       name: Protected Resources
@@ -122,7 +122,7 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
   - name: Political Action
     count: 18

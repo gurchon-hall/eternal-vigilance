@@ -54,7 +54,7 @@ deck:
       name: Blood Doll
       id: 100199
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Dreams of the Sphinx
@@ -75,7 +75,7 @@ deck:
       name: Perfectionist
       id: 101388
     - count: 4
-      name: Slaughterhouse, The
+      name: The Slaughterhouse
       id: 101800
   - name: Equipment
     count: 4

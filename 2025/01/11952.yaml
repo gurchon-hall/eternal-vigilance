@@ -70,7 +70,7 @@ deck:
     clan: Tzimisce
     grouping: 3
   - count: 1
-    name: Rose, The
+    name: The Rose
     id: 201205
     capacity: 5
     disciplines: aus PRE VIC
@@ -89,10 +89,10 @@ deck:
     count: 16
     cards:
     - count: 6
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Filchware's Pawn Shop

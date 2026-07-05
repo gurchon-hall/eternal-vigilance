@@ -95,7 +95,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Dreams of the Sphinx
@@ -110,7 +110,7 @@ deck:
       name: Insurance Scam
       id: 100997
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 7
       name: 'Powerbase: Montreal'

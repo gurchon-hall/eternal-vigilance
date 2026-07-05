@@ -94,10 +94,10 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -124,10 +124,10 @@ deck:
       name: Misdirection
       id: 101225
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Wash

@@ -88,7 +88,7 @@ deck:
       name: Effective Management
       id: 100616
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Sudden Reversal
@@ -130,7 +130,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163
     - count: 1
       name: Narrow Minds

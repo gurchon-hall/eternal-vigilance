@@ -91,7 +91,7 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 2
       name: Blood Doll
@@ -133,7 +133,7 @@ deck:
       name: Deep Song
       id: 100515
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
   - name: Political Action
     count: 1

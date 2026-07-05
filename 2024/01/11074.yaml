@@ -34,7 +34,7 @@ deck:
     clan: Nosferatu
     grouping: 6
   - count: 2
-    name: Dowager, The
+    name: The Dowager
     id: 201545
     capacity: 6
     disciplines: aus pot ANI OBF
@@ -68,7 +68,7 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 5
       name: Blood Doll
@@ -77,7 +77,7 @@ deck:
       name: Direct Intervention
       id: 100545
     - count: 2
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 1
       name: 'Powerbase: Montreal'
@@ -146,7 +146,7 @@ deck:
       name: Protected District
       id: 102214
     - count: 3
-      name: Warrens, The
+      name: The Warrens
       id: 102216
   - name: Combat
     count: 29

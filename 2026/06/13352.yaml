@@ -86,7 +86,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 3
-      name: Shard, London, The
+      name: The Shard, London
       id: 102244
     - count: 2
       name: Wider View
@@ -158,5 +158,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

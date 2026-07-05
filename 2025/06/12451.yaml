@@ -105,13 +105,13 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 4
       name: Perfectionist
@@ -192,5 +192,5 @@ deck:
       name: Scourge of the Enochians
       id: 101697
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

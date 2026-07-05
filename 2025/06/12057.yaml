@@ -97,7 +97,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: Crocodile Temple, The
+      name: The Crocodile Temple
       id: 100449
     - count: 4
       name: Dabbler
@@ -133,7 +133,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 20
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
   - name: Ally
     count: 1

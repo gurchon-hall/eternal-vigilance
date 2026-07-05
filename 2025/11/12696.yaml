@@ -82,7 +82,7 @@ deck:
     count: 11
     cards:
     - count: 5
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Carfax Abbey

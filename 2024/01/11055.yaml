@@ -17,7 +17,7 @@ deck:
   crypt_avg: 5.83
   crypt:
   - count: 4
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -88,7 +88,7 @@ deck:
     count: 17
     cards:
     - count: 14
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 3
       name: Unleash Hell's Fury

@@ -59,7 +59,7 @@ deck:
     clan: Tzimisce
     grouping: 3
   - count: 1
-    name: Rose, The
+    name: The Rose
     id: 201205
     capacity: 5
     disciplines: aus PRE VIC
@@ -95,13 +95,13 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 5
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Centralized Background Check
       id: 100315
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -122,10 +122,10 @@ deck:
       name: Misdirection
       id: 101225
     - count: 1
-      name: Path of Metamorphosis, The
+      name: The Path of Metamorphosis
       id: 101364
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Rötschreck

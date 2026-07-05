@@ -68,7 +68,7 @@ deck:
       name: Asylum Hunting Ground
       id: 100108
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Dreams of the Sphinx
@@ -101,7 +101,7 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
   - name: Political Action
     count: 16

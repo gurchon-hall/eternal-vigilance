@@ -153,7 +153,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 5
       name: Dreams of the Sphinx
@@ -177,10 +177,10 @@ deck:
       name: Misdirection
       id: 101225
     - count: 5
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Wash

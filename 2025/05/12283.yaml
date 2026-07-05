@@ -82,7 +82,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -100,7 +100,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Gangrel Revel
@@ -130,7 +130,7 @@ deck:
       name: Rewilding
       id: 101632
     - count: 2
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
     - count: 12
       name: Thing

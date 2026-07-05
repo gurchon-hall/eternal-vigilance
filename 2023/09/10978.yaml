@@ -85,7 +85,7 @@ deck:
       name: Millicent Smith, Puritan Vampire Hunter
       id: 101210
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 9
       name: Piper
@@ -133,10 +133,10 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
     - count: 1
       name: Veil of Darkness

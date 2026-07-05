@@ -76,7 +76,7 @@ deck:
       name: Liquidation
       id: 101112
     - count: 7
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 2
       name: 'Powerbase: Montreal'
@@ -139,8 +139,8 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

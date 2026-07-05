@@ -18,7 +18,7 @@ deck:
   crypt_avg: 9.83
   crypt:
   - count: 5
-    name: Capuchin, The
+    name: The Capuchin
     id: 200242
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
@@ -69,7 +69,7 @@ deck:
       name: Elder Library
       id: 100620
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Giant's Blood
@@ -87,7 +87,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 5
       name: Villein

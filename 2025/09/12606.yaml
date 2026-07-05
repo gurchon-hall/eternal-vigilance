@@ -84,7 +84,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Dreams of the Sphinx
@@ -93,10 +93,10 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: Line, The
+      name: The Line
       id: 101110
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Perfectionist

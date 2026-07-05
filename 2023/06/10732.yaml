@@ -69,7 +69,7 @@ deck:
     count: 17
     cards:
     - count: 1
-      name: Black Throne, The
+      name: The Black Throne
       id: 100172
     - count: 4
       name: Blood Doll

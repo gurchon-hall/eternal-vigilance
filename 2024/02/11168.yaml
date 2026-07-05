@@ -91,7 +91,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Creepshow Casino
@@ -106,7 +106,7 @@ deck:
       name: Foundation Exhibit
       id: 100779
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 1
       name: Jake Washington
@@ -115,7 +115,7 @@ deck:
       name: Palla Grande
       id: 101346
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Sudden Reversal
@@ -130,7 +130,7 @@ deck:
       name: Art Scam
       id: 100099
     - count: 12
-      name: Embrace, The
+      name: The Embrace
       id: 100633
   - name: Political Action
     count: 12
@@ -172,5 +172,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057

@@ -86,7 +86,7 @@ deck:
       name: Anarch Railroad
       id: 100054
     - count: 4
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Carfax Abbey
@@ -104,7 +104,7 @@ deck:
       name: Papillon
       id: 101350
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
       comment: still good
     - count: 1

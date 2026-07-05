@@ -88,13 +88,13 @@ deck:
     count: 21
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 3
       name: Anarch Revolt
       id: 100055
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Blood Doll
@@ -157,7 +157,7 @@ deck:
       name: Underbridge Stray
       id: 102065
     - count: 1
-      name: Vozhd of Sofia, The
+      name: The Vozhd of Sofia
       id: 102267
     - count: 3
       name: War Ghoul
@@ -235,5 +235,5 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

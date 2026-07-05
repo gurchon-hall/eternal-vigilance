@@ -88,7 +88,7 @@ deck:
       name: 'Powerbase: Los Angeles'
       id: 101435
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 4
       name: Villein
@@ -112,7 +112,7 @@ deck:
     count: 3
     cards:
     - count: 2
-      name: Anarch Manifesto, An
+      name: An Anarch Manifesto
       id: 100053
     - count: 1
       name: Stolen Police Cruiser

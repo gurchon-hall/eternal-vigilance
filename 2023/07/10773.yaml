@@ -62,7 +62,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 3
       name: Dreams of the Sphinx

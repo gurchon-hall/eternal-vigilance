@@ -85,10 +85,10 @@ deck:
       name: Black Forest Base
       id: 100165
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 1
       name: Information Highway
@@ -106,7 +106,7 @@ deck:
     count: 8
     cards:
     - count: 8
-      name: Embrace, The
+      name: The Embrace
       id: 100633
   - name: Equipment
     count: 10

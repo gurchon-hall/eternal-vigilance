@@ -86,7 +86,7 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: Admonitions, The
+      name: The Admonitions
       id: 100023
     - count: 1
       name: Black Forest Base
@@ -104,7 +104,7 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 3
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 4
       name: Obfuscate
@@ -122,7 +122,7 @@ deck:
       name: Creation Rites
       id: 100441
     - count: 6
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 12
       name: Inside Dirt
@@ -179,5 +179,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057

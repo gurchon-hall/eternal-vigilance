@@ -77,13 +77,13 @@ deck:
       name: Asylum Hunting Ground
       id: 100108
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Giant's Blood
@@ -104,10 +104,10 @@ deck:
       name: Madness Network
       id: 101139
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
   - name: Action
     count: 10
@@ -179,5 +179,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

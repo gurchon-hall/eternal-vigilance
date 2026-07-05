@@ -17,7 +17,7 @@ deck:
   crypt_avg: 6.08
   crypt:
   - count: 4
-    name: Arcadian, The
+    name: The Arcadian
     id: 200127
     capacity: 8
     disciplines: chi for DOM MYT OBT
@@ -73,7 +73,7 @@ deck:
     count: 8
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Dreams of the Sphinx

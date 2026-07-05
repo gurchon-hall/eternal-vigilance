@@ -92,7 +92,7 @@ deck:
       name: Chantry
       id: 100329
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Dreams of the Sphinx
@@ -101,7 +101,7 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Perfectionist
@@ -155,7 +155,7 @@ deck:
       name: Banishment
       id: 100131
     - count: 1
-      name: Meddling of Semsith, The
+      name: The Meddling of Semsith
       id: 101192
   - name: Action Modifier
     count: 23

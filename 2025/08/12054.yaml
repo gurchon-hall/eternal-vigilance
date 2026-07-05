@@ -86,7 +86,7 @@ deck:
     count: 6
     cards:
     - count: 6
-      name: Call, The
+      name: The Call
       id: 100278
   - name: Political Action
     count: 15

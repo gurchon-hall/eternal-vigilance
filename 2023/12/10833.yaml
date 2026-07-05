@@ -129,7 +129,7 @@ deck:
       name: Backways
       id: 100126
     - count: 1
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Club Illusion
@@ -207,5 +207,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057

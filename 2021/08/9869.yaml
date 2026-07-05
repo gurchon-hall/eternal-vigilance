@@ -103,7 +103,7 @@ deck:
     count: 17
     cards:
     - count: 3
-      name: Ailing Spirit, The
+      name: The Ailing Spirit
       id: 100030
     - count: 1
       name: Lord of Serenity
@@ -136,7 +136,7 @@ deck:
       name: Freak Drive
       id: 100788
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
       id: 101062
     - count: 3
       name: Repulsion

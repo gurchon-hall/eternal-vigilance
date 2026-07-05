@@ -96,7 +96,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Direct Intervention
@@ -108,7 +108,7 @@ deck:
       name: Palla Grande
       id: 101346
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Barranquilla'
@@ -117,7 +117,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
@@ -138,7 +138,7 @@ deck:
       name: Art Scam
       id: 100099
     - count: 4
-      name: Embrace, The
+      name: The Embrace
       id: 100633
   - name: Ally
     count: 1

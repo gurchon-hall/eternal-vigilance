@@ -48,7 +48,7 @@ deck:
     clan: Tzimisce
     grouping: 2
   - count: 2
-    name: Rose, The
+    name: The Rose
     id: 201205
     capacity: 5
     disciplines: aus PRE VIC
@@ -99,7 +99,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 4
-      name: Summoning, The
+      name: The Summoning
       id: 101902
   - name: Ally
     count: 13

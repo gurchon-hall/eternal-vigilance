@@ -18,7 +18,7 @@ deck:
   crypt_avg: 4.67
   crypt:
   - count: 4
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -32,7 +32,7 @@ deck:
     clan: Caitiff
     grouping: ANY
   - count: 3
-    name: Horde, The
+    name: The Horde
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -90,7 +90,7 @@ deck:
       name: Contagion
       id: 100418
     - count: 6
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 3
       name: Unleash Hell's Fury

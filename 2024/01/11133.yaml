@@ -107,7 +107,7 @@ deck:
       name: Carfax Abbey
       id: 100297
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Ecoterrorists
@@ -128,7 +128,7 @@ deck:
       name: Information Highway
       id: 100984
     - count: 1
-      name: Marrakesh Codex, The
+      name: The Marrakesh Codex
       id: 101172
     - count: 1
       name: 'Powerbase: Montreal'
@@ -137,7 +137,7 @@ deck:
       name: Protean
       id: 101498
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Smiling Jack, The Anarch

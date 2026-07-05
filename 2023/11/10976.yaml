@@ -76,7 +76,7 @@ deck:
       name: Asylum Hunting Ground
       id: 100108
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Direct Intervention
@@ -97,10 +97,10 @@ deck:
       name: Madness Network
       id: 101139
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
   - name: Action
     count: 12
@@ -172,5 +172,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

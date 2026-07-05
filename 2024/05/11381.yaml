@@ -17,7 +17,7 @@ deck:
   crypt_avg: 5.5
   crypt:
   - count: 4
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -60,7 +60,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Dabbler
@@ -78,7 +78,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Perfectionist
@@ -108,7 +108,7 @@ deck:
       name: Heart of the City
       id: 100904
     - count: 7
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 6
       name: Public Trust

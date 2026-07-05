@@ -120,7 +120,7 @@ deck:
       name: Papillon
       id: 101350
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
@@ -204,7 +204,7 @@ deck:
       name: Break the Code
       id: 100248
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807
     - count: 1
       name: Thirst

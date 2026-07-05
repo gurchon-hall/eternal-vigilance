@@ -124,7 +124,7 @@ deck:
     count: 30
     cards:
     - count: 20
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 10
       name: Mozambique Allure
@@ -151,7 +151,7 @@ deck:
     count: 12
     cards:
     - count: 12
-      name: Eldest Are Kholo, The
+      name: The Eldest Are Kholo
       id: 100622
   - name: Combat
     count: 6
@@ -163,5 +163,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057

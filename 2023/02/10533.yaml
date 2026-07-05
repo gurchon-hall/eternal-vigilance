@@ -57,7 +57,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -78,7 +78,7 @@ deck:
       name: Liquidation
       id: 101112
     - count: 2
-      name: Slaughterhouse, The
+      name: The Slaughterhouse
       id: 101800
     - count: 3
       name: Vessel
@@ -174,5 +174,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

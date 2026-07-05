@@ -74,7 +74,7 @@ deck:
     count: 14
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Dreams of the Sphinx
@@ -86,13 +86,13 @@ deck:
       name: Information Highway
       id: 100984
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 1
       name: Perfectionist
       id: 101388
     - count: 1
-      name: Secret Library of Alexandria, The
+      name: The Secret Library of Alexandria
       id: 101708
     - count: 1
       name: Warsaw Station

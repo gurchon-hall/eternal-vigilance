@@ -88,7 +88,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: Mithraeum, London, The
+      name: The Mithraeum, London
       id: 102240
     - count: 2
       name: Mithraic Cultist
@@ -142,7 +142,7 @@ deck:
       name: Learjet
       id: 101080
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Political Action
     count: 5

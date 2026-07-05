@@ -87,7 +87,7 @@ deck:
       id: 100085
       comment: if you need it, you need it
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Blood Doll
@@ -96,7 +96,7 @@ deck:
       name: Carfax Abbey
       id: 100297
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Fear of Mekhet
@@ -117,7 +117,7 @@ deck:
       id: 100975
       comment: Suddened today, but generally good
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
       comment: still good
     - count: 1

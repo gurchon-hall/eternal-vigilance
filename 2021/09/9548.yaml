@@ -95,7 +95,7 @@ deck:
     count: 13
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Blood Doll
@@ -110,7 +110,7 @@ deck:
       name: Information Highway
       id: 100984
     - count: 1
-      name: Malkavian Seven Miseries, The
+      name: The Malkavian Seven Miseries
       id: 101157
     - count: 1
       name: Misdirection
@@ -128,7 +128,7 @@ deck:
       name: Dive into Madness
       id: 100562
     - count: 1
-      name: Haunting, The
+      name: The Haunting
       id: 100894
     - count: 7
       name: Kindred Spirits

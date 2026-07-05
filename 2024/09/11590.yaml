@@ -105,7 +105,7 @@ deck:
       name: Vagabond Mystic
       id: 102087
     - count: 1
-      name: Vozhd of Sofia, The
+      name: The Vozhd of Sofia
       id: 102267
     - count: 6
       name: War Ghoul
@@ -162,5 +162,5 @@ deck:
       name: Dragonbound
       id: 100581
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

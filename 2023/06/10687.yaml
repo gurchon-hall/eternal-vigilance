@@ -76,7 +76,7 @@ deck:
       name: Information Highway
       id: 100984
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 2
       name: 'Powerbase: Montreal'
@@ -160,5 +160,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

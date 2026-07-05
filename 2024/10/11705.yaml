@@ -68,7 +68,7 @@ deck:
       name: Dominion
       id: 100574
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Fear of Mekhet
@@ -89,7 +89,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Remover
@@ -119,7 +119,7 @@ deck:
       name: Kiss of Lachesis
       id: 101061
     - count: 1
-      name: Path of the Scorched Heart, The
+      name: The Path of the Scorched Heart
       id: 101371
     - count: 1
       name: Pulse of the Canaille
@@ -155,7 +155,7 @@ deck:
       name: AK-47
       id: 100032
     - count: 1
-      name: Ankara Citadel, Turkey, The
+      name: The Ankara Citadel, Turkey
       id: 100071
     - count: 1
       name: Heart of Nizchetus
@@ -164,7 +164,7 @@ deck:
       name: Helicopter
       id: 100909
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Retainer
     count: 1
@@ -224,5 +224,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

@@ -80,7 +80,7 @@ deck:
       name: Liquidation
       id: 101112
     - count: 4
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 5
       name: Piper
@@ -155,8 +155,8 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

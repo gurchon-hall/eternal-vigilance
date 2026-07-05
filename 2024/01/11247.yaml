@@ -116,10 +116,10 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 5
       name: Villein
@@ -164,13 +164,13 @@ deck:
       name: Guarded Rubrics
       id: 100865
     - count: 2
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
   - name: Action Modifier
     count: 7
     cards:
     - count: 3
-      name: Art of Memory, The
+      name: The Art of Memory
       id: 100097
     - count: 4
       name: Seraph's Second

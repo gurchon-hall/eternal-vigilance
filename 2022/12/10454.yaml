@@ -69,13 +69,13 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 6
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Charisma
       id: 100332
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -97,7 +97,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 4
       name: Villein
@@ -141,11 +141,11 @@ deck:
       name: Palatial Estate
       id: 101345
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
       comment: did I mention that recursion is broken
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
       comment: less valuable in the current V5 meta
   - name: Action Modifier
@@ -196,5 +196,5 @@ deck:
       id: 101305
       comment: might be overkill, but still useful.
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

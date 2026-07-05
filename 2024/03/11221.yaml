@@ -25,7 +25,7 @@ deck:
     clan: Harbinger of Skulls
     grouping: 3
   - count: 1
-    name: Baron, The
+    name: The Baron
     id: 200167
     capacity: 9
     disciplines: dom FOR NEC OBF THN

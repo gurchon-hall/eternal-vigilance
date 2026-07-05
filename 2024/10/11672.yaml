@@ -118,7 +118,7 @@ deck:
     count: 8
     cards:
     - count: 2
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 2
       name: Entrancement

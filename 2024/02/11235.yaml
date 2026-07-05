@@ -21,7 +21,7 @@ deck:
   crypt_avg: 9.17
   crypt:
   - count: 5
-    name: Capuchin, The
+    name: The Capuchin
     id: 200242
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
@@ -83,7 +83,7 @@ deck:
       name: Maabara
       id: 101136
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
@@ -137,7 +137,7 @@ deck:
       name: Shaal Fragment
       id: 101732
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Action Modifier
     count: 25

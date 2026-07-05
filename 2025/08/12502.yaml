@@ -85,7 +85,7 @@ deck:
       name: Fame
       id: 100698
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
@@ -109,7 +109,7 @@ deck:
       name: Deep Song
       id: 100515
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
   - name: Equipment
     count: 1

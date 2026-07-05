@@ -104,7 +104,7 @@ deck:
     count: 30
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Archon Investigation
@@ -128,7 +128,7 @@ deck:
       name: New Carthage
       id: 101277
     - count: 3
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Los Angeles'
@@ -152,7 +152,7 @@ deck:
       name: Aranthebes, The Immortal
       id: 100079
     - count: 6
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 2
       name: Open War

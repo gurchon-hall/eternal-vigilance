@@ -86,10 +86,10 @@ deck:
     count: 14
     cards:
     - count: 3
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 3
       name: Dreams of the Sphinx
@@ -104,7 +104,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Wider View
@@ -137,7 +137,7 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Action Modifier
     count: 26

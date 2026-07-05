@@ -46,7 +46,7 @@ deck:
     clan: Guruhi
     grouping: 4
   - count: 1
-    name: Kikiyaon, The
+    name: The Kikiyaon
     id: 200783
     capacity: 5
     disciplines: abo ani FOR
@@ -155,7 +155,7 @@ deck:
     count: 8
     cards:
     - count: 8
-      name: Guruhi Are the Land, The
+      name: The Guruhi Are the Land
       id: 100873
   - name: Reaction
     count: 12

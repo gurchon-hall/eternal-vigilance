@@ -96,10 +96,10 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 4
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Direct Intervention
@@ -114,7 +114,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: Line, The
+      name: The Line
       id: 101110
     - count: 1
       name: Metro Underground
@@ -159,7 +159,7 @@ deck:
       name: Sawed-Off Shotgun
       id: 101685
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Political Action
     count: 10

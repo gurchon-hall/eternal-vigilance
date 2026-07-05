@@ -82,7 +82,7 @@ deck:
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 4
       name: Madness Network
@@ -91,7 +91,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
@@ -142,7 +142,7 @@ deck:
       name: Kevlar Vest
       id: 101040
     - count: 2
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
     - count: 3
       name: Sniper Rifle

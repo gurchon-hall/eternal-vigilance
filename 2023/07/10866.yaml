@@ -96,7 +96,7 @@ deck:
     count: 24
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Blood Doll
@@ -132,7 +132,7 @@ deck:
       name: Obfuscate
       id: 101310
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 3
       name: Vessel

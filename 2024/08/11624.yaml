@@ -97,7 +97,7 @@ deck:
       name: Asylum Hunting Ground
       id: 100108
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Dreams of the Sphinx
@@ -115,7 +115,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'

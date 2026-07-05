@@ -87,7 +87,7 @@ deck:
       name: Liquidation
       id: 101112
     - count: 7
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: 'Powerbase: Montreal'
@@ -96,7 +96,7 @@ deck:
       name: Secure Haven
       id: 101711
     - count: 1
-      name: Shard, London, The
+      name: The Shard, London
       id: 102244
     - count: 2
       name: Wider View
@@ -159,5 +159,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

@@ -96,7 +96,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Carfax Abbey
@@ -135,7 +135,7 @@ deck:
     count: 11
     cards:
     - count: 11
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
   - name: Ally
     count: 1

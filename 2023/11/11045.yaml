@@ -55,7 +55,7 @@ deck:
     count: 23
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Direct Intervention
@@ -106,7 +106,7 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Political Action
     count: 12

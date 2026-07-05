@@ -101,7 +101,7 @@ deck:
       name: Backways
       id: 100126
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Carfax Abbey
@@ -128,7 +128,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Tribute to the Master

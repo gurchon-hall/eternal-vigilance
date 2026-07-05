@@ -35,7 +35,7 @@ deck:
     clan: Tremere
     grouping: 5
   - count: 2
-    name: Dracon, The
+    name: The Dracon
     id: 200385
     capacity: 11
     disciplines: ANI AUS POT THA VIC
@@ -70,10 +70,10 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Rötschreck

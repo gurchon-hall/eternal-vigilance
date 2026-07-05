@@ -94,7 +94,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -109,7 +109,7 @@ deck:
       name: Ecoterrorists
       id: 100609
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Los Angeles'

@@ -73,7 +73,7 @@ deck:
       name: Cappadocian Crypt
       id: 102298
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Cursed Abattoir
@@ -88,10 +88,10 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: Line, The
+      name: The Line
       id: 101110
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Munich'
@@ -154,5 +154,5 @@ deck:
     count: 3
     cards:
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

@@ -47,7 +47,7 @@ deck:
     clan: Tremere
     grouping: 4
   - count: 1
-    name: Dracon, The
+    name: The Dracon
     id: 200385
     capacity: 11
     disciplines: ANI AUS POT THA VIC
@@ -74,10 +74,10 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: University Hunting Ground
@@ -101,7 +101,7 @@ deck:
     count: 6
     cards:
     - count: 1
-      name: Ankara Citadel, Turkey, The
+      name: The Ankara Citadel, Turkey
       id: 100071
     - count: 1
       name: Bowl of Convergence

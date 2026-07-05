@@ -76,7 +76,7 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Troublemaker
@@ -115,7 +115,7 @@ deck:
       name: Preternatural Strength
       id: 101483
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
   - name: Equipment
     count: 1

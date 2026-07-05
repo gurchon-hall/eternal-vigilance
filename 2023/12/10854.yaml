@@ -67,7 +67,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Direct Intervention
@@ -172,5 +172,5 @@ deck:
       name: Scourge of the Enochians
       id: 101697
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
