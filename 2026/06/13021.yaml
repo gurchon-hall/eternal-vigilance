@@ -1,0 +1,167 @@
+name: Week of Nightmares Event 6
+location: Columbus (OH), USA
+date_start: 2026-06-16
+rounds_format: 2R+F
+players_count: 27
+winner: Erik Albenze
+vekn_number: 2970004
+event_url: https://www.vekn.net/event-calendar/event/13021
+event_id: 13021
+vp_comment: 1GW3.5 + 4vp in final
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83076-twd-week-of-nightmares-event-6-columbus-usa-june-16-2026
+deck:
+  name: Molly wall
+  description: Wall deck starring Molly MacDonald
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 40
+  crypt_avg: 7.58
+  crypt:
+  - count: 4
+    name: Molly MacDonald
+    id: 201704
+    capacity: 10
+    disciplines: ANI OBF POT PRO
+    title: Justicar
+    clan: Nosferatu
+    grouping: 7
+  - count: 3
+    name: Nikolaus Vermeulen
+    id: 201705
+    capacity: 7
+    disciplines: for obf ANI POT
+    title: Prince
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Larissa Moreira
+    id: 201553
+    capacity: 6
+    disciplines: pot ANI OBF
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Lenny Burkhead
+    id: 201555
+    capacity: 6
+    disciplines: obf pot pre ANI
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Dowager, The
+    id: 201545
+    capacity: 6
+    disciplines: aus pot ANI OBF
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Labyrinth, The
+      id: 101070
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Slum Hunting Ground
+      id: 101808
+    - count: 2
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 9
+    cards:
+    - count: 2
+      name: Army of Rats
+      id: 100093
+    - count: 6
+      name: Creeping Sabotage
+      id: 102213
+    - count: 1
+      name: 'Judgment: Camarilla Segregation'
+      id: 101028
+  - name: Political Action
+    count: 3
+    cards:
+    - count: 3
+      name: Camarilla's Iron Fist
+      id: 102270
+  - name: Ally
+    count: 2
+    cards:
+    - count: 2
+      name: Underbridge Stray
+      id: 102065
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 2
+      name: Lost in Crowds
+      id: 101125
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 26
+    cards:
+    - count: 6
+      name: Cats' Guidance
+      id: 100308
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 10
+      name: 'Second Tradition: Domain'
+      id: 101706
+    - count: 4
+      name: Sense the Savage Way
+      id: 101717
+    - count: 2
+      name: Warrens, The
+      id: 102216
+  - name: Combat
+    count: 24
+    cards:
+    - count: 12
+      name: Aid from Bats
+      id: 100029
+    - count: 10
+      name: Carrion Crows
+      id: 100301
+    - count: 2
+      name: Voracious Vermin
+      id: 102266
