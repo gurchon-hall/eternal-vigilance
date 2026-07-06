@@ -1,0 +1,187 @@
+name: WoN event 5
+location: R Bar, Columbus, OH
+date_start: 2026-06-16
+rounds_format: 2R+F
+players_count: 30
+winner: Martin Weinmayer
+vekn_number: 3340035
+event_url: https://www.vekn.net/event-calendar/event/13019
+event_id: 13019
+vp_comment: 3 VP in final
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83081-twd-week-of-nightmares-won-event-5
+deck:
+  name: Agnieszka, The Unbreakable
+  created_by: Martin Weinmayer
+  description: ''
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 40
+  crypt_avg: 8.42
+  crypt:
+  - count: 5
+    name: Agnieszka, Tempter of Legions
+    id: 201736
+    capacity: 10
+    disciplines: for pot AUS OBF PRE PRO
+    title: Archbishop
+    clan: Ministry
+    grouping: 6
+    path: Cathari
+  - count: 3
+    name: Xipe Totec
+    id: 201482
+    capacity: 9
+    disciplines: ANI AUS PRO VIC
+    title: Archbishop
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Ondine "Boudicca" Sinclair
+    id: 201083
+    capacity: 9
+    disciplines: obt AUS CEL PRE PRO
+    clan: Toreador antitribu
+    grouping: 5
+  - count: 1
+    name: Verrix, Naughty Boy
+    id: 201777
+    capacity: 7
+    disciplines: cel obf pro AUS PRE
+    title: Bishop
+    clan: Ministry
+    grouping: 6
+    path: Cathari
+  - count: 1
+    name: André the Manipulator
+    id: 200081
+    capacity: 6
+    disciplines: FOR PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 1
+      name: British Museum, London, The
+      id: 102236
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 1
+      name: Forward Momentum
+      id: 102323
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: Opium Den
+      id: 101326
+    - count: 2
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 2
+      name: Rack, The
+      id: 101536
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 4
+    cards:
+    - count: 1
+      name: Abbot
+      id: 100006
+    - count: 1
+      name: Eternal Vigilance
+      id: 100666
+    - count: 2
+      name: Under Siege
+      id: 102063
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Saatet-ta
+      id: 101665
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 2
+      name: Bowl of Convergence
+      id: 100243
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Sargon Fragment, The
+      id: 101681
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 22
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: Eagle's Sight
+      id: 100598
+    - count: 2
+      name: Enhanced Senses
+      id: 100644
+    - count: 10
+      name: Eyes of Argus
+      id: 100680
+    - count: 4
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 26
+    cards:
+    - count: 10
+      name: Charismatic Aura
+      id: 100333
+    - count: 10
+      name: Earth Meld
+      id: 100601
+    - count: 6
+      name: Form of Mist
+      id: 100771

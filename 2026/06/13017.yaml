@@ -1,0 +1,210 @@
+name: WoN event 3
+location: R Bar, Columbus, OH
+date_start: 2026-06-15
+rounds_format: 2R+F
+players_count: 24
+winner: Martin Weinmayer
+vekn_number: 3340035
+event_url: https://www.vekn.net/event-calendar/event/13017
+event_id: 13017
+vp_comment: 3 VP in final
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83079-twd-week-of-nightmares-won-event-3
+deck:
+  name: Gangrel WoN 3
+  created_by: Martin Weinmayer
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 28
+  crypt_avg: 5.83
+  crypt:
+  - count: 1
+    name: Adrino Manauara
+    id: 201664
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Ángel Guerrero
+    id: 201665
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Massimiliano
+    id: 201602
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 2
+    name: Casey Snyder
+    id: 201521
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 2
+    name: Kuyén
+    id: 201574
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: André the Manipulator
+    id: 200081
+    capacity: 6
+    disciplines: FOR PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Branimira
+    id: 201667
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Kamile Paukstys
+    id: 201597
+    capacity: 5
+    disciplines: ani for PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Nathan Turner
+    id: 201606
+    capacity: 4
+    disciplines: ani PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Indira
+    id: 201592
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 24
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+      id: 100052
+    - count: 1
+      name: British Museum, London, The
+      id: 102236
+    - count: 2
+      name: Carfax Abbey
+      id: 100297
+    - count: 2
+      name: Club Illusion
+      id: 100366
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 2
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: Life Boon
+      id: 101103
+    - count: 2
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+      id: 101435
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 7
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 1
+    cards:
+    - count: 1
+      name: Constant Revolution
+      id: 100416
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Revolutionary Council
+      id: 101631
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+  - name: Retainer
+    count: 6
+    cards:
+    - count: 1
+      name: Crypt's Sons
+      id: 100476
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 4
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Monkey Wrench
+      id: 101239
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 29
+    cards:
+    - count: 8
+      name: Bait and Switch
+      id: 102218
+    - count: 5
+      name: Delaying Tactics
+      id: 100519
+    - count: 16
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 17
+    cards:
+    - count: 1
+      name: Donnybrook
+      id: 100576
+    - count: 10
+      name: Earth Meld
+      id: 100601
+    - count: 6
+      name: Form of Mist
+      id: 100771
