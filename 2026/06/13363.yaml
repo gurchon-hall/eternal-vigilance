@@ -76,7 +76,7 @@ deck:
     count: 15
     cards:
     - count: 5
-      name: The British Museum, London
+      name: British Museum, London, The
       id: 102236
     - count: 1
       name: Carfax Abbey
@@ -94,7 +94,7 @@ deck:
       name: Library Hunting Ground
       id: 101102
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 3
       name: Villein
