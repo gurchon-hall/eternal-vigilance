@@ -1,0 +1,204 @@
+name: Liga JF de Julho
+location: Juiz de Fora, Brazil
+date_start: 2026-07-02
+rounds_format: 2R+F
+players_count: 12
+winner: Guilherme Machado
+vekn_number: 6130009
+event_url: https://www.vekn.net/event-calendar/event/13372
+event_id: 13372
+vp_comment: 2GW8 + 4vp in final
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83104-twd-liga-jf-de-julho-juiz-de-fora-brazil-02-july-2026
+deck:
+  name: Beloved Lodin!
+  description: ''
+  crypt_count: 12
+  crypt_min: 27
+  crypt_max: 34
+  crypt_avg: 7.58
+  crypt:
+  - count: 1
+    name: Mary Anne Blaire
+    id: 200946
+    capacity: 10
+    disciplines: ani pot AUS DOM FOR PRE
+    title: Justicar
+    clan: Ventrue
+    grouping: 5
+  - count: 3
+    name: Lodin (Olaf Holte)
+    id: 200848
+    capacity: 8
+    disciplines: aus pro DOM FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 2
+    name: Alexa Draper
+    id: 201529
+    capacity: 8
+    disciplines: for pot DOM PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Graham Gottesman
+    id: 200533
+    capacity: 7
+    disciplines: obf pre tha DOM FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 2
+    name: Sybren van Oosten
+    id: 201570
+    capacity: 7
+    disciplines: dom tha FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Alice Chen
+    id: 201531
+    capacity: 7
+    disciplines: dom obf FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Victor Donaldson
+    id: 201438
+    capacity: 6
+    disciplines: for pre DOM
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+      id: 100632
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Misdirection
+      id: 101225
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: Spontaneous Power
+      id: 101855
+    - count: 1
+      name: Ventrue Headquarters
+      id: 102109
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 12
+    cards:
+    - count: 6
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: 'Judgment: Camarilla Segregation'
+      id: 101028
+    - count: 4
+      name: Mind Numb
+      id: 101211
+  - name: Political Action
+    count: 12
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 2
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 6
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Parity Shift
+      id: 101353
+  - name: Action Modifier
+    count: 36
+    cards:
+    - count: 4
+      name: Awe
+      id: 100119
+    - count: 3
+      name: Bewitching Oration
+      id: 100157
+    - count: 4
+      name: Bonding
+      id: 100236
+    - count: 6
+      name: Change of Target
+      id: 100323
+    - count: 1
+      name: Daring the Dawn
+      id: 100492
+    - count: 6
+      name: Freak Drive
+      id: 100788
+    - count: 1
+      name: Kiss of Ra, The
+      id: 101062
+    - count: 3
+      name: Perfect Paragon
+      id: 101387
+    - count: 2
+      name: Seduction
+      id: 101712
+    - count: 6
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Murmur of the False Will
+      id: 101256
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: 'Second Tradition: Domain'
+      id: 101706
+  - name: Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Majesty
+      id: 101144
