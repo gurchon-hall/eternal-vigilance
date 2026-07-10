@@ -14,6 +14,7 @@ errors/
 ├── illegal_library/       — decks with invalid library cards
 ├── incoherent_date/       — decks with mismatched dates
 ├── too_few_players/       — tournaments below minimum player threshold
+├── unconfirmed_name/      — decks whose name could not be confirmed against the VEKN event calendar
 └── unconfirmed_winner/    — decks with unresolved winner identity
 publish/YYYY/MM/<date>.md  — weekly publish reports (PRs sent to GiottoVerducci/TWD)
 ```
