@@ -1,6 +1,5 @@
-name: 'Note: the event took place in Osnabrück, which is a city in Germany. The event
-  in the calendar says it happened in Spain, but that was a mistake.'
-location: 'Praxis Seizure: Osnabrück, Osnabrück, Germany'
+name: 'Praxis Seizure: Osnabrück'
+location: Osnabrück, Germany
 date_start: 2026-06-20
 rounds_format: 2R+F
 players_count: 16
