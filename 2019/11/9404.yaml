@@ -43,7 +43,7 @@ deck:
     clan: Baali
     grouping: 6
   - count: 3
-    name: The Horde
+    name: Horde, The
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -70,7 +70,7 @@ deck:
       name: Path of Evil Revelations
       id: 101361
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: Protected Resources

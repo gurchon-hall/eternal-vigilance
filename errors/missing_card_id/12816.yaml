@@ -20,6 +20,7 @@ deck:
   crypt:
   - count: 5
     name: Aaradhya, The Callous Tyrant
+    id: 201733
     capacity: 10
     disciplines: ANI DOM FOR POT PRE
     title: Cardinal
@@ -28,6 +29,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Carolina Vález
+    id: 200249
     capacity: 9
     disciplines: aus DOM OBT POT PRE
     title: Archbishop
@@ -35,6 +37,7 @@ deck:
     grouping: 5
   - count: 1
     name: Dark Selina
+    id: 200321
     capacity: 9
     disciplines: dom for CEL POT PRE
     title: Cardinal
@@ -42,6 +45,7 @@ deck:
     grouping: 5
   - count: 1
     name: De Sade
+    id: 200327
     capacity: 9
     disciplines: AUS DOM FOR PRE
     title: Archbishop
@@ -49,6 +53,7 @@ deck:
     grouping: 5
   - count: 1
     name: Věnceslava, The Implacable
+    id: 201776
     capacity: 9
     disciplines: cel DOM FOR POT PRE
     title: Archbishop
@@ -57,6 +62,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Rexton "Savage" Abernathy
+    id: 201770
     capacity: 8
     disciplines: cel DOM POT PRE
     title: Archbishop
@@ -65,6 +71,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Üresség
+    id: 201775
     capacity: 8
     disciplines: dom for CEL POT PRE
     title: Archbishop
@@ -73,6 +80,7 @@ deck:
     path: Power and the Inner Voice
   - count: 1
     name: Khin Aye
+    id: 201760
     capacity: 7
     disciplines: dom for POT PRE
     title: Priscus
@@ -112,6 +120,7 @@ deck:
       name: Banimento
     - count: 6
       name: Cold War
+      id: 102312
     - count: 4
       name: Contestar Recursos do Rebanho
     - count: 1
@@ -125,18 +134,23 @@ deck:
       name: Cativando Eleitores
     - count: 4
       name: Dominant Personality
+      id: 102316
     - count: 5
       name: Iron Glare
+      id: 101008
     - count: 4
       name: Paradigma Perfeito
     - count: 1
       name: Peão de Enkil
     - count: 2
       name: Private Audience
+      id: 101490
     - count: 4
       name: Relentlessness
+      id: 102337
     - count: 5
       name: Unthinkable Humiliation
+      id: 102346
   - name: Action Modifier/Combat
     count: 5
     cards:

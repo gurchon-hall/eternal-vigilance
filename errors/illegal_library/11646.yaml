@@ -1,0 +1,189 @@
+name: No Elysium com a Harpia
+location: 'Category: Event Reports and TWD, Tournament No Elysium com a Harpia'
+date_start: 2024-08-25
+rounds_format: 2R+F
+players_count: 14
+winner: Leonardo Villela
+vekn_number: 6130006
+event_url: https://www.vekn.net/event-calendar/event/11646
+event_id: 11646
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/81800-twd-no-elysium-com-a-harpia
+deck:
+  name: Lutz igual mas diferente
+  created_by: Leo Villela
+  description: ''
+  crypt_count: 12
+  crypt_min: 32
+  crypt_max: 44
+  crypt_avg: 9.67
+  crypt:
+  - count: 4
+    name: Lutz von Hohenzollern
+    id: 200890
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Adana de Sforza
+    id: 200011
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Rafael de Corazon
+    id: 201151
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  - count: 2
+    name: Dmitra Ilyanova
+    id: 200349
+    capacity: 9
+    disciplines: obf CEL FOR POT PRE
+    title: Justicar
+    clan: Brujah
+    grouping: 5
+  - count: 2
+    name: Undele
+    id: 201409
+    capacity: 9
+    disciplines: obf pre ser CEL FOR
+    title: Magaji
+    clan: Ishtarri
+    grouping: 5
+  - count: 1
+    name: Karen Suadela
+    id: 200753
+    capacity: 7
+    disciplines: obf pre CEL POT
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Stavros
+    id: 201313
+    capacity: 7
+    disciplines: dem AUS OBF PRE
+    title: Priscus
+    clan: Malkavian antitribu
+    grouping: 4
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: 'Golconda: Inner Peace'
+      id: 100842
+    - count: 3
+      name: Information Highway
+      id: 100984
+    - count: 7
+      name: Minion Tap
+      id: 101217
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Wider View
+      id: 102180
+    - count: 7
+      name: Zillah's Valley
+      id: 102207
+  - name: Political Action
+    count: 14
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 7
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Action Modifier
+    count: 32
+    cards:
+    - count: 3
+      name: Awe
+      id: 100119
+    - count: 2
+      name: Bewitching Oration
+      id: 100157
+    - count: 4
+      name: Elder Impersonation
+      id: 100617
+    - count: 4
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 5
+      name: Lost in Crowds
+      id: 101125
+    - count: 6
+      name: Perfect Paragon
+      id: 101387
+    - count: 8
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Swallowed by the Night
+      id: 101913
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Majesty
+      id: 101144
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Sense the Sin
+      id: 101718
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 10
+    cards:
+    - count: 5
+      name: Earth Meld
+      id: 100601
+    - count: 5
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
