@@ -1,0 +1,169 @@
+name: Fee Stake Sorocaba
+location: Sorocaba, Brazil
+date_start: 2026-04-12
+rounds_format: 2R+F
+players_count: 24
+winner: Desso Alastor
+vekn_number: 6010151
+event_url: https://www.vekn.net/event-calendar/event/13227
+event_id: 13227
+vp_comment: 1GW5 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13227
+deck:
+  name: Filho do Piseiro
+  description: ''
+  crypt_count: 12
+  crypt_min: 6
+  crypt_max: 40
+  crypt_avg: 5.42
+  crypt:
+  - count: 5
+    name: Ghede
+    id: 200512
+    capacity: 10
+    disciplines: FOR OBF POT PRE SER
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Ahmose Chambers
+    id: 200024
+    capacity: 3
+    disciplines: obf ser
+    clan: Ministry
+    grouping: 5
+  - count: 1
+    name: Cao Nguyen
+    id: 200241
+    capacity: 3
+    disciplines: SER
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Monica Chang
+    id: 201003
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere
+    grouping: 5
+  - count: 1
+    name: Eric Milliner
+    id: 200430
+    capacity: 2
+    disciplines: pot
+    clan: Giovanni
+    grouping: 5
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 5
+      name: Eternals of Sirius, The
+      id: 100667
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 2
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 7
+    cards:
+    - count: 1
+      name: Ambush
+      id: 100046
+    - count: 1
+      name: Big Game
+      id: 100159
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Harass
+      id: 100886
+    - count: 2
+      name: Preternatural Strength
+      id: 101483
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Book of Going Forth by Night, The
+      id: 100239
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Reckless Agitation
+      id: 101567
+  - name: Action Modifier
+    count: 18
+    cards:
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 14
+      name: Freak Drive
+      id: 100788
+    - count: 2
+      name: Truth of a Thousand Lies
+      id: 102044
+  - name: Combat
+    count: 40
+    cards:
+    - count: 3
+      name: Disarm
+      id: 100549
+    - count: 7
+      name: Immortal Grapple
+      id: 100959
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+    - count: 23
+      name: Typhonic Beast
+      id: 102054
+    - count: 2
+      name: Unflinching Persistence
+      id: 102071
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The
+      id: 100163
+    - count: 1
+      name: Dragonbound
+      id: 100581
