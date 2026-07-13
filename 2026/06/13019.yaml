@@ -72,7 +72,7 @@ deck:
     count: 22
     cards:
     - count: 1
-      name: The British Museum, London
+      name: British Museum, London, The
       id: 102236
     - count: 2
       name: Direct Intervention
@@ -96,10 +96,10 @@ deck:
       name: Papillon
       id: 101350
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 6
       name: Villein
@@ -135,7 +135,7 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: The Sargon Fragment
+      name: Sargon Fragment, The
       id: 101681
   - name: Retainer
     count: 1

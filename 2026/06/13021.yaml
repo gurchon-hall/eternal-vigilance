@@ -50,7 +50,7 @@ deck:
     clan: Nosferatu
     grouping: 6
   - count: 1
-    name: The Dowager
+    name: Dowager, The
     id: 201545
     capacity: 6
     disciplines: aus pot ANI OBF
@@ -69,13 +69,13 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
       id: 101070
     - count: 1
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 1
       name: Slum Hunting Ground
@@ -150,7 +150,7 @@ deck:
       name: Sense the Savage Way
       id: 101717
     - count: 2
-      name: The Warrens
+      name: Warrens, The
       id: 102216
   - name: Combat
     count: 24

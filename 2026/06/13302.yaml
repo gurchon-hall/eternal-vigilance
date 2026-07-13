@@ -79,7 +79,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -88,7 +88,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 3
       name: Dabbler
