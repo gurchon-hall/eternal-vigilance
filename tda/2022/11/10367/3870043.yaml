@@ -1,0 +1,170 @@
+event_id: '10367'
+name: Finnish Nationals 2022
+location: Espoo - Finland
+date_start: 2022-11-05
+rounds_format: 3R+F
+players_count: 45
+winner: Teemu Sainomaa
+author: '3870043'
+deck:
+  name: 'Finnish Nats 2022:'
+  created_by: '3870043'
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 6
+  crypt_max: 16
+  crypt_avg: 2.5
+  crypt:
+  - count: 1
+    name: Antoinette Dubois
+    id: 200111
+    capacity: 4
+    disciplines: for mel PRE
+    clan: Daughter of Cacophony
+    grouping: 4
+  - count: 1
+    name: Loonar
+    id: 200851
+    capacity: 4
+    disciplines: cel PRE
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Marla Kenyon
+    id: 200938
+    capacity: 4
+    disciplines: ser PRE
+    clan: Ministry
+    grouping: 4
+  - count: 1
+    name: Reginald Moore
+    id: 201176
+    capacity: 4
+    disciplines: PRE
+    title: Primogen
+    clan: Brujah
+    grouping: 4
+  - count: 2
+    name: Jayne Jonestown
+    id: 200683
+    capacity: 2
+    disciplines: PRE
+    clan: Brujah antitribu
+    grouping: 4
+  - count: 1
+    name: Dr. Solomon Grey
+    id: 200383
+    capacity: 2
+    disciplines: dom pre
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Honest Abe
+    id: 200601
+    capacity: 2
+    disciplines: pre
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Jack Tredegar
+    id: 200657
+    capacity: 2
+    disciplines: pre
+    clan: Ventrue
+    grouping: 5
+  - count: 1
+    name: Justine Chen, Innocent
+    id: 200740
+    capacity: 2
+    disciplines: pre
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 2
+    name: Dirk
+    id: 200347
+    capacity: 1
+    disciplines: pre
+    clan: Caitiff
+    grouping: 4
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 6
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: From a Sinking Ship
+      id: 100793
+    - count: 1
+      name: Kaymakli Nightmares
+      id: 101036
+    - count: 6
+      name: Life in the City
+      id: 101104
+    - count: 3
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 2
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 36
+    cards:
+    - count: 3
+      name: Entrancement
+      id: 100652
+    - count: 10
+      name: Intimidation
+      id: 100999
+    - count: 6
+      name: Legal Manipulations
+      id: 101089
+    - count: 2
+      name: Media Influence
+      id: 101193
+    - count: 6
+      name: Mind Numb
+      id: 101211
+    - count: 3
+      name: Public Trust
+      id: 101513
+    - count: 6
+      name: Social Charm
+      id: 101819
+  - name: Ally
+    count: 2
+    cards:
+    - count: 2
+      name: Carlton Van Wyk
+      id: 100298
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 8
+      name: Leverage
+      id: 101098
+  - name: Combat
+    count: 8
+    cards:
+    - count: 8
+      name: Majesty
+      id: 101144
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The
+      id: 100163
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+winner_vekn_number: 3070069
+event_url: https://www.vekn.net/event-calendar/event/10367
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/10367.zip
+author_vekn_number: 3870043

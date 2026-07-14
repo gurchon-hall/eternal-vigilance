@@ -1,0 +1,119 @@
+event_id: online1
+name: Cardinal Benediction
+location: Online
+date_start: 2025-04-01
+rounds_format: 3R+F
+players_count: 25
+winner: Cooper
+author: '122'
+deck:
+  name: Cardinal Benediction (online)
+  created_by: '122'
+  description: 0GW0
+  crypt_count: 13
+  crypt_min: 16
+  crypt_max: 32
+  crypt_avg: 5.54
+  crypt:
+  - count: 5
+    name: Brunhilde (ADV)
+    id: 200224
+    capacity: 8
+    disciplines: pre ANI FOR PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 3
+  - count: 8
+    name: Valkyrie
+    id: 201423
+    capacity: 4
+    disciplines: for pre pro
+    clan: Gangrel
+    grouping: 3
+  library_count: 88
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 2
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 1
+      name: Ecoterrorists
+      id: 100609
+    - count: 4
+      name: Effective Management
+      id: 100616
+    - count: 3
+      name: Ennoia's Theater
+      id: 100646
+    - count: 1
+      name: Gangrel Revel
+      id: 100807
+    - count: 4
+      name: Presence
+      id: 101480
+    - count: 1
+      name: Secure Haven
+      id: 101711
+  - name: Action
+    count: 28
+    cards:
+    - count: 2
+      name: Entrancement
+      id: 100652
+    - count: 2
+      name: Legal Manipulations
+      id: 101089
+    - count: 4
+      name: Media Influence
+      id: 101193
+    - count: 8
+      name: Social Charm
+      id: 101819
+    - count: 12
+      name: Thing
+      id: 101972
+  - name: Action Modifier
+    count: 24
+    cards:
+    - count: 2
+      name: Enchanting Gaze
+      id: 102221
+    - count: 10
+      name: Freak Drive
+      id: 100788
+    - count: 2
+      name: Monkey Wrench
+      id: 101239
+    - count: 10
+      name: Revelation of the Serpent
+      id: 102233
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 4
+      name: Bait and Switch
+      id: 102218
+    - count: 6
+      name: Eyes of the Wild
+      id: 102222
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Diversion
+      id: 100563
+winner_vekn_number: 101
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/online1.zip
+author_vekn_number: 122

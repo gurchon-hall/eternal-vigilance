@@ -1,0 +1,156 @@
+event_id: online1
+name: Cardinal Benediction
+location: Online
+date_start: 2025-04-01
+rounds_format: 3R+F
+players_count: 25
+winner: Cooper
+author: '116'
+deck:
+  name: Cardinal Benediction (online)
+  created_by: '116'
+  description: 0GW2
+  crypt_count: 12
+  crypt_min: 20
+  crypt_max: 36
+  crypt_avg: 7.42
+  crypt:
+  - count: 5
+    name: Mambo Jeanne
+    id: 200908
+    capacity: 9
+    disciplines: FOR NEC OBF THN
+    clan: Samedi
+    grouping: 6
+  - count: 2
+    name: Josette
+    id: 200725
+    capacity: 8
+    disciplines: pot pre FOR OBF THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Jean Lisle
+    id: 200685
+    capacity: 8
+    disciplines: pot FOR OBF THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Baroque
+    id: 200169
+    capacity: 7
+    disciplines: aus for obf NEC THN
+    clan: Samedi
+    grouping: 5
+  - count: 1
+    name: Mister Schwartz
+    id: 200998
+    capacity: 6
+    disciplines: for obf NEC THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Marie-Pierre
+    id: 200928
+    capacity: 4
+    disciplines: for nec THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Angel Chavarria
+    id: 200089
+    capacity: 3
+    disciplines: THN
+    clan: Samedi
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 2
+      name: Blessings of the Loa
+      id: 100186
+    - count: 1
+      name: Carver's Meat Packing and Storage
+      id: 100303
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: Ambush
+      id: 100046
+    - count: 4
+      name: Big Game
+      id: 100159
+    - count: 5
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Charge of the Buffalo
+      id: 100330
+    - count: 2
+      name: Harass
+      id: 100886
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 12
+    cards:
+    - count: 12
+      name: Freak Drive
+      id: 100788
+  - name: Combat
+    count: 46
+    cards:
+    - count: 7
+      name: Groaning Corpse
+      id: 100859
+    - count: 22
+      name: Relentless Reaper
+      id: 101595
+    - count: 2
+      name: Rolling with the Punches
+      id: 101649
+    - count: 2
+      name: Soak
+      id: 101817
+    - count: 8
+      name: Taste of Vitae
+      id: 101945
+    - count: 5
+      name: Zip Gun
+      id: 102208
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+winner_vekn_number: 101
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/online1.zip
+author_vekn_number: 116
