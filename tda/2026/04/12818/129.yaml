@@ -1,0 +1,208 @@
+event_id: '12818'
+name: VtES Finnish Nationals 2026
+location: Vantaa
+date_start: 2026-04-25
+rounds_format: 3R+F
+players_count: 41
+winner: Tommi Hakomaa
+deck:
+  player:
+    name: '129'
+    vekn_number: 129
+  name: Finnish Nationals 2026
+  description: 0GW+0.5
+  crypt_count: 12
+  crypt_min: 25
+  crypt_max: 36
+  crypt_avg: 7.58
+  crypt:
+  - count: 1
+    name: Appolonius
+    id: 200125
+    capacity: 10
+    disciplines: for pot CEL PRE
+    title: Primogen
+    clan: Brujah
+    grouping: 1
+  - count: 1
+    name: Appolonius (ADV)
+    id: 200126
+    capacity: 10
+    disciplines: dom CEL FOR POT PRE
+    clan: Brujah
+    grouping: 1
+  - count: 2
+    name: Tura Vaughn
+    id: 201394
+    capacity: 8
+    disciplines: dom CEL POT PRE
+    title: Primogen
+    clan: Brujah
+    grouping: 1
+  - count: 1
+    name: Constanza Vinti
+    id: 200289
+    capacity: 8
+    disciplines: CEL DOM POT
+    title: Prince
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Dónal O'Connor
+    id: 200364
+    capacity: 8
+    disciplines: CEL DOM POT
+    title: Prince
+    clan: Brujah
+    grouping: 2
+  - count: 2
+    name: Theo Bell (ADV)
+    id: 201363
+    capacity: 7
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Theo Bell
+    id: 201362
+    capacity: 7
+    disciplines: cel dom pre POT
+    clan: Brujah
+    grouping: 2
+  - count: 3
+    name: Anvil
+    id: 200120
+    capacity: 6
+    disciplines: dom pre tha CEL POT
+    title: Primogen
+    clan: Brujah
+    grouping: 1
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Dominate
+      id: 100572
+    - count: 2
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 2
+      name: Monster
+      id: 101242
+    - count: 2
+      name: Tension in the Ranks
+      id: 101958
+    - count: 1
+      name: Two Wrongs
+      id: 102052
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Warzone Hunting Ground
+      id: 102150
+  - name: Action
+    count: 19
+    cards:
+    - count: 2
+      name: Ambush
+      id: 100046
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 6
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Harass
+      id: 100886
+    - count: 4
+      name: Heroic Might
+      id: 100913
+    - count: 2
+      name: Legacy
+      id: 101085
+    - count: 1
+      name: Preternatural Strength
+      id: 101483
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: 47th Street Royals
+      id: 102217
+  - name: Action Modifier
+    count: 3
+    cards:
+    - count: 1
+      name: Inspire Greatness
+      id: 100992
+    - count: 2
+      name: Zephyr
+      id: 102205
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 2
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Forced Awakening
+      id: 100760
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Protected District
+      id: 102214
+    - count: 2
+      name: Redirection
+      id: 101578
+  - name: Combat
+    count: 34
+    cards:
+    - count: 2
+      name: Acrobatics
+      id: 100020
+    - count: 2
+      name: Disarm
+      id: 100549
+    - count: 1
+      name: Fast Hands
+      id: 100704
+    - count: 3
+      name: Flash
+      id: 100744
+    - count: 4
+      name: Immortal Grapple
+      id: 100959
+    - count: 2
+      name: Psyche!
+      id: 101507
+    - count: 3
+      name: Pursuit
+      id: 101523
+    - count: 6
+      name: Quickness
+      id: 101532
+    - count: 4
+      name: Side Strike
+      id: 101778
+    - count: 6
+      name: Taste of Vitae
+      id: 101945
+    - count: 1
+      name: Torrent
+      id: 101995
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12818
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12818.zip

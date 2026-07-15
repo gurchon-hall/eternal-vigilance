@@ -1,0 +1,172 @@
+event_id: '11686'
+name: Australian New Zealand 2024 Continental Championship
+location: Sydney
+date_start: 2024-10-26
+rounds_format: 3R+F
+players_count: 36
+winner: Keith Lim
+deck:
+  player:
+    name: '113'
+    vekn_number: 113
+  name: Oceanic Continental Championship 2024
+  description: 1GW3
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 43
+  crypt_avg: 9.58
+  crypt:
+  - count: 2
+    name: Lord Tremere
+    id: 200856
+    capacity: 11
+    disciplines: obe ANI AUS DOM THA VIC
+    clan: Tremere
+    grouping: 5
+  - count: 1
+    name: Mistress Fanchon
+    id: 200999
+    capacity: 11
+    disciplines: AUS CEL DOM OBF THA VIC
+    title: Inner Circle
+    clan: Tremere
+    grouping: 4
+  - count: 1
+    name: Gabrielle di Righetti
+    id: 200489
+    capacity: 10
+    disciplines: obf pot ANI AUS DOM THA
+    title: Justicar
+    clan: Tremere
+    grouping: 5
+  - count: 5
+    name: Malgorzata
+    id: 200905
+    capacity: 9
+    disciplines: pre AUS DOM THA VIC
+    title: Priscus
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 2
+    name: Gerald Windham
+    id: 200508
+    capacity: 9
+    disciplines: AUS DOM FOR THA
+    clan: Tremere
+    grouping: 5
+  - count: 1
+    name: Orlando Oriundus
+    id: 201084
+    capacity: 9
+    disciplines: obf AUS DOM THA
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  library_count: 60
+  library_sections:
+  - name: Master
+    count: 10
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 2
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 4
+    cards:
+    - count: 3
+      name: Govern the Unaligned
+      id: 100845
+    - count: 1
+      name: Magic of the Smith
+      id: 101143
+  - name: Political Action
+    count: 8
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 4
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Ponticulus
+      id: 101419
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 4
+      name: Changeling
+      id: 100324
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 2
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 6
+      name: Mirror Walk
+      id: 101223
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Plasmic Form
+      id: 101402
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 4
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Eagle's Sight
+      id: 100598
+    - count: 3
+      name: Eyes of Argus
+      id: 100680
+    - count: 5
+      name: Obedience
+      id: 101309
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Telepathic Misdirection
+      id: 101949
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11686
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11686.zip

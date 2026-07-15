@@ -1,0 +1,175 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1103'
+    vekn_number: 1103
+  name: Warsaw LCQ 2024
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 13
+  crypt_max: 32
+  crypt_avg: 5.42
+  crypt:
+  - count: 1
+    name: Mambo Jeanne
+    id: 200908
+    capacity: 9
+    disciplines: FOR NEC OBF THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Jean Lisle
+    id: 200685
+    capacity: 8
+    disciplines: pot FOR OBF THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Josette
+    id: 200725
+    capacity: 8
+    disciplines: pot pre FOR OBF THN
+    clan: Samedi
+    grouping: 6
+  - count: 1
+    name: Baroque
+    id: 200169
+    capacity: 7
+    disciplines: aus for obf NEC THN
+    clan: Samedi
+    grouping: 5
+  - count: 2
+    name: Mister Schwartz
+    id: 200998
+    capacity: 6
+    disciplines: for obf NEC THN
+    clan: Samedi
+    grouping: 6
+  - count: 3
+    name: Marie-Pierre
+    id: 200928
+    capacity: 4
+    disciplines: for nec THN
+    clan: Samedi
+    grouping: 6
+  - count: 3
+    name: Angel Chavarria
+    id: 200089
+    capacity: 3
+    disciplines: THN
+    clan: Samedi
+    grouping: 6
+  library_count: 65
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Blessings of the Loa
+      id: 100186
+    - count: 1
+      name: Charisma
+      id: 100332
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Houngan
+      id: 100940
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 1
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+  - name: Ally
+    count: 13
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 12
+      name: Reanimated Corpse
+      id: 101563
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 2
+      name: Call of the Hungry Dead
+      id: 100279
+    - count: 1
+      name: Freak Drive
+      id: 100788
+    - count: 4
+      name: Under My Skin
+      id: 102062
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 5
+      name: Funeral Wake
+      id: 100797
+  - name: Combat
+    count: 19
+    cards:
+    - count: 4
+      name: Groaning Corpse
+      id: 100859
+    - count: 2
+      name: Hidden Strength
+      id: 100918
+    - count: 3
+      name: Relentless Reaper
+      id: 101595
+    - count: 1
+      name: Rolling with the Punches
+      id: 101649
+    - count: 4
+      name: Soak
+      id: 101817
+    - count: 5
+      name: Trap
+      id: 102012
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

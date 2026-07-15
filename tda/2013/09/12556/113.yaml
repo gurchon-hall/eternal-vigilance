@@ -1,0 +1,200 @@
+event_id: '12556'
+name: Bleeding in Wroclaw
+location: Wroclaw
+date_start: 2013-09-25
+rounds_format: 3R+F
+players_count: 31
+winner: Radoslaw Wroblewski
+deck:
+  player:
+    name: '113'
+    vekn_number: 113
+  name: Bleeding in Wroclaw
+  description: 1GW4
+  crypt_count: 12
+  crypt_min: 13
+  crypt_max: 22
+  crypt_avg: 4.25
+  crypt:
+  - count: 1
+    name: Maila
+    id: 201633
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Mkhokheli
+    id: 201561
+    capacity: 6
+    disciplines: aus cel for PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Lady Scarlett Churchill
+    id: 201643
+    capacity: 5
+    disciplines: dom for PRE
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Regina Blake
+    id: 201648
+    capacity: 5
+    disciplines: AUS PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Bret Stryker
+    id: 201538
+    capacity: 4
+    disciplines: CEL PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Massimo Falconi
+    id: 201558
+    capacity: 4
+    disciplines: aus cel pre
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Rose Abawi
+    id: 201650
+    capacity: 4
+    disciplines: aus obf pre
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Sheva Carr
+    id: 201283
+    capacity: 4
+    disciplines: aus cel dom
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Tyler McGill
+    id: 201398
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Min-seo
+    id: 201560
+    capacity: 3
+    disciplines: aus cel
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Nik Sikko
+    id: 201564
+    capacity: 3
+    disciplines: cel pre
+    clan: Toreador
+    grouping: 6
+  library_count: 62
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Bleeding the Vine
+      id: 100178
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+      id: 100632
+    - count: 3
+      name: Information Highway
+      id: 100984
+    - count: 2
+      name: Protected Resources
+      id: 101500
+    - count: 7
+      name: Toreador Grand Ball
+      id: 101989
+  - name: Action
+    count: 8
+    cards:
+    - count: 8
+      name: Embrace, The
+      id: 100633
+  - name: Political Action
+    count: 29
+    cards:
+    - count: 2
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 8
+      name: Consanguineous Boon
+      id: 100410
+    - count: 1
+      name: Justicar Retribution
+      id: 101031
+    - count: 9
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: 'Praxis Seizure: Athens'
+      id: 101448
+    - count: 1
+      name: 'Praxis Seizure: Atlanta'
+      id: 101449
+    - count: 1
+      name: 'Praxis Seizure: Barcelona'
+      id: 101450
+    - count: 1
+      name: 'Praxis Seizure: Chicago'
+      id: 101455
+    - count: 1
+      name: 'Praxis Seizure: Miami'
+      id: 101465
+    - count: 1
+      name: 'Praxis Seizure: Monaco'
+      id: 101466
+    - count: 1
+      name: 'Praxis Seizure: Paris'
+      id: 101467
+    - count: 1
+      name: 'Praxis Seizure: Washington, D.C.'
+      id: 101472
+    - count: 1
+      name: Toreador Justicar
+      id: 101990
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 3
+      name: Bewitching Oration
+      id: 100157
+    - count: 4
+      name: Perfect Paragon
+      id: 101387
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Blood Weakens
+      id: 100217
+    - count: 1
+      name: Slow Withering, The
+      id: 101807
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12556
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12556.zip

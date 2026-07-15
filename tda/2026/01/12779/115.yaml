@@ -1,0 +1,222 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '115'
+    vekn_number: 115
+  name: Croatian Abuse of Power 2026
+  description: 1GW3
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 32
+  crypt_avg: 6.25
+  crypt:
+  - count: 4
+    name: Ian Forestal
+    id: 200616
+    capacity: 8
+    disciplines: AUS DOM THA
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: Kij Dansky
+    id: 200782
+    capacity: 8
+    disciplines: obt AUS DOM THA
+    title: Priscus
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: Ladislas Toth, The Torch
+    id: 200803
+    capacity: 7
+    disciplines: for AUS DOM THA
+    title: Archbishop
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Reverend Blackwood
+    id: 201182
+    capacity: 6
+    disciplines: obf DOM THA
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: Selena
+    id: 201261
+    capacity: 6
+    disciplines: AUS DOM THA
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Kurt Strauss
+    id: 200796
+    capacity: 5
+    disciplines: aus tha DOM
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: Richard Tauber, Ayelea's Puppet
+    id: 201186
+    capacity: 4
+    disciplines: tha AUS
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: Thelonius
+    id: 201360
+    capacity: 4
+    disciplines: aus dom tha
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: Brooke
+    id: 200221
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere antitribu
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Burial Site Hunting Ground
+      id: 102311
+    - count: 1
+      name: Charisma
+      id: 100332
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Hungry Coyote, The
+      id: 100945
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Line, The
+      id: 101110
+    - count: 1
+      name: Mob Connections
+      id: 101229
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: Spirit Summoning Chamber
+      id: 101849
+    - count: 1
+      name: Sunset Strip, Hollywood
+      id: 101904
+    - count: 2
+      name: Vessel
+      id: 102113
+  - name: Action
+    count: 19
+    cards:
+    - count: 2
+      name: Dance of the Dead
+      id: 102314
+    - count: 9
+      name: Govern the Unaligned
+      id: 100845
+    - count: 6
+      name: Putrescent Sustenance
+      id: 102335
+    - count: 2
+      name: Rutor's Hand
+      id: 101664
+  - name: Ally
+    count: 12
+    cards:
+    - count: 1
+      name: Fiorella, Empty One
+      id: 102322
+    - count: 9
+      name: Freakish Conglomeration
+      id: 102324
+    - count: 2
+      name: Heartrender
+      id: 102327
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Sargon Fragment, The
+      id: 101681
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 1
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 4
+      name: Gifts From Hereafter
+      id: 102325
+    - count: 6
+      name: Mirror Walk
+      id: 101223
+    - count: 2
+      name: Seduction
+      id: 101712
+    - count: 2
+      name: Sleeping Mind, The
+      id: 101805
+  - name: Reaction
+    count: 23
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 3
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: Eyes of Argus
+      id: 100680
+    - count: 5
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Poison Pill
+      id: 101406
+    - count: 2
+      name: Redirection
+      id: 101578
+    - count: 4
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Rego Motum
+      id: 101588
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 1
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

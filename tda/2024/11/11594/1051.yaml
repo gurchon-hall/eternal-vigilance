@@ -1,0 +1,224 @@
+event_id: '11594'
+name: Camarilla Conclave Grand Prix 2024
+location: Palma
+date_start: 2024-11-16
+rounds_format: 3R+F
+players_count: 89
+winner: P045
+deck:
+  player:
+    name: '1051'
+    vekn_number: 1051
+  name: Camarilla Conclave GP 2024
+  description: 0GW2
+  crypt_count: 12
+  crypt_min: 19
+  crypt_max: 36
+  crypt_avg: 7.08
+  crypt:
+  - count: 2
+    name: Annabelle Triabell
+    id: 201693
+    capacity: 9
+    disciplines: dom for AUS CEL PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 2
+    name: Diana Iadanza
+    id: 201694
+    capacity: 9
+    disciplines: AUS CEL FOR PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 7
+  - count: 2
+    name: Catalina Vega
+    id: 201540
+    capacity: 8
+    disciplines: for AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 2
+    name: Flávio Gonçalves
+    id: 201547
+    capacity: 7
+    disciplines: aus for CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Maila
+    id: 201633
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Mkhokheli
+    id: 201561
+    capacity: 6
+    disciplines: aus cel for PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Silvian Popescu
+    id: 201706
+    capacity: 4
+    disciplines: cel PRE
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Valentina Osako
+    id: 201707
+    capacity: 3
+    disciplines: PRE
+    clan: Toreador
+    grouping: 7
+  library_count: 89
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 1
+      name: Art Museum
+      id: 100095
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Society Hunting Ground
+      id: 101821
+    - count: 3
+      name: Toreador Grand Ball
+      id: 101989
+    - count: 4
+      name: Vessel
+      id: 102113
+  - name: Action
+    count: 8
+    cards:
+    - count: 5
+      name: Enchant Kindred
+      id: 100640
+    - count: 2
+      name: Entrancement
+      id: 100652
+    - count: 1
+      name: 'Judgment: Camarilla Segregation'
+      id: 101028
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 3
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 3
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: My Kin Against the World
+      id: 101260
+    - count: 4
+      name: Parity Shift
+      id: 101353
+    - count: 1
+      name: Toreador Justicar
+      id: 101990
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 3
+      name: Aire of Elation
+      id: 100031
+    - count: 1
+      name: Closed Session
+      id: 100364
+    - count: 3
+      name: Daring the Dawn
+      id: 100492
+    - count: 5
+      name: Forced March
+      id: 100761
+    - count: 2
+      name: Freak Drive
+      id: 100788
+    - count: 3
+      name: Loup
+      id: 102273
+    - count: 2
+      name: Perfect Paragon
+      id: 101387
+    - count: 4
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Resist Earth's Grasp
+      id: 101610
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Scalpel Tongue
+      id: 101686
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 1
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 4
+      name: 'Second Tradition: Domain'
+      id: 101706
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty
+      id: 101144
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11594
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

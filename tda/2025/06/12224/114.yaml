@@ -1,0 +1,137 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '114'
+    vekn_number: 114
+  name: Brazilian Nationals 2025
+  description: 1GW6.5
+  crypt_count: 13
+  crypt_min: 26
+  crypt_max: 32
+  crypt_avg: 7.15
+  crypt:
+  - count: 4
+    name: Yewon Ong
+    id: 201716
+    capacity: 8
+    disciplines: for DOM OBL POT
+    title: Prince
+    clan: Lasombra
+    grouping: 6
+  - count: 3
+    name: Parijat, the Dark Oracle
+    id: 201726
+    capacity: 7
+    disciplines: AUS DOM FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Rinaldo Albizzi
+    id: 201715
+    capacity: 7
+    disciplines: pre DOM OBL POT
+    title: Primogen
+    clan: Lasombra
+    grouping: 6
+  - count: 2
+    name: Tommaso Sforza
+    id: 201728
+    capacity: 7
+    disciplines: dom for AUS OBL THA
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Kamaluddin
+    id: 201713
+    capacity: 6
+    disciplines: for pot DOM OBL
+    title: Primogen
+    clan: Lasombra
+    grouping: 6
+  library_count: 86
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 1
+      name: Biotech Company Hunting Ground
+      id: 102287
+    - count: 7
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: Political Hunting Ground
+      id: 101415
+  - name: Action
+    count: 18
+    cards:
+    - count: 10
+      name: Govern the Unaligned
+      id: 100845
+    - count: 8
+      name: Shroud of Decay
+      id: 102295
+  - name: Ally
+    count: 3
+    cards:
+    - count: 3
+      name: Aggressive Corpse
+      id: 102286
+  - name: Action Modifier
+    count: 31
+    cards:
+    - count: 3
+      name: Consign to Oblivion
+      id: 102288
+    - count: 6
+      name: Freak Drive
+      id: 100788
+    - count: 6
+      name: Shadow Cast
+      id: 102280
+    - count: 4
+      name: Shadow Cloak
+      id: 102281
+    - count: 5
+      name: Stygian Shroud
+      id: 102282
+    - count: 4
+      name: Threats
+      id: 101978
+    - count: 3
+      name: Where the Veil Thins
+      id: 102285
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 7
+      name: Deflection
+      id: 100518
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 4
+      name: Shadow Sentinel
+      id: 102294
+  - name: Combat
+    count: 8
+    cards:
+    - count: 8
+      name: Pass Through Shadow
+      id: 102279
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

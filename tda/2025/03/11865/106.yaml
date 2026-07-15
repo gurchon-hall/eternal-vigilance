@@ -1,0 +1,161 @@
+event_id: '11865'
+name: ITALIAN GP 2025 - MODENA
+location: Modena
+date_start: 2025-03-01
+rounds_format: 3R+F
+players_count: 70
+winner: Frederic Pin
+deck:
+  player:
+    name: '106'
+    vekn_number: 106
+  name: Italian Grand Prix 2025
+  description: 2GW7.5
+  crypt_count: 14
+  crypt_min: 4
+  crypt_max: 14
+  crypt_avg: 1.71
+  crypt:
+  - count: 1
+    name: Antonio d'Erlette
+    id: 200116
+    capacity: 5
+    disciplines: dom for pot THA
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Ember Wright
+    id: 200418
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Keith Moody
+    id: 200767
+    capacity: 3
+    disciplines: DOM
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Saiz
+    id: 201222
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 10
+    name: Tupdog
+    id: 201393
+    capacity: 1
+    disciplines: POT VIS
+    clan: Gargoyle
+    grouping: 3
+  library_count: 62
+  library_sections:
+  - name: Master
+    count: 8
+    cards:
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: 'Golconda: Inner Peace'
+      id: 100842
+    - count: 1
+      name: Mob Connections
+      id: 101229
+    - count: 1
+      name: Not to Be
+      id: 101303
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+  - name: Action
+    count: 16
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 2
+      name: Create Gargoyle
+      id: 100440
+    - count: 2
+      name: Embrace, The
+      id: 100633
+    - count: 4
+      name: Raw Recruit
+      id: 101554
+    - count: 7
+      name: Soul of the Earth
+      id: 101833
+  - name: Ally
+    count: 13
+    cards:
+    - count: 2
+      name: Nephandus
+      id: 101272
+    - count: 10
+      name: Rock Cat
+      id: 101645
+    - count: 1
+      name: Vagabond Mystic
+      id: 102087
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Codex of the Edenic Groundskeepers
+      id: 100374
+    - count: 1
+      name: Gran Madre di Dio, Italy
+      id: 100847
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 2
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 14
+    cards:
+    - count: 4
+      name: Disarm
+      id: 100549
+    - count: 4
+      name: Immortal Grapple
+      id: 100959
+    - count: 4
+      name: Raking Talons
+      id: 101538
+    - count: 2
+      name: Roll
+      id: 101648
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+    - count: 1
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11865
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11865.zip

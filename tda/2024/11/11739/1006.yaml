@@ -1,0 +1,169 @@
+event_id: '11739'
+name: VtES Finnish Nationals 2024
+location: Kerava
+date_start: 2024-11-09
+rounds_format: 3R+F
+players_count: 30
+winner: Jonas Ståhle
+deck:
+  player:
+    name: '1006'
+    vekn_number: 1006
+  name: Finnish Nationals 2024
+  description: 1GW6
+  crypt_count: 12
+  crypt_min: 23
+  crypt_max: 36
+  crypt_avg: 7.92
+  crypt:
+  - count: 3
+    name: Al-Ashrad, Amr of Alamut (ADV)
+    id: 200036
+    capacity: 9
+    disciplines: AUS CEL OBF QUI THA
+    clan: Banu Haqim
+    grouping: 2
+  - count: 3
+    name: Rebekah
+    id: 201170
+    capacity: 9
+    disciplines: AUS CEL DOM OBF QUI
+    title: Prince
+    clan: Banu Haqim
+    grouping: 3
+  - count: 3
+    name: Tegyrius, Vizier
+    id: 201352
+    capacity: 9
+    disciplines: pre AUS CEL FOR QUI
+    clan: Banu Haqim
+    grouping: 2
+  - count: 1
+    name: Parnassus
+    id: 201096
+    capacity: 7
+    disciplines: aus tha CEL QUI
+    clan: Banu Haqim
+    grouping: 2
+  - count: 1
+    name: Parmenides
+    id: 201095
+    capacity: 4
+    disciplines: qui CEL
+    clan: Banu Haqim
+    grouping: 2
+  - count: 1
+    name: Ali Kar
+    id: 200053
+    capacity: 3
+    disciplines: obf qui
+    clan: Banu Haqim
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 5
+      name: "Haqim's Law: Retribution"
+      id: 102226
+    - count: 1
+      name: Haven Uncovered
+      id: 100897
+    - count: 3
+      name: Priority Contract
+      id: 101487
+    - count: 1
+      name: Underworld Hunting Ground
+      id: 102066
+    - count: 5
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 7
+    cards:
+    - count: 3
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Flurry of Action
+      id: 100752
+    - count: 1
+      name: Nose of the Hound
+      id: 101296
+    - count: 2
+      name: Web of Knives Recruit
+      id: 102165
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Resist Earth's Grasp
+      id: 101610
+  - name: Reaction
+    count: 17
+    cards:
+    - count: 2
+      name: Eagle's Sight
+      id: 100598
+    - count: 6
+      name: Eyes of Argus
+      id: 100680
+    - count: 4
+      name: Quicken Sight
+      id: 101531
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 47
+    cards:
+    - count: 4
+      name: Blur
+      id: 100227
+    - count: 5
+      name: Dam the Heart's River
+      id: 100489
+    - count: 2
+      name: Flash
+      id: 100744
+    - count: 11
+      name: Focus the Blood
+      id: 100753
+    - count: 1
+      name: Infernal Pursuit
+      id: 100980
+    - count: 2
+      name: Psyche!
+      id: 101507
+    - count: 2
+      name: Pursuit
+      id: 101523
+    - count: 1
+      name: Quickness
+      id: 101532
+    - count: 2
+      name: Sanguine Entrapment
+      id: 101679
+    - count: 2
+      name: Side Strike
+      id: 101778
+    - count: 4
+      name: Sideslip
+      id: 101779
+    - count: 4
+      name: Thin Blood
+      id: 101970
+    - count: 2
+      name: Torrent
+      id: 101995
+    - count: 5
+      name: Wave of Lethargy
+      id: 102161
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11739
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11739.zip

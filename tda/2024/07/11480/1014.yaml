@@ -1,0 +1,170 @@
+event_id: '11480'
+name: Ropecon Finnish Grand Prix 2024
+location: Helsinki
+date_start: 2024-07-20
+rounds_format: 3R+F
+players_count: 54
+winner: Teemu Sainomaa
+deck:
+  player:
+    name: '1014'
+    vekn_number: 1014
+  name: Ropecon GP 2024
+  description: 1GW+4.5
+  crypt_count: 12
+  crypt_min: 29
+  crypt_max: 44
+  crypt_avg: 9.42
+  crypt:
+  - count: 3
+    name: Lord Tremere
+    id: 200856
+    capacity: 11
+    disciplines: obe ANI AUS DOM THA VIC
+    clan: Tremere
+    grouping: 5
+  - count: 2
+    name: Mistress Fanchon
+    id: 200999
+    capacity: 11
+    disciplines: AUS CEL DOM OBF THA VIC
+    title: Inner Circle
+    clan: Tremere
+    grouping: 4
+  - count: 1
+    name: Sha-Ennu
+    id: 201270
+    capacity: 11
+    disciplines: obf tha ANI AUS CHI VIC
+    title: Regent
+    clan: Tzimisce
+    grouping: 4
+  - count: 5
+    name: Malgorzata
+    id: 200905
+    capacity: 9
+    disciplines: pre AUS DOM THA VIC
+    title: Priscus
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 3
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: University Hunting Ground
+      id: 102075
+    - count: 6
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Magic of the Smith
+      id: 101143
+  - name: Political Action
+    count: 9
+    cards:
+    - count: 2
+      name: Anarchist Uprising
+      id: 100059
+    - count: 2
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 4
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Action Modifier
+    count: 19
+    cards:
+    - count: 6
+      name: Changeling
+      id: 100324
+    - count: 3
+      name: Conditioning
+      id: 100401
+    - count: 7
+      name: Mirror Walk
+      id: 101223
+    - count: 3
+      name: Seduction
+      id: 101712
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Plasmic Form
+      id: 101402
+  - name: Reaction
+    count: 23
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 6
+      name: Eyes of Argus
+      id: 100680
+    - count: 7
+      name: Obedience
+      id: 101309
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Redirection
+      id: 101578
+    - count: 1
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11480
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11480.zip

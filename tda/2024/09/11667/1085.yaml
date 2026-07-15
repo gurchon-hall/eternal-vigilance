@@ -1,0 +1,186 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1085'
+    vekn_number: 1085
+  name: Warsaw LCQ 2024
+  description: 0GW2
+  crypt_count: 12
+  crypt_min: 25
+  crypt_max: 40
+  crypt_avg: 8.25
+  crypt:
+  - count: 4
+    name: Goratrix
+    id: 200528
+    capacity: 10
+    disciplines: vic ANI AUS DOM THA
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 3
+    name: Marino Reymundo Vásquez
+    id: 200931
+    capacity: 9
+    disciplines: ani AUS DOM NEC THA
+    title: Archbishop
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 2
+    name: Ladislas Toth, The Torch
+    id: 200803
+    capacity: 7
+    disciplines: for AUS DOM THA
+    title: Archbishop
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 3
+    name: Selena
+    id: 201261
+    capacity: 6
+    disciplines: AUS DOM THA
+    clan: Tremere antitribu
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Life Boon
+      id: 101103
+    - count: 2
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 2
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 1
+      name: University Hunting Ground
+      id: 102075
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 9
+    cards:
+    - count: 1
+      name: Army of Rats
+      id: 100093
+    - count: 7
+      name: Magic of the Smith
+      id: 101143
+    - count: 1
+      name: Under Siege
+      id: 102063
+  - name: Equipment
+    count: 8
+    cards:
+    - count: 1
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Ruins of Ceoris
+      id: 101658
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+    - count: 1
+      name: Sport Bike
+      id: 101856
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 2
+      name: Mirror Walk
+      id: 101223
+  - name: Reaction
+    count: 46
+    cards:
+    - count: 10
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 3
+      name: Eagle's Sight
+      id: 100598
+    - count: 3
+      name: Enhanced Senses
+      id: 100644
+    - count: 10
+      name: Eyes of Argus
+      id: 100680
+    - count: 4
+      name: Forced Awakening
+      id: 100760
+    - count: 4
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Precognition
+      id: 101475
+    - count: 2
+      name: Spirit's Touch
+      id: 101850
+    - count: 4
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 8
+    cards:
+    - count: 1
+      name: Canine Horde
+      id: 100290
+    - count: 2
+      name: Carrion Crows
+      id: 100301
+    - count: 3
+      name: Rego Motum
+      id: 101588
+    - count: 2
+      name: Terror Frenzy
+      id: 101960
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

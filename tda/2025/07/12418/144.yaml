@@ -1,0 +1,174 @@
+event_id: '12418'
+name: Ropecon 2025
+location: Helsinki
+date_start: 2025-07-26
+rounds_format: 3R+F
+players_count: 47
+winner: Tommi Hakomaa
+deck:
+  player:
+    name: '144'
+    vekn_number: 144
+  name: Ropecon 2025
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 20
+  crypt_max: 25
+  crypt_avg: 5.75
+  crypt:
+  - count: 1
+    name: Farah Sarroub
+    id: 201587
+    capacity: 7
+    disciplines: aus obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Flavia, Avenging Angel
+    id: 200469
+    capacity: 6
+    disciplines: CEL OBF QUI
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Kalinda
+    id: 201596
+    capacity: 6
+    disciplines: tha CEL OBF
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Kassandra Tassaki
+    id: 201604
+    capacity: 6
+    disciplines: obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Khadija Al-Kindi
+    id: 201599
+    capacity: 6
+    disciplines: CEL OBF THA
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Omer
+    id: 201080
+    capacity: 5
+    disciplines: obf CEL QUI
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Asmin Kobane
+    id: 201578
+    capacity: 5
+    disciplines: dom obf tha CEL
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Synner-G
+    id: 201332
+    capacity: 5
+    disciplines: pro CEL OBF
+    clan: Gangrel antitribu
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Frontal Assault
+      id: 100794
+    - count: 2
+      name: "Haqim's Law: Retribution"
+      id: 102226
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Leadership Vacuum
+      id: 101078
+    - count: 2
+      name: Monster
+      id: 101242
+    - count: 4
+      name: Priority Contract
+      id: 101487
+    - count: 2
+      name: Tension in the Ranks
+      id: 101958
+  - name: Action
+    count: 11
+    cards:
+    - count: 11
+      name: Bum's Rush
+      id: 100266
+  - name: Equipment
+    count: 12
+    cards:
+    - count: 9
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 2
+      name: Saturday-Night Special
+      id: 101682
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Zephyr
+      id: 102205
+  - name: Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 44
+    cards:
+    - count: 11
+      name: Disguised Weapon
+      id: 100555
+    - count: 2
+      name: Dragon's Breath Rounds
+      id: 100580
+    - count: 3
+      name: Infernal Pursuit
+      id: 100980
+    - count: 10
+      name: Psyche!
+      id: 101507
+    - count: 10
+      name: Pursuit
+      id: 101523
+    - count: 4
+      name: Quickness
+      id: 101532
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12418
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12418.zip

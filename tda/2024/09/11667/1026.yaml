@@ -1,0 +1,206 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1026'
+    vekn_number: 1026
+  name: Warsaw LCQ 2024
+  description: 1GW5
+  crypt_count: 12
+  crypt_min: 11
+  crypt_max: 40
+  crypt_avg: 6.58
+  crypt:
+  - count: 5
+    name: Nergal (ADV)
+    id: 201049
+    capacity: 10
+    disciplines: AUS DAI FOR OBF PRE THA
+    clan: Baali
+    grouping: 5
+  - count: 1
+    name: Nergal
+    id: 201048
+    capacity: 10
+    disciplines: AUS DAI FOR OBF PRE THA
+    clan: Baali
+    grouping: 5
+  - count: 1
+    name: Pearl
+    id: 201106
+    capacity: 4
+    disciplines: obf AUS
+    clan: Malkavian antitribu
+    grouping: 5
+  - count: 1
+    name: Tyler McGill
+    id: 201398
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Lubomira Hradok
+    id: 200865
+    capacity: 3
+    disciplines: OBF
+    clan: Nosferatu antitribu
+    grouping: 5
+  - count: 1
+    name: Veejay Vinod
+    id: 201433
+    capacity: 3
+    disciplines: AUS
+    clan: Nagaraja
+    grouping: 6
+  - count: 1
+    name: Alu
+    id: 200062
+    capacity: 2
+    disciplines: obf
+    clan: Banu Haqim
+    grouping: 5
+  library_count: 82
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 17
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 1
+      name: Dream World
+      id: 100587
+    - count: 1
+      name: Entrancement
+      id: 100652
+    - count: 2
+      name: Intimidation
+      id: 100999
+    - count: 5
+      name: Legacy
+      id: 101085
+    - count: 3
+      name: Magic of the Smith
+      id: 101143
+    - count: 2
+      name: Summoning, The
+      id: 101902
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 5
+    cards:
+    - count: 3
+      name: Infernal Servitor
+      id: 100981
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Kaymakli Fragment
+      id: 101035
+    - count: 1
+      name: Learjet
+      id: 101080
+  - name: Action Modifier
+    count: 33
+    cards:
+    - count: 1
+      name: Cloak the Gathering
+      id: 100362
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 3
+      name: Faceless Night
+      id: 100687
+    - count: 15
+      name: Freak Drive
+      id: 100788
+    - count: 2
+      name: I am Legion
+      id: 100947
+    - count: 3
+      name: Lost in Crowds
+      id: 101125
+    - count: 1
+      name: Psychomachia
+      id: 101511
+    - count: 1
+      name: Spying Mission
+      id: 101857
+    - count: 2
+      name: Veil the Legions
+      id: 102097
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Sense the Sin
+      id: 101718
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

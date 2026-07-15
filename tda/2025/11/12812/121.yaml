@@ -1,0 +1,176 @@
+event_id: '12812'
+name: Back From Torpor - Poznań 2025
+location: Poznań
+date_start: 2025-11-15
+rounds_format: 3R+F
+players_count: 30
+winner: Tomasz Pietkiewicz
+deck:
+  player:
+    name: '121'
+    vekn_number: 121
+  name: Back From Torpor - Poznań 2025
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 9
+  crypt_max: 16
+  crypt_avg: 3.17
+  crypt:
+  - count: 2
+    name: Ingrid Russo
+    id: 200635
+    capacity: 4
+    disciplines: for DOM
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
+    name: Earl
+    id: 200396
+    capacity: 4
+    disciplines: dom for pot
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Katherine Stoddard
+    id: 200764
+    capacity: 4
+    disciplines: dom for
+    clan: Ventrue antitribu
+    grouping: 3
+  - count: 1
+    name: Peter Blaine
+    id: 201114
+    capacity: 4
+    disciplines: aus dom for
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
+    name: Bothwell
+    id: 200214
+    capacity: 3
+    disciplines: ani for
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Juan Cali
+    id: 200729
+    capacity: 3
+    disciplines: aus for
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
+    name: Lana Butcher
+    id: 200812
+    capacity: 3
+    disciplines: dom for
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Lázár Dobrescu
+    id: 200819
+    capacity: 3
+    disciplines: for
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Vedel Esbreno
+    id: 201432
+    capacity: 3
+    disciplines: chi for
+    clan: Ravnos
+    grouping: 2
+  - count: 1
+    name: Sarah Raines
+    id: 201239
+    capacity: 2
+    disciplines: for
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: March Halcyon
+    id: 200911
+    capacity: 1
+    disciplines: for
+    clan: Pander
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Dominate
+      id: 100572
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Frontal Assault
+      id: 100794
+    - count: 6
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 4
+      name: Life in the City
+      id: 101104
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Tribute to the Master
+      id: 102023
+  - name: Action Modifier
+    count: 9
+    cards:
+    - count: 8
+      name: Conditioning
+      id: 100401
+    - count: 1
+      name: Daring the Dawn
+      id: 100492
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 8
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Poison Pill
+      id: 101406
+  - name: Combat
+    count: 49
+    cards:
+    - count: 6
+      name: Dead-End Alley
+      id: 100504
+    - count: 3
+      name: Molotov Cocktail
+      id: 101235
+    - count: 8
+      name: Soak
+      id: 101817
+    - count: 8
+      name: Target Vitals
+      id: 101942
+    - count: 12
+      name: Trap
+      id: 102012
+    - count: 10
+      name: Undead Persistence
+      id: 102060
+    - count: 2
+      name: Zip Gun
+      id: 102208
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12812
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12812.zip

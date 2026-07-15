@@ -1,0 +1,215 @@
+event_id: '12325'
+name: 'Fee Stake: Lublin 2025'
+location: Lublin
+date_start: 2025-05-17
+rounds_format: 3R+F
+players_count: 20
+winner: Tomasz Kłoczko
+deck:
+  player:
+    name: '107'
+    vekn_number: 107
+  name: 'Fee Stake: Lublin'
+  description: 0GW3
+  crypt_count: 12
+  crypt_min: 13
+  crypt_max: 22
+  crypt_avg: 4.42
+  crypt:
+  - count: 2
+    name: Sennadurek
+    id: 201263
+    capacity: 6
+    disciplines: dom AUS NEC
+    clan: Nagaraja
+    grouping: 4
+  - count: 2
+    name: Anne-Marie Bourgeois, Inconnu Recruiter
+    id: 200105
+    capacity: 5
+    disciplines: cel pre AUS
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Frondator
+    id: 200485
+    capacity: 5
+    disciplines: dom tha AUS
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Neighbor John
+    id: 201046
+    capacity: 5
+    disciplines: dom for AUS
+    clan: Ventrue antitribu
+    grouping: 4
+  - count: 1
+    name: America Johnson
+    id: 201512
+    capacity: 4
+    disciplines: vic AUS
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Pearl
+    id: 201106
+    capacity: 4
+    disciplines: obf AUS
+    clan: Malkavian antitribu
+    grouping: 5
+  - count: 1
+    name: Tyler McGill
+    id: 201398
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Gwen Brand
+    id: 200553
+    capacity: 3
+    disciplines: aus chi
+    clan: Ravnos
+    grouping: 5
+  - count: 1
+    name: Kalila
+    id: 200744
+    capacity: 3
+    disciplines: aus obf
+    clan: Malkavian
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 1
+      name: Channel 10
+      id: 100327
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Fragment of the Book of Nod
+      id: 100785
+    - count: 2
+      name: Heidelberg Castle, Germany
+      id: 100908
+    - count: 1
+      name: Humanitas
+      id: 100943
+    - count: 1
+      name: KRCG News Radio
+      id: 101067
+    - count: 1
+      name: 'Powerbase: Chicago'
+      id: 101434
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 3
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 1
+      name: Society of Leopold
+      id: 101822
+    - count: 1
+      name: Unnatural Disaster
+      id: 102080
+    - count: 5
+      name: Vessel
+      id: 102113
+  - name: Ally
+    count: 7
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 2
+      name: Neighborhood Watch Commander
+      id: 101270
+    - count: 4
+      name: Procurer
+      id: 101491
+  - name: Equipment
+    count: 12
+    cards:
+    - count: 4
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Camera Phone
+      id: 100287
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Ritual Goblet
+      id: 102243
+    - count: 4
+      name: Sniper Rifle
+      id: 101816
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+  - name: Reaction
+    count: 37
+    cards:
+    - count: 5
+      name: Eagle's Sight
+      id: 100598
+    - count: 5
+      name: Enhanced Senses
+      id: 100644
+    - count: 7
+      name: Eyes of Argus
+      id: 100680
+    - count: 3
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 6
+      name: On the Qui Vive
+      id: 101321
+    - count: 3
+      name: Precognition
+      id: 101475
+    - count: 8
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 11
+    cards:
+    - count: 6
+      name: Concealed Weapon
+      id: 100392
+    - count: 5
+      name: Target Vitals
+      id: 101942
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: NSA Trio
+      id: 101306
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12325
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12325.zip

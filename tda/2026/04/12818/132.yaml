@@ -1,0 +1,162 @@
+event_id: '12818'
+name: VtES Finnish Nationals 2026
+location: Vantaa
+date_start: 2026-04-25
+rounds_format: 3R+F
+players_count: 41
+winner: Tommi Hakomaa
+deck:
+  player:
+    name: '132'
+    vekn_number: 132
+  name: Finnish Nationals 2026
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 44
+  crypt_max: 44
+  crypt_avg: 11.0
+  crypt:
+  - count: 4
+    name: Saulot, The Wanderer
+    id: 201248
+    capacity: 11
+    disciplines: dai AUS FOR OBE THA VAL
+    clan: Salubri
+    grouping: 4
+  - count: 2
+    name: Adana de Sforza
+    id: 200011
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 2
+    name: Lutz von Hohenzollern
+    id: 200890
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 2
+    name: Mistress Fanchon
+    id: 200999
+    capacity: 11
+    disciplines: AUS CEL DOM OBF THA VIC
+    title: Inner Circle
+    clan: Tremere
+    grouping: 4
+  - count: 2
+    name: Rafael de Corazon
+    id: 201151
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  library_count: 78
+  library_sections:
+  - name: Master
+    count: 23
+    cards:
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 6
+      name: Minion Tap
+      id: 101217
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: Obfuscate
+      id: 101310
+    - count: 2
+      name: Sudden Reversal
+      id: 101896
+    - count: 2
+      name: Wider View
+      id: 102180
+    - count: 7
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 10
+    cards:
+    - count: 6
+      name: Flurry of Action
+      id: 100752
+    - count: 4
+      name: Renewed Vigor
+      id: 101603
+  - name: Political Action
+    count: 15
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 4
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 3
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reckless Agitation
+      id: 101567
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 4
+      name: Faceless Night
+      id: 100687
+    - count: 6
+      name: Into Thin Air
+      id: 101001
+    - count: 2
+      name: Repulsion
+      id: 101606
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Hide the Mind
+      id: 100921
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 3
+      name: Eyes of Argus
+      id: 100680
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 7
+      name: Telepathic Misdirection
+      id: 101949
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12818
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12818.zip

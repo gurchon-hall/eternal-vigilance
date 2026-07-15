@@ -1,0 +1,172 @@
+event_id: '11686'
+name: Australian New Zealand 2024 Continental Championship
+location: Sydney
+date_start: 2024-10-26
+rounds_format: 3R+F
+players_count: 36
+winner: Keith Lim
+deck:
+  player:
+    name: '105'
+    vekn_number: 105
+  name: Oceanic Continental Championship 2024
+  description: 1GW5+0
+  crypt_count: 13
+  crypt_min: 37
+  crypt_max: 44
+  crypt_avg: 10.15
+  crypt:
+  - count: 5
+    name: Stanislava
+    id: 201312
+    capacity: 11
+    disciplines: ANI CEL DOM FOR PRO
+    title: Inner Circle
+    clan: Gangrel
+    grouping: 2
+  - count: 3
+    name: Xaviar (ADV)
+    id: 201478
+    capacity: 10
+    disciplines: aus cel pot ABO ANI FOR PRO
+    title: Justicar
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Genevieve
+    id: 200501
+    capacity: 10
+    disciplines: aus dom ANI FOR PRO
+    title: Priscus
+    clan: Gangrel antitribu
+    grouping: 2
+  - count: 1
+    name: Hartmut Stover
+    id: 200575
+    capacity: 10
+    disciplines: dom for CEL OBF PRO
+    title: Archbishop
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 3
+    name: Ingrid Rossler
+    id: 200634
+    capacity: 9
+    disciplines: dom ANI FOR PRO
+    title: Prince
+    clan: Gangrel
+    grouping: 2
+  library_count: 82
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 1
+      name: Backways
+      id: 100126
+    - count: 1
+      name: Ecoterrorists
+      id: 100609
+    - count: 1
+      name: Ennoia's Theater
+      id: 100646
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 9
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 6
+    cards:
+    - count: 6
+      name: Govern the Unaligned
+      id: 100845
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 3
+      name: Banishment
+      id: 100131
+    - count: 4
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 1
+      name: Disputed Territory
+      id: 100557
+    - count: 2
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Neonate Breach
+      id: 101271
+    - count: 2
+      name: Parity Shift
+      id: 101353
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Double Deuce
+      id: 102220
+  - name: Action Modifier
+    count: 20
+    cards:
+    - count: 5
+      name: Earth Control
+      id: 100600
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 4
+      name: Forced March
+      id: 100761
+    - count: 6
+      name: Freak Drive
+      id: 100788
+    - count: 4
+      name: Instantaneous Transformation
+      id: 100994
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+  - name: Combat
+    count: 10
+    cards:
+    - count: 5
+      name: Earth Meld
+      id: 100601
+    - count: 5
+      name: Form of Mist
+      id: 100771
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11686
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11686.zip

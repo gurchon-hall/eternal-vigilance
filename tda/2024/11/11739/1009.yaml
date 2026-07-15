@@ -1,0 +1,201 @@
+event_id: '11739'
+name: VtES Finnish Nationals 2024
+location: Kerava
+date_start: 2024-11-09
+rounds_format: 3R+F
+players_count: 30
+winner: Jonas Ståhle
+deck:
+  player:
+    name: '1009'
+    vekn_number: 1009
+  name: Finnish Nationals 2024
+  description: 1GW3.5
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 33
+  crypt_avg: 5.42
+  crypt:
+  - count: 3
+    name: Annabelle Triabell
+    id: 201693
+    capacity: 9
+    disciplines: dom for AUS CEL PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Maila
+    id: 201633
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Victoria Ash
+    id: 201619
+    capacity: 6
+    disciplines: aus cel dom PRE
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Carmelita Neillson
+    id: 201625
+    capacity: 5
+    disciplines: cel pre AUS
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Regina Blake
+    id: 201648
+    capacity: 5
+    disciplines: AUS PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Bret Stryker
+    id: 201538
+    capacity: 4
+    disciplines: CEL PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Silvian Popescu
+    id: 201706
+    capacity: 4
+    disciplines: cel PRE
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Valentina Osako
+    id: 201707
+    capacity: 3
+    disciplines: PRE
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Veejay Vinod
+    id: 201433
+    capacity: 3
+    disciplines: AUS
+    clan: Nagaraja
+    grouping: 6
+  - count: 1
+    name: Mateo García
+    id: 201631
+    capacity: 2
+    disciplines: pre
+    clan: Toreador
+    grouping: 6
+  library_count: 82
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Art Museum
+      id: 100095
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 3
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Society Hunting Ground
+      id: 101821
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 20
+    cards:
+    - count: 15
+      name: Enchant Kindred
+      id: 100640
+    - count: 5
+      name: Mind Numb
+      id: 101211
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 9
+      name: Aire of Elation
+      id: 100031
+    - count: 4
+      name: Loup
+      id: 102273
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Force of Personality
+      id: 100758
+  - name: Reaction
+    count: 19
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 6
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 7
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 10
+    cards:
+    - count: 1
+      name: Charismatic Aura
+      id: 100333
+    - count: 9
+      name: Majesty
+      id: 101144
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The
+      id: 100163
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11739
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11739.zip

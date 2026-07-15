@@ -1,0 +1,151 @@
+event_id: '12325'
+name: 'Fee Stake: Lublin 2025'
+location: Lublin
+date_start: 2025-05-17
+rounds_format: 3R+F
+players_count: 20
+winner: Tomasz Kłoczko
+deck:
+  player:
+    name: '117'
+    vekn_number: 117
+  name: 'Fee Stake: Lublin'
+  description: 0GW0.5
+  crypt_count: 12
+  crypt_min: 26
+  crypt_max: 40
+  crypt_avg: 8.25
+  crypt:
+  - count: 5
+    name: Alonso Petrodon
+    id: 200060
+    capacity: 10
+    disciplines: for tha ANI DOM OBF POT
+    title: Justicar
+    clan: Nosferatu
+    grouping: 5
+  - count: 2
+    name: Alexander Silverson
+    id: 201530
+    capacity: 8
+    disciplines: pre AUS DOM OBF
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  - count: 3
+    name: Graham Gottesman
+    id: 200533
+    capacity: 7
+    disciplines: obf pre tha DOM FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 1
+    name: Andi Liu
+    id: 201532
+    capacity: 6
+    disciplines: aus obf pre DOM
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  - count: 1
+    name: Donny Kowalczyk
+    id: 201544
+    capacity: 6
+    disciplines: cel dom obf AUS
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  library_count: 84
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 4
+      name: Heidelberg Castle, Germany
+      id: 100908
+    - count: 1
+      name: Labyrinth, The
+      id: 101070
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Warsaw Station
+      id: 102149
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 22
+    cards:
+    - count: 2
+      name: Abactor
+      id: 100004
+    - count: 6
+      name: Govern the Unaligned
+      id: 100845
+    - count: 6
+      name: 'Judgment: Camarilla Segregation'
+      id: 101028
+    - count: 8
+      name: Puppet Master
+      id: 101215
+  - name: Political Action
+    count: 10
+    cards:
+    - count: 2
+      name: Anarchist Uprising
+      id: 100059
+    - count: 4
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 4
+      name: Parity Shift
+      id: 101353
+  - name: Action Modifier
+    count: 21
+    cards:
+    - count: 1
+      name: Daring the Dawn
+      id: 100492
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 6
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 6
+      name: Freak Drive
+      id: 100788
+    - count: 6
+      name: Lost in Crowds
+      id: 101125
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 4
+      name: Deflection
+      id: 100518
+    - count: 5
+      name: Obedience
+      id: 101309
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: No Trace
+      id: 101292
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12325
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12325.zip

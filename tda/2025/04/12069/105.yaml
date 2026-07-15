@@ -1,0 +1,231 @@
+event_id: '12069'
+name: None
+location: Vantaa
+date_start: 2025-04-12
+rounds_format: 3R+F
+players_count: 39
+winner: Teemu Sainomaa
+deck:
+  player:
+    name: '105'
+    vekn_number: 105
+  name: Finnish Nationals 2025
+  description: 1GW6+0
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 14
+  crypt_avg: 2.17
+  crypt:
+  - count: 1
+    name: Agrippina
+    id: 200022
+    capacity: 4
+    disciplines: pot OBF
+    clan: Nosferatu
+    grouping: 1
+  - count: 1
+    name: Violette Prentiss
+    id: 201450
+    capacity: 4
+    disciplines: dom PRE
+    clan: Ventrue
+    grouping: 1
+  - count: 1
+    name: Gideon Fontaine
+    id: 200516
+    capacity: 3
+    disciplines: PRE
+    clan: Ventrue
+    grouping: 1
+  - count: 1
+    name: Watenda
+    id: 201464
+    capacity: 3
+    disciplines: obf
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Delilah Easton
+    id: 200330
+    capacity: 2
+    disciplines: pre
+    clan: Toreador
+    grouping: 1
+  - count: 1
+    name: Dimple
+    id: 200346
+    capacity: 2
+    disciplines: obf
+    clan: Nosferatu
+    grouping: 1
+  - count: 1
+    name: Normal
+    id: 201065
+    capacity: 2
+    disciplines: obf
+    clan: Malkavian
+    grouping: 1
+  - count: 1
+    name: Vasilis, The Traitor of Don Cruez
+    id: 201428
+    capacity: 2
+    disciplines: pre
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Antoinette DuChamp
+    id: 200112
+    capacity: 1
+    disciplines: cel pre
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Franciscus
+    id: 200477
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 2
+  - count: 1
+    name: Igo the Hungry
+    id: 200625
+    capacity: 1
+    disciplines: pre pro
+    clan: Caitiff
+    grouping: 1
+  - count: 1
+    name: Smudge the Ignored
+    id: 201301
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: 1
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 10
+    cards:
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 6
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: Two Wrongs
+      id: 102052
+    - count: 1
+      name: Ventrue Headquarters
+      id: 102109
+  - name: Action
+    count: 8
+    cards:
+    - count: 3
+      name: Charming Lobby
+      id: 100334
+    - count: 2
+      name: Entrancement
+      id: 100652
+    - count: 3
+      name: 'Judgment: Camarilla Segregation'
+      id: 101028
+  - name: Political Action
+    count: 33
+    cards:
+    - count: 1
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 5
+      name: Conservative Agitation
+      id: 100414
+    - count: 1
+      name: Disputed Territory
+      id: 100557
+    - count: 1
+      name: Domain Challenge
+      id: 100570
+    - count: 11
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Neonate Breach
+      id: 101271
+    - count: 1
+      name: Parity Shift
+      id: 101353
+    - count: 1
+      name: 'Praxis Seizure: Amsterdam'
+      id: 101447
+    - count: 1
+      name: 'Praxis Seizure: Atlanta'
+      id: 101449
+    - count: 1
+      name: 'Praxis Seizure: Barcelona'
+      id: 101450
+    - count: 1
+      name: 'Praxis Seizure: Berlin'
+      id: 101451
+    - count: 1
+      name: 'Praxis Seizure: Geneva'
+      id: 101460
+    - count: 1
+      name: 'Praxis Seizure: Glasgow'
+      id: 101461
+    - count: 1
+      name: 'Praxis Seizure: Monaco'
+      id: 101466
+    - count: 1
+      name: 'Praxis Seizure: Paris'
+      id: 101467
+    - count: 1
+      name: 'Praxis Seizure: Seattle'
+      id: 101469
+    - count: 1
+      name: 'Praxis Seizure: Stockholm'
+      id: 101470
+    - count: 1
+      name: 'Praxis Seizure: Venice'
+      id: 101471
+    - count: 1
+      name: Ventrue Justicar
+      id: 102111
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 25
+    cards:
+    - count: 10
+      name: Bewitching Oration
+      id: 100157
+    - count: 3
+      name: Change of Target
+      id: 100323
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 3
+      name: Cryptic Rider
+      id: 100478
+    - count: 7
+      name: Veil the Legions
+      id: 102097
+  - name: Combat
+    count: 3
+    cards:
+    - count: 2
+      name: Majesty
+      id: 101144
+    - count: 1
+      name: Staredown
+      id: 101859
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12069
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12069.zip

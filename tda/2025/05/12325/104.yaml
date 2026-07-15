@@ -1,0 +1,184 @@
+event_id: '12325'
+name: 'Fee Stake: Lublin 2025'
+location: Lublin
+date_start: 2025-05-17
+rounds_format: 3R+F
+players_count: 20
+winner: Tomasz Kłoczko
+deck:
+  player:
+    name: '104'
+    vekn_number: 104
+  name: 'Fee Stake: Lublin'
+  description: 1GW4+0
+  crypt_count: 12
+  crypt_min: 9
+  crypt_max: 40
+  crypt_avg: 6.25
+  crypt:
+  - count: 6
+    name: Shalmath
+    id: 201274
+    capacity: 10
+    disciplines: POT PRE TEM
+    clan: True Brujah
+    grouping: 6
+  - count: 1
+    name: Adisa
+    id: 201636
+    capacity: 3
+    disciplines: cel obf
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Bijou
+    id: 201580
+    capacity: 3
+    disciplines: cel tha
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Sukainah
+    id: 201323
+    capacity: 3
+    disciplines: aus qui
+    clan: Banu Haqim
+    grouping: 5
+  - count: 1
+    name: Alu
+    id: 200062
+    capacity: 2
+    disciplines: obf
+    clan: Banu Haqim
+    grouping: 5
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 74
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 2
+      name: Priority Contract
+      id: 101487
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Tabriz Assembly
+      id: 101924
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: Ambush
+      id: 100046
+    - count: 1
+      name: Big Game
+      id: 100159
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Path of the Scorched Heart, The
+      id: 101371
+    - count: 1
+      name: Preternatural Strength
+      id: 101483
+    - count: 7
+      name: Summon History
+      id: 101897
+  - name: Ally
+    count: 4
+    cards:
+    - count: 1
+      name: Gregory Winter
+      id: 100855
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+    - count: 1
+      name: Tye Cooper
+      id: 102053
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Book of Going Forth by Night, The
+      id: 100239
+    - count: 1
+      name: Eye of Hazimel
+      id: 100678
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Sport Bike
+      id: 101856
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 6
+      name: Domain of Evernight
+      id: 100571
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+  - name: Combat
+    count: 31
+    cards:
+    - count: 3
+      name: Decapitate
+      id: 100511
+    - count: 7
+      name: Disarm
+      id: 100549
+    - count: 8
+      name: Majesty
+      id: 101144
+    - count: 10
+      name: Outside the Hourglass
+      id: 101338
+    - count: 3
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The
+      id: 102057
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12325
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12325.zip

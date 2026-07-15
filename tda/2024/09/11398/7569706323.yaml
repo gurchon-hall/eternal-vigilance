@@ -1,0 +1,193 @@
+event_id: '11398'
+name: German Nationals 2024
+location: Darmstadt
+date_start: 2024-09-07
+rounds_format: 3R+F
+players_count: 32
+winner: ''
+deck:
+  player:
+    name: '7569706323'
+    vekn_number: 7569706323
+  name: German Nationals 2024
+  description: 2GW+6
+  crypt_count: 12
+  crypt_min: 35
+  crypt_max: 41
+  crypt_avg: 9.58
+  crypt:
+  - count: 1
+    name: Montano
+    id: 201006
+    capacity: 11
+    disciplines: ANI DOM FOR OBT POT
+    title: 2 Votes
+    clan: Lasombra
+    grouping: 3
+  - count: 3
+    name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
+    capacity: 10
+    disciplines: aus for DOM OBT POT PRE
+    title: Cardinal
+    clan: Lasombra
+    grouping: 2
+  - count: 2
+    name: Angelica, The Canonicus
+    id: 200092
+    capacity: 10
+    disciplines: cel obf DOM OBT POT
+    title: Cardinal
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Ayelea, The Manipulator
+    id: 200152
+    capacity: 10
+    disciplines: pre AUS DOM OBT THA
+    title: Cardinal
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 2
+    name: Francisco Domingo de Polonia
+    id: 200476
+    capacity: 9
+    disciplines: pro DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Alvaro, The Scion of Angelica
+    id: 200063
+    capacity: 9
+    disciplines: dom pre OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Antonio Delgado
+    id: 200117
+    capacity: 9
+    disciplines: tha DOM OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Gratiano
+    id: 200534
+    capacity: 8
+    disciplines: obf pot DOM OBT
+    title: Priscus
+    clan: Lasombra
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 27
+    cards:
+    - count: 1
+      name: Black Forest Base
+      id: 100165
+    - count: 1
+      name: Elysian Fields
+      id: 100629
+    - count: 2
+      name: Fear of Mekhet
+      id: 100710
+    - count: 1
+      name: Gurchon Hall
+      id: 100871
+    - count: 1
+      name: Legendary Vampire
+      id: 101091
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: Path of Night, The
+      id: 101365
+    - count: 1
+      name: Power Structure
+      id: 101430
+    - count: 2
+      name: Presence
+      id: 101480
+    - count: 5
+      name: Tomb of Rameses III
+      id: 101987
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 5
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 9
+    cards:
+    - count: 7
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Graverobbing
+      id: 100852
+  - name: Political Action
+    count: 13
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 3
+      name: Banishment
+      id: 100131
+    - count: 5
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Lextalionis
+      id: 101099
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 4
+      name: Private Audience
+      id: 101490
+    - count: 4
+      name: Shadow Play
+      id: 101743
+    - count: 5
+      name: Voter Captivation
+      id: 102131
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 8
+      name: Deflection
+      id: 100518
+  - name: Combat
+    count: 20
+    cards:
+    - count: 6
+      name: Arms of the Abyss
+      id: 100091
+    - count: 6
+      name: Darkness Within
+      id: 100497
+    - count: 5
+      name: Entombment
+      id: 100651
+    - count: 3
+      name: Shadow Body
+      id: 101735
+winner_vekn_number: 8638881481
+event_url: https://www.vekn.net/event-calendar/event/11398
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11398.zip

@@ -1,0 +1,151 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1004'
+    vekn_number: 1004
+  name: Warsaw LCQ 2024
+  description: 2GW7+0.5
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 28
+  crypt_avg: 5.0
+  crypt:
+  - count: 2
+    name: Brunhilde (ADV)
+    id: 200224
+    capacity: 8
+    disciplines: pre ANI FOR PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Brunhilde
+    id: 200223
+    capacity: 8
+    disciplines: pre ANI FOR PRO
+    clan: Gangrel
+    grouping: 3
+  - count: 9
+    name: Valkyrie
+    id: 201423
+    capacity: 4
+    disciplines: for pre pro
+    clan: Gangrel
+    grouping: 3
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Backways
+      id: 100126
+    - count: 1
+      name: Ecoterrorists
+      id: 100609
+    - count: 5
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: Ennoia's Theater
+      id: 100646
+    - count: 3
+      name: Gangrel Revel
+      id: 100807
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 3
+      name: Tribute to the Master
+      id: 102023
+  - name: Action
+    count: 19
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 1
+      name: Legal Manipulations
+      id: 101089
+    - count: 1
+      name: Rewilding
+      id: 101632
+    - count: 16
+      name: Thing
+      id: 101972
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Double Deuce
+      id: 102220
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 2
+      name: Camera Phone
+      id: 100287
+    - count: 2
+      name: Sport Bike
+      id: 101856
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+      id: 101015
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 6
+      name: Enchanting Gaze
+      id: 102221
+    - count: 7
+      name: Revelation of the Serpent
+      id: 102233
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 10
+      name: Eyes of the Wild
+      id: 102222
+  - name: Combat
+    count: 11
+    cards:
+    - count: 3
+      name: Earth Meld
+      id: 100601
+    - count: 3
+      name: Hidden Strength
+      id: 100918
+    - count: 3
+      name: Soak
+      id: 101817
+    - count: 2
+      name: Taste of Vitae
+      id: 101945
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

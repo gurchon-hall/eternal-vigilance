@@ -1,0 +1,177 @@
+event_id: '11707'
+name: 'Garou Rim: Above the Law'
+location: Joensuu
+date_start: 2024-10-26
+rounds_format: 3R+F
+players_count: 10
+winner: Miska Tanskanen
+deck:
+  player:
+    name: '1007'
+    vekn_number: 1007
+  name: 'Garou Rim: Above the Law'
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 40
+  crypt_avg: 7.75
+  crypt:
+  - count: 5
+    name: Dmitri Borodin
+    id: 200350
+    capacity: 10
+    disciplines: obf AUS CEL NEC QUI
+    clan: Banu Haqim
+    grouping: 4
+  - count: 3
+    name: Massassi
+    id: 200954
+    capacity: 9
+    disciplines: obf AUS CEL POT QUI
+    clan: Osebo
+    grouping: 4
+  - count: 1
+    name: Hafsa, The Watcher
+    id: 200559
+    capacity: 6
+    disciplines: aus cel OBF QUI
+    clan: Banu Haqim
+    grouping: 5
+  - count: 1
+    name: Bertrand d'Anjou
+    id: 200192
+    capacity: 4
+    disciplines: aus cel qui
+    clan: Banu Haqim
+    grouping: 4
+  - count: 1
+    name: Evan Rogers
+    id: 200445
+    capacity: 3
+    disciplines: cel qui
+    clan: Banu Haqim
+    grouping: 4
+  - count: 1
+    name: Sukainah
+    id: 201323
+    capacity: 3
+    disciplines: aus qui
+    clan: Banu Haqim
+    grouping: 5
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 2
+      name: "Haqim's Law: Retribution"
+      id: 102226
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 2
+      name: Path of Blood, The
+      id: 101358
+    - count: 2
+      name: Priority Contract
+      id: 101487
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 1
+      name: Underworld Hunting Ground
+      id: 102066
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 6
+    cards:
+    - count: 6
+      name: Truth of Blood
+      id: 102045
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 4
+      name: .44 Magnum
+      id: 100001
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Trochomancy
+      id: 102026
+  - name: Reaction
+    count: 21
+    cards:
+    - count: 6
+      name: Black Sunrise
+      id: 100171
+    - count: 2
+      name: Enhanced Senses
+      id: 100644
+    - count: 3
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 3
+      name: Quicken Sight
+      id: 101531
+    - count: 1
+      name: Spirit's Touch
+      id: 101850
+    - count: 4
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 26
+    cards:
+    - count: 4
+      name: Concealed Weapon
+      id: 100392
+    - count: 3
+      name: Flash
+      id: 100744
+    - count: 4
+      name: Psyche!
+      id: 101507
+    - count: 4
+      name: Pursuit
+      id: 101523
+    - count: 1
+      name: Quickness
+      id: 101532
+    - count: 3
+      name: Taste of Death
+      id: 101944
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+    - count: 3
+      name: Thin Blood
+      id: 101970
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11707
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11707.zip

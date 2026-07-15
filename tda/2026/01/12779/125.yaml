@@ -1,0 +1,197 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '125'
+    vekn_number: 125
+  name: Croatian Abuse of Power 2026
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 23
+  crypt_max: 39
+  crypt_avg: 7.75
+  crypt:
+  - count: 3
+    name: Aaradhya, The Callous Tyrant
+    id: 201733
+    capacity: 10
+    disciplines: ANI DOM FOR POT PRE
+    title: Cardinal
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 2
+    name: De Sade
+    id: 200327
+    capacity: 9
+    disciplines: AUS DOM FOR PRE
+    title: Archbishop
+    clan: Ventrue antitribu
+    grouping: 5
+  - count: 1
+    name: Üresség
+    id: 201775
+    capacity: 8
+    disciplines: dom for CEL POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 2
+    name: Khin Aye
+    id: 201760
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Aimery Methuin
+    id: 200027
+    capacity: 7
+    disciplines: ani pot AUS DOM FOR
+    clan: Ventrue antitribu
+    grouping: 5
+  - count: 2
+    name: Concordia
+    id: 201744
+    capacity: 6
+    disciplines: for pot DOM PRE
+    title: Bishop
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Onkabetse, Arriviste
+    id: 201766
+    capacity: 4
+    disciplines: for pot pre
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  library_count: 89
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 2
+      name: Black Forest Base
+      id: 100165
+    - count: 3
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Demonstration
+      id: 100522
+    - count: 1
+      name: Dominate
+      id: 100572
+    - count: 1
+      name: Framing an Ancient Grudge
+      id: 100787
+    - count: 1
+      name: 'Powerbase: Madrid'
+      id: 101437
+    - count: 2
+      name: Privileged Position
+      id: 102334
+    - count: 1
+      name: Purchase Pact
+      id: 101520
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 9
+    cards:
+    - count: 4
+      name: Enchant Kindred
+      id: 100640
+    - count: 3
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Slaughtering the Herd
+      id: 101801
+  - name: Political Action
+    count: 13
+    cards:
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Cardinal Benediction
+      id: 100294
+    - count: 2
+      name: Consanguineous Boon
+      id: 100410
+    - count: 6
+      name: Kine Resources Contested
+      id: 101056
+    - count: 2
+      name: Public Vilification
+      id: 101514
+    - count: 1
+      name: War of Ages
+      id: 102348
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Procurer
+      id: 101491
+  - name: Action Modifier
+    count: 34
+    cards:
+    - count: 6
+      name: Bonding
+      id: 100236
+    - count: 2
+      name: Daring the Dawn
+      id: 100492
+    - count: 4
+      name: Dominant Personality
+      id: 102316
+    - count: 10
+      name: Freak Drive
+      id: 100788
+    - count: 6
+      name: Relentlessness
+      id: 102337
+    - count: 4
+      name: Unthinkable Humiliation
+      id: 102346
+    - count: 2
+      name: Voter Captivation
+      id: 102131
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 3
+      name: Wake with Evening's Freshness
+      id: 102137
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Majesty
+      id: 101144
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

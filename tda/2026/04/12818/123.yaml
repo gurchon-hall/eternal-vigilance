@@ -1,0 +1,216 @@
+event_id: '12818'
+name: VtES Finnish Nationals 2026
+location: Vantaa
+date_start: 2026-04-25
+rounds_format: 3R+F
+players_count: 41
+winner: Tommi Hakomaa
+deck:
+  player:
+    name: '123'
+    vekn_number: 123
+  name: Finnish Nationals 2026
+  description: 0GW2
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 32
+  crypt_avg: 7.08
+  crypt:
+  - count: 3
+    name: Sergio Bueno
+    id: 201662
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Adrino Manauara
+    id: 201664
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Saku Pihlajamäki
+    id: 201658
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Ángel Guerrero
+    id: 201665
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Branimira
+    id: 201667
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Casey Snyder
+    id: 201521
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Kuyén
+    id: 201574
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 31
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 2
+      name: Carfax Abbey
+      id: 100297
+    - count: 2
+      name: Club Illusion
+      id: 100366
+    - count: 1
+      name: Dark Influences
+      id: 100493
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Ferraille
+      id: 100722
+    - count: 2
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Opium Den
+      id: 101326
+    - count: 2
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: 'Powerbase: Savannah'
+      id: 101442
+    - count: 2
+      name: Protean
+      id: 101498
+    - count: 8
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 8
+    cards:
+    - count: 4
+      name: Chameleon
+      id: 100320
+    - count: 4
+      name: Childe of the Revolution
+      id: 102246
+  - name: Political Action
+    count: 4
+    cards:
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 2
+      name: Revolutionary Council
+      id: 101631
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 2
+      name: Sport Bike
+      id: 101856
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: Crypt's Sons
+      id: 100476
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+  - name: Action Modifier
+    count: 1
+    cards:
+    - count: 1
+      name: Monkey Wrench
+      id: 101239
+  - name: Action Modifier/Reaction
+    count: 8
+    cards:
+    - count: 8
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 8
+      name: Bait and Switch
+      id: 102218
+    - count: 10
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 14
+    cards:
+    - count: 11
+      name: Earth Meld
+      id: 100601
+    - count: 3
+      name: Form of Mist
+      id: 100771
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12818
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12818.zip

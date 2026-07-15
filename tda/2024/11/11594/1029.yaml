@@ -1,0 +1,185 @@
+event_id: '11594'
+name: Camarilla Conclave Grand Prix 2024
+location: Palma
+date_start: 2024-11-16
+rounds_format: 3R+F
+players_count: 89
+winner: P045
+deck:
+  player:
+    name: '1029'
+    vekn_number: 1029
+  name: Camarilla Conclave GP 2024
+  description: 1GW3
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 32
+  crypt_avg: 7.0
+  crypt:
+  - count: 5
+    name: Saku Pihlajamäki
+    id: 201658
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Aline Gädeke
+    id: 201576
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    id: 201614
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 3
+    name: Leumeah
+    id: 201526
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Atiena
+    id: 201579
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Octane
+    id: 201609
+    capacity: 6
+    disciplines: CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Fortitude
+      id: 100774
+    - count: 1
+      name: Fragment of the Book of Nod
+      id: 100785
+    - count: 2
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 2
+      name: Hackerspace
+      id: 100876
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wash
+      id: 102151
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 14
+    cards:
+    - count: 2
+      name: Heroic Might
+      id: 100913
+    - count: 8
+      name: Line Brawl
+      id: 102229
+    - count: 3
+      name: Make the Misere
+      id: 101147
+    - count: 1
+      name: Open War
+      id: 101324
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Reckless Agitation
+      id: 101567
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 5
+      name: .44 Magnum
+      id: 100001
+  - name: Action Modifier
+    count: 9
+    cards:
+    - count: 5
+      name: Forced March
+      id: 100761
+    - count: 1
+      name: Freak Drive
+      id: 100788
+    - count: 2
+      name: Monkey Wrench
+      id: 101239
+    - count: 1
+      name: Perfect Paragon
+      id: 101387
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Resist Earth's Grasp
+      id: 101610
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 5
+      name: Bait and Switch
+      id: 102218
+    - count: 2
+      name: Deep Ecology
+      id: 102219
+    - count: 8
+      name: Organized Resistance
+      id: 102230
+    - count: 3
+      name: Protection Racket
+      id: 101501
+  - name: Combat
+    count: 22
+    cards:
+    - count: 3
+      name: Bollix
+      id: 100232
+    - count: 4
+      name: Concealed Weapon
+      id: 100392
+    - count: 8
+      name: Diversion
+      id: 100563
+    - count: 2
+      name: Dust Up
+      id: 100597
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11594
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

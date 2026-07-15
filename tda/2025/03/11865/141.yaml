@@ -1,0 +1,206 @@
+event_id: '11865'
+name: ITALIAN GP 2025 - MODENA
+location: Modena
+date_start: 2025-03-01
+rounds_format: 3R+F
+players_count: 70
+winner: Frederic Pin
+deck:
+  player:
+    name: '141'
+    vekn_number: 141
+  name: Italian Grand Prix 2025
+  description: 0GW1.5
+  crypt_count: 15
+  crypt_min: 12
+  crypt_max: 30
+  crypt_avg: 5.07
+  crypt:
+  - count: 1
+    name: Salinger
+    id: 201225
+    capacity: 9
+    disciplines: tha CEL POT PRE
+    title: Archbishop
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 3
+    name: Amelia
+    id: 200071
+    capacity: 7
+    disciplines: CEL POT PRE
+    title: Bishop
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Julian Sanders
+    id: 200735
+    capacity: 6
+    disciplines: pot CEL PRE
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Sela
+    id: 201259
+    capacity: 6
+    disciplines: cel obt POT PRE
+    title: Bishop
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 2
+    name: Rigby, Crusade Vanguard
+    id: 201190
+    capacity: 5
+    disciplines: aus pot CEL PRE
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 2
+    name: Jimmy Dunn
+    id: 200705
+    capacity: 4
+    disciplines: for CEL POT
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Evangeline
+    id: 200446
+    capacity: 4
+    disciplines: cel pot pre
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Victor Tolliver
+    id: 201442
+    capacity: 4
+    disciplines: pot CEL
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Jacob Bragg
+    id: 200662
+    capacity: 3
+    disciplines: cel pot
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Sarah Brando
+    id: 201237
+    capacity: 3
+    disciplines: CEL
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Frederick the Weak
+    id: 200483
+    capacity: 2
+    disciplines: pre
+    clan: Brujah antitribu
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Amusement Park Hunting Ground
+      id: 100049
+    - count: 2
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Gang Territory
+      id: 100803
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 2
+      name: Tension in the Ranks
+      id: 101958
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Waste Management Operation
+      id: 102153
+    - count: 1
+      name: Yawp Court
+      id: 102199
+  - name: Action
+    count: 18
+    cards:
+    - count: 2
+      name: Ambush
+      id: 100046
+    - count: 1
+      name: Bum's Rush
+      id: 100266
+    - count: 2
+      name: Esprit de Corps
+      id: 100663
+    - count: 2
+      name: Games of Instinct
+      id: 100801
+    - count: 1
+      name: Harass
+      id: 100886
+    - count: 4
+      name: Rumble
+      id: 101661
+    - count: 6
+      name: Show of Force
+      id: 101772
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 1
+      name: Aire of Elation
+      id: 100031
+    - count: 4
+      name: Spoils of War
+      id: 101854
+    - count: 3
+      name: Zephyr
+      id: 102205
+  - name: Combat
+    count: 46
+    cards:
+    - count: 4
+      name: Disarm
+      id: 100549
+    - count: 2
+      name: Fists of Death
+      id: 100738
+    - count: 6
+      name: Flash
+      id: 100744
+    - count: 10
+      name: Immortal Grapple
+      id: 100959
+    - count: 2
+      name: Infernal Pursuit
+      id: 100980
+    - count: 6
+      name: Pursuit
+      id: 101523
+    - count: 2
+      name: Quickness
+      id: 101532
+    - count: 4
+      name: Roundhouse
+      id: 102215
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+    - count: 5
+      name: Torn Signpost
+      id: 101993
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11865
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11865.zip

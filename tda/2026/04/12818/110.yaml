@@ -1,0 +1,165 @@
+event_id: '12818'
+name: VtES Finnish Nationals 2026
+location: Vantaa
+date_start: 2026-04-25
+rounds_format: 3R+F
+players_count: 41
+winner: Tommi Hakomaa
+deck:
+  player:
+    name: '110'
+    vekn_number: 110
+  name: Finnish Nationals 2026
+  description: 1GW4.5
+  crypt_count: 12
+  crypt_min: 5
+  crypt_max: 36
+  crypt_avg: 4.92
+  crypt:
+  - count: 5
+    name: Qawiyya el-Ghaduba
+    id: 201138
+    capacity: 9
+    disciplines: aus pre FOR POT VAL
+    clan: Salubri antitribu
+    grouping: 5
+  - count: 3
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Donald Cargill
+    id: 200365
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Walker Grimes
+    id: 201462
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 5
+  library_count: 72
+  library_sections:
+  - name: Master
+    count: 9
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 10
+    cards:
+    - count: 2
+      name: Abuse of Power
+      id: 102309
+    - count: 1
+      name: Big Game
+      id: 100159
+    - count: 1
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Nose of the Hound
+      id: 101296
+    - count: 2
+      name: Preternatural Strength
+      id: 101483
+    - count: 1
+      name: Rumble
+      id: 101661
+    - count: 2
+      name: Sense Death
+      id: 101716
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 1
+      name: Flak Jacket
+      id: 100739
+    - count: 1
+      name: IR Goggles
+      id: 101007
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+    - count: 1
+      name: Light Intensifying Goggles
+      id: 101106
+    - count: 1
+      name: Sacré-Cœur Cathedral, France
+      id: 101670
+  - name: Retainer
+    count: 3
+    cards:
+    - count: 3
+      name: Twisted Bloodhound
+      id: 102344
+  - name: Action Modifier
+    count: 11
+    cards:
+    - count: 11
+      name: Freak Drive
+      id: 100788
+  - name: Combat
+    count: 34
+    cards:
+    - count: 4
+      name: Death Seeker
+      id: 100510
+    - count: 7
+      name: Immortal Grapple
+      id: 100959
+    - count: 3
+      name: Pulled Fangs
+      id: 101515
+    - count: 2
+      name: Rage of Apedemak
+      id: 102336
+    - count: 1
+      name: Righteous Aura
+      id: 101635
+    - count: 3
+      name: Rolling with the Punches
+      id: 101649
+    - count: 1
+      name: Soulgrinder
+      id: 102340
+    - count: 7
+      name: Taste of Vitae
+      id: 101945
+    - count: 6
+      name: Unflinching Persistence
+      id: 102071
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12818
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12818.zip

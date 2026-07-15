@@ -1,0 +1,203 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '122'
+    vekn_number: 122
+  name: Croatian Abuse of Power 2026
+  description: 0GW2
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 44
+  crypt_avg: 6.08
+  crypt:
+  - count: 6
+    name: Hardestadt
+    id: 200568
+    capacity: 11
+    disciplines: cel pro DOM FOR POT PRE
+    title: Inner Circle
+    clan: Ventrue
+    grouping: 4
+  - count: 1
+    name: Sarah Raines
+    id: 201239
+    capacity: 2
+    disciplines: for
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Andy
+    id: 200087
+    capacity: 1
+    disciplines: for
+    clan: Caitiff
+    grouping: 4
+  - count: 1
+    name: Dirk
+    id: 200347
+    capacity: 1
+    disciplines: pre
+    clan: Caitiff
+    grouping: 4
+  - count: 1
+    name: Nedal, The Careless
+    id: 201040
+    capacity: 1
+    disciplines: cel nec
+    clan: Caitiff
+    grouping: 3
+  - count: 1
+    name: Sandra White
+    id: 201232
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Action
+    count: 17
+    cards:
+    - count: 1
+      name: Ablative Skin
+      id: 100008
+    - count: 1
+      name: Ambush
+      id: 100046
+    - count: 1
+      name: Big Game
+      id: 100159
+    - count: 1
+      name: Bloodlust
+      id: 100222
+    - count: 1
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Dual Form
+      id: 100592
+    - count: 1
+      name: Enrage
+      id: 100647
+    - count: 1
+      name: Entrenching
+      id: 100653
+    - count: 1
+      name: Esprit de Corps
+      id: 100663
+    - count: 1
+      name: Harass
+      id: 100886
+    - count: 1
+      name: Heart of the City
+      id: 100904
+    - count: 1
+      name: Imperial Decree
+      id: 100961
+    - count: 1
+      name: Mantle of the Bestial Majesty
+      id: 101161
+    - count: 1
+      name: Masochism
+      id: 101180
+    - count: 1
+      name: Precision
+      id: 101474
+    - count: 1
+      name: Preternatural Strength
+      id: 101483
+    - count: 1
+      name: Restoration
+      id: 101613
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Alastor
+      id: 100038
+  - name: Equipment
+    count: 10
+    cards:
+    - count: 1
+      name: Aaron's Feeding Razor
+      id: 100003
+    - count: 1
+      name: Blood Tears of Kephran
+      id: 100212
+    - count: 1
+      name: Codex of the Edenic Groundskeepers
+      id: 100374
+    - count: 1
+      name: Eye of Hazimel
+      id: 100678
+    - count: 1
+      name: Flak Jacket
+      id: 100739
+    - count: 1
+      name: Hawg
+      id: 100898
+    - count: 1
+      name: IR Goggles
+      id: 101007
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+    - count: 1
+      name: Leather Jacket
+      id: 101081
+    - count: 1
+      name: Light Intensifying Goggles
+      id: 101106
+  - name: Retainer
+    count: 4
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+      id: 101015
+    - count: 1
+      name: Jackie Therman
+      id: 101018
+    - count: 1
+      name: Robert Carter
+      id: 101644
+    - count: 1
+      name: Tasha Morgan
+      id: 101943
+  - name: Action Modifier
+    count: 46
+    cards:
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 1
+      name: Forced March
+      id: 100761
+    - count: 44
+      name: Freak Drive
+      id: 100788
+  - name: Combat
+    count: 12
+    cards:
+    - count: 7
+      name: Immortal Grapple
+      id: 100959
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

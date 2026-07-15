@@ -1,0 +1,187 @@
+event_id: '12126'
+name: Grand Prix Warsaw 2025
+location: Warsaw
+date_start: 2025-07-05
+rounds_format: 3R+F
+players_count: 56
+winner: Tomasz Pietkiewicz
+deck:
+  player:
+    name: '117'
+    vekn_number: 117
+  name: Warsaw Grand Prix
+  description: 1GW4
+  crypt_count: 12
+  crypt_min: 32
+  crypt_max: 35
+  crypt_avg: 8.25
+  crypt:
+  - count: 3
+    name: Carolina Vález
+    id: 200249
+    capacity: 9
+    disciplines: aus DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 5
+  - count: 3
+    name: Alicia Cortez
+    id: 201575
+    capacity: 8
+    disciplines: CEL DOM OBT
+    title: Prince
+    clan: Lasombra
+    grouping: 4
+  - count: 2
+    name: Charles Delmare
+    id: 201513
+    capacity: 8
+    disciplines: cel DOM OBT POT
+    title: Cardinal
+    clan: Lasombra
+    grouping: 5
+  - count: 2
+    name: Giangaleazzo, The Traitor
+    id: 200514
+    capacity: 8
+    disciplines: dom OBT POT PRE
+    title: Prince
+    clan: Lasombra
+    grouping: 4
+  - count: 2
+    name: Lord Leopold Valdemar
+    id: 201517
+    capacity: 8
+    disciplines: cel dom obf OBT POT
+    title: Priscus
+    clan: Lasombra
+    grouping: 5
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Elysian Fields
+      id: 100629
+    - count: 1
+      name: Legendary Vampire
+      id: 101091
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Power Structure
+      id: 101430
+    - count: 4
+      name: Protected Resources
+      id: 101500
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 2
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 3
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 1
+      name: Conservative Agitation
+      id: 100414
+    - count: 4
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Neonate Breach
+      id: 101271
+    - count: 3
+      name: Parity Shift
+      id: 101353
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+  - name: Ally
+    count: 6
+    cards:
+    - count: 6
+      name: Nocturn
+      id: 101293
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Zaire River Ferry
+      id: 102203
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 6
+      name: Amici Noctis
+      id: 102274
+    - count: 1
+      name: Private Audience
+      id: 101490
+    - count: 2
+      name: Seduction
+      id: 101712
+    - count: 4
+      name: Shadow Play
+      id: 101743
+    - count: 4
+      name: Shroud of Absence
+      id: 101774
+    - count: 2
+      name: Sleeping Mind, The
+      id: 101805
+    - count: 2
+      name: Tenebrous Form
+      id: 101957
+    - count: 2
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Ominous Chorus
+      id: 102278
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 8
+      name: Deflection
+      id: 100518
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Nightmares upon Nightmares
+      id: 101285
+    - count: 1
+      name: Waiting Game
+      id: 102136
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12126
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12126.zip

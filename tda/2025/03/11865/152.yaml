@@ -1,0 +1,194 @@
+event_id: '11865'
+name: ITALIAN GP 2025 - MODENA
+location: Modena
+date_start: 2025-03-01
+rounds_format: 3R+F
+players_count: 70
+winner: Frederic Pin
+deck:
+  player:
+    name: '152'
+    vekn_number: 152
+  name: Italian Grand Prix 2025
+  description: 0GW1
+  crypt_count: 13
+  crypt_min: 4
+  crypt_max: 20
+  crypt_avg: 3.08
+  crypt:
+  - count: 1
+    name: Céleste Lamontagne
+    id: 200259
+    capacity: 5
+    disciplines: for ANI PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Fish
+    id: 200468
+    capacity: 5
+    disciplines: pre ANI POT
+    clan: Guruhi
+    grouping: 4
+  - count: 1
+    name: Petra
+    id: 201116
+    capacity: 5
+    disciplines: aus ANI OBF
+    clan: Nosferatu
+    grouping: 4
+  - count: 1
+    name: Yuri Kerezenski
+    id: 201494
+    capacity: 5
+    disciplines: aus for vic ANI
+    title: Bishop
+    clan: Tzimisce
+    grouping: 4
+  - count: 1
+    name: Beetleman
+    id: 200185
+    capacity: 4
+    disciplines: obf ANI
+    clan: Nosferatu
+    grouping: 4
+  - count: 1
+    name: Bobby Lemon
+    id: 200211
+    capacity: 4
+    disciplines: pro ANI
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Bothwell
+    id: 200214
+    capacity: 3
+    disciplines: ani for
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Stick
+    id: 201318
+    capacity: 3
+    disciplines: ANI
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 1
+    name: Mouse
+    id: 201014
+    capacity: 2
+    disciplines: ani
+    clan: Nosferatu
+    grouping: 3
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 2
+      name: Archon Investigation
+      id: 100085
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Vessel
+      id: 102113
+  - name: Action
+    count: 20
+    cards:
+    - count: 16
+      name: Deep Song
+      id: 100515
+    - count: 4
+      name: Tier of Souls
+      id: 101984
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Retainer
+    count: 5
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+      id: 101015
+    - count: 3
+      name: Owl Companion
+      id: 101340
+    - count: 1
+      name: Tasha Morgan
+      id: 101943
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 2
+      name: Cats' Guidance
+      id: 100308
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: Guard Dogs
+      id: 100863
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 34
+    cards:
+    - count: 14
+      name: Aid from Bats
+      id: 100029
+    - count: 2
+      name: Canine Horde
+      id: 100290
+    - count: 8
+      name: Carrion Crows
+      id: 100301
+    - count: 4
+      name: Target Vitals
+      id: 101942
+    - count: 2
+      name: Taste of Vitae
+      id: 101945
+    - count: 4
+      name: Terror Frenzy
+      id: 101960
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11865
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11865.zip

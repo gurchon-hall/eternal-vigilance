@@ -1,0 +1,192 @@
+event_id: '11730'
+name: First 30th
+location: Vác
+date_start: 2024-09-22
+rounds_format: 3R+F
+players_count: 17
+winner: Márk Virsinger
+deck:
+  player:
+    name: '1006'
+    vekn_number: 1006
+  name: First 30th
+  description: 1GW3
+  crypt_count: 12
+  crypt_min: 11
+  crypt_max: 12
+  crypt_avg: 2.92
+  crypt:
+  - count: 1
+    name: Almodo Giovanni
+    id: 200059
+    capacity: 3
+    disciplines: dom pot
+    clan: Giovanni
+    grouping: 4
+  - count: 1
+    name: Diana Vick
+    id: 200342
+    capacity: 3
+    disciplines: dom pre
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Ehrich Weiss
+    id: 200406
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Ember Wright
+    id: 200418
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Keith Moody
+    id: 200767
+    capacity: 3
+    disciplines: DOM
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Lana Butcher
+    id: 200812
+    capacity: 3
+    disciplines: dom for
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Lia Milliner
+    id: 200834
+    capacity: 3
+    disciplines: dom nec
+    clan: Giovanni
+    grouping: 3
+  - count: 1
+    name: Lucy Markowitz
+    id: 200878
+    capacity: 3
+    disciplines: dom obt
+    clan: Lasombra
+    grouping: 4
+  - count: 1
+    name: Saiz
+    id: 201222
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Sister Evelyn
+    id: 201294
+    capacity: 3
+    disciplines: aus dom
+    clan: Ventrue antitribu
+    grouping: 3
+  - count: 1
+    name: Ulrike Rothbart
+    id: 201403
+    capacity: 3
+    disciplines: dom for
+    clan: Ventrue antitribu
+    grouping: 4
+  - count: 1
+    name: Jackson Asher
+    id: 200660
+    capacity: 2
+    disciplines: dom
+    clan: Ventrue
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 5
+      name: Dominate
+      id: 100572
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 6
+      name: Life in the City
+      id: 101104
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 4
+      name: Vessel
+      id: 102113
+  - name: Action
+    count: 16
+    cards:
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 9
+      name: Govern the Unaligned
+      id: 100845
+    - count: 3
+      name: Graverobbing
+      id: 100852
+    - count: 2
+      name: Scouting Mission
+      id: 101698
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Ossian
+      id: 101333
+  - name: Equipment
+    count: 11
+    cards:
+    - count: 11
+      name: Saturday-Night Special
+      id: 101682
+  - name: Action Modifier
+    count: 11
+    cards:
+    - count: 5
+      name: Conditioning
+      id: 100401
+    - count: 2
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 4
+      name: Seduction
+      id: 101712
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 4
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 21
+    cards:
+    - count: 11
+      name: Concealed Weapon
+      id: 100392
+    - count: 10
+      name: Dragon's Breath Rounds
+      id: 100580
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11730
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11730.zip

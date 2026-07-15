@@ -1,0 +1,210 @@
+event_id: '11196'
+name: Salut Brie!
+location: None
+date_start: 2024-03-09
+rounds_format: 2R+F
+players_count: 14
+winner: Simmy Rayat
+deck:
+  player:
+    name: '111'
+    vekn_number: 111
+  name: Salut Brie UK
+  description: 1GW2.5+0
+  crypt_count: 12
+  crypt_min: 17
+  crypt_max: 34
+  crypt_avg: 6.67
+  crypt:
+  - count: 2
+    name: Lady Vadislava
+    id: 201516
+    capacity: 9
+    disciplines: nec ANI AUS DOM VIC
+    title: Priscus
+    clan: Tzimisce
+    grouping: 5
+  - count: 3
+    name: Lady Zara Slatikov
+    id: 200805
+    capacity: 8
+    disciplines: ANI AUS OBF VIC
+    title: Bishop
+    clan: Tzimisce
+    grouping: 4
+  - count: 3
+    name: Ludmijla Rakoczy
+    id: 200879
+    capacity: 7
+    disciplines: ANI AUS VIC
+    title: Bishop
+    clan: Tzimisce
+    grouping: 5
+  - count: 2
+    name: Rurik Rakoczy
+    id: 201519
+    capacity: 6
+    disciplines: aus ANI VIC
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Stick
+    id: 201318
+    capacity: 3
+    disciplines: ANI
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Carver's Meat Packing and Storage
+      id: 100303
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Guardian Angel
+      id: 100866
+    - count: 1
+      name: Library Hunting Ground
+      id: 101102
+    - count: 1
+      name: Path of Lilith, The
+      id: 101363
+    - count: 1
+      name: 'Powerbase: Barranquilla'
+      id: 101431
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 2
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 5
+    cards:
+    - count: 1
+      name: Abbot
+      id: 100006
+    - count: 1
+      name: Army of Rats
+      id: 100093
+    - count: 3
+      name: Under Siege
+      id: 102063
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 2
+      name: Sniper Rifle
+      id: 101816
+  - name: Retainer
+    count: 4
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 3
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier
+    count: 2
+    cards:
+    - count: 2
+      name: Changeling
+      id: 100324
+  - name: Reaction
+    count: 40
+    cards:
+    - count: 4
+      name: Cats' Guidance
+      id: 100308
+    - count: 5
+      name: Eagle's Sight
+      id: 100598
+    - count: 1
+      name: Enhanced Senses
+      id: 100644
+    - count: 7
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: Guard Dogs
+      id: 100863
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Read the Winds
+      id: 101559
+    - count: 6
+      name: Sense the Savage Way
+      id: 101717
+    - count: 2
+      name: Spirit's Touch
+      id: 101850
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 16
+    cards:
+    - count: 5
+      name: Aid from Bats
+      id: 100029
+    - count: 1
+      name: Breath of the Dragon
+      id: 100250
+    - count: 7
+      name: Carrion Crows
+      id: 100301
+    - count: 2
+      name: Chiropteran Marauder
+      id: 100344
+    - count: 1
+      name: Voracious Vermin
+      id: 102266
+winner_vekn_number: 113
+event_url: https://www.vekn.net/event-calendar/event/11196
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11196.zip

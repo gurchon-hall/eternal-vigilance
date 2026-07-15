@@ -1,0 +1,143 @@
+event_id: '11196'
+name: Salut Brie!
+location: None
+date_start: 2024-03-09
+rounds_format: 2R+F
+players_count: 14
+winner: Simmy Rayat
+deck:
+  player:
+    name: '110'
+    vekn_number: 110
+  name: Salut Brie UK
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 32
+  crypt_avg: 5.83
+  crypt:
+  - count: 2
+    name: Antonio Veradas
+    id: 200118
+    capacity: 8
+    disciplines: obf CEL POT PRE
+    title: Bishop
+    clan: Brujah antitribu
+    grouping: 3
+  - count: 2
+    name: Jacko
+    id: 200659
+    capacity: 8
+    disciplines: obt CEL POT PRE
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 2
+    name: Amelia
+    id: 200071
+    capacity: 7
+    disciplines: CEL POT PRE
+    title: Bishop
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 2
+    name: Allison Maller
+    id: 200056
+    capacity: 4
+    disciplines: cel pot pre
+    clan: Brujah
+    grouping: 3
+  - count: 2
+    name: Evangeline
+    id: 200446
+    capacity: 4
+    disciplines: cel pot pre
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 2
+    name: Tori Longwood
+    id: 201383
+    capacity: 4
+    disciplines: cel pot pre pro
+    clan: Caitiff
+    grouping: 2
+  library_count: 70
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 5
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Waste Management Operation
+      id: 102153
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 18
+    cards:
+    - count: 3
+      name: Ambush
+      id: 100046
+    - count: 12
+      name: Show of Force
+      id: 101772
+    - count: 3
+      name: Under Siege
+      id: 102063
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 10
+      name: Spoils of War
+      id: 101854
+  - name: Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 23
+    cards:
+    - count: 3
+      name: Acrobatics
+      id: 100020
+    - count: 3
+      name: Flash
+      id: 100744
+    - count: 4
+      name: Immortal Grapple
+      id: 100959
+    - count: 3
+      name: Pursuit
+      id: 101523
+    - count: 8
+      name: Roundhouse
+      id: 102215
+    - count: 2
+      name: Taste of Vitae
+      id: 101945
+winner_vekn_number: 113
+event_url: https://www.vekn.net/event-calendar/event/11196
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11196.zip

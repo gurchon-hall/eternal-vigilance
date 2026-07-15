@@ -1,0 +1,206 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1150'
+    vekn_number: 1150
+  name: Warsaw LCQ 2024
+  description: 0GW0
+  crypt_count: 13
+  crypt_min: 40
+  crypt_max: 44
+  crypt_avg: 10.38
+  crypt:
+  - count: 2
+    name: Arika
+    id: 200135
+    capacity: 11
+    disciplines: aus cel DOM FOR OBF PRE
+    title: Inner Circle
+    clan: Ventrue
+    grouping: 2
+  - count: 1
+    name: Etrius
+    id: 200440
+    capacity: 11
+    disciplines: pro AUS DOM OBF THA
+    title: Inner Circle
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Leandro
+    id: 200826
+    capacity: 11
+    disciplines: cel dom AUS OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Ur-Shulgi, The Shepherd
+    id: 201413
+    capacity: 11
+    disciplines: aus CEL DOM OBF QUI THA
+    title: 2 Votes
+    clan: Banu Haqim
+    grouping: 2
+  - count: 5
+    name: Huitzilopochtli
+    id: 200611
+    capacity: 10
+    disciplines: AUS DAI DOM OBF POT PRE
+    clan: Baali
+    grouping: 2
+  - count: 2
+    name: Esau
+    id: 200436
+    capacity: 10
+    disciplines: AUS DEM DOM OBF PRE
+    clan: Malkavian
+    grouping: 3
+  - count: 1
+    name: Nefertiti
+    id: 201042
+    capacity: 10
+    disciplines: cel pot DOM OBF PRE SER
+    clan: Ministry
+    grouping: 2
+  library_count: 76
+  library_sections:
+  - name: Master
+    count: 39
+    cards:
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Blind Spot
+      id: 100188
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: 'Golconda: Inner Peace'
+      id: 100842
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 5
+      name: Liquidation
+      id: 101112
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 2
+      name: Parthenon, The
+      id: 101355
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 5
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 8
+    cards:
+    - count: 2
+      name: Entrancement
+      id: 100652
+    - count: 4
+      name: Intimidation
+      id: 100999
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 1
+      name: Approximation of Loyalty
+      id: 100078
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 1
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 1
+      name: Psychomachia
+      id: 101511
+    - count: 1
+      name: Sleeping Mind, The
+      id: 101805
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Swallowed by the Night
+      id: 101913
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Sense the Sin
+      id: 101718
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 1
+      name: Bloodstorm of Chorazin
+      id: 100224
+    - count: 3
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Eluding the Arms of Morpheus
+      id: 100628
+    - count: 2
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 2
+      name: Obedience
+      id: 101309
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Majesty
+      id: 101144
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

@@ -1,0 +1,208 @@
+event_id: '11594'
+name: Camarilla Conclave Grand Prix 2024
+location: Palma
+date_start: 2024-11-16
+rounds_format: 3R+F
+players_count: 89
+winner: P045
+deck:
+  player:
+    name: '1035'
+    vekn_number: 1035
+  name: Camarilla Conclave GP 2024
+  description: 1GW3
+  crypt_count: 12
+  crypt_min: 5
+  crypt_max: 44
+  crypt_avg: 5.0
+  crypt:
+  - count: 4
+    name: Capuchin, The
+    id: 200242
+    capacity: 11
+    disciplines: AUS DOM FOR NEC THA THN
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 3
+    name: Smash
+    id: 201300
+    capacity: 3
+    disciplines: pot pre
+    clan: Brujah antitribu
+    grouping: 4
+  - count: 2
+    name: Jayne Jonestown
+    id: 200683
+    capacity: 2
+    disciplines: PRE
+    clan: Brujah antitribu
+    grouping: 4
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 5
+    cards:
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Maabara
+      id: 101136
+    - count: 1
+      name: Rötschreck
+      id: 101654
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 1
+      name: Waste Management Operation
+      id: 102153
+  - name: Action
+    count: 5
+    cards:
+    - count: 1
+      name: Anonymous Freight
+      id: 100072
+    - count: 1
+      name: Children of Stone
+      id: 100340
+    - count: 1
+      name: Jack of Both Sides
+      id: 101016
+    - count: 1
+      name: Magic of the Smith
+      id: 101143
+    - count: 1
+      name: Rutor's Hand
+      id: 101664
+  - name: Equipment
+    count: 27
+    cards:
+    - count: 1
+      name: Argent Baton
+      id: 100086
+    - count: 2
+      name: Blood Tears of Kephran
+      id: 100212
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Camera Phone
+      id: 100287
+    - count: 1
+      name: Cloak of the Abalone
+      id: 100361
+    - count: 1
+      name: Concoction of Vitality
+      id: 100394
+    - count: 1
+      name: Erebus Mask
+      id: 100657
+    - count: 1
+      name: Flaming Candle
+      id: 100743
+    - count: 1
+      name: Flash Grenade
+      id: 100745
+    - count: 1
+      name: Gran Madre di Dio, Italy
+      id: 100847
+    - count: 1
+      name: Grenade
+      id: 100857
+    - count: 1
+      name: Hawg
+      id: 100898
+    - count: 1
+      name: IR Goggles
+      id: 101007
+    - count: 1
+      name: Incriminating Videotape
+      id: 100972
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Leather Jacket
+      id: 101081
+    - count: 1
+      name: Light Intensifying Goggles
+      id: 101106
+    - count: 1
+      name: Monocle of Clarity
+      id: 101240
+    - count: 1
+      name: Phased Motion Detector
+      id: 101398
+    - count: 1
+      name: Powder of Rigidity
+      id: 101427
+    - count: 1
+      name: Sacré-Cœur Cathedral, France
+      id: 101670
+    - count: 1
+      name: Shaal Fragment
+      id: 101732
+    - count: 1
+      name: Signet of King Saul, The
+      id: 101781
+    - count: 1
+      name: Sire's Index Finger
+      id: 101785
+    - count: 1
+      name: Smoke Grenade
+      id: 101814
+    - count: 1
+      name: Vial of Elder Vitae
+      id: 102114
+  - name: Action Modifier
+    count: 50
+    cards:
+    - count: 17
+      name: Acheron Vortex
+      id: 100016
+    - count: 1
+      name: Conditioning
+      id: 100401
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 1
+      name: False Resonance
+      id: 100697
+    - count: 1
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 2
+      name: Freak Drive
+      id: 100788
+    - count: 27
+      name: Hag's Wrinkles
+      id: 100877
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Touch of Clarity
+      id: 101998
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 1
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11594
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

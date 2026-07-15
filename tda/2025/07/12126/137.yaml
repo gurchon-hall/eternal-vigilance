@@ -1,0 +1,172 @@
+event_id: '12126'
+name: Grand Prix Warsaw 2025
+location: Warsaw
+date_start: 2025-07-05
+rounds_format: 3R+F
+players_count: 56
+winner: Tomasz Pietkiewicz
+deck:
+  player:
+    name: '137'
+    vekn_number: 137
+  name: Warsaw Grand Prix
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 10.25
+  crypt:
+  - count: 4
+    name: Hardestadt
+    id: 200568
+    capacity: 11
+    disciplines: cel pro DOM FOR POT PRE
+    title: Inner Circle
+    clan: Ventrue
+    grouping: 4
+  - count: 3
+    name: Mithras
+    id: 201001
+    capacity: 11
+    disciplines: DOM FOR POT PRE QUI
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Gustav Breidenstein
+    id: 200550
+    capacity: 10
+    disciplines: aus cel pot DOM FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 4
+  - count: 1
+    name: Lucinde, Alastor
+    id: 200873
+    capacity: 10
+    disciplines: obf pot tha DOM FOR PRE
+    title: Justicar
+    clan: Ventrue
+    grouping: 3
+  - count: 2
+    name: Ignazio Giovanni
+    id: 200624
+    capacity: 9
+    disciplines: obf DOM FOR NEC POT
+    clan: Giovanni
+    grouping: 3
+  - count: 1
+    name: Gustaphe Brunnelle
+    id: 200549
+    capacity: 8
+    disciplines: obf ANI DOM POT
+    title: Primogen
+    clan: Nosferatu
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 23
+    cards:
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: 'Golconda: Inner Peace'
+      id: 100842
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Hostile Takeover
+      id: 100939
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Island of Yiaros
+      id: 101013
+    - count: 2
+      name: Minion Tap
+      id: 101217
+    - count: 1
+      name: Uptown Hunting Ground
+      id: 102084
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 8
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 14
+    cards:
+    - count: 2
+      name: Ambush
+      id: 100046
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Command the Legion
+      id: 100384
+    - count: 1
+      name: Entrancement
+      id: 100652
+    - count: 2
+      name: Far Mastery
+      id: 100703
+    - count: 4
+      name: Graverobbing
+      id: 100852
+    - count: 1
+      name: Mesmerize
+      id: 101205
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 1
+      name: Conditioning
+      id: 100401
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 8
+      name: Freak Drive
+      id: 100788
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 7
+      name: Deflection
+      id: 100518
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 33
+    cards:
+    - count: 5
+      name: Disarm
+      id: 100549
+    - count: 8
+      name: Immortal Grapple
+      id: 100959
+    - count: 3
+      name: Rolling with the Punches
+      id: 101649
+    - count: 6
+      name: Slam
+      id: 101798
+    - count: 6
+      name: Taste of Vitae
+      id: 101945
+    - count: 5
+      name: Unflinching Persistence
+      id: 102071
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12126
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12126.zip

@@ -1,0 +1,171 @@
+event_id: '11686'
+name: Australian New Zealand 2024 Continental Championship
+location: Sydney
+date_start: 2024-10-26
+rounds_format: 3R+F
+players_count: 36
+winner: Keith Lim
+deck:
+  player:
+    name: '124'
+    vekn_number: 124
+  name: Oceanic Continental Championship 2024
+  description: 0GW2
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 44
+  crypt_avg: 7.83
+  crypt:
+  - count: 4
+    name: Lutz von Hohenzollern
+    id: 200890
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Unmada
+    id: 201410
+    capacity: 10
+    disciplines: cel for AUS DEM OBF VIC
+    title: Justicar
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Bloody Mary
+    id: 200209
+    capacity: 8
+    disciplines: pre AUS DEM OBF
+    title: Primogen
+    clan: Malkavian
+    grouping: 5
+  - count: 2
+    name: Drozodny
+    id: 200389
+    capacity: 7
+    disciplines: pre AUS DEM OBF
+    title: Bishop
+    clan: Malkavian antitribu
+    grouping: 5
+  - count: 1
+    name: Gem Ghastly
+    id: 200498
+    capacity: 6
+    disciplines: aus DEM OBF
+    title: Primogen
+    clan: Malkavian
+    grouping: 5
+  - count: 2
+    name: Sean Rycek
+    id: 201255
+    capacity: 4
+    disciplines: aus dem
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Florentina Lengauer
+    id: 200471
+    capacity: 4
+    disciplines: aus OBF
+    clan: Malkavian
+    grouping: 4
+  library_count: 73
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 2
+      name: Asylum Hunting Ground
+      id: 100108
+    - count: 2
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+    - count: 3
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 8
+    cards:
+    - count: 6
+      name: Call, The
+      id: 100278
+    - count: 2
+      name: Petra Resonance
+      id: 101396
+  - name: Political Action
+    count: 12
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 4
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 1
+      name: Honor the Elders
+      id: 100933
+    - count: 4
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Neonate Breach
+      id: 101271
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+  - name: Action Modifier
+    count: 19
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 4
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 6
+      name: Old Friends
+      id: 101318
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Touch of Clarity
+      id: 101998
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 6
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: No Trace
+      id: 101292
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11686
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11686.zip

@@ -1,0 +1,180 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '137'
+    vekn_number: 137
+  name: Croatian Abuse of Power 2026
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 39
+  crypt_max: 44
+  crypt_avg: 10.58
+  crypt:
+  - count: 4
+    name: Arika
+    id: 200135
+    capacity: 11
+    disciplines: aus cel DOM FOR OBF PRE
+    title: Inner Circle
+    clan: Ventrue
+    grouping: 2
+  - count: 4
+    name: Leandro
+    id: 200826
+    capacity: 11
+    disciplines: cel dom AUS OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Lucinde, Alastor
+    id: 200873
+    capacity: 10
+    disciplines: obf pot tha DOM FOR PRE
+    title: Justicar
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Marcus Vitel
+    id: 200915
+    capacity: 10
+    disciplines: DOM FOR OBF OBT PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Queen Anne
+    id: 201139
+    capacity: 10
+    disciplines: aus obf DOM FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 2
+  - count: 1
+    name: Maris Streck
+    id: 200935
+    capacity: 9
+    disciplines: ani dem dom AUS OBF
+    title: Justicar
+    clan: Malkavian
+    grouping: 3
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 1
+      name: Camarilla Conclave
+      id: 102269
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Obtenebration
+      id: 101312
+    - count: 1
+      name: Ventrue Headquarters
+      id: 102109
+    - count: 7
+      name: Villein
+      id: 102121
+    - count: 5
+      name: Zillah's Valley
+      id: 102207
+  - name: Political Action
+    count: 17
+    cards:
+    - count: 2
+      name: Alastor
+      id: 100038
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 5
+      name: Banishment
+      id: 100131
+    - count: 2
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 4
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 2
+      name: Helicopter
+      id: 100909
+  - name: Action Modifier
+    count: 22
+    cards:
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Faceless Night
+      id: 100687
+    - count: 6
+      name: Into Thin Air
+      id: 101001
+    - count: 4
+      name: Perfect Paragon
+      id: 101387
+    - count: 6
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Eyes of Argus
+      id: 100680
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Majesty
+      id: 101144
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

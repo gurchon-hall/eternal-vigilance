@@ -1,0 +1,175 @@
+event_id: '11669'
+name: VtES European Championship 2024 - Day 2
+location: Warsaw
+date_start: 2024-09-29
+rounds_format: 3R+F
+players_count: 75
+winner: Danilo Torrisi
+deck:
+  player:
+    name: '1004'
+    vekn_number: 1004
+  name: Warsaw 2024 Day 2
+  description: 2GW8+0.5
+  crypt_count: 13
+  crypt_min: 23
+  crypt_max: 40
+  crypt_avg: 8.0
+  crypt:
+  - count: 5
+    name: Huitzilopochtli
+    id: 200611
+    capacity: 10
+    disciplines: AUS DAI DOM OBF POT PRE
+    clan: Baali
+    grouping: 2
+  - count: 3
+    name: High Priest Angra Mainyu
+    id: 200597
+    capacity: 8
+    disciplines: dem ser DAI OBF PRE
+    clan: Baali
+    grouping: 2
+  - count: 4
+    name: Giotto Verducci
+    id: 200520
+    capacity: 7
+    disciplines: for pot pre DAI OBF
+    clan: Baali
+    grouping: 2
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 75
+  library_sections:
+  - name: Master
+    count: 32
+    cards:
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 2
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 2
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 5
+      name: Tend the Flock
+      id: 101956
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 8
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 2
+      name: Entrancement
+      id: 100652
+    - count: 1
+      name: Puppet Master
+      id: 101215
+    - count: 4
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Action Modifier
+    count: 17
+    cards:
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 3
+      name: Faceless Night
+      id: 100687
+    - count: 1
+      name: I am Legion
+      id: 100947
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 3
+      name: Psychomachia
+      id: 101511
+    - count: 1
+      name: Sleeping Mind, The
+      id: 101805
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Hide the Mind
+      id: 100921
+  - name: Action Modifier/Reaction
+    count: 5
+    cards:
+    - count: 5
+      name: Sense the Sin
+      id: 101718
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 3
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: Eluding the Arms of Morpheus
+      id: 100628
+    - count: 2
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Majesty
+      id: 101144
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11669
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11669.zip

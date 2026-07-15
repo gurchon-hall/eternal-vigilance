@@ -1,0 +1,214 @@
+event_id: '11398'
+name: German Nationals 2024
+location: Darmstadt
+date_start: 2024-09-07
+rounds_format: 3R+F
+players_count: 32
+winner: ''
+deck:
+  player:
+    name: '3984662749'
+    vekn_number: 3984662749
+  name: German Nationals 2024
+  description: 0GW+0
+  crypt_count: 12
+  crypt_min: 20
+  crypt_max: 35
+  crypt_avg: 6.75
+  crypt:
+  - count: 3
+    name: Kasim Bayar
+    id: 201598
+    capacity: 9
+    disciplines: aus pot CEL OBF THA
+    title: Justicar
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Oluwafunmilayo
+    id: 201656
+    capacity: 8
+    disciplines: AUS CEL OBF THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Farah Sarroub
+    id: 201587
+    capacity: 7
+    disciplines: aus obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Kassandra Tassaki
+    id: 201604
+    capacity: 6
+    disciplines: obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Khadija Al-Kindi
+    id: 201599
+    capacity: 6
+    disciplines: CEL OBF THA
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Warmaksan
+    id: 201594
+    capacity: 5
+    disciplines: cel obf THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Nayarana
+    id: 201607
+    capacity: 4
+    disciplines: cel THA
+    clan: Banu Haqim
+    grouping: 6
+  library_count: 89
+  library_sections:
+  - name: Master
+    count: 11
+    cards:
+    - count: 1
+      name: Alamut
+      id: 100037
+    - count: 1
+      name: Black Throne, The
+      id: 100172
+    - count: 2
+      name: "Haqim's Law: Retribution"
+      id: 102226
+    - count: 1
+      name: Market Square
+      id: 101171
+    - count: 4
+      name: Priority Contract
+      id: 101487
+    - count: 1
+      name: Underworld Hunting Ground
+      id: 102066
+    - count: 1
+      name: Yoruba Shrine
+      id: 102201
+  - name: Action
+    count: 4
+    cards:
+    - count: 4
+      name: Hunter's Mark
+      id: 102228
+  - name: Political Action
+    count: 13
+    cards:
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 9
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: 'Praxis Seizure: Atlanta'
+      id: 101449
+    - count: 1
+      name: 'Praxis Seizure: Seattle'
+      id: 101469
+  - name: Equipment
+    count: 10
+    cards:
+    - count: 2
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Assault Rifle
+      id: 100107
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Kali's Fang
+      id: 101032
+    - count: 2
+      name: RPG Launcher
+      id: 101656
+    - count: 2
+      name: Saturday-Night Special
+      id: 101682
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+  - name: Action Modifier
+    count: 1
+    cards:
+    - count: 1
+      name: Hidden Lurker
+      id: 100916
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Resist Earth's Grasp
+      id: 101610
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 7
+      name: 'Second Tradition: Domain'
+      id: 101706
+  - name: Combat
+    count: 38
+    cards:
+    - count: 1
+      name: Acrobatics
+      id: 100020
+    - count: 1
+      name: Blood to Water
+      id: 100214
+    - count: 1
+      name: Blur
+      id: 100227
+    - count: 4
+      name: Disguised Weapon
+      id: 100555
+    - count: 5
+      name: Flash
+      id: 100744
+    - count: 9
+      name: Hunger of Marduk
+      id: 102227
+    - count: 3
+      name: Nimble Feet
+      id: 101288
+    - count: 1
+      name: Psyche!
+      id: 101507
+    - count: 2
+      name: Rego Motum
+      id: 101588
+    - count: 2
+      name: Soul Burn
+      id: 101829
+    - count: 2
+      name: Theft of Vitae
+      id: 101966
+    - count: 1
+      name: Vampiric Speed
+      id: 102089
+    - count: 6
+      name: Walk of Flame
+      id: 102139
+winner_vekn_number: 8638881481
+event_url: https://www.vekn.net/event-calendar/event/11398
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11398.zip

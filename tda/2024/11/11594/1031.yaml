@@ -1,0 +1,218 @@
+event_id: '11594'
+name: Camarilla Conclave Grand Prix 2024
+location: Palma
+date_start: 2024-11-16
+rounds_format: 3R+F
+players_count: 89
+winner: P045
+deck:
+  player:
+    name: '1031'
+    vekn_number: 1031
+  name: Camarilla Conclave GP 2024
+  description: 1GW3
+  crypt_count: 18
+  crypt_min: 5
+  crypt_max: 14
+  crypt_avg: 2.56
+  crypt:
+  - count: 1
+    name: Gloria Giovanni
+    id: 200525
+    capacity: 4
+    disciplines: nec DOM
+    clan: Giovanni
+    grouping: 2
+  - count: 1
+    name: Ingrid Russo
+    id: 200635
+    capacity: 4
+    disciplines: for DOM
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
+    name: Brooke
+    id: 200221
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: Cameron
+    id: 200239
+    capacity: 3
+    disciplines: dom pot
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Diana Vick
+    id: 200342
+    capacity: 3
+    disciplines: dom pre
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Ehrich Weiss
+    id: 200406
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Ember Wright
+    id: 200418
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Lana Butcher
+    id: 200812
+    capacity: 3
+    disciplines: dom for
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Lia Milliner
+    id: 200834
+    capacity: 3
+    disciplines: dom nec
+    clan: Giovanni
+    grouping: 3
+  - count: 1
+    name: Saiz
+    id: 201222
+    capacity: 3
+    disciplines: aus dom
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Sister Evelyn
+    id: 201294
+    capacity: 3
+    disciplines: aus dom
+    clan: Ventrue antitribu
+    grouping: 3
+  - count: 1
+    name: Christine Boscacci
+    id: 200273
+    capacity: 2
+    disciplines: dom vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Mustafa Rahman
+    id: 201027
+    capacity: 2
+    disciplines: dom
+    clan: Tremere
+    grouping: 2
+  - count: 1
+    name: Ohanna
+    id: 201073
+    capacity: 2
+    disciplines: dom
+    clan: Malkavian
+    grouping: 2
+  - count: 1
+    name: Samson
+    id: 201231
+    capacity: 2
+    disciplines: dom
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Royce
+    id: 201208
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  library_count: 76
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 3
+      name: Agent of Power
+      id: 100025
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dominate
+      id: 100572
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 3
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 5
+      name: Life in the City
+      id: 101104
+    - count: 1
+      name: Misdirection
+      id: 101225
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+  - name: Action
+    count: 12
+    cards:
+    - count: 8
+      name: Govern the Unaligned
+      id: 100845
+    - count: 4
+      name: Scouting Mission
+      id: 101698
+  - name: Action Modifier
+    count: 25
+    cards:
+    - count: 5
+      name: Bonding
+      id: 100236
+    - count: 9
+      name: Conditioning
+      id: 100401
+    - count: 6
+      name: Seduction
+      id: 101712
+    - count: 5
+      name: Sleeping Mind, The
+      id: 101805
+  - name: Reaction
+    count: 9
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 8
+    cards:
+    - count: 8
+      name: Absorb the Mind
+      id: 100013
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11594
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

@@ -1,0 +1,163 @@
+event_id: '12069'
+name: None
+location: Vantaa
+date_start: 2025-04-12
+rounds_format: 3R+F
+players_count: 39
+winner: Teemu Sainomaa
+deck:
+  player:
+    name: '132'
+    vekn_number: 132
+  name: Finnish Nationals 2025
+  description: 0GW0.5
+  crypt_count: 12
+  crypt_min: 21
+  crypt_max: 40
+  crypt_avg: 8.17
+  crypt:
+  - count: 5
+    name: Ghede
+    id: 200512
+    capacity: 10
+    disciplines: FOR OBF POT PRE SER
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Count Jocalo
+    id: 200294
+    capacity: 10
+    disciplines: NEC OBF PRE SER THA
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Shemti
+    id: 201282
+    capacity: 9
+    disciplines: vic OBF POT PRE SER
+    title: 1 Vote
+    clan: Ministry
+    grouping: 5
+  - count: 3
+    name: Theo Bell
+    id: 201613
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Elen Kamjian
+    id: 201585
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 9
+    cards:
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 9
+    cards:
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Entrancement
+      id: 100652
+    - count: 1
+      name: Heart of the City
+      id: 100904
+    - count: 1
+      name: Heroic Might
+      id: 100913
+    - count: 2
+      name: Preternatural Strength
+      id: 101483
+    - count: 2
+      name: Temptation
+      id: 101954
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Flak Jacket
+      id: 100739
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+    - count: 1
+      name: Leather Jacket
+      id: 101081
+    - count: 1
+      name: Light Intensifying Goggles
+      id: 101106
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 7
+      name: Freak Drive
+      id: 100788
+  - name: Action Modifier/Combat
+    count: 9
+    cards:
+    - count: 9
+      name: Shadow Boxing
+      id: 101736
+  - name: Combat
+    count: 51
+    cards:
+    - count: 1
+      name: Earthshock
+      id: 100604
+    - count: 10
+      name: Immortal Grapple
+      id: 100959
+    - count: 1
+      name: Jones, The
+      id: 101023
+    - count: 6
+      name: Pulled Fangs
+      id: 101515
+    - count: 2
+      name: Street Cred
+      id: 101882
+    - count: 9
+      name: Taste of Vitae
+      id: 101945
+    - count: 22
+      name: Typhonic Beast
+      id: 102054
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12069
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12069.zip

@@ -1,0 +1,198 @@
+event_id: '11669'
+name: VtES European Championship 2024 - Day 2
+location: Warsaw
+date_start: 2024-09-29
+rounds_format: 3R+F
+players_count: 75
+winner: Danilo Torrisi
+deck:
+  player:
+    name: '1009'
+    vekn_number: 1009
+  name: Warsaw 2024 Day 2
+  description: 1GW5
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 30
+  crypt_avg: 6.67
+  crypt:
+  - count: 2
+    name: Alexander Silverson
+    id: 201530
+    capacity: 8
+    disciplines: pre AUS DOM OBF
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  - count: 2
+    name: Alice Chen
+    id: 201531
+    capacity: 7
+    disciplines: dom obf FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Graham Gottesman
+    id: 200533
+    capacity: 7
+    disciplines: obf pre tha DOM FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 3
+    name: Arishat
+    id: 200136
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 Vote
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Andi Liu
+    id: 201532
+    capacity: 6
+    disciplines: aus obf pre DOM
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  - count: 1
+    name: Donny Kowalczyk
+    id: 201544
+    capacity: 6
+    disciplines: cel dom obf AUS
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+      id: 100632
+    - count: 1
+      name: Fear of Mekhet
+      id: 100710
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Ventrue Headquarters
+      id: 102109
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wash
+      id: 102151
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 10
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 7
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 5
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 4
+      name: Kine Resources Contested
+      id: 101056
+    - count: 5
+      name: Parity Shift
+      id: 101353
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Action Modifier
+    count: 27
+    cards:
+    - count: 2
+      name: Bonding
+      id: 100236
+    - count: 1
+      name: Cloak the Gathering
+      id: 100362
+    - count: 4
+      name: Conditioning
+      id: 100401
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Faceless Night
+      id: 100687
+    - count: 2
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 5
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Perfect Paragon
+      id: 101387
+    - count: 2
+      name: Spying Mission
+      id: 101857
+    - count: 4
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 7
+      name: Deflection
+      id: 100518
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: 'Second Tradition: Domain'
+      id: 101706
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty
+      id: 101144
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11669
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11669.zip

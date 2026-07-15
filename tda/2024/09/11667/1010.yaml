@@ -1,0 +1,152 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1010'
+    vekn_number: 1010
+  name: Warsaw LCQ 2024
+  description: 1GW6.5
+  crypt_count: 12
+  crypt_min: 19
+  crypt_max: 40
+  crypt_avg: 7.08
+  crypt:
+  - count: 4
+    name: Erlik
+    id: 200434
+    capacity: 10
+    disciplines: AUS CEL FOR NEC THN
+    clan: Harbinger of Skulls
+    grouping: 3
+  - count: 1
+    name: Egothha
+    id: 200405
+    capacity: 7
+    disciplines: obf AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 2
+  - count: 1
+    name: Erebus
+    id: 200428
+    capacity: 7
+    disciplines: dem AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 3
+  - count: 5
+    name: Agaitas, The Scholar of Antiquities
+    id: 200019
+    capacity: 6
+    disciplines: for AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 2
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 2
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Lupine Assault
+      id: 101133
+    - count: 6
+      name: Slaughterhouse, The
+      id: 101800
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Ally
+    count: 7
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 6
+      name: Emerald Legionnaire
+      id: 100634
+  - name: Equipment
+    count: 7
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 6
+      name: Learjet
+      id: 101080
+  - name: Action Modifier
+    count: 30
+    cards:
+    - count: 7
+      name: Acheron Vortex
+      id: 100016
+    - count: 7
+      name: Call of the Hungry Dead
+      id: 100279
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Forced March
+      id: 100761
+    - count: 4
+      name: Freak Drive
+      id: 100788
+    - count: 8
+      name: Inevitability of the Void
+      id: 100974
+    - count: 1
+      name: Kiss of Ra, The
+      id: 101062
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 8
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 8
+    cards:
+    - count: 8
+      name: Spiritual Intervention
+      id: 101852
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

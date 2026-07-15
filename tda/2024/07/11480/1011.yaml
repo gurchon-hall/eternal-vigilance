@@ -1,0 +1,257 @@
+event_id: '11480'
+name: Ropecon Finnish Grand Prix 2024
+location: Helsinki
+date_start: 2024-07-20
+rounds_format: 3R+F
+players_count: 54
+winner: Teemu Sainomaa
+deck:
+  player:
+    name: '1011'
+    vekn_number: 1011
+  name: Ropecon GP 2024
+  description: 1GW+4.5
+  crypt_count: 14
+  crypt_min: 21
+  crypt_max: 35
+  crypt_avg: 7.0
+  crypt:
+  - count: 2
+    name: Lady Vadislava
+    id: 201516
+    capacity: 9
+    disciplines: nec ANI AUS DOM VIC
+    title: Priscus
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Xipe Totec
+    id: 201482
+    capacity: 9
+    disciplines: ANI AUS PRO VIC
+    title: Archbishop
+    clan: Tzimisce
+    grouping: 5
+  - count: 2
+    name: Lady Zara Slatikov
+    id: 200805
+    capacity: 8
+    disciplines: ANI AUS OBF VIC
+    title: Bishop
+    clan: Tzimisce
+    grouping: 4
+  - count: 1
+    name: Righteous Endeavor
+    id: 201191
+    capacity: 8
+    disciplines: ANI AUS THA VIC
+    title: Priscus
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Laika
+    id: 200807
+    capacity: 7
+    disciplines: chi obf vic ANI AUS
+    clan: Tzimisce
+    grouping: 4
+  - count: 1
+    name: Ludmijla Rakoczy
+    id: 200879
+    capacity: 7
+    disciplines: ANI AUS VIC
+    title: Bishop
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Daliah
+    id: 200308
+    capacity: 6
+    disciplines: ani aus pot VIC
+    clan: Tzimisce
+    grouping: 4
+  - count: 1
+    name: Duality
+    id: 200391
+    capacity: 6
+    disciplines: ani AUS VIC
+    clan: Tzimisce
+    grouping: 4
+  - count: 1
+    name: Rurik Rakoczy
+    id: 201519
+    capacity: 6
+    disciplines: aus ANI VIC
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Stephen Bateson
+    id: 201315
+    capacity: 6
+    disciplines: ani aus tha vic
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Dr. Morrow, The Skindoctor
+    id: 200381
+    capacity: 5
+    disciplines: for AUS VIC
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: America Johnson
+    id: 201512
+    capacity: 4
+    disciplines: vic AUS
+    clan: Tzimisce
+    grouping: 5
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 5
+      name: British Museum, London, The
+      id: 102236
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Filchware's Pawn Shop
+      id: 100728
+    - count: 1
+      name: Library Hunting Ground
+      id: 101102
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 2
+      name: Rötschreck
+      id: 101654
+    - count: 1
+      name: Vessel
+      id: 102113
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 5
+    cards:
+    - count: 2
+      name: Abbot
+      id: 100006
+    - count: 1
+      name: Deep Song
+      id: 100515
+    - count: 2
+      name: Under Siege
+      id: 102063
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+  - name: Equipment
+    count: 14
+    cards:
+    - count: 1
+      name: Blood Tears of Kephran
+      id: 100212
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 2
+      name: Kevlar Vest
+      id: 101040
+    - count: 1
+      name: Leather Jacket
+      id: 101081
+    - count: 6
+      name: Living Manse
+      id: 101114
+    - count: 1
+      name: Signet of King Saul, The
+      id: 101781
+    - count: 1
+      name: Vial of Garou Blood
+      id: 102115
+  - name: Retainer
+    count: 3
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 2
+      name: Revenant
+      id: 101628
+  - name: Action Modifier
+    count: 8
+    cards:
+    - count: 4
+      name: Changeling
+      id: 100324
+    - count: 4
+      name: Mind of the Wilds
+      id: 101214
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Plasmic Form
+      id: 101402
+  - name: Reaction
+    count: 23
+    cards:
+    - count: 1
+      name: Cats' Guidance
+      id: 100308
+    - count: 3
+      name: Delaying Tactics
+      id: 100519
+    - count: 1
+      name: Eagle's Sight
+      id: 100598
+    - count: 7
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Read the Winds
+      id: 101559
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 6
+    cards:
+    - count: 3
+      name: Breath of the Dragon
+      id: 100250
+    - count: 2
+      name: Chiropteran Marauder
+      id: 100344
+    - count: 1
+      name: Voracious Vermin
+      id: 102266
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: NRA PAC
+      id: 101305
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11480
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11480.zip

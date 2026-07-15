@@ -1,0 +1,201 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '145'
+    vekn_number: 145
+  name: Brazilian Nationals 2025
+  description: 1GW3
+  crypt_count: 12
+  crypt_min: 23
+  crypt_max: 36
+  crypt_avg: 7.33
+  crypt:
+  - count: 4
+    name: Kasim Bayar
+    id: 201598
+    capacity: 9
+    disciplines: aus pot CEL OBF THA
+    title: Justicar
+    clan: Banu Haqim
+    grouping: 6
+  - count: 2
+    name: Oluwafunmilayo
+    id: 201656
+    capacity: 8
+    disciplines: AUS CEL OBF THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Farah Sarroub
+    id: 201587
+    capacity: 7
+    disciplines: aus obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 3
+    name: Kassandra Tassaki
+    id: 201604
+    capacity: 6
+    disciplines: obf CEL THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Khadija Al-Kindi
+    id: 201599
+    capacity: 6
+    disciplines: CEL OBF THA
+    title: Primogen
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Warmaksan
+    id: 201594
+    capacity: 5
+    disciplines: cel obf THA
+    title: Prince
+    clan: Banu Haqim
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 1
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 3
+      name: "Haqim's Law: Retribution"
+      id: 102226
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 3
+      name: Priority Contract
+      id: 101487
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Yoruba Shrine
+      id: 102201
+  - name: Action
+    count: 10
+    cards:
+    - count: 1
+      name: Biothaumaturgic Experiment
+      id: 100162
+    - count: 6
+      name: Hunter's Mark
+      id: 102228
+    - count: 2
+      name: Magic of the Smith
+      id: 101143
+    - count: 1
+      name: Rutor's Hand
+      id: 101664
+  - name: Political Action
+    count: 5
+    cards:
+    - count: 2
+      name: Alastor
+      id: 100038
+    - count: 2
+      name: Anathema
+      id: 100060
+    - count: 1
+      name: Archon
+      id: 100084
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 2
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Assault Rifle
+      id: 100107
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Helicopter
+      id: 100909
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Action Modifier/Combat
+    count: 8
+    cards:
+    - count: 4
+      name: Resist Earth's Grasp
+      id: 101610
+    - count: 4
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 8
+      name: 'Second Tradition: Domain'
+      id: 101706
+  - name: Combat
+    count: 34
+    cards:
+    - count: 1
+      name: Acrobatics
+      id: 100020
+    - count: 6
+      name: Blur
+      id: 100227
+    - count: 1
+      name: Fast Hands
+      id: 100704
+    - count: 14
+      name: Hunger of Marduk
+      id: 102227
+    - count: 1
+      name: Lightning Reflexes
+      id: 101107
+    - count: 5
+      name: Quickness
+      id: 101532
+    - count: 4
+      name: Rego Motum
+      id: 101588
+    - count: 2
+      name: Side Strike
+      id: 101778
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Fourth Cycle, The
+      id: 100781
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

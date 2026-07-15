@@ -1,0 +1,204 @@
+event_id: '11594'
+name: Camarilla Conclave Grand Prix 2024
+location: Palma
+date_start: 2024-11-16
+rounds_format: 3R+F
+players_count: 89
+winner: P045
+deck:
+  player:
+    name: '1011'
+    vekn_number: 1011
+  name: Camarilla Conclave GP 2024
+  description: 1GW5
+  crypt_count: 13
+  crypt_min: 16
+  crypt_max: 26
+  crypt_avg: 5.23
+  crypt:
+  - count: 1
+    name: Carna, The Princess Witch
+    id: 200248
+    capacity: 7
+    disciplines: AUS DOM THA
+    title: Primogen
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Ladislas Toth, The Torch
+    id: 200803
+    capacity: 7
+    disciplines: for AUS DOM THA
+    title: Archbishop
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Elena Mendoza Vasquez
+    id: 200408
+    capacity: 6
+    disciplines: dom obt AUS THA
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Selena
+    id: 201261
+    capacity: 6
+    disciplines: AUS DOM THA
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 1
+    name: Yasmin the Black
+    id: 201483
+    capacity: 6
+    disciplines: dom pre AUS THA
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 5
+    name: Antonio d'Erlette
+    id: 200116
+    capacity: 5
+    disciplines: dom for pot THA
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Frondator
+    id: 200485
+    capacity: 5
+    disciplines: dom tha AUS
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Keith Moody
+    id: 200767
+    capacity: 3
+    disciplines: DOM
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Martin Franckel
+    id: 200943
+    capacity: 3
+    disciplines: tha AUS
+    clan: Tremere
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 34
+    cards:
+    - count: 12
+      name: Ashur Tablets
+      id: 100106
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Infernal Pact
+      id: 100979
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 6
+      name: Liquidation
+      id: 101112
+    - count: 1
+      name: Major Boon
+      id: 101145
+    - count: 4
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+  - name: Action
+    count: 5
+    cards:
+    - count: 1
+      name: Far Mastery
+      id: 100703
+    - count: 1
+      name: Govern the Unaligned
+      id: 100845
+    - count: 3
+      name: Magic of the Smith
+      id: 101143
+  - name: Ally
+    count: 10
+    cards:
+    - count: 10
+      name: Nephandus
+      id: 101272
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 1
+      name: Conditioning
+      id: 100401
+    - count: 6
+      name: Mirror Walk
+      id: 101223
+  - name: Reaction
+    count: 27
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 6
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 6
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Autonomic Mastery
+      id: 100117
+  - name: Event
+    count: 3
+    cards:
+    - count: 3
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11594
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

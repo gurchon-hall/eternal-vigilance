@@ -1,0 +1,191 @@
+event_id: '11865'
+name: ITALIAN GP 2025 - MODENA
+location: Modena
+date_start: 2025-03-01
+rounds_format: 3R+F
+players_count: 70
+winner: Frederic Pin
+deck:
+  player:
+    name: '137'
+    vekn_number: 137
+  name: Italian Grand Prix 2025
+  description: 0GW2
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 36
+  crypt_avg: 7.75
+  crypt:
+  - count: 5
+    name: Petaniqua (ADV)
+    id: 201113
+    capacity: 9
+    disciplines: chi AUS DAI DEM OBF THA
+    clan: Baali
+    grouping: 4
+  - count: 2
+    name: Petaniqua
+    id: 201112
+    capacity: 9
+    disciplines: chi AUS DAI DEM OBF THA
+    clan: Malkavian
+    grouping: 4
+  - count: 3
+    name: Eurayle Gelasia Mylonas
+    id: 200443
+    capacity: 6
+    disciplines: for pre AUS OBE
+    clan: Salubri
+    grouping: 4
+  - count: 2
+    name: Maureen, Dark Priestess
+    id: 200964
+    capacity: 6
+    disciplines: dom obf DAI PRE
+    title: 1 Vote
+    clan: Baali
+    grouping: 4
+  library_count: 82
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Blood Puppy
+      id: 100207
+    - count: 2
+      name: Charisma
+      id: 100332
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Fear of Mekhet
+      id: 100710
+    - count: 3
+      name: Path of Evil Revelations
+      id: 101361
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rötschreck
+      id: 101654
+    - count: 1
+      name: Tend the Flock
+      id: 101956
+    - count: 1
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 15
+    cards:
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 7
+      name: Greater Curse
+      id: 100854
+    - count: 4
+      name: Legacy
+      id: 101085
+    - count: 1
+      name: Rutor's Hand
+      id: 101664
+    - count: 2
+      name: Sacrificial Lamb
+      id: 101672
+  - name: Ally
+    count: 13
+    cards:
+    - count: 1
+      name: Double Deuce
+      id: 102220
+    - count: 5
+      name: Herald of Topheth
+      id: 100912
+    - count: 6
+      name: Infernal Servitor
+      id: 100981
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 3
+      name: Cloak the Gathering
+      id: 100362
+    - count: 1
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 1
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Psychomachia
+      id: 101511
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+      id: 101913
+  - name: Action Modifier/Reaction
+    count: 5
+    cards:
+    - count: 4
+      name: Sense the Sin
+      id: 101718
+    - count: 1
+      name: Touch of Clarity
+      id: 101998
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 1
+      name: Confusion of the Eye
+      id: 100406
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 5
+      name: Eyes of Argus
+      id: 100680
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 6
+    cards:
+    - count: 4
+      name: Flames of the Netherworld
+      id: 100741
+    - count: 2
+      name: Trap
+      id: 102012
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11865
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11865.zip

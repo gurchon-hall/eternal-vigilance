@@ -1,0 +1,148 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1119'
+    vekn_number: 1119
+  name: Warsaw LCQ 2024
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 8
+  crypt_max: 36
+  crypt_avg: 4.83
+  crypt:
+  - count: 4
+    name: Lorenzo Detuono
+    id: 200858
+    capacity: 9
+    disciplines: aus dem DOM NEC POT
+    clan: Giovanni
+    grouping: 5
+  - count: 3
+    name: Domenic Giovanni
+    id: 200356
+    capacity: 4
+    disciplines: nec POT
+    clan: Giovanni
+    grouping: 6
+  - count: 3
+    name: Bez Dunsirn
+    id: 200195
+    capacity: 2
+    disciplines: POT
+    clan: Giovanni
+    grouping: 6
+  - count: 2
+    name: Eric Milliner
+    id: 200430
+    capacity: 2
+    disciplines: pot
+    clan: Giovanni
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dis Pater
+      id: 100548
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Frontal Assault
+      id: 100794
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 5
+      name: Liquidation
+      id: 101112
+    - count: 1
+      name: 'Powerbase: Cape Verde'
+      id: 101433
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 16
+    cards:
+    - count: 12
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Harass
+      id: 100886
+    - count: 3
+      name: Sudario Refraction
+      id: 101895
+  - name: Ally
+    count: 3
+    cards:
+    - count: 1
+      name: Gianna di Canneto
+      id: 100823
+    - count: 1
+      name: Giulia Giovanni Abruzzina
+      id: 100832
+    - count: 1
+      name: Tye Cooper
+      id: 102053
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Deflection
+      id: 100518
+  - name: Combat
+    count: 53
+    cards:
+    - count: 4
+      name: Disarm
+      id: 100549
+    - count: 4
+      name: Fake Out
+      id: 100693
+    - count: 4
+      name: Glancing Blow
+      id: 100834
+    - count: 8
+      name: Immortal Grapple
+      id: 100959
+    - count: 8
+      name: Roundhouse
+      id: 102215
+    - count: 10
+      name: Spiritual Guidance
+      id: 101851
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+    - count: 2
+      name: Thrown Sewer Lid
+      id: 101983
+    - count: 8
+      name: Torn Signpost
+      id: 101993
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

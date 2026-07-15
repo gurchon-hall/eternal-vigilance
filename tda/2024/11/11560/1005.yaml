@@ -1,0 +1,178 @@
+event_id: '11560'
+name: Dutch Nationals 2024
+location: Wijchen
+date_start: 2024-11-24
+rounds_format: 3R+F
+players_count: 24
+winner: Roy Opitz
+deck:
+  player:
+    name: '1005'
+    vekn_number: 1005
+  name: Dutch Nationals 2024
+  description: 1GW6.5+2
+  crypt_count: 13
+  crypt_min: 6
+  crypt_max: 44
+  crypt_avg: 5.62
+  crypt:
+  - count: 5
+    name: Baba Yaga, the Iron Hag
+    id: 200157
+    capacity: 11
+    disciplines: ANI AUS FOR OBF POT THA
+    clan: Nosferatu
+    grouping: 5
+  - count: 4
+    name: Béatrice "Oracle171" Tremblay
+    id: 200181
+    capacity: 3
+    disciplines: inn ven
+    clan: Innocent
+    grouping: 4
+  - count: 2
+    name: Malcolm
+    id: 200902
+    capacity: 2
+    disciplines: ani
+    clan: Gangrel
+    grouping: 5
+  - count: 2
+    name: Walker Grimes
+    id: 201462
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 5
+  library_count: 88
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 3
+      name: Charisma
+      id: 100332
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Life in the City
+      id: 101104
+    - count: 1
+      name: Major Boon
+      id: 101145
+    - count: 3
+      name: Protracted Investment
+      id: 101502
+    - count: 4
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Warsaw Station
+      id: 102149
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Conviction
+    count: 2
+    cards:
+    - count: 1
+      name: Second Sight
+      id: 101705
+    - count: 1
+      name: Strike with Conviction
+      id: 101886
+  - name: Action
+    count: 12
+    cards:
+    - count: 1
+      name: Army of Rats
+      id: 100093
+    - count: 6
+      name: Deep Song
+      id: 100515
+    - count: 1
+      name: Nose of the Hound
+      id: 101296
+    - count: 2
+      name: Preternatural Strength
+      id: 101483
+    - count: 1
+      name: Sense Death
+      id: 101716
+    - count: 1
+      name: Taunt the Caged Beast
+      id: 101947
+  - name: Action/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Elemental Stoicism
+      id: 100625
+  - name: Ally
+    count: 6
+    cards:
+    - count: 2
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+    - count: 3
+      name: Procurer
+      id: 101491
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Jackie Therman
+      id: 101018
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 4
+      name: Cloak the Gathering
+      id: 100362
+    - count: 3
+      name: Freak Drive
+      id: 100788
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Swallowed by the Night
+      id: 101913
+  - name: Combat
+    count: 31
+    cards:
+    - count: 5
+      name: Blood Rage
+      id: 100208
+    - count: 3
+      name: Canine Horde
+      id: 100290
+    - count: 8
+      name: Immortal Grapple
+      id: 100959
+    - count: 5
+      name: Rolling with the Punches
+      id: 101649
+    - count: 6
+      name: Taste of Vitae
+      id: 101945
+    - count: 4
+      name: Unflinching Persistence
+      id: 102071
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11560
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11560.zip

@@ -1,0 +1,144 @@
+event_id: '11730'
+name: First 30th
+location: Vác
+date_start: 2024-09-22
+rounds_format: 3R+F
+players_count: 17
+winner: Márk Virsinger
+deck:
+  player:
+    name: '1017'
+    vekn_number: 1017
+  name: First 30th
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 28
+  crypt_avg: 5.0
+  crypt:
+  - count: 1
+    name: Nefertiti
+    id: 201042
+    capacity: 10
+    disciplines: cel pot DOM OBF PRE SER
+    clan: Ministry
+    grouping: 2
+  - count: 1
+    name: Nefertiti (ADV)
+    id: 201520
+    capacity: 10
+    disciplines: cel pot DOM OBF PRE SER
+    clan: Ministry
+    grouping: 2
+  - count: 10
+    name: Aabbt Kindred
+    id: 200001
+    capacity: 4
+    disciplines: for pre ser
+    clan: Ministry
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 3
+      name: British Museum, London, The
+      id: 102236
+    - count: 1
+      name: Crocodile Temple, The
+      id: 100449
+    - count: 1
+      name: Ferraille
+      id: 100722
+    - count: 1
+      name: Opium Den
+      id: 101326
+    - count: 6
+      name: Presence
+      id: 101480
+    - count: 3
+      name: Protected Resources
+      id: 101500
+    - count: 1
+      name: Temple Hunting Ground
+      id: 101953
+  - name: Action
+    count: 10
+    cards:
+    - count: 4
+      name: Charming Lobby
+      id: 100334
+    - count: 6
+      name: Mesu Bedshet
+      id: 101206
+  - name: Political Action
+    count: 19
+    cards:
+    - count: 3
+      name: Consanguineous Boon
+      id: 100410
+    - count: 6
+      name: Hierophant
+      id: 100923
+    - count: 4
+      name: Kine Resources Contested
+      id: 101056
+    - count: 5
+      name: Reckless Agitation
+      id: 101567
+    - count: 1
+      name: Rumors of Gehenna
+      id: 101663
+  - name: Equipment
+    count: 7
+    cards:
+    - count: 7
+      name: Agate Talisman
+      id: 100024
+  - name: Action Modifier
+    count: 18
+    cards:
+    - count: 5
+      name: Bewitching Oration
+      id: 100157
+    - count: 5
+      name: Freak Drive
+      id: 100788
+    - count: 8
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Form of the Serpent
+      id: 100773
+  - name: Reaction
+    count: 9
+    cards:
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Ophidian Gaze
+      id: 101325
+  - name: Combat
+    count: 5
+    cards:
+    - count: 3
+      name: Majesty
+      id: 101144
+    - count: 2
+      name: Skin of Steel
+      id: 101792
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: NRA PAC
+      id: 101305
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11730
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11730.zip

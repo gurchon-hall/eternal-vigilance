@@ -1,0 +1,194 @@
+event_id: '11192'
+name: White Turtle
+location: Vác - Hungary
+date_start: 2024-01-27
+rounds_format: 2R+F
+players_count: 20
+winner: Márk Virsinger
+deck:
+  player:
+    name: '101'
+    vekn_number: 101
+  name: White Turtle
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 32
+  crypt_avg: 5.58
+  crypt:
+  - count: 4
+    name: Josette
+    id: 200725
+    capacity: 8
+    disciplines: pot pre FOR OBF THN
+    clan: Samedi
+    grouping: 6
+  - count: 2
+    name: Hesha Ruhadze
+    id: 201591
+    capacity: 7
+    disciplines: ani aus obf PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Abdelsobek
+    id: 200005
+    capacity: 5
+    disciplines: for nec obf pre ser
+    clan: Ministry
+    grouping: 5
+  - count: 1
+    name: Marcel
+    id: 201600
+    capacity: 4
+    disciplines: obf pre pro
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: '"Coach" Tyrone Soros'
+    id: 201661
+    capacity: 3
+    disciplines: obf pre
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Ahmose Chambers
+    id: 200024
+    capacity: 3
+    disciplines: obf ser
+    clan: Ministry
+    grouping: 5
+  - count: 1
+    name: Cao Nguyen
+    id: 200241
+    capacity: 3
+    disciplines: SER
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Milton Fox
+    id: 201605
+    capacity: 3
+    disciplines: pre pro
+    clan: Ministry
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 3
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 3
+      name: Heidelberg Castle, Germany
+      id: 100908
+    - count: 1
+      name: Houngan
+      id: 100940
+    - count: 2
+      name: Khobar Towers, Al-Khubar
+      id: 101048
+    - count: 1
+      name: Opium Den
+      id: 101326
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Temple Hunting Ground
+      id: 101953
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Tribute to the Master
+      id: 102023
+  - name: Action
+    count: 17
+    cards:
+    - count: 8
+      name: Bum's Rush
+      id: 100266
+    - count: 6
+      name: Platinum Protocol, The
+      id: 102232
+    - count: 3
+      name: Pressing Flesh
+      id: 101481
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Michael Harris, the Incinerator
+      id: 102239
+    - count: 1
+      name: Nephren-Ka
+      id: 101273
+  - name: Equipment
+    count: 13
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Improvised Flamethrower
+      id: 100964
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Mummy's Tongue
+      id: 101252
+    - count: 1
+      name: Rowan Ring
+      id: 101655
+    - count: 8
+      name: Saturday-Night Special
+      id: 101682
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 3
+      name: Cloak the Gathering
+      id: 100362
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Faceless Night
+      id: 100687
+    - count: 2
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 3
+      name: Lost in Crowds
+      id: 101125
+  - name: Action Modifier/Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Swallowed by the Night
+      id: 101913
+  - name: Combat
+    count: 23
+    cards:
+    - count: 8
+      name: Concealed Weapon
+      id: 100392
+    - count: 3
+      name: Disguised Weapon
+      id: 100555
+    - count: 8
+      name: Dragon's Breath Rounds
+      id: 100580
+    - count: 4
+      name: Target Vitals
+      id: 101942
+winner_vekn_number: 111
+event_url: https://www.vekn.net/event-calendar/event/11192
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11192.zip

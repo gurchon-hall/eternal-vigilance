@@ -1,0 +1,145 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '129'
+    vekn_number: 129
+  name: Croatian Abuse of Power 2026
+  description: 0GW0.5
+  crypt_count: 13
+  crypt_min: 26
+  crypt_max: 40
+  crypt_avg: 8.38
+  crypt:
+  - count: 4
+    name: Lambach
+    id: 200810
+    capacity: 10
+    disciplines: pre ANI AUS DOM VIC
+    title: Cardinal
+    clan: Tzimisce
+    grouping: 2
+  - count: 3
+    name: Velya, The Flayer
+    id: 201434
+    capacity: 9
+    disciplines: for ANI AUS PRE VIC
+    title: Cardinal
+    clan: Tzimisce
+    grouping: 3
+  - count: 3
+    name: Meshenka
+    id: 200980
+    capacity: 8
+    disciplines: ANI AUS VIC
+    title: Priscus
+    clan: Tzimisce
+    grouping: 2
+  - count: 3
+    name: Caliban
+    id: 200236
+    capacity: 6
+    disciplines: ANI AUS VIC
+    clan: Tzimisce
+    grouping: 2
+  library_count: 79
+  library_sections:
+  - name: Master
+    count: 25
+    cards:
+    - count: 2
+      name: Archon Investigation
+      id: 100085
+    - count: 2
+      name: Blood Doll
+      id: 100199
+    - count: 2
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 2
+      name: Jake Washington
+      id: 101019
+    - count: 2
+      name: Library Hunting Ground
+      id: 101102
+    - count: 2
+      name: Monster
+      id: 101242
+    - count: 2
+      name: Path of Metamorphosis, The
+      id: 101364
+    - count: 2
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rötschreck
+      id: 101654
+    - count: 2
+      name: Sudden Reversal
+      id: 101896
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 6
+    cards:
+    - count: 6
+      name: Deep Song
+      id: 100515
+  - name: Ally
+    count: 2
+    cards:
+    - count: 2
+      name: War Ghoul
+      id: 102144
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: Read the Winds
+      id: 101559
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 34
+    cards:
+    - count: 4
+      name: Amaranth
+      id: 100043
+    - count: 6
+      name: Aura Reading
+      id: 100113
+    - count: 4
+      name: Breath of the Dragon
+      id: 100250
+    - count: 6
+      name: Chiropteran Marauder
+      id: 100344
+    - count: 4
+      name: Horrid Form
+      id: 100934
+    - count: 4
+      name: Skin Trap
+      id: 101795
+    - count: 6
+      name: Telepathic Tracking
+      id: 101950
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

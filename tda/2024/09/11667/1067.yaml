@@ -1,0 +1,185 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1067'
+    vekn_number: 1067
+  name: Warsaw LCQ 2024
+  description: 0GW3.5
+  crypt_count: 12
+  crypt_min: 26
+  crypt_max: 43
+  crypt_avg: 8.75
+  crypt:
+  - count: 3
+    name: Alexandra
+    id: 200049
+    capacity: 11
+    disciplines: dom ANI AUS CEL PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 2
+  - count: 2
+    name: Anneke
+    id: 200106
+    capacity: 10
+    disciplines: dom AUS CEL PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 1
+  - count: 1
+    name: François Villon
+    id: 200478
+    capacity: 10
+    disciplines: chi obf pot AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 2
+  - count: 4
+    name: Anson
+    id: 200107
+    capacity: 8
+    disciplines: aus dom CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 1
+  - count: 1
+    name: Tatiana Romanov
+    id: 201347
+    capacity: 7
+    disciplines: cel pre AUS
+    title: Prince
+    clan: Toreador
+    grouping: 1
+  - count: 1
+    name: Isabel de Leon
+    id: 200642
+    capacity: 3
+    disciplines: AUS
+    clan: Toreador
+    grouping: 2
+  library_count: 75
+  library_sections:
+  - name: Master
+    count: 37
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Camarilla Conclave
+      id: 102269
+    - count: 2
+      name: Cavalier
+      id: 100310
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Liquidation
+      id: 101112
+    - count: 1
+      name: Millicent Smith, Puritan Vampire Hunter
+      id: 101210
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 5
+      name: Toreador Grand Ball
+      id: 101989
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 5
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 1
+    cards:
+    - count: 1
+      name: Entrancement
+      id: 100652
+  - name: Political Action
+    count: 12
+    cards:
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 5
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 1
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Parity Shift
+      id: 101353
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Sargon Fragment, The
+      id: 101681
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 3
+      name: Awe
+      id: 100119
+    - count: 2
+      name: Perfect Paragon
+      id: 101387
+    - count: 5
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Scalpel Tongue
+      id: 101686
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 2
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 4
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Majesty
+      id: 101144
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

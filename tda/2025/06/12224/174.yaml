@@ -1,0 +1,151 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '174'
+    vekn_number: 174
+  name: Brazilian Nationals 2025
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 27
+  crypt_avg: 5.5
+  crypt:
+  - count: 3
+    name: Carna, The Princess Witch
+    id: 200248
+    capacity: 7
+    disciplines: AUS DOM THA
+    title: Primogen
+    clan: Tremere
+    grouping: 3
+  - count: 2
+    name: Selena
+    id: 201261
+    capacity: 6
+    disciplines: AUS DOM THA
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 5
+    name: Antonio d'Erlette
+    id: 200116
+    capacity: 5
+    disciplines: dom for pot THA
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Frondator
+    id: 200485
+    capacity: 5
+    disciplines: dom tha AUS
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Keith Moody
+    id: 200767
+    capacity: 3
+    disciplines: DOM
+    clan: Tremere antitribu
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 36
+    cards:
+    - count: 12
+      name: Ashur Tablets
+      id: 100106
+    - count: 3
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 2
+      name: Jake Washington
+      id: 101019
+    - count: 5
+      name: Liquidation
+      id: 101112
+    - count: 6
+      name: Parthenon, The
+      id: 101355
+    - count: 3
+      name: Shard, London, The
+      id: 102244
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Magic of the Smith
+      id: 101143
+  - name: Ally
+    count: 10
+    cards:
+    - count: 10
+      name: Nephandus
+      id: 101272
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 8
+      name: Mirror Walk
+      id: 101223
+  - name: Reaction
+    count: 26
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 6
+      name: Eyes of Argus
+      id: 100680
+    - count: 6
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

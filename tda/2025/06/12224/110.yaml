@@ -1,0 +1,182 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '110'
+    vekn_number: 110
+  name: Brazilian Nationals 2025
+  description: 2GW6
+  crypt_count: 12
+  crypt_min: 17
+  crypt_max: 28
+  crypt_avg: 5.75
+  crypt:
+  - count: 1
+    name: Bloody Mary
+    id: 200209
+    capacity: 8
+    disciplines: pre AUS DEM OBF
+    title: Primogen
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Apolonia Czarnecki
+    id: 200123
+    capacity: 7
+    disciplines: pre AUS DEM OBF
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Osric Vladislav
+    id: 201085
+    capacity: 7
+    disciplines: cel AUS DEM OBF
+    clan: Malkavian
+    grouping: 5
+  - count: 3
+    name: Morel
+    id: 201010
+    capacity: 6
+    disciplines: AUS DEM OBF
+    clan: Malkavian
+    grouping: 4
+  - count: 2
+    name: Gem Ghastly
+    id: 200498
+    capacity: 6
+    disciplines: aus DEM OBF
+    title: Primogen
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Apache Jones
+    id: 200122
+    capacity: 5
+    disciplines: aus for obf DEM
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Arthur Denholm
+    id: 200144
+    capacity: 5
+    disciplines: obf AUS DEM
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Beauregard Krueller
+    id: 200182
+    capacity: 4
+    disciplines: aus dem obf
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Jackie
+    id: 200658
+    capacity: 3
+    disciplines: DEM
+    clan: Malkavian antitribu
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 2
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 2
+      name: Sudden Reversal
+      id: 101896
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 19
+    cards:
+    - count: 3
+      name: Call, The
+      id: 100278
+    - count: 16
+      name: Kindred Spirits
+      id: 101055
+  - name: Action Modifier
+    count: 31
+    cards:
+    - count: 10
+      name: Confusion
+      id: 100405
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 8
+      name: Eyes of Chaos
+      id: 100682
+    - count: 4
+      name: Faceless Night
+      id: 100687
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Spying Mission
+      id: 101857
+  - name: Action Modifier/Combat
+    count: 7
+    cards:
+    - count: 4
+      name: Deny
+      id: 100524
+    - count: 3
+      name: Swallowed by the Night
+      id: 101913
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Touch of Clarity
+      id: 101998
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 3
+      name: Eyes of Argus
+      id: 100680
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: No Trace
+      id: 101292
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

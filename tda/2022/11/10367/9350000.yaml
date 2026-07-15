@@ -1,0 +1,222 @@
+event_id: '10367'
+name: Finnish Nationals 2022
+location: Espoo - Finland
+date_start: 2022-11-05
+rounds_format: 3R+F
+players_count: 45
+winner: Teemu Sainomaa
+deck:
+  player:
+    name: Petrus Makkonen
+    vekn_number: 9350000
+    rank: 14
+    gw: 1
+    vp: 3.0
+    tp: 96
+  name: 'Finnish Nats 2022:'
+  description: 1GW3
+  crypt_count: 12
+  crypt_min: 17
+  crypt_max: 30
+  crypt_avg: 6.0
+  crypt:
+  - count: 2
+    name: Catalina Vega
+    id: 201540
+    capacity: 8
+    disciplines: for AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 3
+    name: Flávio Gonçalves
+    id: 201547
+    capacity: 7
+    disciplines: aus for CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Gwendolyn Fleming
+    id: 200555
+    capacity: 6
+    disciplines: cel pro AUS PRE
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Maila
+    id: 201633
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Mkhokheli
+    id: 201561
+    capacity: 6
+    disciplines: aus cel for PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Vasily
+    id: 201430
+    capacity: 6
+    disciplines: aus pre ser CEL
+    title: Prince
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Bret Stryker
+    id: 201538
+    capacity: 4
+    disciplines: CEL PRE
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Tyler McGill
+    id: 201398
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  library_count: 66
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 6
+      name: Aching Beauty
+      id: 100018
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: 'Elysium: The Arboretum'
+      id: 100631
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Society Hunting Ground
+      id: 101821
+    - count: 1
+      name: Vessel
+      id: 102113
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 9
+    cards:
+    - count: 2
+      name: Entrancement
+      id: 100652
+    - count: 6
+      name: 'Judgment: Camarilla Segregation'
+      id: 101028
+    - count: 1
+      name: Mind Numb
+      id: 101211
+  - name: Political Action
+    count: 10
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Neonate Breach
+      id: 101271
+    - count: 6
+      name: Parity Shift
+      id: 101353
+    - count: 1
+      name: Toreador Justicar
+      id: 101990
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Tasha Morgan
+      id: 101943
+  - name: Action Modifier
+    count: 12
+    cards:
+    - count: 3
+      name: Aire of Elation
+      id: 100031
+    - count: 2
+      name: Change of Target
+      id: 100323
+    - count: 4
+      name: Forced March
+      id: 100761
+    - count: 1
+      name: Perfect Paragon
+      id: 101387
+    - count: 2
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Force of Personality
+      id: 100758
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Scalpel Tongue
+      id: 101686
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 1
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: 'Second Tradition: Domain'
+      id: 101706
+    - count: 2
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Majesty
+      id: 101144
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 3070069
+event_url: https://www.vekn.net/event-calendar/event/10367
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/10367.zip

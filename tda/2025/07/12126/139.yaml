@@ -1,0 +1,205 @@
+event_id: '12126'
+name: Grand Prix Warsaw 2025
+location: Warsaw
+date_start: 2025-07-05
+rounds_format: 3R+F
+players_count: 56
+winner: Tomasz Pietkiewicz
+deck:
+  player:
+    name: '139'
+    vekn_number: 139
+  name: Warsaw Grand Prix
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 9
+  crypt_max: 19
+  crypt_avg: 3.5
+  crypt:
+  - count: 1
+    name: Amelia, The Blood Red Tears
+    id: 200072
+    capacity: 5
+    disciplines: ani obf POT
+    clan: Nosferatu
+    grouping: 3
+  - count: 1
+    name: Dr. Julius Sutphen
+    id: 200378
+    capacity: 5
+    disciplines: dom obt POT
+    title: Bishop
+    clan: Lasombra
+    grouping: 3
+  - count: 1
+    name: Terry
+    id: 201359
+    capacity: 5
+    disciplines: aus dom san POT
+    clan: Blood Brother
+    grouping: 2
+  - count: 1
+    name: Agatha
+    id: 200020
+    capacity: 4
+    disciplines: obf POT
+    clan: Nosferatu antitribu
+    grouping: 2
+  - count: 1
+    name: Hugo
+    id: 200610
+    capacity: 4
+    disciplines: pre vic POT
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Jimmy Dunn
+    id: 200705
+    capacity: 4
+    disciplines: for CEL POT
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: David Morgan, The Scourge
+    id: 200326
+    capacity: 3
+    disciplines: aus pot
+    clan: Malkavian
+    grouping: 3
+  - count: 1
+    name: Jacob Bragg
+    id: 200662
+    capacity: 3
+    disciplines: cel pot
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Raziya Samater
+    id: 201169
+    capacity: 3
+    disciplines: ani pot
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Arnold Simpson
+    id: 200139
+    capacity: 2
+    disciplines: pot
+    clan: Brujah
+    grouping: 3
+  - count: 1
+    name: Mitchell, The Headhunter
+    id: 201000
+    capacity: 2
+    disciplines: obt pot
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Paul DiCarlo, The Alpha
+    id: 201101
+    capacity: 2
+    disciplines: pot
+    clan: Giovanni
+    grouping: 2
+  library_count: 82
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Humanitas
+      id: 100943
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 3
+      name: Potence
+      id: 101424
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 2
+      name: Tribute to the Master
+      id: 102023
+    - count: 2
+      name: Vessel
+      id: 102113
+  - name: Action
+    count: 15
+    cards:
+    - count: 2
+      name: Ambush
+      id: 100046
+    - count: 5
+      name: Bum's Rush
+      id: 100266
+    - count: 4
+      name: Computer Hacking
+      id: 100390
+    - count: 3
+      name: Harass
+      id: 100886
+    - count: 1
+      name: Rampage
+      id: 101539
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 3
+      name: Camera Phone
+      id: 100287
+  - name: Combat
+    count: 49
+    cards:
+    - count: 5
+      name: Disarm
+      id: 100549
+    - count: 2
+      name: Fists of Death
+      id: 100738
+    - count: 1
+      name: Glancing Blow
+      id: 100834
+    - count: 12
+      name: Immortal Grapple
+      id: 100959
+    - count: 4
+      name: Roundhouse
+      id: 102215
+    - count: 4
+      name: Slam
+      id: 101798
+    - count: 1
+      name: Stunt Cycle
+      id: 101888
+    - count: 2
+      name: Target Vitals
+      id: 101942
+    - count: 6
+      name: Taste of Vitae
+      id: 101945
+    - count: 2
+      name: Thrown Sewer Lid
+      id: 101983
+    - count: 10
+      name: Torn Signpost
+      id: 101993
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12126
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12126.zip

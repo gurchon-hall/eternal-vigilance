@@ -1,0 +1,208 @@
+event_id: '11594'
+name: Camarilla Conclave Grand Prix 2024
+location: Palma
+date_start: 2024-11-16
+rounds_format: 3R+F
+players_count: 89
+winner: P045
+deck:
+  player:
+    name: '1030'
+    vekn_number: 1030
+  name: Camarilla Conclave GP 2024
+  description: 1GW3
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 31
+  crypt_avg: 6.75
+  crypt:
+  - count: 2
+    name: Sergio Bueno
+    id: 201662
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Modius
+    id: 201703
+    capacity: 8
+    disciplines: obf AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 7
+  - count: 2
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Alice Chen
+    id: 201531
+    capacity: 7
+    disciplines: dom obf FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 2
+    name: Atiena
+    id: 201579
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Arishat
+    id: 200136
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 Vote
+    clan: Baali
+    grouping: 6
+  - count: 1
+    name: Jacques Rouge
+    id: 201523
+    capacity: 6
+    disciplines: ani pot pre OBF
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Ferraille
+      id: 100722
+    - count: 1
+      name: Opium Den
+      id: 101326
+    - count: 1
+      name: Temple Hunting Ground
+      id: 101953
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 10
+    cards:
+    - count: 9
+      name: Enchant Kindred
+      id: 100640
+    - count: 1
+      name: Entrancement
+      id: 100652
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Firebrand
+      id: 100736
+    - count: 8
+      name: Kine Resources Contested
+      id: 101056
+    - count: 2
+      name: Patsy
+      id: 101377
+    - count: 3
+      name: Reckless Agitation
+      id: 101567
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 26
+    cards:
+    - count: 4
+      name: Bewitching Oration
+      id: 100157
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 1
+      name: Faceless Night
+      id: 100687
+    - count: 4
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 2
+      name: Lost in Crowds
+      id: 101125
+    - count: 6
+      name: Memory Rift
+      id: 101199
+    - count: 1
+      name: Veil the Legions
+      id: 102097
+    - count: 6
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Scalpel Tongue
+      id: 101686
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 5
+      name: Bait and Switch
+      id: 102218
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Party Out Of Bounds
+      id: 102231
+  - name: Combat
+    count: 7
+    cards:
+    - count: 1
+      name: Donnybrook
+      id: 100576
+    - count: 6
+      name: Majesty
+      id: 101144
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11594
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

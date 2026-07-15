@@ -1,0 +1,188 @@
+event_id: '12325'
+name: 'Fee Stake: Lublin 2025'
+location: Lublin
+date_start: 2025-05-17
+rounds_format: 3R+F
+players_count: 20
+winner: Tomasz Kłoczko
+deck:
+  player:
+    name: '110'
+    vekn_number: 110
+  name: 'Fee Stake: Lublin'
+  description: 0GW1.5
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 10.0
+  crypt:
+  - count: 4
+    name: Montano
+    id: 201006
+    capacity: 11
+    disciplines: ANI DOM FOR OBT POT
+    title: 2 Votes
+    clan: Lasombra
+    grouping: 3
+  - count: 3
+    name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
+    capacity: 10
+    disciplines: aus for DOM OBT POT PRE
+    title: Cardinal
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Ayelea, The Manipulator
+    id: 200152
+    capacity: 10
+    disciplines: pre AUS DOM OBT THA
+    title: Cardinal
+    clan: Tremere antitribu
+    grouping: 2
+  - count: 1
+    name: Marcus Vitel
+    id: 200915
+    capacity: 10
+    disciplines: DOM FOR OBF OBT PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 3
+  - count: 1
+    name: Alvaro, The Scion of Angelica
+    id: 200063
+    capacity: 9
+    disciplines: dom pre OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Francisco Domingo de Polonia
+    id: 200476
+    capacity: 9
+    disciplines: pro DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Gratiano
+    id: 200534
+    capacity: 8
+    disciplines: obf pot DOM OBT
+    title: Priscus
+    clan: Lasombra
+    grouping: 2
+  library_count: 78
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elysian Fields
+      id: 100629
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 7
+      name: Villein
+      id: 102121
+    - count: 6
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 9
+    cards:
+    - count: 9
+      name: Govern the Unaligned
+      id: 100845
+  - name: Political Action
+    count: 6
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Ally
+    count: 8
+    cards:
+    - count: 8
+      name: Nocturn
+      id: 101293
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Zaire River Ferry
+      id: 102203
+  - name: Action Modifier
+    count: 24
+    cards:
+    - count: 1
+      name: Blanket of Night
+      id: 100177
+    - count: 4
+      name: Conditioning
+      id: 100401
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 6
+      name: Freak Drive
+      id: 100788
+    - count: 1
+      name: Nightshades
+      id: 101286
+    - count: 4
+      name: Shadow Play
+      id: 101743
+    - count: 3
+      name: Shroud of Absence
+      id: 101774
+    - count: 3
+      name: Shroud of Night
+      id: 101775
+    - count: 1
+      name: Tenebrous Form
+      id: 101957
+  - name: Reaction
+    count: 9
+    cards:
+    - count: 9
+      name: Deflection
+      id: 100518
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12325
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12325.zip

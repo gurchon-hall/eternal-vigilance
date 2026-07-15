@@ -1,0 +1,167 @@
+event_id: '11665'
+name: Week of Nightmares 2024 - Day 3
+location: Warsaw
+date_start: 2024-09-26
+rounds_format: 2R+F
+players_count: 48
+winner: Tero Aalto
+deck:
+  player:
+    name: '1039'
+    vekn_number: 1039
+  name: Warsaw WoN Day III
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 26
+  crypt_max: 32
+  crypt_avg: 7.33
+  crypt:
+  - count: 5
+    name: Theo Bell
+    id: 201613
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Saku Pihlajamäki
+    id: 201658
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Aline Gädeke
+    id: 201576
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Valeriya Zinovieva
+    id: 201614
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Atiena
+    id: 201579
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Leumeah
+    id: 201526
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Flames of Insurrection
+      id: 100740
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+      id: 101435
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: 'Fee Stake: New York'
+      id: 100715
+    - count: 10
+      name: Line Brawl
+      id: 102229
+    - count: 2
+      name: Open War
+      id: 101324
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 7
+      name: Bait and Switch
+      id: 102218
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 7
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 43
+    cards:
+    - count: 8
+      name: Bollix
+      id: 100232
+    - count: 2
+      name: Diversion
+      id: 100563
+    - count: 8
+      name: Dust Up
+      id: 100597
+    - count: 3
+      name: Hell-for-Leather
+      id: 100910
+    - count: 7
+      name: Immortal Grapple
+      id: 100959
+    - count: 3
+      name: Sideslip
+      id: 101779
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+    - count: 8
+      name: Torn Signpost
+      id: 101993
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11665
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11665.zip

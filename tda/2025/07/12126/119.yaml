@@ -1,0 +1,215 @@
+event_id: '12126'
+name: Grand Prix Warsaw 2025
+location: Warsaw
+date_start: 2025-07-05
+rounds_format: 3R+F
+players_count: 56
+winner: Tomasz Pietkiewicz
+deck:
+  player:
+    name: '119'
+    vekn_number: 119
+  name: Warsaw Grand Prix
+  description: 1GW3.5
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 44
+  crypt_avg: 7.08
+  crypt:
+  - count: 5
+    name: Saulot, The Wanderer
+    id: 201248
+    capacity: 11
+    disciplines: dai AUS FOR OBE THA VAL
+    clan: Salubri
+    grouping: 4
+  - count: 1
+    name: Dr. Morrow, The Skindoctor
+    id: 200381
+    capacity: 5
+    disciplines: for AUS VIC
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Neighbor John
+    id: 201046
+    capacity: 5
+    disciplines: dom for AUS
+    clan: Ventrue antitribu
+    grouping: 4
+  - count: 1
+    name: Solomon Batanea
+    id: 201305
+    capacity: 5
+    disciplines: nec AUS FOR
+    clan: Harbinger of Skulls
+    grouping: 4
+  - count: 1
+    name: America Johnson
+    id: 201512
+    capacity: 4
+    disciplines: vic AUS
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Pearl
+    id: 201106
+    capacity: 4
+    disciplines: obf AUS
+    clan: Malkavian antitribu
+    grouping: 5
+  - count: 1
+    name: Tyler McGill
+    id: 201398
+    capacity: 4
+    disciplines: pre AUS
+    clan: Toreador
+    grouping: 5
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Depravity
+      id: 100526
+    - count: 1
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Guardian Angel
+      id: 100866
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Life Boon
+      id: 101103
+    - count: 1
+      name: Meditative Grove
+      id: 102252
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Saulot's Avenging Fist
+      id: 102257
+    - count: 1
+      name: Sight Beyond Sight
+      id: 101780
+    - count: 2
+      name: Wash
+      id: 102151
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 5
+    cards:
+    - count: 1
+      name: Biothaumaturgic Experiment
+      id: 100162
+    - count: 4
+      name: Magic of the Smith
+      id: 101143
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+    - count: 1
+      name: Light Intensifying Goggles
+      id: 101106
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Neutral Guard
+      id: 101276
+    - count: 2
+      name: Repulsion
+      id: 101606
+  - name: Reaction
+    count: 32
+    cards:
+    - count: 4
+      name: Eagle's Sight
+      id: 100598
+    - count: 12
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: Forced Awakening
+      id: 100760
+    - count: 3
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 8
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 24
+    cards:
+    - count: 12
+      name: Anesthetic Touch
+      id: 100066
+    - count: 2
+      name: Taste of Vitae
+      id: 101945
+    - count: 3
+      name: Telepathic Tracking
+      id: 101950
+    - count: 7
+      name: Unflinching Persistence
+      id: 102071
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Nightmares upon Nightmares
+      id: 101285
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12126
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12126.zip

@@ -1,0 +1,210 @@
+event_id: '12325'
+name: 'Fee Stake: Lublin 2025'
+location: Lublin
+date_start: 2025-05-17
+rounds_format: 3R+F
+players_count: 20
+winner: Tomasz Kłoczko
+deck:
+  player:
+    name: '112'
+    vekn_number: 112
+  name: 'Fee Stake: Lublin'
+  description: 0GW1.5
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 8
+  crypt_avg: 1.58
+  crypt:
+  - count: 1
+    name: Christine Boscacci
+    id: 200273
+    capacity: 2
+    disciplines: dom vic
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Frederick the Weak
+    id: 200483
+    capacity: 2
+    disciplines: pre
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Horatio
+    id: 200603
+    capacity: 2
+    disciplines: vic
+    clan: Tzimisce
+    grouping: 2
+  - count: 1
+    name: Jesús Alcalá
+    id: 200701
+    capacity: 2
+    disciplines: cel
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 1
+    name: Nicholas Chang
+    id: 201055
+    capacity: 2
+    disciplines: aus
+    clan: Toreador antitribu
+    grouping: 3
+  - count: 1
+    name: Piotr Andreikov
+    id: 201126
+    capacity: 2
+    disciplines: aus
+    clan: Tzimisce
+    grouping: 3
+  - count: 1
+    name: Samson
+    id: 201231
+    capacity: 2
+    disciplines: dom
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
+    name: Angela Decker
+    id: 200090
+    capacity: 1
+    disciplines: pre
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Huang, Blood Cultist
+    id: 200609
+    capacity: 1
+    disciplines: pro
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: March Halcyon
+    id: 200911
+    capacity: 1
+    disciplines: for
+    clan: Pander
+    grouping: 2
+  - count: 1
+    name: Olga Triminov
+    id: 201075
+    capacity: 1
+    disciplines: vic
+    clan: Pander
+    grouping: 3
+  - count: 1
+    name: Royce
+    id: 201208
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  library_count: 78
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Antediluvian Awakening
+      id: 100073
+    - count: 1
+      name: Black Forest Base
+      id: 100165
+    - count: 4
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Día de los Muertos
+      id: 100541
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 3
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Joseph Pander
+      id: 101024
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 3
+      name: Tribute to the Master
+      id: 102023
+  - name: Action
+    count: 8
+    cards:
+    - count: 8
+      name: Bum's Rush
+      id: 100266
+  - name: Political Action
+    count: 26
+    cards:
+    - count: 5
+      name: Conservative Agitation
+      id: 100414
+    - count: 1
+      name: 'Crusade: Amsterdam'
+      id: 100451
+    - count: 1
+      name: 'Crusade: Barcelona'
+      id: 100454
+    - count: 1
+      name: 'Crusade: Chicago'
+      id: 100457
+    - count: 1
+      name: 'Crusade: Detroit'
+      id: 100458
+    - count: 1
+      name: 'Crusade: Dublin'
+      id: 100459
+    - count: 1
+      name: 'Crusade: Geneva'
+      id: 100461
+    - count: 1
+      name: 'Crusade: London'
+      id: 100464
+    - count: 1
+      name: 'Crusade: Mexico City'
+      id: 100465
+    - count: 1
+      name: 'Crusade: Miami'
+      id: 100466
+    - count: 1
+      name: 'Crusade: Paris'
+      id: 100468
+    - count: 1
+      name: 'Crusade: Rome'
+      id: 100471
+    - count: 1
+      name: Domain Challenge
+      id: 100570
+    - count: 9
+      name: Kine Resources Contested
+      id: 101056
+  - name: Equipment
+    count: 11
+    cards:
+    - count: 3
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 8
+      name: Saturday-Night Special
+      id: 101682
+  - name: Combat
+    count: 16
+    cards:
+    - count: 8
+      name: Concealed Weapon
+      id: 100392
+    - count: 8
+      name: Dragon's Breath Rounds
+      id: 100580
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12325
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12325.zip

@@ -1,0 +1,203 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1075'
+    vekn_number: 1075
+  name: Warsaw LCQ 2024
+  description: 0GW3
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 29
+  crypt_avg: 6.58
+  crypt:
+  - count: 1
+    name: Alexander Silverson
+    id: 201530
+    capacity: 8
+    disciplines: pre AUS DOM OBF
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  - count: 1
+    name: Alice Chen
+    id: 201531
+    capacity: 7
+    disciplines: dom obf FOR PRE
+    title: Prince
+    clan: Ventrue
+    grouping: 6
+  - count: 1
+    name: Benjamin Rose
+    id: 200190
+    capacity: 7
+    disciplines: ani pot AUS OBF
+    title: Prince
+    clan: Nosferatu
+    grouping: 5
+  - count: 1
+    name: Graham Gottesman
+    id: 200533
+    capacity: 7
+    disciplines: obf pre tha DOM FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 1
+    name: Karen Suadela
+    id: 200753
+    capacity: 7
+    disciplines: obf pre CEL POT
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 3
+    name: Arishat
+    id: 200136
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 Vote
+    clan: Baali
+    grouping: 6
+  - count: 1
+    name: Andi Liu
+    id: 201532
+    capacity: 6
+    disciplines: aus obf pre DOM
+    title: Prince
+    clan: Malkavian
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Jacques Rouge
+    id: 201523
+    capacity: 6
+    disciplines: ani pot pre OBF
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  library_count: 71
+  library_sections:
+  - name: Master
+    count: 26
+    cards:
+    - count: 2
+      name: Archon Investigation
+      id: 100085
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 4
+      name: Information Highway
+      id: 100984
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 2
+      name: Protected Resources
+      id: 101500
+  - name: Action
+    count: 4
+    cards:
+    - count: 2
+      name: 'Condemnation: Mute'
+      id: 100400
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Political Action
+    count: 17
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 4
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Neonate Breach
+      id: 101271
+    - count: 7
+      name: Parity Shift
+      id: 101353
+    - count: 3
+      name: Reckless Agitation
+      id: 101567
+    - count: 1
+      name: Rumors of Gehenna
+      id: 101663
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 2
+      name: Bewitching Oration
+      id: 100157
+    - count: 1
+      name: Faceless Night
+      id: 100687
+    - count: 5
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 2
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Perfect Paragon
+      id: 101387
+    - count: 2
+      name: Voter Captivation
+      id: 102131
+  - name: Reaction
+    count: 5
+    cards:
+    - count: 2
+      name: 'Second Tradition: Domain'
+      id: 101706
+    - count: 3
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 5
+    cards:
+    - count: 4
+      name: Majesty
+      id: 101144
+    - count: 1
+      name: Staredown
+      id: 101859
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

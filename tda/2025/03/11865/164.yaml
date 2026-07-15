@@ -1,0 +1,166 @@
+event_id: '11865'
+name: ITALIAN GP 2025 - MODENA
+location: Modena
+date_start: 2025-03-01
+rounds_format: 3R+F
+players_count: 70
+winner: Frederic Pin
+deck:
+  player:
+    name: '164'
+    vekn_number: 164
+  name: Italian Grand Prix 2025
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 20
+  crypt_max: 24
+  crypt_avg: 5.67
+  crypt:
+  - count: 3
+    name: Karl
+    id: 200755
+    capacity: 6
+    disciplines: pre san FOR POT
+    clan: Blood Brother
+    grouping: 2
+  - count: 3
+    name: Mark
+    id: 200936
+    capacity: 6
+    disciplines: for obf pot SAN
+    title: Bishop
+    clan: Blood Brother
+    grouping: 2
+  - count: 2
+    name: Ilse
+    id: 200628
+    capacity: 6
+    disciplines: for pro POT SAN
+    clan: Blood Brother
+    grouping: 2
+  - count: 2
+    name: Jack
+    id: 200652
+    capacity: 6
+    disciplines: cel for pot san
+    clan: Blood Brother
+    grouping: 2
+  - count: 1
+    name: Truman
+    id: 201389
+    capacity: 6
+    disciplines: dom pot FOR SAN
+    clan: Blood Brother
+    grouping: 2
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 2
+      name: Achilles' Heel
+      id: 100017
+    - count: 2
+      name: Blood Buff
+      id: 100196
+    - count: 7
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 23
+    cards:
+    - count: 2
+      name: Coagulated Entity
+      id: 100369
+    - count: 6
+      name: Oppugnant Night
+      id: 101327
+    - count: 1
+      name: Under Siege
+      id: 102063
+    - count: 14
+      name: Unwholesome Bond
+      id: 102082
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 4
+      name: Shell Game
+      id: 101764
+    - count: 2
+      name: Walk of Caine
+      id: 102138
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Slake the Thirst
+      id: 101797
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Gestalt
+      id: 100815
+  - name: Combat
+    count: 36
+    cards:
+    - count: 1
+      name: Brother's Blood
+      id: 100257
+    - count: 2
+      name: Disarm
+      id: 100549
+    - count: 8
+      name: Immortal Grapple
+      id: 100959
+    - count: 4
+      name: Octopod
+      id: 101314
+    - count: 4
+      name: Roundhouse
+      id: 102215
+    - count: 3
+      name: Skin of Steel
+      id: 101792
+    - count: 2
+      name: Taste of Vitae
+      id: 101945
+    - count: 4
+      name: Three's a Crowd
+      id: 101979
+    - count: 8
+      name: Torn Signpost
+      id: 101993
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11865
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11865.zip

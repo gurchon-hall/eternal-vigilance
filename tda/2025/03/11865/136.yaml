@@ -1,0 +1,181 @@
+event_id: '11865'
+name: ITALIAN GP 2025 - MODENA
+location: Modena
+date_start: 2025-03-01
+rounds_format: 3R+F
+players_count: 70
+winner: Frederic Pin
+deck:
+  player:
+    name: '136'
+    vekn_number: 136
+  name: Italian Grand Prix 2025
+  description: 0GW2
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 36
+  crypt_avg: 7.42
+  crypt:
+  - count: 4
+    name: Dmitra Ilyanova
+    id: 200349
+    capacity: 9
+    disciplines: obf CEL FOR POT PRE
+    title: Justicar
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Undele
+    id: 201409
+    capacity: 9
+    disciplines: obf pre ser CEL FOR
+    title: Magaji
+    clan: Ishtarri
+    grouping: 5
+  - count: 2
+    name: Karen Suadela
+    id: 200753
+    capacity: 7
+    disciplines: obf pre CEL POT
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  - count: 3
+    name: Arishat
+    id: 200136
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 Vote
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Atiena
+    id: 201579
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 2
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Camarilla Conclave
+      id: 102269
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+      id: 100632
+    - count: 5
+      name: Grooming the Protégé
+      id: 100860
+    - count: 3
+      name: New Carthage
+      id: 101277
+    - count: 1
+      name: Obfuscate
+      id: 101310
+    - count: 1
+      name: Presence
+      id: 101480
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 13
+    cards:
+    - count: 4
+      name: 'Condemnation: Mute'
+      id: 100400
+    - count: 1
+      name: Contagion
+      id: 100418
+    - count: 6
+      name: Enchant Kindred
+      id: 100640
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Political Action
+    count: 13
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 3
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 3
+      name: Kine Resources Contested
+      id: 101056
+    - count: 2
+      name: Parity Shift
+      id: 101353
+    - count: 2
+      name: Reckless Agitation
+      id: 101567
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 4
+      name: Awe
+      id: 100119
+    - count: 5
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 3
+      name: Into Thin Air
+      id: 101001
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 7
+      name: Voter Captivation
+      id: 102131
+  - name: Reaction
+    count: 13
+    cards:
+    - count: 2
+      name: Bait and Switch
+      id: 102218
+    - count: 1
+      name: Lost in Translation
+      id: 101126
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty
+      id: 101144
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11865
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11865.zip

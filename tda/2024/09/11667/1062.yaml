@@ -1,0 +1,180 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1062'
+    vekn_number: 1062
+  name: Warsaw LCQ 2024
+  description: 1GW3
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 31
+  crypt_avg: 6.92
+  crypt:
+  - count: 3
+    name: Sergio Bueno
+    id: 201662
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 3
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Xeper, Sultan of Lepers
+    id: 201480
+    capacity: 7
+    disciplines: ani dai pro OBF PRE
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Arishat
+    id: 200136
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 Vote
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  library_count: 79
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Ferraille
+      id: 100722
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Opium Den
+      id: 101326
+    - count: 3
+      name: Protected Resources
+      id: 101500
+    - count: 5
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 2
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Eat the Rich
+      id: 100605
+    - count: 7
+      name: Kine Resources Contested
+      id: 101056
+    - count: 5
+      name: Reckless Agitation
+      id: 101567
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 24
+    cards:
+    - count: 3
+      name: Awe
+      id: 100119
+    - count: 3
+      name: Bewitching Oration
+      id: 100157
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 3
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 2
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Memory Rift
+      id: 101199
+    - count: 7
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Force of Personality
+      id: 100758
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 6
+      name: Bait and Switch
+      id: 102218
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 5
+    cards:
+    - count: 2
+      name: Earth Meld
+      id: 100601
+    - count: 3
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

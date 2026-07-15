@@ -1,0 +1,191 @@
+event_id: '11398'
+name: German Nationals 2024
+location: Darmstadt
+date_start: 2024-09-07
+rounds_format: 3R+F
+players_count: 32
+winner: ''
+deck:
+  player:
+    name: '9370279301'
+    vekn_number: 9370279301
+  name: German Nationals 2024
+  description: 1GW+3.5
+  crypt_count: 12
+  crypt_min: 27
+  crypt_max: 36
+  crypt_avg: 7.92
+  crypt:
+  - count: 4
+    name: Diana Iadanza
+    id: 201694
+    capacity: 9
+    disciplines: AUS CEL FOR PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 7
+  - count: 2
+    name: Catalina Vega
+    id: 201540
+    capacity: 8
+    disciplines: for AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 2
+    name: Marcos Belegrad
+    id: 201702
+    capacity: 8
+    disciplines: ani AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Modius
+    id: 201703
+    capacity: 8
+    disciplines: obf AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 7
+  - count: 1
+    name: Flávio Gonçalves
+    id: 201547
+    capacity: 7
+    disciplines: aus for CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Maila
+    id: 201633
+    capacity: 6
+    disciplines: cel AUS PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 6
+  - count: 1
+    name: Mkhokheli
+    id: 201561
+    capacity: 6
+    disciplines: aus cel for PRE
+    title: Prince
+    clan: Toreador
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 1
+      name: Art Museum
+      id: 100095
+    - count: 2
+      name: Camarilla Conclave
+      id: 102269
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+      id: 100632
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 4
+      name: Minion Tap
+      id: 101217
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+  - name: Action
+    count: 8
+    cards:
+    - count: 8
+      name: Enchant Kindred
+      id: 100640
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 4
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 6
+      name: Kine Resources Contested
+      id: 101056
+    - count: 3
+      name: Parity Shift
+      id: 101353
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+  - name: Action Modifier
+    count: 31
+    cards:
+    - count: 3
+      name: Aire of Elation
+      id: 100031
+    - count: 2
+      name: Awe
+      id: 100119
+    - count: 3
+      name: Bewitching Oration
+      id: 100157
+    - count: 3
+      name: Crocodile's Tongue
+      id: 100450
+    - count: 3
+      name: Forced March
+      id: 100761
+    - count: 3
+      name: Freak Drive
+      id: 100788
+    - count: 4
+      name: Loup
+      id: 102273
+    - count: 3
+      name: Perfect Paragon
+      id: 101387
+    - count: 1
+      name: Scorn of Adonis
+      id: 101692
+    - count: 6
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Scalpel Tongue
+      id: 101686
+  - name: Reaction
+    count: 13
+    cards:
+    - count: 5
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 7
+    cards:
+    - count: 3
+      name: Charismatic Aura
+      id: 100333
+    - count: 4
+      name: Majesty
+      id: 101144
+winner_vekn_number: 8638881481
+event_url: https://www.vekn.net/event-calendar/event/11398
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11398.zip

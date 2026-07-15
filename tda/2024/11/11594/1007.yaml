@@ -1,0 +1,184 @@
+event_id: '11594'
+name: Camarilla Conclave Grand Prix 2024
+location: Palma
+date_start: 2024-11-16
+rounds_format: 3R+F
+players_count: 89
+winner: P045
+deck:
+  player:
+    name: '1007'
+    vekn_number: 1007
+  name: Camarilla Conclave GP 2024
+  description: 1GW7
+  crypt_count: 12
+  crypt_min: 29
+  crypt_max: 40
+  crypt_avg: 8.75
+  crypt:
+  - count: 5
+    name: Bruce de Guy
+    id: 200222
+    capacity: 10
+    disciplines: AUS DOM FOR OBT
+    title: Cardinal
+    clan: Ventrue antitribu
+    grouping: 4
+  - count: 2
+    name: Antón de Concepción
+    id: 200114
+    capacity: 9
+    disciplines: aus ANI DOM OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 4
+  - count: 2
+    name: Charles Delmare
+    id: 201513
+    capacity: 8
+    disciplines: cel DOM OBT POT
+    title: Cardinal
+    clan: Lasombra
+    grouping: 5
+  - count: 2
+    name: Lord Leopold Valdemar
+    id: 201517
+    capacity: 8
+    disciplines: cel dom obf OBT POT
+    title: Priscus
+    clan: Lasombra
+    grouping: 5
+  - count: 1
+    name: Andrew Emory
+    id: 200085
+    capacity: 5
+    disciplines: aus dom pot OBT
+    title: Bishop
+    clan: Lasombra
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 2
+      name: Demonstration
+      id: 100522
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Día de los Muertos
+      id: 100541
+    - count: 1
+      name: Framing an Ancient Grudge
+      id: 100787
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Gurchon Hall
+      id: 100871
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Madrid'
+      id: 101437
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Under Siege
+      id: 102063
+  - name: Political Action
+    count: 17
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Confiscation
+      id: 102271
+    - count: 1
+      name: Disputed Territory
+      id: 100557
+    - count: 10
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Neonate Breach
+      id: 101271
+    - count: 1
+      name: Peace Treaty
+      id: 101380
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Action Modifier
+    count: 22
+    cards:
+    - count: 1
+      name: Blanket of Night
+      id: 100177
+    - count: 4
+      name: Private Audience
+      id: 101490
+    - count: 6
+      name: Shadow Play
+      id: 101743
+    - count: 5
+      name: Shroud of Absence
+      id: 101774
+    - count: 2
+      name: Shroud of Night
+      id: 101775
+    - count: 4
+      name: Tenebrous Form
+      id: 101957
+  - name: Reaction
+    count: 20
+    cards:
+    - count: 12
+      name: Deflection
+      id: 100518
+    - count: 8
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 9
+    cards:
+    - count: 2
+      name: Arms of the Abyss
+      id: 100091
+    - count: 2
+      name: Entombment
+      id: 100651
+    - count: 5
+      name: Oubliette
+      id: 101334
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11594
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

@@ -1,0 +1,193 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '108'
+    vekn_number: 108
+  name: Croatian Abuse of Power 2026
+  description: 1GW5.5
+  crypt_count: 12
+  crypt_min: 33
+  crypt_max: 40
+  crypt_avg: 9.08
+  crypt:
+  - count: 4
+    name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
+    capacity: 10
+    disciplines: aus for DOM OBT POT PRE
+    title: Cardinal
+    clan: Lasombra
+    grouping: 2
+  - count: 2
+    name: Alvaro, The Scion of Angelica
+    id: 200063
+    capacity: 9
+    disciplines: dom pre OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 2
+    name: Antonio Delgado
+    id: 200117
+    capacity: 9
+    disciplines: tha DOM OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Francisco Domingo de Polonia
+    id: 200476
+    capacity: 9
+    disciplines: pro DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 3
+    name: Gratiano
+    id: 200534
+    capacity: 8
+    disciplines: obf pot DOM OBT
+    title: Priscus
+    clan: Lasombra
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 27
+    cards:
+    - count: 2
+      name: Black Forest Base
+      id: 100165
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elysian Fields
+      id: 100629
+    - count: 1
+      name: Fear of Mekhet
+      id: 100710
+    - count: 1
+      name: Political Hunting Ground
+      id: 101415
+    - count: 1
+      name: Power Structure
+      id: 101430
+    - count: 1
+      name: 'Powerbase: Madrid'
+      id: 101437
+    - count: 1
+      name: Privileged Position
+      id: 102334
+    - count: 1
+      name: Protected Resources
+      id: 101500
+    - count: 1
+      name: Purchase Pact
+      id: 101520
+    - count: 1
+      name: Regent
+      id: 101587
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 8
+      name: Unholy Sacrament
+      id: 102345
+    - count: 5
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Govern the Unaligned
+      id: 100845
+  - name: Political Action
+    count: 18
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 4
+      name: Cold War
+      id: 102312
+    - count: 3
+      name: Empires Fall
+      id: 102318
+    - count: 5
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Reins of Power
+      id: 101591
+    - count: 1
+      name: War of Ages
+      id: 102348
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Zaire River Ferry
+      id: 102203
+  - name: Action Modifier
+    count: 26
+    cards:
+    - count: 6
+      name: Amici Noctis
+      id: 102274
+    - count: 4
+      name: Dominant Personality
+      id: 102316
+    - count: 2
+      name: Magnetic Authority
+      id: 102331
+    - count: 9
+      name: Shadow Play
+      id: 101743
+    - count: 3
+      name: Shroud of Absence
+      id: 101774
+    - count: 2
+      name: Unthinkable Humiliation
+      id: 102346
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Ominous Chorus
+      id: 102278
+  - name: Reaction
+    count: 9
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 4
+      name: Obedience
+      id: 101309
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: Oubliette
+      id: 101334
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

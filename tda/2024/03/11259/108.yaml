@@ -1,0 +1,152 @@
+event_id: '11259'
+name: Rise of the New Bloods
+location: Melbourne
+date_start: 2024-03-17
+rounds_format: 2R+F
+players_count: 10
+winner: Erin McKay
+deck:
+  player:
+    name: '108'
+    vekn_number: 108
+  name: Rise of the New Bloods
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 20
+  crypt_max: 28
+  crypt_avg: 5.83
+  crypt:
+  - count: 2
+    name: Sreelekha
+    id: 201687
+    capacity: 8
+    disciplines: ANI FOR OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 2
+    name: Doc Martina
+    id: 201670
+    capacity: 6
+    disciplines: for pre ANI OBF
+    clan: Ravnos
+    grouping: 7
+  - count: 2
+    name: Roberto Rivamonte
+    id: 201683
+    capacity: 6
+    disciplines: ANI OBF PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 3
+    name: Gathii
+    id: 201672
+    capacity: 5
+    disciplines: obf ANI PRE
+    clan: Ravnos
+    grouping: 7
+  - count: 3
+    name: Phaibun
+    id: 201681
+    capacity: 5
+    disciplines: ani OBF PRE
+    clan: Ravnos
+    grouping: 7
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 11
+    cards:
+    - count: 2
+      name: Barrens, The
+      id: 100135
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 3
+      name: Dabbler
+      id: 100485
+    - count: 1
+      name: Fortune Teller Shop
+      id: 100777
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 2
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+      id: 101435
+  - name: Action
+    count: 17
+    cards:
+    - count: 15
+      name: Break the Bonds
+      id: 102247
+    - count: 2
+      name: Entrancement
+      id: 100652
+  - name: Equipment
+    count: 8
+    cards:
+    - count: 2
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Treasured Samadji
+      id: 102015
+    - count: 5
+      name: Waxen Poetica
+      id: 102162
+  - name: Retainer
+    count: 5
+    cards:
+    - count: 5
+      name: Feral Hound
+      id: 102249
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 5
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Lost in Crowds
+      id: 101125
+    - count: 5
+      name: Memory Rift
+      id: 101199
+  - name: Action Modifier/Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 25
+    cards:
+    - count: 5
+      name: Cats' Guidance
+      id: 100308
+    - count: 5
+      name: Instinctive Reaction
+      id: 100995
+    - count: 5
+      name: Night Terrors
+      id: 102254
+    - count: 5
+      name: On the Qui Vive
+      id: 101321
+    - count: 5
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Disguised Weapon
+      id: 100555
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11259
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11259.zip

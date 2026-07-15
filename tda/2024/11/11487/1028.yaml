@@ -1,0 +1,174 @@
+event_id: '11487'
+name: Nacional 2024
+location: Lisboa
+date_start: 2024-11-02
+rounds_format: 3R+F
+players_count: 33
+winner: Eduardo  Manuel dos Santos Mateus
+deck:
+  player:
+    name: '1028'
+    vekn_number: 1028
+  name: Portugese Nationals 2024
+  description: 0GW0.5
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 10.0
+  crypt:
+  - count: 3
+    name: Mistress Fanchon
+    id: 200999
+    capacity: 11
+    disciplines: AUS CEL DOM OBF THA VIC
+    title: Inner Circle
+    clan: Tremere
+    grouping: 4
+  - count: 2
+    name: Lord Tremere
+    id: 200856
+    capacity: 11
+    disciplines: obe ANI AUS DOM THA VIC
+    clan: Tremere
+    grouping: 5
+  - count: 1
+    name: Sha-Ennu
+    id: 201270
+    capacity: 11
+    disciplines: obf tha ANI AUS CHI VIC
+    title: Regent
+    clan: Tzimisce
+    grouping: 4
+  - count: 5
+    name: Malgorzata
+    id: 200905
+    capacity: 9
+    disciplines: pre AUS DOM THA VIC
+    title: Priscus
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Orlando Oriundus
+    id: 201084
+    capacity: 9
+    disciplines: obf AUS DOM THA
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 10
+    cards:
+    - count: 1
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Vessel
+      id: 102113
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 4
+    cards:
+    - count: 4
+      name: Puppet Master
+      id: 101215
+  - name: Political Action
+    count: 11
+    cards:
+    - count: 4
+      name: Alastor
+      id: 100038
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 2
+      name: Helicopter
+      id: 100909
+    - count: 1
+      name: Signet of King Saul, The
+      id: 101781
+  - name: Action Modifier
+    count: 12
+    cards:
+    - count: 6
+      name: Changeling
+      id: 100324
+    - count: 6
+      name: Mirror Walk
+      id: 101223
+  - name: Reaction
+    count: 25
+    cards:
+    - count: 8
+      name: Deflection
+      id: 100518
+    - count: 7
+      name: Eyes of Argus
+      id: 100680
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 7
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 23
+    cards:
+    - count: 2
+      name: Blood Rage
+      id: 100208
+    - count: 12
+      name: Chiropteran Marauder
+      id: 100344
+    - count: 5
+      name: Quick Jab
+      id: 101529
+    - count: 4
+      name: Rego Motum
+      id: 101588
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+    - count: 1
+      name: Uncoiling, The
+      id: 102057
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11487
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip

@@ -1,0 +1,181 @@
+event_id: '11594'
+name: Camarilla Conclave Grand Prix 2024
+location: Palma
+date_start: 2024-11-16
+rounds_format: 3R+F
+players_count: 89
+winner: P045
+deck:
+  player:
+    name: '1071'
+    vekn_number: 1071
+  name: Camarilla Conclave GP 2024
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 9.83
+  crypt:
+  - count: 3
+    name: Lutz von Hohenzollern
+    id: 200890
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 2
+    name: Adana de Sforza
+    id: 200011
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 4
+    name: Nehemiah
+    id: 201044
+    capacity: 9
+    disciplines: obt POT PRE SER TEM
+    title: 2 Votes
+    clan: True Brujah
+    grouping: 4
+  - count: 2
+    name: Dmitra Ilyanova
+    id: 200349
+    capacity: 9
+    disciplines: obf CEL FOR POT PRE
+    title: Justicar
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Annazir
+    id: 200104
+    capacity: 9
+    disciplines: DAI OBF POT PRE
+    title: 2 Votes
+    clan: Baali
+    grouping: 5
+  library_count: 85
+  library_sections:
+  - name: Master
+    count: 21
+    cards:
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Tabriz Assembly
+      id: 101924
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+    - count: 11
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 2
+    cards:
+    - count: 1
+      name: Entrancement
+      id: 100652
+    - count: 1
+      name: Hourglass of the Mind
+      id: 100941
+  - name: Political Action
+    count: 14
+    cards:
+    - count: 2
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 3
+      name: Banishment
+      id: 100131
+    - count: 2
+      name: Kine Resources Contested
+      id: 101056
+    - count: 2
+      name: Neonate Breach
+      id: 101271
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 2
+      name: Reckless Agitation
+      id: 101567
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 40
+    cards:
+    - count: 2
+      name: Approximation of Loyalty
+      id: 100078
+    - count: 4
+      name: Bewitching Oration
+      id: 100157
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 4
+      name: Domain of Evernight
+      id: 100571
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 2
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 2
+      name: Into Thin Air
+      id: 101001
+    - count: 4
+      name: Iron Glare
+      id: 101008
+    - count: 4
+      name: Perfect Paragon
+      id: 101387
+    - count: 6
+      name: Tangle Atropos' Hand
+      id: 101935
+    - count: 6
+      name: Voter Captivation
+      id: 102131
+  - name: Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 4
+    cards:
+    - count: 3
+      name: Majesty
+      id: 101144
+    - count: 1
+      name: Outside the Hourglass
+      id: 101338
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11594
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

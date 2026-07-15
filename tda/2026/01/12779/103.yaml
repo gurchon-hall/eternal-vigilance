@@ -1,0 +1,209 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '103'
+    vekn_number: 103
+  name: Croatian Abuse of Power 2026
+  description: 2GW9+0
+  crypt_count: 12
+  crypt_min: 13
+  crypt_max: 27
+  crypt_avg: 5.33
+  crypt:
+  - count: 1
+    name: Saku Pihlajamäki
+    id: 201658
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Massimiliano
+    id: 201602
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 2
+    name: Casey Snyder
+    id: 201521
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 2
+    name: Kuyén
+    id: 201574
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: André the Manipulator
+    id: 200081
+    capacity: 6
+    disciplines: FOR PRO
+    clan: Gangrel
+    grouping: 5
+  - count: 1
+    name: Martina Srnankova
+    id: 201601
+    capacity: 6
+    disciplines: ani FOR PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Kamile Paukstys
+    id: 201597
+    capacity: 5
+    disciplines: ani for PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Indira
+    id: 201592
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Joaquín de Cádiz
+    id: 201595
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Ruslan Fedorenko
+    id: 201611
+    capacity: 2
+    disciplines: pro
+    clan: Gangrel
+    grouping: 6
+  library_count: 86
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 1
+      name: Backways
+      id: 100126
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: Guardian Angel
+      id: 100866
+    - count: 1
+      name: Life Boon
+      id: 101103
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+      id: 101435
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 2
+      name: Rötschreck
+      id: 101654
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Zoo Hunting Ground
+      id: 102212
+  - name: Action
+    count: 13
+    cards:
+    - count: 2
+      name: Army of Rats
+      id: 100093
+    - count: 2
+      name: Rewilding
+      id: 101632
+    - count: 9
+      name: Thing
+      id: 101972
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Double Deuce
+      id: 102220
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 3
+      name: Earth Control
+      id: 100600
+    - count: 2
+      name: Monkey Wrench
+      id: 101239
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 25
+    cards:
+    - count: 9
+      name: Bait and Switch
+      id: 102218
+    - count: 5
+      name: Deep Ecology
+      id: 102219
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: Eyes of the Wild
+      id: 102222
+    - count: 7
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 19
+    cards:
+    - count: 4
+      name: Donnybrook
+      id: 100576
+    - count: 11
+      name: Earth Meld
+      id: 100601
+    - count: 4
+      name: Form of Mist
+      id: 100771
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

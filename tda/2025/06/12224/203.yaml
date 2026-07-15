@@ -1,0 +1,156 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '203'
+    vekn_number: 203
+  name: Brazilian Nationals 2025
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 34
+  crypt_max: 44
+  crypt_avg: 9.83
+  crypt:
+  - count: 4
+    name: Enkidu, The Noah
+    id: 200424
+    capacity: 11
+    disciplines: for ANI CEL OBF POT PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 3
+    name: Karsh
+    id: 200757
+    capacity: 10
+    disciplines: ANI CEL FOR POT PRO
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Karsh (ADV)
+    id: 200758
+    capacity: 10
+    disciplines: ANI CEL FOR POT PRO
+    clan: Gangrel
+    grouping: 3
+  - count: 2
+    name: Jalan-Aajav
+    id: 200667
+    capacity: 9
+    disciplines: ani CEL FOR POT PRO
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 2
+    name: Mark Decker
+    id: 200937
+    capacity: 8
+    disciplines: ani for obf pot CEL PRO
+    title: Prince
+    clan: Gangrel
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Dabbler
+      id: 100485
+    - count: 1
+      name: Ennoia's Theater
+      id: 100646
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: Path of Lilith, The
+      id: 101363
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 5
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 17
+    cards:
+    - count: 3
+      name: Deep Song
+      id: 100515
+    - count: 3
+      name: Flurry of Action
+      id: 100752
+    - count: 2
+      name: Heroic Might
+      id: 100913
+    - count: 3
+      name: Rewilding
+      id: 101632
+    - count: 3
+      name: Sense Death
+      id: 101716
+    - count: 3
+      name: Taunt the Caged Beast
+      id: 101947
+  - name: Action Modifier
+    count: 16
+    cards:
+    - count: 4
+      name: Forced March
+      id: 100761
+    - count: 4
+      name: Freak Drive
+      id: 100788
+    - count: 4
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 4
+      name: Zephyr
+      id: 102205
+  - name: Combat
+    count: 40
+    cards:
+    - count: 6
+      name: Blur
+      id: 100227
+    - count: 6
+      name: Drawing Out the Beast
+      id: 100585
+    - count: 8
+      name: Flesh of Marble
+      id: 100749
+    - count: 10
+      name: Immortal Grapple
+      id: 100959
+    - count: 4
+      name: Skin of Night
+      id: 101790
+    - count: 6
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

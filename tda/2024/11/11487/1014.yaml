@@ -1,0 +1,200 @@
+event_id: '11487'
+name: Nacional 2024
+location: Lisboa
+date_start: 2024-11-02
+rounds_format: 3R+F
+players_count: 33
+winner: Eduardo  Manuel dos Santos Mateus
+deck:
+  player:
+    name: '1014'
+    vekn_number: 1014
+  name: Portugese Nationals 2024
+  description: 0GW3
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 20
+  crypt_avg: 4.33
+  crypt:
+  - count: 3
+    name: Jennie "Cassie247" Orne
+    id: 200689
+    capacity: 5
+    disciplines: inn jud viz
+    clan: Visionary
+    grouping: 4
+  - count: 2
+    name: Travis "Traveler72" Miller
+    id: 201386
+    capacity: 5
+    disciplines: mar def
+    clan: Martyr
+    grouping: 4
+  - count: 2
+    name: Jack "Hannibal137" Harmon
+    id: 200656
+    capacity: 4
+    disciplines: def jud
+    clan: Defender
+    grouping: 4
+  - count: 1
+    name: John "Cop90" O'Malley
+    id: 200715
+    capacity: 4
+    disciplines: jud ven
+    clan: Avenger
+    grouping: 4
+  - count: 1
+    name: Leaf "Potter116" Pankowski
+    id: 200825
+    capacity: 4
+    disciplines: inn red viz
+    clan: Redeemer
+    grouping: 4
+  - count: 1
+    name: Paul "Sixofswords29" Moreton
+    id: 201103
+    capacity: 4
+    disciplines: def viz
+    clan: Visionary
+    grouping: 4
+  - count: 1
+    name: Xian "DziDzat155" Quan
+    id: 201481
+    capacity: 4
+    disciplines: def inn
+    clan: Defender
+    grouping: 4
+  - count: 1
+    name: François "Warden" Loehr
+    id: 200479
+    capacity: 3
+    disciplines: def jud
+    clan: Judge
+    grouping: 4
+  library_count: 70
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 6
+      name: Angel of Berlin
+      id: 100067
+    - count: 1
+      name: Church of Vindicated Faith, The
+      id: 100348
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Rose Foundation, The
+      id: 101653
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 2
+      name: Unity
+      id: 102074
+    - count: 1
+      name: 'Vigil: The Thin Line'
+      id: 102119
+  - name: Conviction
+    count: 18
+    cards:
+    - count: 5
+      name: React with Conviction
+      id: 101557
+    - count: 5
+      name: Second Sight
+      id: 101705
+    - count: 8
+      name: Strike with Conviction
+      id: 101886
+  - name: Power
+    count: 11
+    cards:
+    - count: 2
+      name: Champion
+      id: 100322
+    - count: 2
+      name: Discern
+      id: 100551
+    - count: 2
+      name: Rejuvenate
+      id: 101592
+    - count: 5
+      name: Vigilance
+      id: 102120
+  - name: Action
+    count: 1
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+  - name: Ally
+    count: 4
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Ossian
+      id: 101333
+    - count: 1
+      name: Vagabond Mystic
+      id: 102087
+    - count: 1
+      name: Wendell Delburton
+      id: 102173
+  - name: Equipment
+    count: 7
+    cards:
+    - count: 1
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Crusader Sword, The
+      id: 100474
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Laptop Computer
+      id: 101073
+    - count: 1
+      name: Leather Jacket
+      id: 101081
+    - count: 1
+      name: Orb of Ulain
+      id: 101328
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+  - name: Reaction
+    count: 6
+    cards:
+    - count: 5
+      name: Determine
+      id: 100534
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Target Vitals
+      id: 101942
+  - name: Event
+    count: 5
+    cards:
+    - count: 2
+      name: NRA PAC
+      id: 101305
+    - count: 3
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11487
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip

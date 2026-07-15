@@ -1,0 +1,202 @@
+event_id: '12126'
+name: Grand Prix Warsaw 2025
+location: Warsaw
+date_start: 2025-07-05
+rounds_format: 3R+F
+players_count: 56
+winner: Tomasz Pietkiewicz
+deck:
+  player:
+    name: '147'
+    vekn_number: 147
+  name: Warsaw Grand Prix
+  description: 0GW0
+  crypt_count: 13
+  crypt_min: 26
+  crypt_max: 37
+  crypt_avg: 7.92
+  crypt:
+  - count: 1
+    name: Jann Berger
+    id: 200675
+    capacity: 10
+    disciplines: dem for CEL POT PRE
+    title: Prince
+    clan: Brujah
+    grouping: 4
+  - count: 4
+    name: Dmitra Ilyanova
+    id: 200349
+    capacity: 9
+    disciplines: obf CEL FOR POT PRE
+    title: Justicar
+    clan: Brujah
+    grouping: 5
+  - count: 2
+    name: Themistocles
+    id: 201361
+    capacity: 8
+    disciplines: pre AUS CEL FOR POT
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Carlak
+    id: 200244
+    capacity: 8
+    disciplines: dom pot CEL PRE
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  - count: 3
+    name: Karen Suadela
+    id: 200753
+    capacity: 7
+    disciplines: obf pre CEL POT
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Tara
+    id: 201341
+    capacity: 6
+    disciplines: cel POT PRE
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Tomaine
+    id: 201379
+    capacity: 6
+    disciplines: CEL POT PRE
+    title: Primogen
+    clan: Brujah
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Carthage Remembered
+      id: 100302
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 3
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 3
+      name: New Carthage
+      id: 101277
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 5
+    cards:
+    - count: 2
+      name: 'Fourth Tradition: The Accounting'
+      id: 100782
+    - count: 3
+      name: Heart of the City
+      id: 100904
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 5
+      name: Alastor
+      id: 100038
+    - count: 3
+      name: Anathema
+      id: 100060
+    - count: 3
+      name: Kine Resources Contested
+      id: 101056
+    - count: 5
+      name: Parity Shift
+      id: 101353
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 3
+      name: Assault Rifle
+      id: 100107
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Helicopter
+      id: 100909
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 5
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Resist Earth's Grasp
+      id: 101610
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Scalpel Tongue
+      id: 101686
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 8
+      name: 'Second Tradition: Domain'
+      id: 101706
+  - name: Combat
+    count: 23
+    cards:
+    - count: 2
+      name: Blur
+      id: 100227
+    - count: 3
+      name: Majesty
+      id: 101144
+    - count: 1
+      name: Projectile
+      id: 101493
+    - count: 2
+      name: Psyche!
+      id: 101507
+    - count: 3
+      name: Pursuit
+      id: 101523
+    - count: 3
+      name: Quickness
+      id: 101532
+    - count: 3
+      name: Side Strike
+      id: 101778
+    - count: 3
+      name: Sideslip
+      id: 101779
+    - count: 3
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12126
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12126.zip

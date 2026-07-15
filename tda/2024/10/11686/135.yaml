@@ -1,0 +1,185 @@
+event_id: '11686'
+name: Australian New Zealand 2024 Continental Championship
+location: Sydney
+date_start: 2024-10-26
+rounds_format: 3R+F
+players_count: 36
+winner: Keith Lim
+deck:
+  player:
+    name: '135'
+    vekn_number: 135
+  name: Oceanic Continental Championship 2024
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 28
+  crypt_max: 38
+  crypt_avg: 8.0
+  crypt:
+  - count: 3
+    name: Louhi
+    id: 200860
+    capacity: 10
+    disciplines: pro ANI AUS DEM OBF THA
+    title: Cardinal
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 3
+    name: Lazarus James
+    id: 200822
+    capacity: 8
+    disciplines: obf tha AUS DEM PRE
+    clan: Malkavian
+    grouping: 4
+  - count: 3
+    name: Aleister Crowley
+    id: 200043
+    capacity: 7
+    disciplines: aus obf DEM PRE THA
+    clan: Malkavian
+    grouping: 5
+  - count: 3
+    name: Reiner Stoschka
+    id: 201177
+    capacity: 7
+    disciplines: obf AUS DEM THA
+    clan: Malkavian
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Asylum Hunting Ground
+      id: 100108
+    - count: 1
+      name: Auspex
+      id: 100114
+    - count: 2
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Dark Influences
+      id: 100493
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Momentum's Edge
+      id: 101237
+    - count: 1
+      name: Thaumaturgy
+      id: 101965
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 20
+    cards:
+    - count: 2
+      name: Biothaumaturgic Experiment
+      id: 100162
+    - count: 2
+      name: Call, The
+      id: 100278
+    - count: 2
+      name: Dive into Madness
+      id: 100562
+    - count: 8
+      name: Kindred Spirits
+      id: 101055
+    - count: 4
+      name: Madman's Quill
+      id: 101138
+    - count: 2
+      name: Rutor's Hand
+      id: 101664
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Childling Muse
+      id: 100338
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 8
+      name: Confusion
+      id: 100405
+    - count: 3
+      name: Mind Tricks
+      id: 101216
+    - count: 4
+      name: Mirror Walk
+      id: 101223
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Deny
+      id: 100524
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Random Patterns
+      id: 101540
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 2
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+    - count: 2
+      name: Wake with Evening's Freshness
+      id: 102137
+    - count: 2
+      name: Wrong and Crosswise
+      id: 102197
+  - name: Combat
+    count: 18
+    cards:
+    - count: 2
+      name: Apportation
+      id: 100077
+    - count: 2
+      name: Movement of the Mind
+      id: 101246
+    - count: 4
+      name: Rego Motum
+      id: 101588
+    - count: 6
+      name: Theft of Vitae
+      id: 101966
+    - count: 4
+      name: Wind Dance
+      id: 102185
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11686
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11686.zip

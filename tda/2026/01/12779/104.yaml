@@ -1,0 +1,198 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '104'
+    vekn_number: 104
+  name: Croatian Abuse of Power 2026
+  description: 2GW7.5+2
+  crypt_count: 12
+  crypt_min: 23
+  crypt_max: 33
+  crypt_avg: 7.0
+  crypt:
+  - count: 1
+    name: Annazir
+    id: 200104
+    capacity: 9
+    disciplines: DAI OBF POT PRE
+    title: 2 Votes
+    clan: Baali
+    grouping: 5
+  - count: 2
+    name: Sergio Bueno
+    id: 201662
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Nonu Dis
+    id: 201608
+    capacity: 8
+    disciplines: for OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 3
+    name: Xeper, Sultan of Lepers
+    id: 201480
+    capacity: 7
+    disciplines: ani dai pro OBF PRE
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Crystal Lynn
+    id: 201582
+    capacity: 6
+    disciplines: OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Marcel
+    id: 201600
+    capacity: 4
+    disciplines: obf pre pro
+    clan: Ministry
+    grouping: 6
+  library_count: 85
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 2
+      name: Dabbler
+      id: 100485
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Opium Den
+      id: 101326
+    - count: 1
+      name: Protean
+      id: 101498
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 18
+    cards:
+    - count: 1
+      name: Entrancement
+      id: 100652
+    - count: 2
+      name: Heart of the City
+      id: 100904
+    - count: 13
+      name: Platinum Protocol, The
+      id: 102232
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Saatet-ta
+      id: 101665
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Kaymakli Fragment
+      id: 101035
+  - name: Action Modifier
+    count: 26
+    cards:
+    - count: 5
+      name: CrimethInc.
+      id: 100446
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 4
+      name: Memory Rift
+      id: 101199
+    - count: 7
+      name: Revelation of the Serpent
+      id: 102233
+    - count: 2
+      name: Spying Mission
+      id: 101857
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 5
+      name: Bait and Switch
+      id: 102218
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 12
+    cards:
+    - count: 5
+      name: Earth Meld
+      id: 100601
+    - count: 7
+      name: Form of Mist
+      id: 100771
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

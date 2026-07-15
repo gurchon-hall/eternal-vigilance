@@ -1,0 +1,223 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '119'
+    vekn_number: 119
+  name: Croatian Abuse of Power 2026
+  description: 0GW2.5
+  crypt_count: 12
+  crypt_min: 22
+  crypt_max: 43
+  crypt_avg: 8.42
+  crypt:
+  - count: 3
+    name: Alexandra
+    id: 200049
+    capacity: 11
+    disciplines: dom ANI AUS CEL PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 2
+  - count: 3
+    name: Anneke
+    id: 200106
+    capacity: 10
+    disciplines: dom AUS CEL PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 1
+  - count: 4
+    name: Anson
+    id: 200107
+    capacity: 8
+    disciplines: aus dom CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 1
+  - count: 2
+    name: Watenda
+    id: 201464
+    capacity: 3
+    disciplines: obf
+    clan: Malkavian
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 44
+    cards:
+    - count: 1
+      name: Art Museum
+      id: 100095
+    - count: 12
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Bleeding the Vine
+      id: 100178
+    - count: 1
+      name: Camarilla Conclave
+      id: 102269
+    - count: 3
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dominate
+      id: 100572
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: 'Elysium: The Palace of Versailles'
+      id: 100632
+    - count: 1
+      name: Fortitude
+      id: 100774
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: 'Golconda: Inner Peace'
+      id: 100842
+    - count: 1
+      name: Life Boon
+      id: 101103
+    - count: 6
+      name: Liquidation
+      id: 101112
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Mob Connections
+      id: 101229
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Society Hunting Ground
+      id: 101821
+    - count: 1
+      name: Toreador Grand Ball
+      id: 101989
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 1
+    cards:
+    - count: 1
+      name: Entrancement
+      id: 100652
+  - name: Political Action
+    count: 14
+    cards:
+    - count: 4
+      name: Alastor
+      id: 100038
+    - count: 1
+      name: Anathema
+      id: 100060
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 2
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 1
+      name: Malkavian Justicar
+      id: 101154
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 2
+      name: Assault Rifle
+      id: 100107
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Helicopter
+      id: 100909
+  - name: Action Modifier
+    count: 7
+    cards:
+    - count: 1
+      name: Aire of Elation
+      id: 100031
+    - count: 1
+      name: Closed Session
+      id: 100364
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 1
+      name: Perfect Paragon
+      id: 101387
+    - count: 2
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Resist Earth's Grasp
+      id: 101610
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Scalpel Tongue
+      id: 101686
+  - name: Reaction
+    count: 13
+    cards:
+    - count: 7
+      name: Deflection
+      id: 100518
+    - count: 4
+      name: Obedience
+      id: 101309
+    - count: 2
+      name: 'Second Tradition: Domain'
+      id: 101706
+  - name: Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Majesty
+      id: 101144
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

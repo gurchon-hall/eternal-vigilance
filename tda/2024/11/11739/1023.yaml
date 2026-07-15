@@ -1,0 +1,191 @@
+event_id: '11739'
+name: VtES Finnish Nationals 2024
+location: Kerava
+date_start: 2024-11-09
+rounds_format: 3R+F
+players_count: 30
+winner: Jonas Ståhle
+deck:
+  player:
+    name: '1023'
+    vekn_number: 1023
+  name: Finnish Nationals 2024
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 30
+  crypt_avg: 5.83
+  crypt:
+  - count: 3
+    name: Zelios
+    id: 201504
+    capacity: 8
+    disciplines: pro ANI OBF POT
+    title: Primogen
+    clan: Nosferatu
+    grouping: 5
+  - count: 2
+    name: Dowager, The
+    id: 201545
+    capacity: 6
+    disciplines: aus pot ANI OBF
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Larissa Moreira
+    id: 201553
+    capacity: 6
+    disciplines: pot ANI OBF
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Lenny Burkhead
+    id: 201555
+    capacity: 6
+    disciplines: obf pot pre ANI
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Horace Radcliffe
+    id: 201549
+    capacity: 5
+    disciplines: obf ANI POT
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Aunt Linda
+    id: 201534
+    capacity: 4
+    disciplines: obf POT
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Nichodemus
+    id: 201054
+    capacity: 2
+    disciplines: pot
+    clan: Nosferatu
+    grouping: 5
+  library_count: 85
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 4
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Channel 10
+      id: 100327
+    - count: 2
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Labyrinth, The
+      id: 101070
+    - count: 1
+      name: Slum Hunting Ground
+      id: 101808
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
+    - count: 2
+      name: Warsaw Station
+      id: 102149
+  - name: Action
+    count: 11
+    cards:
+    - count: 2
+      name: Army of Rats
+      id: 100093
+    - count: 5
+      name: Creeping Sabotage
+      id: 102213
+    - count: 2
+      name: Deep Song
+      id: 100515
+    - count: 2
+      name: Preternatural Strength
+      id: 101483
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Nosferatu Justicar
+      id: 101299
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 3
+      name: Leather Jacket
+      id: 101081
+  - name: Retainer
+    count: 4
+    cards:
+    - count: 4
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Shadow Boxing
+      id: 101736
+  - name: Reaction
+    count: 26
+    cards:
+    - count: 6
+      name: Cats' Guidance
+      id: 100308
+    - count: 2
+      name: Forced Awakening
+      id: 100760
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Protected District
+      id: 102214
+    - count: 2
+      name: Rat's Warning
+      id: 101547
+    - count: 6
+      name: Warrens, The
+      id: 102216
+  - name: Combat
+    count: 22
+    cards:
+    - count: 4
+      name: Carrion Crows
+      id: 100301
+    - count: 4
+      name: Disarm
+      id: 100549
+    - count: 6
+      name: Immortal Grapple
+      id: 100959
+    - count: 4
+      name: Roundhouse
+      id: 102215
+    - count: 3
+      name: Slam
+      id: 101798
+    - count: 1
+      name: Taste of Vitae
+      id: 101945
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11739
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11739.zip

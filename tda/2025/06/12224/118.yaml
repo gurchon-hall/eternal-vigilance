@@ -1,0 +1,162 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '118'
+    vekn_number: 118
+  name: Brazilian Nationals 2025
+  description: 1GW5.5
+  crypt_count: 13
+  crypt_min: 16
+  crypt_max: 32
+  crypt_avg: 5.54
+  crypt:
+  - count: 5
+    name: Brunhilde (ADV)
+    id: 200224
+    capacity: 8
+    disciplines: pre ANI FOR PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 3
+  - count: 8
+    name: Valkyrie
+    id: 201423
+    capacity: 4
+    disciplines: for pre pro
+    clan: Gangrel
+    grouping: 3
+  library_count: 78
+  library_sections:
+  - name: Master
+    count: 26
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Ecoterrorists
+      id: 100609
+    - count: 1
+      name: Frontal Assault
+      id: 100794
+    - count: 1
+      name: Gangrel Revel
+      id: 100807
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: KRCG News Radio
+      id: 101067
+    - count: 2
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 2
+      name: Tribute to the Master
+      id: 102023
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+    - count: 1
+      name: Zoo Hunting Ground
+      id: 102212
+  - name: Action
+    count: 14
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 2
+      name: Legal Manipulations
+      id: 101089
+    - count: 1
+      name: Rewilding
+      id: 101632
+    - count: 10
+      name: Thing
+      id: 101972
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+  - name: Action Modifier
+    count: 11
+    cards:
+    - count: 1
+      name: Enchanting Gaze
+      id: 102221
+    - count: 2
+      name: Freak Drive
+      id: 100788
+    - count: 8
+      name: Revelation of the Serpent
+      id: 102233
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 7
+      name: Bait and Switch
+      id: 102218
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 6
+      name: Eyes of the Wild
+      id: 102222
+  - name: Combat
+    count: 4
+    cards:
+    - count: 2
+      name: Claws of the Dead
+      id: 100356
+    - count: 2
+      name: Earth Meld
+      id: 100601
+  - name: Event
+    count: 4
+    cards:
+    - count: 1
+      name: Break the Code
+      id: 100248
+    - count: 1
+      name: Nightmares upon Nightmares
+      id: 101285
+    - count: 1
+      name: Slow Withering, The
+      id: 101807
+    - count: 1
+      name: Thirst
+      id: 101974
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

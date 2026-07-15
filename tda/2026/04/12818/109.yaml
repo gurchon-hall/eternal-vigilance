@@ -1,0 +1,208 @@
+event_id: '12818'
+name: VtES Finnish Nationals 2026
+location: Vantaa
+date_start: 2026-04-25
+rounds_format: 3R+F
+players_count: 41
+winner: Tommi Hakomaa
+deck:
+  player:
+    name: '109'
+    vekn_number: 109
+  name: Finnish Nationals 2026
+  description: 1GW4.5
+  crypt_count: 12
+  crypt_min: 32
+  crypt_max: 40
+  crypt_avg: 9.0
+  crypt:
+  - count: 4
+    name: Aaradhya, The Callous Tyrant
+    id: 201733
+    capacity: 10
+    disciplines: ANI DOM FOR POT PRE
+    title: Cardinal
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 2
+    name: Dark Selina
+    id: 200321
+    capacity: 9
+    disciplines: dom for CEL POT PRE
+    title: Cardinal
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 2
+    name: Věnceslava, The Implacable
+    id: 201776
+    capacity: 9
+    disciplines: cel DOM FOR POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Carolina Vález
+    id: 200249
+    capacity: 9
+    disciplines: aus DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 5
+  - count: 1
+    name: Rexton "Savage" Abernathy
+    id: 201770
+    capacity: 8
+    disciplines: cel DOM POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Üresség
+    id: 201775
+    capacity: 8
+    disciplines: dom for CEL POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Khin Aye
+    id: 201760
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Día de los Muertos
+      id: 100541
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Privileged Position
+      id: 102334
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 10
+    cards:
+    - count: 8
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Under Siege
+      id: 102063
+  - name: Political Action
+    count: 12
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 3
+      name: Banishment
+      id: 100131
+    - count: 4
+      name: Cold War
+      id: 102312
+    - count: 3
+      name: Kine Resources Contested
+      id: 101056
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 34
+    cards:
+    - count: 1
+      name: Cryptic Rider
+      id: 100478
+    - count: 3
+      name: Dominant Personality
+      id: 102316
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 4
+      name: Freak Drive
+      id: 100788
+    - count: 4
+      name: Iron Glare
+      id: 101008
+    - count: 2
+      name: Magnetic Authority
+      id: 102331
+    - count: 4
+      name: Perfect Paragon
+      id: 101387
+    - count: 5
+      name: Relentlessness
+      id: 102337
+    - count: 5
+      name: Unthinkable Humiliation
+      id: 102346
+    - count: 4
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Absolute Tyranny
+      id: 102308
+  - name: Reaction
+    count: 9
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Wake with Evening's Freshness
+      id: 102137
+  - name: Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Majesty
+      id: 101144
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12818
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12818.zip

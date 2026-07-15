@@ -1,0 +1,184 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '140'
+    vekn_number: 140
+  name: Brazilian Nationals 2025
+  description: 1GW4
+  crypt_count: 13
+  crypt_min: 12
+  crypt_max: 27
+  crypt_avg: 5.08
+  crypt:
+  - count: 1
+    name: Mora, the Death Seer
+    id: 201724
+    capacity: 7
+    disciplines: ani AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Parijat, the Dark Oracle
+    id: 201726
+    capacity: 7
+    disciplines: AUS DOM FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Tommaso Sforza
+    id: 201728
+    capacity: 7
+    disciplines: dom for AUS OBL THA
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Lenelle, Mambo of Birmingham
+    id: 201721
+    capacity: 6
+    disciplines: aus FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Monica Giovanni
+    id: 201723
+    capacity: 6
+    disciplines: AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Gebeyehu Abdu
+    id: 201718
+    capacity: 5
+    disciplines: for AUS OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Holliday "Burgundy" Hall
+    id: 201720
+    capacity: 5
+    disciplines: aus FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Hiromitsu Asano
+    id: 201719
+    capacity: 4
+    disciplines: aus for obl
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Alek König
+    id: 201717
+    capacity: 3
+    disciplines: OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Peter St. John
+    id: 201727
+    capacity: 2
+    disciplines: obl
+    clan: Hecata
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 1
+      name: Biotech Company Hunting Ground
+      id: 102287
+    - count: 2
+      name: Charisma
+      id: 100332
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 6
+      name: Family Gathering
+      id: 102289
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Marrakesh Codex, The
+      id: 101172
+    - count: 2
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 10
+    cards:
+    - count: 10
+      name: Shroud of Decay
+      id: 102295
+  - name: Ally
+    count: 14
+    cards:
+    - count: 14
+      name: Spectral Servitor
+      id: 102296
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 28
+    cards:
+    - count: 9
+      name: Shadow Cast
+      id: 102280
+    - count: 9
+      name: Shadow Cloak
+      id: 102281
+    - count: 6
+      name: Stygian Shroud
+      id: 102282
+    - count: 4
+      name: Where the Veil Thins
+      id: 102285
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 5
+      name: Shadow Sentinel
+      id: 102294
+    - count: 8
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

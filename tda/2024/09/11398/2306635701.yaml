@@ -1,0 +1,209 @@
+event_id: '11398'
+name: German Nationals 2024
+location: Darmstadt
+date_start: 2024-09-07
+rounds_format: 3R+F
+players_count: 32
+winner: ''
+deck:
+  player:
+    name: '2306635701'
+    vekn_number: 2306635701
+  name: German Nationals 2024
+  description: 1GW+3
+  crypt_count: 12
+  crypt_min: 34
+  crypt_max: 43
+  crypt_avg: 9.67
+  crypt:
+  - count: 3
+    name: Lord Tremere
+    id: 200856
+    capacity: 11
+    disciplines: obe ANI AUS DOM THA VIC
+    clan: Tremere
+    grouping: 5
+  - count: 4
+    name: Gabrielle di Righetti
+    id: 200489
+    capacity: 10
+    disciplines: obf pot ANI AUS DOM THA
+    title: Justicar
+    clan: Tremere
+    grouping: 5
+  - count: 3
+    name: Dr. John Dee
+    id: 200377
+    capacity: 9
+    disciplines: chi ANI AUS DOM THA
+    title: Prince
+    clan: Tremere
+    grouping: 4
+  - count: 1
+    name: Paul Cordwood
+    id: 201100
+    capacity: 8
+    disciplines: obf pre AUS DOM THA
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Uta Kovacs
+    id: 201418
+    capacity: 8
+    disciplines: ser AUS DOM THA
+    clan: Tremere antitribu
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 1
+      name: Arcane Library
+      id: 100081
+    - count: 1
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Chantry
+      id: 100329
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Infernal Pact
+      id: 100979
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 1
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 17
+    cards:
+    - count: 2
+      name: Biothaumaturgic Experiment
+      id: 100162
+    - count: 1
+      name: Blood of Sandman
+      id: 100204
+    - count: 2
+      name: Deep Song
+      id: 100515
+    - count: 8
+      name: Govern the Unaligned
+      id: 100845
+    - count: 3
+      name: Rutor's Hand
+      id: 101664
+    - count: 1
+      name: Tier of Souls
+      id: 101984
+  - name: Political Action
+    count: 5
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 1
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Ponticulus
+      id: 101419
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier
+    count: 9
+    cards:
+    - count: 2
+      name: Bonding
+      id: 100236
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 4
+      name: Mind of the Wilds
+      id: 101214
+    - count: 2
+      name: Mirror Walk
+      id: 101223
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Murmur of the False Will
+      id: 101256
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 4
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: Guard Dogs
+      id: 100863
+    - count: 4
+      name: 'Second Tradition: Domain'
+      id: 101706
+    - count: 3
+      name: Sense the Savage Way
+      id: 101717
+    - count: 3
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 28
+    cards:
+    - count: 5
+      name: Apportation
+      id: 100077
+    - count: 1
+      name: Aura Reading
+      id: 100113
+    - count: 5
+      name: Carrion Crows
+      id: 100301
+    - count: 4
+      name: Rego Motum
+      id: 101588
+    - count: 2
+      name: Telepathic Tracking
+      id: 101950
+    - count: 9
+      name: Theft of Vitae
+      id: 101966
+    - count: 2
+      name: Walk of Flame
+      id: 102139
+winner_vekn_number: 8638881481
+event_url: https://www.vekn.net/event-calendar/event/11398
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11398.zip

@@ -1,0 +1,154 @@
+event_id: '11487'
+name: Nacional 2024
+location: Lisboa
+date_start: 2024-11-02
+rounds_format: 3R+F
+players_count: 33
+winner: Eduardo  Manuel dos Santos Mateus
+deck:
+  player:
+    name: '1024'
+    vekn_number: 1024
+  name: Portugese Nationals 2024
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 32
+  crypt_avg: 7.08
+  crypt:
+  - count: 5
+    name: Scout Youngwood
+    id: 201253
+    capacity: 8
+    disciplines: for qui MEL OBF PRE
+    title: 2 Votes
+    clan: Daughter of Cacophony
+    grouping: 6
+  - count: 1
+    name: Sergio Bueno
+    id: 201662
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 4
+    name: Arishat
+    id: 200136
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 Vote
+    clan: Baali
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 6
+      name: Protected Resources
+      id: 101500
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wash
+      id: 102151
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Political Action
+    count: 20
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 6
+      name: Kine Resources Contested
+      id: 101056
+    - count: 6
+      name: Lily Prelude
+      id: 101109
+    - count: 6
+      name: Reckless Agitation
+      id: 101567
+  - name: Action Modifier
+    count: 39
+    cards:
+    - count: 1
+      name: Approximation of Loyalty
+      id: 100078
+    - count: 6
+      name: Awe
+      id: 100119
+    - count: 6
+      name: Bewitching Oration
+      id: 100157
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 6
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 5
+      name: Lost in Crowds
+      id: 101125
+    - count: 10
+      name: Voter Captivation
+      id: 102131
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Majesty
+      id: 101144
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11487
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip

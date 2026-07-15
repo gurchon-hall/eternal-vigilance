@@ -1,0 +1,207 @@
+event_id: '11480'
+name: Ropecon Finnish Grand Prix 2024
+location: Helsinki
+date_start: 2024-07-20
+rounds_format: 3R+F
+players_count: 54
+winner: Teemu Sainomaa
+deck:
+  player:
+    name: '1028'
+    vekn_number: 1028
+  name: Ropecon GP 2024
+  description: 0GW+2
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 29
+  crypt_avg: 5.75
+  crypt:
+  - count: 1
+    name: Anisa Marianna Lopez
+    id: 200096
+    capacity: 8
+    disciplines: aus FOR NEC QUI
+    clan: Harbinger of Skulls
+    grouping: 2
+  - count: 3
+    name: Egothha
+    id: 200405
+    capacity: 7
+    disciplines: obf AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 2
+  - count: 1
+    name: Gisela Harden, The Winnower
+    id: 200522
+    capacity: 7
+    disciplines: aus dem FOR NEC
+    title: Priscus
+    clan: Harbinger of Skulls
+    grouping: 2
+  - count: 4
+    name: Agaitas, The Scholar of Antiquities
+    id: 200019
+    capacity: 6
+    disciplines: for AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 2
+  - count: 3
+    name: Rudolfo Giovanni
+    id: 201209
+    capacity: 3
+    disciplines: NEC
+    clan: Giovanni
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Auspex
+      id: 100114
+    - count: 2
+      name: Fortitude
+      id: 100774
+    - count: 1
+      name: Parthenon, The
+      id: 101355
+    - count: 8
+      name: Slaughterhouse, The
+      id: 101800
+    - count: 2
+      name: Vessel
+      id: 102113
+  - name: Action
+    count: 6
+    cards:
+    - count: 1
+      name: Ghost-Eater
+      id: 100816
+    - count: 1
+      name: Haunt
+      id: 100893
+    - count: 1
+      name: Pulse of the Canaille
+      id: 101517
+    - count: 2
+      name: Restoration
+      id: 101613
+    - count: 1
+      name: Revelations
+      id: 101627
+  - name: Political Action
+    count: 7
+    cards:
+    - count: 1
+      name: Brinksmanship
+      id: 100255
+    - count: 1
+      name: Can't Take it with You
+      id: 100289
+    - count: 3
+      name: Kine Resources Contested
+      id: 101056
+    - count: 2
+      name: Rumors of Gehenna
+      id: 101663
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 2
+      name: Call of the Hungry Dead
+      id: 100279
+    - count: 1
+      name: Cryptic Rider
+      id: 100478
+    - count: 2
+      name: Dawn Operation
+      id: 100501
+    - count: 2
+      name: Freak Drive
+      id: 100788
+    - count: 3
+      name: Trochomancy
+      id: 102026
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Breath of Thanatos
+      id: 100249
+  - name: Reaction
+    count: 32
+    cards:
+    - count: 4
+      name: Eagle's Sight
+      id: 100598
+    - count: 4
+      name: Enhanced Senses
+      id: 100644
+    - count: 1
+      name: Minor Irritation
+      id: 101221
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 8
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Poison Pill
+      id: 101406
+    - count: 1
+      name: Precognition
+      id: 101475
+    - count: 2
+      name: Steadfastness
+      id: 101864
+    - count: 3
+      name: Telepathic Counter
+      id: 101948
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 19
+    cards:
+    - count: 4
+      name: Aura Reading
+      id: 100113
+    - count: 1
+      name: Dead Hand
+      id: 100503
+    - count: 2
+      name: Hidden Strength
+      id: 100918
+    - count: 1
+      name: Mercy for Seth
+      id: 101203
+    - count: 3
+      name: Rolling with the Punches
+      id: 101649
+    - count: 1
+      name: Shared Strength
+      id: 101756
+    - count: 1
+      name: Skin of Night
+      id: 101790
+    - count: 2
+      name: Skin of Rock
+      id: 101791
+    - count: 2
+      name: Spiritual Intervention
+      id: 101852
+    - count: 2
+      name: Torment the Soul
+      id: 101992
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The
+      id: 102057
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11480
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11480.zip

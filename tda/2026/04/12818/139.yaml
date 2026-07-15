@@ -1,0 +1,200 @@
+event_id: '12818'
+name: VtES Finnish Nationals 2026
+location: Vantaa
+date_start: 2026-04-25
+rounds_format: 3R+F
+players_count: 41
+winner: Tommi Hakomaa
+deck:
+  player:
+    name: '139'
+    vekn_number: 139
+  name: Finnish Nationals 2026
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 36
+  crypt_avg: 6.92
+  crypt:
+  - count: 4
+    name: Baron Dieudonne
+    id: 200168
+    capacity: 9
+    disciplines: ANI OBF POT PRO
+    title: Prince
+    clan: Nosferatu
+    grouping: 4
+  - count: 4
+    name: Mark Decker
+    id: 200937
+    capacity: 8
+    disciplines: ani for obf pot CEL PRO
+    title: Prince
+    clan: Gangrel
+    grouping: 3
+  - count: 1
+    name: Shahid
+    id: 201273
+    capacity: 7
+    disciplines: ani for pro OBF POT
+    clan: Nosferatu
+    grouping: 4
+  - count: 1
+    name: Clarissa Steinburgen
+    id: 200276
+    capacity: 3
+    disciplines: ani obf
+    clan: Nosferatu
+    grouping: 3
+  - count: 1
+    name: Foureyes
+    id: 200473
+    capacity: 3
+    disciplines: obf pot
+    clan: Nosferatu
+    grouping: 4
+  - count: 1
+    name: Krid
+    id: 200794
+    capacity: 2
+    disciplines: obf
+    clan: Nosferatu
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Labyrinth, The
+      id: 101070
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Slum Hunting Ground
+      id: 101808
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 3
+      name: Warsaw Station
+      id: 102149
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 9
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 1
+      name: Army of Rats
+      id: 100093
+    - count: 5
+      name: Creeping Sabotage
+      id: 102213
+    - count: 2
+      name: 'Judgment: Camarilla Segregation'
+      id: 101028
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Camera Phone
+      id: 100287
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+  - name: Retainer
+    count: 5
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+      id: 101015
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 3
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+  - name: Action Modifier/Combat
+    count: 5
+    cards:
+    - count: 2
+      name: Rapid Change
+      id: 101542
+    - count: 3
+      name: Swallowed by the Night
+      id: 101913
+  - name: Action Modifier/Reaction
+    count: 5
+    cards:
+    - count: 5
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 22
+    cards:
+    - count: 5
+      name: Cats' Guidance
+      id: 100308
+    - count: 12
+      name: 'Second Tradition: Domain'
+      id: 101706
+    - count: 5
+      name: Sense the Savage Way
+      id: 101717
+  - name: Combat
+    count: 16
+    cards:
+    - count: 10
+      name: Earth Meld
+      id: 100601
+    - count: 6
+      name: Form of Mist
+      id: 100771
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12818
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12818.zip

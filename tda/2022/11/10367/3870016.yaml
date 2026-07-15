@@ -1,0 +1,227 @@
+event_id: '10367'
+name: Finnish Nationals 2022
+location: Espoo - Finland
+date_start: 2022-11-05
+rounds_format: 3R+F
+players_count: 45
+winner: Teemu Sainomaa
+deck:
+  player:
+    name: Henrik Stång
+    vekn_number: 3870016
+    rank: 7
+    gw: 1
+    vp: 4.0
+    tp: 138
+  name: 'Finnish Nats 2022:'
+  description: 1GW4
+  crypt_count: 15
+  crypt_min: 4
+  crypt_max: 30
+  crypt_avg: 4.87
+  crypt:
+  - count: 2
+    name: Owain Evans, The Wanderer
+    id: 201087
+    capacity: 8
+    disciplines: cel pre AUS DOM FOR
+    clan: Ventrue antitribu
+    grouping: 3
+  - count: 4
+    name: Jan Pieterzoon
+    id: 200669
+    capacity: 7
+    disciplines: pot pre DOM FOR
+    clan: Ventrue
+    grouping: 2
+  - count: 2
+    name: Blackhorse Tanner
+    id: 200204
+    capacity: 7
+    disciplines: AUS DOM FOR
+    clan: Ventrue antitribu
+    grouping: 3
+  - count: 1
+    name: Vanessa
+    id: 201425
+    capacity: 6
+    disciplines: aus pre DOM FOR
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 1
+    name: Ingrid Russo
+    id: 200635
+    capacity: 4
+    disciplines: for DOM
+    clan: Ventrue antitribu
+    grouping: 2
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Royce
+    id: 201208
+    capacity: 1
+    disciplines: dom
+    clan: Pander
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Burden the Mind
+      id: 100268
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: 'Golconda: Inner Peace'
+      id: 100842
+    - count: 1
+      name: Legendary Vampire
+      id: 101091
+    - count: 3
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Chicago'
+      id: 101434
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 3
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wash
+      id: 102151
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 12
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 1
+      name: Dominate Kine
+      id: 100573
+    - count: 1
+      name: Force of Will
+      id: 100759
+    - count: 8
+      name: Govern the Unaligned
+      id: 100845
+    - count: 1
+      name: Slaughtering the Herd
+      id: 101801
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Leather Jacket
+      id: 101081
+  - name: Action Modifier
+    count: 22
+    cards:
+    - count: 3
+      name: Bonding
+      id: 100236
+    - count: 2
+      name: Command
+      id: 100380
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 2
+      name: Daring the Dawn
+      id: 100492
+    - count: 2
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 5
+      name: Freak Drive
+      id: 100788
+    - count: 4
+      name: Seduction
+      id: 101712
+    - count: 2
+      name: Sleeping Mind, The
+      id: 101805
+  - name: Reaction
+    count: 20
+    cards:
+    - count: 9
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 2
+      name: Obedience
+      id: 101309
+    - count: 7
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Wake with Evening's Freshness
+      id: 102137
+  - name: Combat
+    count: 12
+    cards:
+    - count: 1
+      name: Autonomic Mastery
+      id: 100117
+    - count: 1
+      name: Disarm
+      id: 100549
+    - count: 1
+      name: Martyr's Resilience
+      id: 101175
+    - count: 4
+      name: Rolling with the Punches
+      id: 101649
+    - count: 2
+      name: Skin of Night
+      id: 101790
+    - count: 3
+      name: Weighted Walking Stick
+      id: 102169
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Port Authority
+      id: 101420
+    - count: 1
+      name: Uncoiling, The
+      id: 102057
+winner_vekn_number: 3070069
+event_url: https://www.vekn.net/event-calendar/event/10367
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/10367.zip

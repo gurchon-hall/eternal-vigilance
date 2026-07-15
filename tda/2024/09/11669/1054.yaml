@@ -1,0 +1,161 @@
+event_id: '11669'
+name: VtES European Championship 2024 - Day 2
+location: Warsaw
+date_start: 2024-09-29
+rounds_format: 3R+F
+players_count: 75
+winner: Danilo Torrisi
+deck:
+  player:
+    name: '1054'
+    vekn_number: 1054
+  name: Warsaw 2024 Day 2
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 10
+  crypt_max: 22
+  crypt_avg: 3.83
+  crypt:
+  - count: 2
+    name: Miguel Santo Domingo
+    id: 200987
+    capacity: 7
+    disciplines: cel for POT PRE
+    clan: Brujah antitribu
+    grouping: 3
+  - count: 1
+    name: Evangeline
+    id: 200446
+    capacity: 4
+    disciplines: cel pot pre
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Hugo
+    id: 200610
+    capacity: 4
+    disciplines: pre vic POT
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 1
+    name: Mariano Pomposo
+    id: 200926
+    capacity: 4
+    disciplines: aus cel pot
+    clan: Brujah antitribu
+    grouping: 3
+  - count: 1
+    name: Victor Tolliver
+    id: 201442
+    capacity: 4
+    disciplines: pot CEL
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 2
+    name: Jacob Bragg
+    id: 200662
+    capacity: 3
+    disciplines: cel pot
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 2
+    name: Sarah Brando
+    id: 201237
+    capacity: 3
+    disciplines: CEL
+    clan: Brujah antitribu
+    grouping: 2
+  - count: 2
+    name: Frederick the Weak
+    id: 200483
+    capacity: 2
+    disciplines: pre
+    clan: Brujah antitribu
+    grouping: 2
+  library_count: 60
+  library_sections:
+  - name: Master
+    count: 10
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: 'Powerbase: Madrid'
+      id: 101437
+    - count: 1
+      name: Waste Management Operation
+      id: 102153
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 6
+    cards:
+    - count: 6
+      name: Embrace, The
+      id: 100633
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 4
+      name: Consanguineous Boon
+      id: 100410
+    - count: 1
+      name: 'Crusade: Aragon'
+      id: 100452
+    - count: 1
+      name: 'Crusade: Detroit'
+      id: 100458
+    - count: 1
+      name: 'Crusade: Pittsburgh'
+      id: 100470
+    - count: 1
+      name: 'Crusade: Rome'
+      id: 100471
+    - count: 5
+      name: Dogs of War
+      id: 100569
+    - count: 3
+      name: Kine Resources Contested
+      id: 101056
+  - name: Equipment
+    count: 8
+    cards:
+    - count: 8
+      name: Saturday-Night Special
+      id: 101682
+  - name: Action Modifier/Reaction
+    count: 7
+    cards:
+    - count: 7
+      name: Unexpected Coalition
+      id: 102070
+  - name: Combat
+    count: 13
+    cards:
+    - count: 7
+      name: Concealed Weapon
+      id: 100392
+    - count: 6
+      name: Dragon's Breath Rounds
+      id: 100580
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11669
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11669.zip

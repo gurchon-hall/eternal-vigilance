@@ -1,0 +1,189 @@
+event_id: '11665'
+name: Week of Nightmares 2024 - Day 3
+location: Warsaw
+date_start: 2024-09-26
+rounds_format: 2R+F
+players_count: 48
+winner: Tero Aalto
+deck:
+  player:
+    name: '1043'
+    vekn_number: 1043
+  name: Warsaw WoN Day III
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 26
+  crypt_avg: 6.17
+  crypt:
+  - count: 1
+    name: Gilbert Duane
+    id: 201617
+    capacity: 7
+    disciplines: AUS DOM OBF
+    title: Baron
+    clan: Malkavian
+    grouping: 6
+  - count: 1
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Atiena
+    id: 201579
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Benedito, a Lanterna
+    id: 201524
+    capacity: 6
+    disciplines: ani aus obf POT
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Jacques Rouge
+    id: 201523
+    capacity: 6
+    disciplines: ani pot pre OBF
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Bituin
+    id: 201525
+    capacity: 6
+    disciplines: ani cel dom THA
+    title: Baron
+    clan: Tremere
+    grouping: 6
+  - count: 1
+    name: Casey Snyder
+    id: 201521
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Leumeah
+    id: 201526
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 31
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Frontal Assault
+      id: 100794
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 9
+      name: Hackerspace
+      id: 100876
+    - count: 7
+      name: Obfuscate
+      id: 101310
+    - count: 2
+      name: Parthenon, The
+      id: 101355
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 17
+    cards:
+    - count: 11
+      name: Childe of the Revolution
+      id: 102246
+    - count: 4
+      name: Make the Misere
+      id: 101147
+    - count: 2
+      name: Open War
+      id: 101324
+  - name: Political Action
+    count: 2
+    cards:
+    - count: 2
+      name: Revolutionary Council
+      id: 101631
+  - name: Equipment
+    count: 11
+    cards:
+    - count: 4
+      name: AK-47
+      id: 100032
+    - count: 5
+      name: Assault Rifle
+      id: 100107
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ritual Goblet
+      id: 102243
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 5
+      name: Smoke and Mirrors
+      id: 101813
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 7
+      name: Bait and Switch
+      id: 102218
+    - count: 3
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 13
+    cards:
+    - count: 7
+      name: Disguised Weapon
+      id: 100555
+    - count: 3
+      name: Groundfighting
+      id: 100861
+    - count: 3
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Uncoiling, The
+      id: 102057
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11665
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11665.zip

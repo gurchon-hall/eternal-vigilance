@@ -1,0 +1,185 @@
+event_id: '12126'
+name: Grand Prix Warsaw 2025
+location: Warsaw
+date_start: 2025-07-05
+rounds_format: 3R+F
+players_count: 56
+winner: Tomasz Pietkiewicz
+deck:
+  player:
+    name: '136'
+    vekn_number: 136
+  name: Warsaw Grand Prix
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 19
+  crypt_max: 30
+  crypt_avg: 6.17
+  crypt:
+  - count: 2
+    name: Adrino Manauara
+    id: 201664
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Ángel Guerrero
+    id: 201665
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Massimiliano
+    id: 201602
+    capacity: 7
+    disciplines: pro ANI FOR
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 2
+    name: Casey Snyder
+    id: 201521
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 2
+    name: Kuyén
+    id: 201574
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Branimira
+    id: 201667
+    capacity: 6
+    disciplines: dom pre pro ANI
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 1
+    name: Nathan Turner
+    id: 201606
+    capacity: 4
+    disciplines: ani PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Indira
+    id: 201592
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 27
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 2
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Dark Influences
+      id: 100493
+    - count: 1
+      name: Fragment of the Book of Nod
+      id: 100785
+    - count: 2
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 2
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 2
+      name: Rack, The
+      id: 101536
+    - count: 6
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 5
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+  - name: Political Action
+    count: 5
+    cards:
+    - count: 1
+      name: Praxis Solomon
+      id: 101473
+    - count: 4
+      name: Reckless Agitation
+      id: 101567
+  - name: Equipment
+    count: 8
+    cards:
+    - count: 4
+      name: .44 Magnum
+      id: 100001
+    - count: 3
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 4
+      name: Earth Control
+      id: 100600
+    - count: 1
+      name: Monkey Wrench
+      id: 101239
+  - name: Reaction
+    count: 29
+    cards:
+    - count: 3
+      name: Bait and Switch
+      id: 102218
+    - count: 5
+      name: Deep Ecology
+      id: 102219
+    - count: 16
+      name: Organized Resistance
+      id: 102230
+    - count: 2
+      name: Power of All
+      id: 101428
+    - count: 3
+      name: Protection Racket
+      id: 101501
+  - name: Combat
+    count: 16
+    cards:
+    - count: 2
+      name: Donnybrook
+      id: 100576
+    - count: 11
+      name: Form of Mist
+      id: 100771
+    - count: 3
+      name: Groundfighting
+      id: 100861
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12126
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12126.zip

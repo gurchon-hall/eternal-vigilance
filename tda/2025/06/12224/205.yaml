@@ -1,0 +1,193 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '205'
+    vekn_number: 205
+  name: Brazilian Nationals 2025
+  description: 0GW0
+  crypt_count: 13
+  crypt_min: 26
+  crypt_max: 36
+  crypt_avg: 7.92
+  crypt:
+  - count: 5
+    name: Carolina Vález
+    id: 200249
+    capacity: 9
+    disciplines: aus DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 5
+  - count: 2
+    name: Charles Delmare
+    id: 201513
+    capacity: 8
+    disciplines: cel DOM OBT POT
+    title: Cardinal
+    clan: Lasombra
+    grouping: 5
+  - count: 2
+    name: Lord Leopold Valdemar
+    id: 201517
+    capacity: 8
+    disciplines: cel dom obf OBT POT
+    title: Priscus
+    clan: Lasombra
+    grouping: 5
+  - count: 1
+    name: Alicia Cortez
+    id: 201575
+    capacity: 8
+    disciplines: CEL DOM OBT
+    title: Prince
+    clan: Lasombra
+    grouping: 4
+  - count: 1
+    name: Giangaleazzo, The Traitor
+    id: 200514
+    capacity: 8
+    disciplines: dom OBT POT PRE
+    title: Prince
+    clan: Lasombra
+    grouping: 4
+  - count: 1
+    name: Virginie, Prodigy
+    id: 201452
+    capacity: 6
+    disciplines: obt DOM POT
+    title: Bishop
+    clan: Lasombra
+    grouping: 4
+  - count: 1
+    name: Leila Monroe
+    id: 200829
+    capacity: 4
+    disciplines: dom obt pre
+    clan: Lasombra
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elysian Fields
+      id: 100629
+    - count: 1
+      name: Fragment of the Book of Nod
+      id: 100785
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Legendary Vampire
+      id: 101091
+    - count: 1
+      name: Political Hunting Ground
+      id: 101415
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 6
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 10
+    cards:
+    - count: 1
+      name: Far Mastery
+      id: 100703
+    - count: 9
+      name: Govern the Unaligned
+      id: 100845
+  - name: Political Action
+    count: 10
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 4
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 2
+      name: Public Vilification
+      id: 101514
+  - name: Action Modifier
+    count: 29
+    cards:
+    - count: 2
+      name: Amici Noctis
+      id: 102274
+    - count: 4
+      name: Conditioning
+      id: 100401
+    - count: 5
+      name: Private Audience
+      id: 101490
+    - count: 5
+      name: Shadow Play
+      id: 101743
+    - count: 6
+      name: Shroud of Absence
+      id: 101774
+    - count: 4
+      name: Shroud of Night
+      id: 101775
+    - count: 3
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Ominous Chorus
+      id: 102278
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 7
+      name: Deflection
+      id: 100518
+    - count: 5
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 7
+    cards:
+    - count: 2
+      name: Entombment
+      id: 100651
+    - count: 2
+      name: Majesty
+      id: 101144
+    - count: 3
+      name: Oubliette
+      id: 101334
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

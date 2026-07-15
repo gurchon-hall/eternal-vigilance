@@ -1,0 +1,196 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '144'
+    vekn_number: 144
+  name: Brazilian Nationals 2025
+  description: 1GW3
+  crypt_count: 12
+  crypt_min: 32
+  crypt_max: 40
+  crypt_avg: 9.0
+  crypt:
+  - count: 4
+    name: Bruce de Guy
+    id: 200222
+    capacity: 10
+    disciplines: AUS DOM FOR OBT
+    title: Cardinal
+    clan: Ventrue antitribu
+    grouping: 4
+  - count: 2
+    name: Antón de Concepción
+    id: 200114
+    capacity: 9
+    disciplines: aus ANI DOM OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 4
+  - count: 2
+    name: Carolina Vález
+    id: 200249
+    capacity: 9
+    disciplines: aus DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 5
+  - count: 2
+    name: Charles Delmare
+    id: 201513
+    capacity: 8
+    disciplines: cel DOM OBT POT
+    title: Cardinal
+    clan: Lasombra
+    grouping: 5
+  - count: 2
+    name: Lord Leopold Valdemar
+    id: 201517
+    capacity: 8
+    disciplines: cel dom obf OBT POT
+    title: Priscus
+    clan: Lasombra
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 22
+    cards:
+    - count: 1
+      name: Demonstration
+      id: 100522
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elysian Fields
+      id: 100629
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: 'Golconda: Inner Peace'
+      id: 100842
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Political Hunting Ground
+      id: 101415
+    - count: 1
+      name: Power Structure
+      id: 101430
+    - count: 1
+      name: Vast Wealth
+      id: 102092
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 4
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 7
+    cards:
+    - count: 5
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Under Siege
+      id: 102063
+  - name: Political Action
+    count: 11
+    cards:
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 5
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+    - count: 1
+      name: Sabbat Priest
+      id: 101667
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+  - name: Action Modifier
+    count: 27
+    cards:
+    - count: 4
+      name: Conditioning
+      id: 100401
+    - count: 4
+      name: Freak Drive
+      id: 100788
+    - count: 4
+      name: Private Audience
+      id: 101490
+    - count: 4
+      name: Seduction
+      id: 101712
+    - count: 4
+      name: Shadow Play
+      id: 101743
+    - count: 3
+      name: Shroud of Absence
+      id: 101774
+    - count: 2
+      name: Shroud of Night
+      id: 101775
+    - count: 2
+      name: Tenebrous Form
+      id: 101957
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 5
+      name: Obedience
+      id: 101309
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Wake with Evening's Freshness
+      id: 102137
+  - name: Combat
+    count: 7
+    cards:
+    - count: 3
+      name: Autonomic Mastery
+      id: 100117
+    - count: 2
+      name: Entombment
+      id: 100651
+    - count: 2
+      name: Oubliette
+      id: 101334
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

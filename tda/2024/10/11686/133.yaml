@@ -1,0 +1,193 @@
+event_id: '11686'
+name: Australian New Zealand 2024 Continental Championship
+location: Sydney
+date_start: 2024-10-26
+rounds_format: 3R+F
+players_count: 36
+winner: Keith Lim
+deck:
+  player:
+    name: '133'
+    vekn_number: 133
+  name: Oceanic Continental Championship 2024
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 37
+  crypt_max: 44
+  crypt_avg: 10.17
+  crypt:
+  - count: 5
+    name: Stanislava
+    id: 201312
+    capacity: 11
+    disciplines: ANI CEL DOM FOR PRO
+    title: Inner Circle
+    clan: Gangrel
+    grouping: 2
+  - count: 2
+    name: Hartmut Stover
+    id: 200575
+    capacity: 10
+    disciplines: dom for CEL OBF PRO
+    title: Archbishop
+    clan: Gangrel antitribu
+    grouping: 3
+  - count: 1
+    name: Genevieve
+    id: 200501
+    capacity: 10
+    disciplines: aus dom ANI FOR PRO
+    title: Priscus
+    clan: Gangrel antitribu
+    grouping: 2
+  - count: 1
+    name: Xaviar (ADV)
+    id: 201478
+    capacity: 10
+    disciplines: aus cel pot ABO ANI FOR PRO
+    title: Justicar
+    clan: Gangrel
+    grouping: 3
+  - count: 3
+    name: Ingrid Rossler
+    id: 200634
+    capacity: 9
+    disciplines: dom ANI FOR PRO
+    title: Prince
+    clan: Gangrel
+    grouping: 2
+  library_count: 82
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Backways
+      id: 100126
+    - count: 1
+      name: Camarilla Conclave
+      id: 102269
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Ecoterrorists
+      id: 100609
+    - count: 1
+      name: Ennoia's Theater
+      id: 100646
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Gird Minions
+      id: 100831
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 6
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 8
+    cards:
+    - count: 6
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Scouting Mission
+      id: 101698
+  - name: Political Action
+    count: 10
+    cards:
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 5
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Parity Shift
+      id: 101353
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Action Modifier
+    count: 16
+    cards:
+    - count: 2
+      name: Bonding
+      id: 100236
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 5
+      name: Earth Control
+      id: 100600
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 2
+      name: Forced March
+      id: 100761
+    - count: 2
+      name: Freak Drive
+      id: 100788
+    - count: 2
+      name: Instantaneous Transformation
+      id: 100994
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 8
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Guard Dogs
+      id: 100863
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 4
+      name: Sense the Savage Way
+      id: 101717
+  - name: Combat
+    count: 11
+    cards:
+    - count: 4
+      name: Earth Meld
+      id: 100601
+    - count: 5
+      name: Form of Mist
+      id: 100771
+    - count: 2
+      name: Rolling with the Punches
+      id: 101649
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11686
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11686.zip

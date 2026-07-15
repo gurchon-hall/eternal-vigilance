@@ -1,0 +1,188 @@
+event_id: '11707'
+name: 'Garou Rim: Above the Law'
+location: Joensuu
+date_start: 2024-10-26
+rounds_format: 3R+F
+players_count: 10
+winner: Miska Tanskanen
+deck:
+  player:
+    name: '1008'
+    vekn_number: 1008
+  name: 'Garou Rim: Above the Law'
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 36
+  crypt_avg: 5.33
+  crypt:
+  - count: 5
+    name: Ondine "Boudicca" Sinclair
+    id: 201083
+    capacity: 9
+    disciplines: obt AUS CEL PRE PRO
+    clan: Toreador antitribu
+    grouping: 5
+  - count: 1
+    name: Redbone McCray
+    id: 201172
+    capacity: 6
+    disciplines: cel pro AUS PRE
+    clan: Toreador antitribu
+    grouping: 4
+  - count: 1
+    name: Sennadurek
+    id: 201263
+    capacity: 6
+    disciplines: dom AUS NEC
+    clan: Nagaraja
+    grouping: 4
+  - count: 1
+    name: Andre LeRoux
+    id: 200080
+    capacity: 3
+    disciplines: aus
+    clan: Toreador
+    grouping: 5
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 3
+      name: Abombwe
+      id: 100009
+    - count: 1
+      name: Art of Pain, The
+      id: 100098
+    - count: 2
+      name: Corporal Reservoir
+      id: 100425
+    - count: 1
+      name: Depravity
+      id: 100526
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 2
+      name: Hand Contract
+      id: 100880
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: Obtenebration
+      id: 101312
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 4
+      name: Shakar
+      id: 101748
+    - count: 2
+      name: Vessel
+      id: 102113
+  - name: Action
+    count: 9
+    cards:
+    - count: 1
+      name: Black Metamorphosis
+      id: 100169
+    - count: 6
+      name: Illegalism
+      id: 100952
+    - count: 1
+      name: Nose of the Hound
+      id: 101296
+    - count: 1
+      name: Shadow of the Beast
+      id: 101740
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Flak Jacket
+      id: 100739
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+    - count: 1
+      name: Leather Jacket
+      id: 101081
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: Crypt's Sons
+      id: 100476
+    - count: 1
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 14
+    cards:
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 8
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 4
+      name: Zephyr
+      id: 102205
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Resist Earth's Grasp
+      id: 101610
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 26
+    cards:
+    - count: 2
+      name: Claws of the Dead
+      id: 100356
+    - count: 10
+      name: Hell-for-Leather
+      id: 100910
+    - count: 8
+      name: Psyche!
+      id: 101507
+    - count: 6
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11707
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11707.zip

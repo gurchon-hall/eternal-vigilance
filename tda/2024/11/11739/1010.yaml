@@ -1,0 +1,190 @@
+event_id: '11739'
+name: VtES Finnish Nationals 2024
+location: Kerava
+date_start: 2024-11-09
+rounds_format: 3R+F
+players_count: 30
+winner: Jonas Ståhle
+deck:
+  player:
+    name: '1010'
+    vekn_number: 1010
+  name: Finnish Nationals 2024
+  description: 0GW3.5
+  crypt_count: 12
+  crypt_min: 34
+  crypt_max: 44
+  crypt_avg: 9.92
+  crypt:
+  - count: 3
+    name: Lutz von Hohenzollern
+    id: 200890
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Adana de Sforza
+    id: 200011
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Josef von Bauren
+    id: 200720
+    capacity: 11
+    disciplines: cel ANI DEM OBF POT
+    title: Inner Circle
+    clan: Nosferatu
+    grouping: 4
+  - count: 1
+    name: Rafael de Corazon
+    id: 201151
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  - count: 1
+    name: Unmada
+    id: 201410
+    capacity: 10
+    disciplines: cel for AUS DEM OBF VIC
+    title: Justicar
+    clan: Malkavian
+    grouping: 5
+  - count: 3
+    name: Undele
+    id: 201409
+    capacity: 9
+    disciplines: obf pre ser CEL FOR
+    title: Magaji
+    clan: Ishtarri
+    grouping: 5
+  - count: 1
+    name: Dmitra Ilyanova
+    id: 200349
+    capacity: 9
+    disciplines: obf CEL FOR POT PRE
+    title: Justicar
+    clan: Brujah
+    grouping: 5
+  - count: 1
+    name: Karen Suadela
+    id: 200753
+    capacity: 7
+    disciplines: obf pre CEL POT
+    title: Prince
+    clan: Brujah
+    grouping: 5
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 42
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Bleeding the Vine
+      id: 100178
+    - count: 2
+      name: Camarilla Conclave
+      id: 102269
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 7
+      name: Minion Tap
+      id: 101217
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 4
+      name: Parthenon, The
+      id: 101355
+    - count: 4
+      name: Protected Resources
+      id: 101500
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 3
+      name: Wash
+      id: 102151
+    - count: 1
+      name: Wider View
+      id: 102180
+    - count: 7
+      name: Zillah's Valley
+      id: 102207
+  - name: Political Action
+    count: 15
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 4
+      name: Banishment
+      id: 100131
+    - count: 5
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+    - count: 1
+      name: Rumors of Gehenna
+      id: 101663
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 2
+      name: Approximation of Loyalty
+      id: 100078
+    - count: 3
+      name: Bewitching Oration
+      id: 100157
+    - count: 4
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 3
+      name: Into Thin Air
+      id: 101001
+    - count: 2
+      name: Lost in Crowds
+      id: 101125
+    - count: 3
+      name: Perfect Paragon
+      id: 101387
+    - count: 6
+      name: Voter Captivation
+      id: 102131
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11739
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11739.zip

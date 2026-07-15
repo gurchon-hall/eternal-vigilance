@@ -1,0 +1,209 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1003'
+    vekn_number: 1003
+  name: Warsaw LCQ 2024
+  description: 2GW7+0.5
+  crypt_count: 12
+  crypt_min: 6
+  crypt_max: 40
+  crypt_avg: 5.42
+  crypt:
+  - count: 5
+    name: Shalmath
+    id: 201274
+    capacity: 10
+    disciplines: POT PRE TEM
+    clan: True Brujah
+    grouping: 6
+  - count: 1
+    name: '"Coach" Tyrone Soros'
+    id: 201661
+    capacity: 3
+    disciplines: obf pre
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Adisa
+    id: 201636
+    capacity: 3
+    disciplines: cel obf
+    clan: Banu Haqim
+    grouping: 6
+  - count: 1
+    name: Kalila
+    id: 200744
+    capacity: 3
+    disciplines: aus obf
+    clan: Malkavian
+    grouping: 5
+  - count: 1
+    name: Alu
+    id: 200062
+    capacity: 2
+    disciplines: obf
+    clan: Banu Haqim
+    grouping: 5
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Walker Grimes
+    id: 201462
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 11
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Carver's Meat Packing and Storage
+      id: 100303
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Guardian Angel
+      id: 100866
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: Tabriz Assembly
+      id: 101924
+    - count: 2
+      name: Vessel
+      id: 102113
+  - name: Action
+    count: 15
+    cards:
+    - count: 2
+      name: Ambush
+      id: 100046
+    - count: 2
+      name: Big Game
+      id: 100159
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 8
+      name: Summon History
+      id: 101897
+    - count: 1
+      name: Vaticination
+      id: 102093
+  - name: Ally
+    count: 4
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Ossian
+      id: 101333
+    - count: 1
+      name: Tye Cooper
+      id: 102053
+    - count: 1
+      name: Veneficti
+      id: 102103
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 1
+      name: Eye of Hazimel
+      id: 100678
+    - count: 1
+      name: Signet of King Saul, The
+      id: 101781
+    - count: 1
+      name: Sport Bike
+      id: 101856
+    - count: 1
+      name: Starshell Grenade Launcher
+      id: 101860
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 1
+      name: Omael Kuman
+      id: 101320
+  - name: Action Modifier
+    count: 13
+    cards:
+    - count: 10
+      name: Domain of Evernight
+      id: 100571
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+  - name: Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Rewind Time
+      id: 101633
+  - name: Combat
+    count: 38
+    cards:
+    - count: 4
+      name: Decapitate
+      id: 100511
+    - count: 6
+      name: Disarm
+      id: 100549
+    - count: 8
+      name: Majesty
+      id: 101144
+    - count: 16
+      name: Outside the Hourglass
+      id: 101338
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+    - count: 1
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

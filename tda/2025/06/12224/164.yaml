@@ -1,0 +1,99 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '164'
+    vekn_number: 164
+  name: Brazilian Nationals 2025
+  description: 0GW2
+  crypt_count: 12
+  crypt_min: 14
+  crypt_max: 40
+  crypt_avg: 7.33
+  crypt:
+  - count: 6
+    name: Nergal
+    id: 201048
+    capacity: 10
+    disciplines: AUS DAI FOR OBF PRE THA
+    clan: Baali
+    grouping: 5
+  - count: 2
+    name: Ogwon
+    id: 201072
+    capacity: 7
+    disciplines: for OBF PRE SER
+    clan: Ministry
+    grouping: 5
+  - count: 1
+    name: Ankh-sen-Sutekh
+    id: 200099
+    capacity: 6
+    disciplines: obf PRE SER
+    clan: Ministry
+    grouping: 4
+  - count: 1
+    name: Lula Burch
+    id: 200882
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Rosemarie
+    id: 201206
+    capacity: 3
+    disciplines: mel FOR
+    clan: Daughter of Cacophony
+    grouping: 4
+  - count: 1
+    name: Aimee Laroux
+    id: 200026
+    capacity: 2
+    disciplines: for pre
+    clan: Daughter of Cacophony
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Action
+    count: 24
+    cards:
+    - count: 11
+      name: Call the Great Beast
+      id: 100280
+    - count: 11
+      name: Eternal Mask, The
+      id: 100665
+    - count: 2
+      name: Scrounging
+      id: 101700
+  - name: Action Modifier
+    count: 60
+    cards:
+    - count: 12
+      name: Daring the Dawn
+      id: 100492
+    - count: 4
+      name: Elder Impersonation
+      id: 100617
+    - count: 4
+      name: Faceless Night
+      id: 100687
+    - count: 40
+      name: Freak Drive
+      id: 100788
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Sense the Sin
+      id: 101718
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

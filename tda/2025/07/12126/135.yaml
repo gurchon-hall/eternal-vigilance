@@ -1,0 +1,119 @@
+event_id: '12126'
+name: Grand Prix Warsaw 2025
+location: Warsaw
+date_start: 2025-07-05
+rounds_format: 3R+F
+players_count: 56
+winner: Tomasz Pietkiewicz
+deck:
+  player:
+    name: '135'
+    vekn_number: 135
+  name: Warsaw Grand Prix
+  description: 0GW2
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 44
+  crypt_avg: 8.5
+  crypt:
+  - count: 6
+    name: Lucian, the Perfect
+    id: 200871
+    capacity: 11
+    disciplines: ANI AUS DOM OBF POT PRE
+    clan: Guruhi
+    grouping: 4
+  - count: 6
+    name: Isanwayen
+    id: 200644
+    capacity: 6
+    disciplines: DOM MYT OBT
+    clan: Kiasyd
+    grouping: 4
+  library_count: 73
+  library_sections:
+  - name: Master
+    count: 33
+    cards:
+    - count: 1
+      name: Abombwe
+      id: 100009
+    - count: 9
+      name: Blind Spot
+      id: 100188
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: 'Golconda: Inner Peace'
+      id: 100842
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 2
+      name: Parthenon, The
+      id: 101355
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wash
+      id: 102151
+    - count: 2
+      name: Wider View
+      id: 102180
+    - count: 4
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 5
+    cards:
+    - count: 5
+      name: Legal Manipulations
+      id: 101089
+  - name: Action Modifier
+    count: 17
+    cards:
+    - count: 5
+      name: Conditioning
+      id: 100401
+    - count: 2
+      name: Edge of the World
+      id: 100613
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+    - count: 4
+      name: Into Thin Air
+      id: 101001
+    - count: 1
+      name: Strange Day
+      id: 101880
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 6
+      name: Obedience
+      id: 101309
+    - count: 7
+      name: Sense the Savage Way
+      id: 101717
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12126
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12126.zip

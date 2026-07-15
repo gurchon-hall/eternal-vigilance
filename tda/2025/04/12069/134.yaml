@@ -1,0 +1,140 @@
+event_id: '12069'
+name: None
+location: Vantaa
+date_start: 2025-04-12
+rounds_format: 3R+F
+players_count: 39
+winner: Teemu Sainomaa
+deck:
+  player:
+    name: '134'
+    vekn_number: 134
+  name: Finnish Nationals 2025
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 44
+  crypt_avg: 7.58
+  crypt:
+  - count: 4
+    name: Saulot, The Wanderer
+    id: 201248
+    capacity: 11
+    disciplines: dai AUS FOR OBE THA VAL
+    clan: Salubri
+    grouping: 4
+  - count: 3
+    name: Lord Tremere
+    id: 200856
+    capacity: 11
+    disciplines: obe ANI AUS DOM THA VIC
+    clan: Tremere
+    grouping: 5
+  - count: 1
+    name: Gabrielle di Righetti
+    id: 200489
+    capacity: 10
+    disciplines: obf pot ANI AUS DOM THA
+    title: Justicar
+    clan: Tremere
+    grouping: 5
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 23
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Heidelberg Castle, Germany
+      id: 100908
+    - count: 3
+      name: Inceptor
+      id: 100969
+    - count: 3
+      name: Information Highway
+      id: 100984
+    - count: 5
+      name: Minion Tap
+      id: 101217
+    - count: 2
+      name: Sudden Reversal
+      id: 101896
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 13
+    cards:
+    - count: 2
+      name: Field Training
+      id: 100725
+    - count: 6
+      name: Renewed Vigor
+      id: 101603
+    - count: 5
+      name: Spirit Marionette
+      id: 101848
+  - name: Action Modifier
+    count: 18
+    cards:
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 8
+      name: Mirror Walk
+      id: 101223
+    - count: 2
+      name: Perfect Clarity
+      id: 101386
+    - count: 7
+      name: Repulsion
+      id: 101606
+  - name: Reaction
+    count: 17
+    cards:
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: Enhanced Senses
+      id: 100644
+    - count: 4
+      name: Eyes of Argus
+      id: 100680
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 6
+    cards:
+    - count: 3
+      name: Eye of Unforgiving Heaven
+      id: 100679
+    - count: 3
+      name: Rego Motum
+      id: 101588
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12069
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12069.zip

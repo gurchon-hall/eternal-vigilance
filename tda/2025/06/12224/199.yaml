@@ -1,0 +1,144 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '199'
+    vekn_number: 199
+  name: Brazilian Nationals 2025
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 10
+  crypt_avg: 1.5
+  crypt:
+  - count: 1
+    name: Lucy Markowitz
+    id: 200878
+    capacity: 3
+    disciplines: dom obt
+    clan: Lasombra
+    grouping: 4
+  - count: 1
+    name: Ulrike Rothbart
+    id: 201403
+    capacity: 3
+    disciplines: dom for
+    clan: Ventrue antitribu
+    grouping: 4
+  - count: 1
+    name: Jackson Asher
+    id: 200660
+    capacity: 2
+    disciplines: dom
+    clan: Ventrue
+    grouping: 4
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 1
+    name: Andy
+    id: 200087
+    capacity: 1
+    disciplines: for
+    clan: Caitiff
+    grouping: 4
+  - count: 1
+    name: César Holfield
+    id: 200261
+    capacity: 1
+    disciplines: obf
+    clan: Caitiff
+    grouping: 4
+  - count: 1
+    name: Dirk
+    id: 200347
+    capacity: 1
+    disciplines: pre
+    clan: Caitiff
+    grouping: 4
+  - count: 1
+    name: Donald Cargill
+    id: 200365
+    capacity: 1
+    disciplines: aus
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Iris Bennett
+    id: 200641
+    capacity: 1
+    disciplines: pro
+    clan: Caitiff
+    grouping: 5
+  - count: 1
+    name: Johan Wrede
+    id: 200711
+    capacity: 1
+    disciplines: tha
+    clan: Caitiff
+    grouping: 4
+  - count: 1
+    name: Walker Grimes
+    id: 201462
+    capacity: 1
+    disciplines: ani
+    clan: Caitiff
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 2
+      name: Dummy Corporation
+      id: 100594
+    - count: 10
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 4
+      name: Misdirection
+      id: 101225
+    - count: 2
+      name: Sudden Reversal
+      id: 101896
+  - name: Action
+    count: 38
+    cards:
+    - count: 38
+      name: Computer Hacking
+      id: 100390
+  - name: Combat
+    count: 32
+    cards:
+    - count: 31
+      name: Dodge
+      id: 100567
+    - count: 1
+      name: Fake Out
+      id: 100693
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

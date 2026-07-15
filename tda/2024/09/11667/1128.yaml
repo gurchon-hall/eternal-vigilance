@@ -1,0 +1,183 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1128'
+    vekn_number: 1128
+  name: Warsaw LCQ 2024
+  description: 0GW0.5
+  crypt_count: 12
+  crypt_min: 14
+  crypt_max: 36
+  crypt_avg: 6.17
+  crypt:
+  - count: 4
+    name: Ignazio Giovanni
+    id: 200624
+    capacity: 9
+    disciplines: obf DOM FOR NEC POT
+    clan: Giovanni
+    grouping: 3
+  - count: 1
+    name: Baldesar Rossellini
+    id: 200164
+    capacity: 8
+    disciplines: aus for nec DOM POT
+    clan: Giovanni
+    grouping: 4
+  - count: 2
+    name: Benedict Giovanni, Agent
+    id: 200189
+    capacity: 6
+    disciplines: cel dom nec FOR POT
+    clan: Giovanni
+    grouping: 4
+  - count: 2
+    name: Lorrie Dunsirn
+    id: 200859
+    capacity: 4
+    disciplines: for nec POT
+    clan: Abomination
+    grouping: 4
+  - count: 1
+    name: Earl
+    id: 200396
+    capacity: 4
+    disciplines: dom for pot
+    clan: Ventrue
+    grouping: 3
+  - count: 2
+    name: Almodo Giovanni
+    id: 200059
+    capacity: 3
+    disciplines: dom pot
+    clan: Giovanni
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Dis Pater
+      id: 100548
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: Morgue Hunting Ground
+      id: 101243
+    - count: 1
+      name: 'Powerbase: Cape Verde'
+      id: 101433
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 3
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 17
+    cards:
+    - count: 7
+      name: Bum's Rush
+      id: 100266
+    - count: 7
+      name: Govern the Unaligned
+      id: 100845
+    - count: 1
+      name: Graverobbing
+      id: 100852
+    - count: 2
+      name: Sudario Refraction
+      id: 101895
+  - name: Ally
+    count: 4
+    cards:
+    - count: 2
+      name: Giulia Giovanni Abruzzina
+      id: 100832
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+    - count: 1
+      name: Tye Cooper
+      id: 102053
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 3
+      name: Freak Drive
+      id: 100788
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 38
+    cards:
+    - count: 2
+      name: Blight
+      id: 100187
+    - count: 3
+      name: Disarm
+      id: 100549
+    - count: 7
+      name: Immortal Grapple
+      id: 100959
+    - count: 4
+      name: Rolling with the Punches
+      id: 101649
+    - count: 3
+      name: Roundhouse
+      id: 102215
+    - count: 2
+      name: Slam
+      id: 101798
+    - count: 2
+      name: Soak
+      id: 101817
+    - count: 3
+      name: Spiritual Guidance
+      id: 101851
+    - count: 2
+      name: Taste of Vitae
+      id: 101945
+    - count: 6
+      name: Torn Signpost
+      id: 101993
+    - count: 4
+      name: Unflinching Persistence
+      id: 102071
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

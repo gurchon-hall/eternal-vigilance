@@ -1,0 +1,193 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '123'
+    vekn_number: 123
+  name: Croatian Abuse of Power 2026
+  description: 0GW1.5
+  crypt_count: 12
+  crypt_min: 14
+  crypt_max: 36
+  crypt_avg: 6.42
+  crypt:
+  - count: 5
+    name: Szechenyi Jolán, Mother of Horrors
+    id: 201333
+    capacity: 9
+    disciplines: cel for pro ANI AUS VIC
+    title: Bishop
+    clan: Tzimisce
+    grouping: 3
+  - count: 1
+    name: Kazimir Savostin
+    id: 200766
+    capacity: 7
+    disciplines: ani pot AUS VIC
+    clan: Tzimisce
+    grouping: 3
+  - count: 1
+    name: Duality
+    id: 200391
+    capacity: 6
+    disciplines: ani AUS VIC
+    clan: Tzimisce
+    grouping: 4
+  - count: 1
+    name: Elizabeth Westcott
+    id: 200415
+    capacity: 5
+    disciplines: ani cel vic AUS
+    clan: Tzimisce
+    grouping: 3
+  - count: 3
+    name: Jane Sims
+    id: 200671
+    capacity: 4
+    disciplines: ani aus pro VIC
+    clan: Tzimisce
+    grouping: 4
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Animalism
+      id: 100070
+    - count: 1
+      name: Carver's Meat Packing and Storage
+      id: 100303
+    - count: 1
+      name: Dabbler
+      id: 100485
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Leadership Vacuum
+      id: 101078
+    - count: 1
+      name: Rötschreck
+      id: 101654
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 12
+    cards:
+    - count: 1
+      name: Abuse of Power
+      id: 102309
+    - count: 2
+      name: Augury of Doom
+      id: 102310
+    - count: 5
+      name: Deep Song
+      id: 100515
+    - count: 2
+      name: Pillars Fall
+      id: 102333
+    - count: 2
+      name: Taunt the Caged Beast
+      id: 101947
+  - name: Retainer
+    count: 7
+    cards:
+    - count: 3
+      name: Corpse Balloon
+      id: 100427
+    - count: 1
+      name: Jackie Therman
+      id: 101018
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 1
+      name: Tasha Morgan
+      id: 101943
+    - count: 1
+      name: Twisted Bloodhound
+      id: 102344
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 6
+      name: Forced March
+      id: 100761
+    - count: 9
+      name: Mind of the Wilds
+      id: 101214
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 2
+      name: Guard Dogs
+      id: 100863
+    - count: 3
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Sense the Savage Way
+      id: 101717
+    - count: 2
+      name: Spirit's Touch
+      id: 101850
+    - count: 3
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 26
+    cards:
+    - count: 4
+      name: Breath of the Dragon
+      id: 100250
+    - count: 8
+      name: Carrion Crows
+      id: 100301
+    - count: 7
+      name: Chiropteran Marauder
+      id: 100344
+    - count: 3
+      name: Conquer the Beast
+      id: 100408
+    - count: 2
+      name: Starvation of Marena
+      id: 101861
+    - count: 2
+      name: Wall of Filth
+      id: 102347
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

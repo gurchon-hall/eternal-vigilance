@@ -1,0 +1,195 @@
+event_id: '12325'
+name: 'Fee Stake: Lublin 2025'
+location: Lublin
+date_start: 2025-05-17
+rounds_format: 3R+F
+players_count: 20
+winner: Tomasz Kłoczko
+deck:
+  player:
+    name: '105'
+    vekn_number: 105
+  name: 'Fee Stake: Lublin'
+  description: 1GW3+0.5
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 36
+  crypt_avg: 7.67
+  crypt:
+  - count: 5
+    name: Angelique
+    id: 200093
+    capacity: 9
+    disciplines: AUS FOR NEC SER THA
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: Khurshid
+    id: 200781
+    capacity: 8
+    disciplines: AUS FOR NEC POT
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 1
+    name: Mordechai Ben-Nun
+    id: 201009
+    capacity: 8
+    disciplines: ANI AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 1
+    name: Alcoan
+    id: 200042
+    capacity: 7
+    disciplines: for AUS CEL NEC
+    clan: Harbinger of Skulls
+    grouping: 6
+  - count: 2
+    name: Hecate
+    id: 200580
+    capacity: 6
+    disciplines: AUS FOR NEC
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 2
+    name: La Viuda Blanca
+    id: 200801
+    capacity: 6
+    disciplines: for obf AUS NEC
+    clan: Harbinger of Skulls
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 2
+      name: Charisma
+      id: 100332
+    - count: 3
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Mob Connections
+      id: 101229
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Ally
+    count: 20
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 6
+      name: Emerald Legionnaire
+      id: 100634
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+    - count: 12
+      name: Shambling Hordes
+      id: 101751
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Codex of the Edenic Groundskeepers
+      id: 100374
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Masquer
+      id: 101182
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 2
+      name: Acheron Vortex
+      id: 100016
+    - count: 4
+      name: Call of the Hungry Dead
+      id: 100279
+    - count: 4
+      name: Inevitability of the Void
+      id: 100974
+  - name: Action Modifier/Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Breath of Thanatos
+      id: 100249
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Spectral Divination
+      id: 101843
+  - name: Reaction
+    count: 15
+    cards:
+    - count: 3
+      name: Eyes of Argus
+      id: 100680
+    - count: 3
+      name: Funeral Wake
+      id: 100797
+    - count: 3
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 3
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 5
+    cards:
+    - count: 2
+      name: Fake Out
+      id: 100693
+    - count: 2
+      name: Target Vitals
+      id: 101942
+    - count: 1
+      name: Trap
+      id: 102012
+  - name: Event
+    count: 5
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+    - count: 2
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12325
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12325.zip

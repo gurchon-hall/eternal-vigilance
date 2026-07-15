@@ -1,0 +1,177 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1143'
+    vekn_number: 1143
+  name: Warsaw LCQ 2024
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 35
+  crypt_max: 40
+  crypt_avg: 9.33
+  crypt:
+  - count: 5
+    name: Count Jocalo
+    id: 200294
+    capacity: 10
+    disciplines: NEC OBF PRE SER THA
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Pentweret
+    id: 201109
+    capacity: 9
+    disciplines: aus for obe OBF PRE SER
+    clan: Ministry
+    grouping: 5
+  - count: 2
+    name: Porphyrion
+    id: 201129
+    capacity: 9
+    disciplines: for CHI OBF PRE SER
+    clan: Ministry
+    grouping: 5
+  - count: 2
+    name: Shemti
+    id: 201282
+    capacity: 9
+    disciplines: vic OBF POT PRE SER
+    title: 1 Vote
+    clan: Ministry
+    grouping: 5
+  - count: 1
+    name: Nonu Dis
+    id: 201608
+    capacity: 8
+    disciplines: for OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  library_count: 70
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 7
+      name: Eternals of Sirius, The
+      id: 100667
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 15
+    cards:
+    - count: 2
+      name: Enticement
+      id: 100650
+    - count: 1
+      name: Entrancement
+      id: 100652
+    - count: 1
+      name: Form of Corruption
+      id: 100770
+    - count: 1
+      name: Heart of the City
+      id: 100904
+    - count: 2
+      name: Legal Manipulations
+      id: 101089
+    - count: 1
+      name: Magic of the Smith
+      id: 101143
+    - count: 1
+      name: Mind Numb
+      id: 101211
+    - count: 1
+      name: Propaganda
+      id: 101495
+    - count: 2
+      name: Public Trust
+      id: 101513
+    - count: 2
+      name: Rutor's Hand
+      id: 101664
+    - count: 1
+      name: Temptation
+      id: 101954
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Saatet-ta
+      id: 101665
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 3
+      name: Mokolé Blood
+      id: 101232
+  - name: Action Modifier
+    count: 25
+    cards:
+    - count: 2
+      name: Aire of Elation
+      id: 100031
+    - count: 2
+      name: Call of the Hungry Dead
+      id: 100279
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 3
+      name: Enkil Cog
+      id: 100645
+    - count: 3
+      name: Faceless Night
+      id: 100687
+    - count: 3
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Spying Mission
+      id: 101857
+    - count: 6
+      name: Truth of a Thousand Lies
+      id: 102044
+  - name: Reaction
+    count: 5
+    cards:
+    - count: 5
+      name: Ophidian Gaze
+      id: 101325
+  - name: Combat
+    count: 5
+    cards:
+    - count: 3
+      name: Majesty
+      id: 101144
+    - count: 2
+      name: Unholy Penance
+      id: 102072
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

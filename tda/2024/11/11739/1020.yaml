@@ -1,0 +1,155 @@
+event_id: '11739'
+name: VtES Finnish Nationals 2024
+location: Kerava
+date_start: 2024-11-09
+rounds_format: 3R+F
+players_count: 30
+winner: Jonas Ståhle
+deck:
+  player:
+    name: '1020'
+    vekn_number: 1020
+  name: Finnish Nationals 2024
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 32
+  crypt_max: 44
+  crypt_avg: 9.67
+  crypt:
+  - count: 5
+    name: Capuchin, The
+    id: 200242
+    capacity: 11
+    disciplines: AUS DOM FOR NEC THA THN
+    clan: Harbinger of Skulls
+    grouping: 5
+  - count: 2
+    name: Gabrielle di Righetti
+    id: 200489
+    capacity: 10
+    disciplines: obf pot ANI AUS DOM THA
+    title: Justicar
+    clan: Tremere
+    grouping: 5
+  - count: 1
+    name: Gerald Windham
+    id: 200508
+    capacity: 9
+    disciplines: AUS DOM FOR THA
+    clan: Tremere
+    grouping: 5
+  - count: 4
+    name: Abraham Mellon
+    id: 201634
+    capacity: 8
+    disciplines: for tha AUS DOM OBF
+    clan: Malkavian
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 13
+    cards:
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 6
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 14
+    cards:
+    - count: 10
+      name: Govern the Unaligned
+      id: 100845
+    - count: 4
+      name: Magic of the Smith
+      id: 101143
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Erebus Mask
+      id: 100657
+    - count: 1
+      name: Gran Madre di Dio, Italy
+      id: 100847
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Signet of King Saul, The
+      id: 101781
+  - name: Action Modifier
+    count: 22
+    cards:
+    - count: 3
+      name: Conditioning
+      id: 100401
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 4
+      name: Freak Drive
+      id: 100788
+    - count: 5
+      name: Mirror Walk
+      id: 101223
+    - count: 3
+      name: Sleeping Mind, The
+      id: 101805
+    - count: 6
+      name: Under My Skin
+      id: 102062
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Murmur of the False Will
+      id: 101256
+  - name: Reaction
+    count: 33
+    cards:
+    - count: 8
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Eagle's Sight
+      id: 100598
+    - count: 2
+      name: Eluding the Arms of Morpheus
+      id: 100628
+    - count: 7
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 8
+      name: Obedience
+      id: 101309
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Telepathic Misdirection
+      id: 101949
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11739
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11739.zip

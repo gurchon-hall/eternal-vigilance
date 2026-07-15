@@ -1,0 +1,151 @@
+event_id: '11669'
+name: VtES European Championship 2024 - Day 2
+location: Warsaw
+date_start: 2024-09-29
+rounds_format: 3R+F
+players_count: 75
+winner: Danilo Torrisi
+deck:
+  player:
+    name: '1012'
+    vekn_number: 1012
+  name: Warsaw 2024 Day 2
+  description: 1GW4.5
+  crypt_count: 12
+  crypt_min: 30
+  crypt_max: 40
+  crypt_avg: 8.92
+  crypt:
+  - count: 5
+    name: Seterpenre
+    id: 201269
+    capacity: 10
+    disciplines: AUS NEC OBF PRE SER
+    clan: Ministry
+    grouping: 5
+  - count: 4
+    name: Porphyrion
+    id: 201129
+    capacity: 9
+    disciplines: for CHI OBF PRE SER
+    clan: Ministry
+    grouping: 5
+  - count: 3
+    name: Mata Hari
+    id: 200955
+    capacity: 7
+    disciplines: aus for qui CHI OBF
+    title: 2 Votes
+    clan: Ravnos
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 23
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 2
+      name: Chimerstry
+      id: 100342
+    - count: 1
+      name: Dabbler
+      id: 100485
+    - count: 7
+      name: Dominate
+      id: 100572
+    - count: 10
+      name: Eternals of Sirius, The
+      id: 100667
+    - count: 1
+      name: Khobar Towers, Al-Khubar
+      id: 101048
+    - count: 1
+      name: Parthenon, The
+      id: 101355
+  - name: Action
+    count: 11
+    cards:
+    - count: 1
+      name: Enticement
+      id: 100650
+    - count: 7
+      name: Govern the Unaligned
+      id: 100845
+    - count: 1
+      name: Nightmare Curse
+      id: 101284
+    - count: 2
+      name: Waters of Duat
+      id: 102159
+  - name: Ally
+    count: 5
+    cards:
+    - count: 5
+      name: Bima
+      id: 100160
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Mokolé Blood
+      id: 101232
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 4
+      name: Cloak the Gathering
+      id: 100362
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 3
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 1
+      name: Mouthpiece
+      id: 101245
+    - count: 2
+      name: Threats
+      id: 101978
+    - count: 3
+      name: Truth of a Thousand Lies
+      id: 102044
+    - count: 1
+      name: Veil the Legions
+      id: 102097
+    - count: 7
+      name: Will-o'-the-Wisp
+      id: 102183
+  - name: Reaction
+    count: 20
+    cards:
+    - count: 7
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 5
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Telepathic Misdirection
+      id: 101949
+    - count: 3
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 7
+    cards:
+    - count: 7
+      name: Illusions of the Kindred
+      id: 100954
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11669
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11669.zip

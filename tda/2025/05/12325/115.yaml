@@ -1,0 +1,194 @@
+event_id: '12325'
+name: 'Fee Stake: Lublin 2025'
+location: Lublin
+date_start: 2025-05-17
+rounds_format: 3R+F
+players_count: 20
+winner: Tomasz Kłoczko
+deck:
+  player:
+    name: '115'
+    vekn_number: 115
+  name: 'Fee Stake: Lublin'
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 32
+  crypt_avg: 5.92
+  crypt:
+  - count: 2
+    name: Lady Vadislava
+    id: 201516
+    capacity: 9
+    disciplines: nec ANI AUS DOM VIC
+    title: Priscus
+    clan: Tzimisce
+    grouping: 5
+  - count: 2
+    name: Ludmijla Rakoczy
+    id: 200879
+    capacity: 7
+    disciplines: ANI AUS VIC
+    title: Bishop
+    clan: Tzimisce
+    grouping: 5
+  - count: 2
+    name: Rurik Rakoczy
+    id: 201519
+    capacity: 6
+    disciplines: aus ANI VIC
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Duality
+    id: 200391
+    capacity: 6
+    disciplines: ani AUS VIC
+    clan: Tzimisce
+    grouping: 4
+  - count: 1
+    name: Dr. Morrow, The Skindoctor
+    id: 200381
+    capacity: 5
+    disciplines: for AUS VIC
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Yuri Kerezenski
+    id: 201494
+    capacity: 5
+    disciplines: aus for vic ANI
+    title: Bishop
+    clan: Tzimisce
+    grouping: 4
+  - count: 2
+    name: America Johnson
+    id: 201512
+    capacity: 4
+    disciplines: vic AUS
+    clan: Tzimisce
+    grouping: 5
+  - count: 1
+    name: Ilias cel Frumos
+    id: 200627
+    capacity: 3
+    disciplines: aus vic
+    clan: Tzimisce
+    grouping: 4
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 11
+    cards:
+    - count: 1
+      name: Channel 10
+      id: 100327
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Library Hunting Ground
+      id: 101102
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 3
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 5
+    cards:
+    - count: 4
+      name: Deep Song
+      id: 100515
+    - count: 1
+      name: Under Siege
+      id: 102063
+  - name: Equipment
+    count: 3
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Living Manse
+      id: 101114
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 4
+      name: Changeling
+      id: 100324
+  - name: Reaction
+    count: 26
+    cards:
+    - count: 4
+      name: Enhanced Senses
+      id: 100644
+    - count: 4
+      name: Eyes of Argus
+      id: 100680
+    - count: 4
+      name: On the Qui Vive
+      id: 101321
+    - count: 4
+      name: Precognition
+      id: 101475
+    - count: 4
+      name: Read the Winds
+      id: 101559
+    - count: 4
+      name: Spirit's Touch
+      id: 101850
+    - count: 2
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 25
+    cards:
+    - count: 3
+      name: Breath of the Dragon
+      id: 100250
+    - count: 5
+      name: Carrion Crows
+      id: 100301
+    - count: 6
+      name: Chiropteran Marauder
+      id: 100344
+    - count: 4
+      name: Horrid Form
+      id: 100934
+    - count: 4
+      name: Inner Essence
+      id: 100986
+    - count: 3
+      name: Telepathic Tracking
+      id: 101950
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12325
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12325.zip

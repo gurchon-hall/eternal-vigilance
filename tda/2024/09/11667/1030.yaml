@@ -1,0 +1,224 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1030'
+    vekn_number: 1030
+  name: Warsaw LCQ 2024
+  description: 1GW5
+  crypt_count: 12
+  crypt_min: 5
+  crypt_max: 22
+  crypt_avg: 3.17
+  crypt:
+  - count: 2
+    name: Kuyén
+    id: 201574
+    capacity: 6
+    disciplines: ANI PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Casey Snyder
+    id: 201521
+    capacity: 6
+    disciplines: ani cel for PRO
+    title: Baron
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Nathan Turner
+    id: 201606
+    capacity: 4
+    disciplines: ani PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Indira
+    id: 201592
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Joaquín de Cádiz
+    id: 201595
+    capacity: 3
+    disciplines: for pro
+    clan: Gangrel
+    grouping: 6
+  - count: 1
+    name: Joseph Fischer
+    id: 200723
+    capacity: 3
+    disciplines: PRO
+    clan: Gangrel antitribu
+    grouping: 5
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  - count: 1
+    name: Ruslan Fedorenko
+    id: 201611
+    capacity: 2
+    disciplines: pro
+    clan: Gangrel
+    grouping: 6
+  - count: 3
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 1
+      name: Bleeding the Vine
+      id: 100178
+    - count: 6
+      name: Brainwash
+      id: 100245
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Ennoia's Theater
+      id: 100646
+    - count: 2
+      name: Hackerspace
+      id: 100876
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Tribute to the Master
+      id: 102023
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 10
+      name: Computer Hacking
+      id: 100390
+    - count: 2
+      name: Thing
+      id: 101972
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+  - name: Equipment
+    count: 11
+    cards:
+    - count: 1
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Cooler
+      id: 100422
+    - count: 1
+      name: Leather Jacket
+      id: 101081
+    - count: 6
+      name: Saturday-Night Special
+      id: 101682
+    - count: 1
+      name: Shackles of Enkidu
+      id: 101733
+    - count: 1
+      name: Stolen Police Cruiser
+      id: 101872
+  - name: Action Modifier
+    count: 10
+    cards:
+    - count: 3
+      name: Leverage
+      id: 101098
+    - count: 7
+      name: Monkey Wrench
+      id: 101239
+  - name: Reaction
+    count: 20
+    cards:
+    - count: 3
+      name: Bait and Switch
+      id: 102218
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 4
+      name: Eyes of the Wild
+      id: 102222
+    - count: 2
+      name: Keep it Simple
+      id: 101038
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Organized Resistance
+      id: 102230
+    - count: 1
+      name: Pack Tactics
+      id: 101343
+    - count: 1
+      name: Power of All
+      id: 101428
+    - count: 5
+      name: Protection Racket
+      id: 101501
+  - name: Combat
+    count: 14
+    cards:
+    - count: 7
+      name: Concealed Weapon
+      id: 100392
+    - count: 7
+      name: Dragon's Breath Rounds
+      id: 100580
+  - name: Event
+    count: 6
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The
+      id: 100163
+    - count: 1
+      name: NSA Trio
+      id: 101306
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+    - count: 1
+      name: Slow Withering, The
+      id: 101807
+    - count: 2
+      name: Veil of Darkness
+      id: 102095
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

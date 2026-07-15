@@ -1,0 +1,215 @@
+event_id: '12779'
+name: Croatian Abuse of Power 2026
+location: Osijek
+date_start: 2026-01-24
+rounds_format: 3R+F
+players_count: 40
+winner: ''
+deck:
+  player:
+    name: '140'
+    vekn_number: 140
+  name: Croatian Abuse of Power 2026
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 30
+  crypt_max: 40
+  crypt_avg: 8.92
+  crypt:
+  - count: 5
+    name: Aaradhya, The Callous Tyrant
+    id: 201733
+    capacity: 10
+    disciplines: ANI DOM FOR POT PRE
+    title: Cardinal
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 2
+    name: Věnceslava, The Implacable
+    id: 201776
+    capacity: 9
+    disciplines: cel DOM FOR POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Dark Selina
+    id: 200321
+    capacity: 9
+    disciplines: dom for CEL POT PRE
+    title: Cardinal
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 1
+    name: Damian
+    id: 201747
+    capacity: 8
+    disciplines: for pre DOM OBL POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Üresség
+    id: 201775
+    capacity: 8
+    disciplines: dom for CEL POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 2
+    name: Khin Aye
+    id: 201760
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 2
+      name: Black Forest Base
+      id: 100165
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Gurchon Hall
+      id: 100871
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Privileged Position
+      id: 102334
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Ventrue Headquarters
+      id: 102109
+    - count: 5
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 10
+    cards:
+    - count: 1
+      name: Eternal Vigilance
+      id: 100666
+    - count: 7
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Under Siege
+      id: 102063
+  - name: Political Action
+    count: 11
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 4
+      name: Banishment
+      id: 100131
+    - count: 4
+      name: Cold War
+      id: 102312
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 24
+    cards:
+    - count: 4
+      name: Dominant Personality
+      id: 102316
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 3
+      name: Iron Glare
+      id: 101008
+    - count: 4
+      name: Perfect Paragon
+      id: 101387
+    - count: 4
+      name: Relentlessness
+      id: 102337
+    - count: 4
+      name: Unthinkable Humiliation
+      id: 102346
+    - count: 4
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 2
+      name: Absolute Tyranny
+      id: 102308
+    - count: 2
+      name: Murmur of the False Will
+      id: 101256
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 3
+      name: Redirection
+      id: 101578
+    - count: 3
+      name: Sense the Savage Way
+      id: 101717
+  - name: Combat
+    count: 6
+    cards:
+    - count: 6
+      name: Majesty
+      id: 101144
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

@@ -1,0 +1,224 @@
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
+location: Warsaw
+date_start: 2024-09-27
+rounds_format: 3R+F
+players_count: 153
+winner: Marius Iscru
+deck:
+  player:
+    name: '1011'
+    vekn_number: 1011
+  name: Warsaw LCQ 2024
+  description: 1GW6.5
+  crypt_count: 12
+  crypt_min: 14
+  crypt_max: 36
+  crypt_avg: 6.67
+  crypt:
+  - count: 5
+    name: Guillaume Giovanni
+    id: 200545
+    capacity: 9
+    disciplines: obt CEL DOM NEC POT
+    clan: Giovanni
+    grouping: 4
+  - count: 2
+    name: Pherydima
+    id: 201120
+    capacity: 8
+    disciplines: obt pot DOM MYT NEC
+    title: Bishop
+    clan: Kiasyd
+    grouping: 4
+  - count: 1
+    name: Dame Hollerton
+    id: 200311
+    capacity: 5
+    disciplines: myt DOM OBT
+    clan: Kiasyd
+    grouping: 4
+  - count: 1
+    name: Gianmaria Giovanni
+    id: 200515
+    capacity: 5
+    disciplines: dom nec obt POT
+    clan: Giovanni
+    grouping: 5
+  - count: 1
+    name: Nicomedes
+    id: 201057
+    capacity: 5
+    disciplines: aus for nec vic
+    clan: Harbinger of Skulls
+    grouping: 4
+  - count: 1
+    name: Lucy Markowitz
+    id: 200878
+    capacity: 3
+    disciplines: dom obt
+    clan: Lasombra
+    grouping: 4
+  - count: 1
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 25
+    cards:
+    - count: 1
+      name: Carver's Meat Packing and Storage
+      id: 100303
+    - count: 1
+      name: Channel 10
+      id: 100327
+    - count: 2
+      name: Charisma
+      id: 100332
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: KRCG News Radio
+      id: 101067
+    - count: 1
+      name: London Evening Star, Tabloid Newspaper
+      id: 101120
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Morgue Hunting Ground
+      id: 101243
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Shard, London, The
+      id: 102244
+    - count: 2
+      name: Therbold Realty
+      id: 101968
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
+    - count: 1
+      name: Wall Street Night, Financial Newspaper
+      id: 102142
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 13
+    cards:
+    - count: 1
+      name: Dominate Kine
+      id: 100573
+    - count: 1
+      name: Goblinism
+      id: 100841
+    - count: 9
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Sudario Refraction
+      id: 101895
+  - name: Ally
+    count: 13
+    cards:
+    - count: 1
+      name: Gianna di Canneto
+      id: 100823
+    - count: 6
+      name: Nocturn
+      id: 101293
+    - count: 6
+      name: Shambling Hordes
+      id: 101751
+  - name: Action Modifier
+    count: 17
+    cards:
+    - count: 3
+      name: Call of the Hungry Dead
+      id: 100279
+    - count: 1
+      name: Conditioning
+      id: 100401
+    - count: 1
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 4
+      name: Shroud of Absence
+      id: 101774
+    - count: 4
+      name: Shroud of Night
+      id: 101775
+    - count: 3
+      name: Stone Travel
+      id: 101875
+    - count: 1
+      name: Trochomancy
+      id: 102026
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Murmur of the False Will
+      id: 101256
+  - name: Reaction
+    count: 14
+    cards:
+    - count: 4
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 1
+      name: Funeral Wake
+      id: 100797
+    - count: 5
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Redirection
+      id: 101578
+  - name: Combat
+    count: 2
+    cards:
+    - count: 1
+      name: Shadow Body
+      id: 101735
+    - count: 1
+      name: Spiritual Intervention
+      id: 101852
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

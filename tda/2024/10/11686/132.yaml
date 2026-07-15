@@ -1,0 +1,187 @@
+event_id: '11686'
+name: Australian New Zealand 2024 Continental Championship
+location: Sydney
+date_start: 2024-10-26
+rounds_format: 3R+F
+players_count: 36
+winner: Keith Lim
+deck:
+  player:
+    name: '132'
+    vekn_number: 132
+  name: Oceanic Continental Championship 2024
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 44
+  crypt_avg: 9.83
+  crypt:
+  - count: 4
+    name: Adana de Sforza
+    id: 200011
+    capacity: 11
+    disciplines: aus CEL OBF POT PRE PRO
+    title: Inner Circle
+    clan: Brujah
+    grouping: 4
+  - count: 2
+    name: Jamal
+    id: 200668
+    capacity: 10
+    disciplines: pot CEL OBF PRE PRO QUI
+    title: 2 Votes
+    clan: Banu Haqim
+    grouping: 5
+  - count: 4
+    name: Aksinya Daclau
+    id: 200034
+    capacity: 9
+    disciplines: cel tha ANI FOR PRE PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 2
+    name: Malabranca
+    id: 200900
+    capacity: 9
+    disciplines: obf AUS CEL PRE PRO
+    title: Archbishop
+    clan: Toreador antitribu
+    grouping: 4
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 36
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Black Forest Base
+      id: 100165
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 3
+      name: Liquidation
+      id: 101112
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Obfuscate
+      id: 101310
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 7
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+    - count: 6
+      name: Zillah's Valley
+      id: 102207
+  - name: Political Action
+    count: 5
+    cards:
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Disputed Territory
+      id: 100557
+    - count: 2
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Permanent Vacation
+      id: 101390
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 2
+      name: Homunculus
+      id: 100932
+  - name: Action Modifier
+    count: 18
+    cards:
+    - count: 2
+      name: Cloak the Gathering
+      id: 100362
+    - count: 1
+      name: Earth Control
+      id: 100600
+    - count: 1
+      name: Elder Impersonation
+      id: 100617
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 4
+      name: Instantaneous Transformation
+      id: 100994
+    - count: 2
+      name: Perfect Paragon
+      id: 101387
+    - count: 2
+      name: Spying Mission
+      id: 101857
+    - count: 1
+      name: Veil the Legions
+      id: 102097
+    - count: 4
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 1
+    cards:
+    - count: 1
+      name: Rapid Change
+      id: 101542
+  - name: Action Modifier/Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Form of the Bat
+      id: 102223
+  - name: Reaction
+    count: 4
+    cards:
+    - count: 2
+      name: Lost in Translation
+      id: 101126
+    - count: 2
+      name: Visions of Zapathasura
+      id: 102265
+  - name: Combat
+    count: 8
+    cards:
+    - count: 1
+      name: Claws of the Dead
+      id: 100356
+    - count: 2
+      name: Earth Meld
+      id: 100601
+    - count: 5
+      name: Form of Mist
+      id: 100771
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11686
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11686.zip

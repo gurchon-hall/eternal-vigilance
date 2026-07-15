@@ -1,0 +1,229 @@
+event_id: '11665'
+name: Week of Nightmares 2024 - Day 3
+location: Warsaw
+date_start: 2024-09-26
+rounds_format: 2R+F
+players_count: 48
+winner: Tero Aalto
+deck:
+  player:
+    name: '1003'
+    vekn_number: 1003
+  name: Warsaw WoN Day III
+  description: 2GW6.5+0.5
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 36
+  crypt_avg: 6.5
+  crypt:
+  - count: 5
+    name: Guillaume Giovanni
+    id: 200545
+    capacity: 9
+    disciplines: obt CEL DOM NEC POT
+    clan: Giovanni
+    grouping: 4
+  - count: 2
+    name: Sennadurek
+    id: 201263
+    capacity: 6
+    disciplines: dom AUS NEC
+    clan: Nagaraja
+    grouping: 4
+  - count: 1
+    name: Raphaela Giovanni
+    id: 201165
+    capacity: 6
+    disciplines: pot pre DOM NEC
+    clan: Giovanni
+    grouping: 4
+  - count: 1
+    name: Gianmaria Giovanni
+    id: 200515
+    capacity: 5
+    disciplines: dom nec obt POT
+    clan: Giovanni
+    grouping: 5
+  - count: 1
+    name: Kay Polerno
+    id: 200765
+    capacity: 4
+    disciplines: dom nec pro
+    clan: Giovanni
+    grouping: 5
+  - count: 1
+    name: Primo Giovanni
+    id: 201134
+    capacity: 4
+    disciplines: dom nec pot
+    clan: Giovanni
+    grouping: 4
+  - count: 1
+    name: Cristobal Ghiberti
+    id: 200300
+    capacity: 2
+    disciplines: nec
+    clan: Giovanni
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 31
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 1
+      name: Charisma
+      id: 100332
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dis Pater
+      id: 100548
+    - count: 1
+      name: Dummy Corporation
+      id: 100594
+    - count: 1
+      name: Filchware's Pawn Shop
+      id: 100728
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Line, The
+      id: 101110
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Morgue Hunting Ground
+      id: 101243
+    - count: 5
+      name: Parthenon, The
+      id: 101355
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Cape Verde'
+      id: 101433
+    - count: 1
+      name: 'Powerbase: Savannah'
+      id: 101442
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Therbold Realty
+      id: 101968
+    - count: 4
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 14
+    cards:
+    - count: 1
+      name: Dominate Kine
+      id: 100573
+    - count: 1
+      name: Far Mastery
+      id: 100703
+    - count: 9
+      name: Govern the Unaligned
+      id: 100845
+    - count: 3
+      name: Sudario Refraction
+      id: 101895
+  - name: Ally
+    count: 11
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+    - count: 8
+      name: Nocturn
+      id: 101293
+    - count: 1
+      name: Tye Cooper
+      id: 102053
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Gran Madre di Dio, Italy
+      id: 100847
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 2
+      name: Bonding
+      id: 100236
+    - count: 5
+      name: Call of the Hungry Dead
+      id: 100279
+    - count: 3
+      name: Conditioning
+      id: 100401
+    - count: 1
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 1
+      name: Seduction
+      id: 101712
+    - count: 3
+      name: Shroud of Absence
+      id: 101774
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Spectral Divination
+      id: 101843
+  - name: Reaction
+    count: 13
+    cards:
+    - count: 7
+      name: Deflection
+      id: 100518
+    - count: 3
+      name: Delaying Tactics
+      id: 100519
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 1
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11665
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11665.zip

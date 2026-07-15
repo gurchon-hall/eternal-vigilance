@@ -1,0 +1,186 @@
+event_id: '11665'
+name: Week of Nightmares 2024 - Day 3
+location: Warsaw
+date_start: 2024-09-26
+rounds_format: 2R+F
+players_count: 48
+winner: Tero Aalto
+deck:
+  player:
+    name: '1004'
+    vekn_number: 1004
+  name: Warsaw WoN Day III
+  description: 1GW5+0.5
+  crypt_count: 12
+  crypt_min: 12
+  crypt_max: 27
+  crypt_avg: 4.92
+  crypt:
+  - count: 3
+    name: Carna, The Princess Witch
+    id: 200248
+    capacity: 7
+    disciplines: AUS DOM THA
+    title: Primogen
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Muhsin Samir
+    id: 201020
+    capacity: 6
+    disciplines: aus pot DOM THA
+    clan: Tremere
+    grouping: 4
+  - count: 5
+    name: Antonio d'Erlette
+    id: 200116
+    capacity: 5
+    disciplines: dom for pot THA
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Andrew Stuart
+    id: 200086
+    capacity: 5
+    disciplines: AUS DOM THA
+    clan: Tremere
+    grouping: 4
+  - count: 2
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  library_count: 86
+  library_sections:
+  - name: Master
+    count: 27
+    cards:
+    - count: 1
+      name: Academic Hunting Ground
+      id: 100015
+    - count: 2
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Arcane Library
+      id: 100081
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Liquidation
+      id: 101112
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 2
+      name: Shard, London, The
+      id: 102244
+    - count: 1
+      name: University Hunting Ground
+      id: 102075
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Wash
+      id: 102151
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 6
+    cards:
+    - count: 6
+      name: Magic of the Smith
+      id: 101143
+  - name: Ally
+    count: 12
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 9
+      name: Nephandus
+      id: 101272
+    - count: 1
+      name: Ponticulus
+      id: 101419
+    - count: 1
+      name: Vagabond Mystic
+      id: 102087
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 2
+      name: Sniper Rifle
+      id: 101816
+  - name: Action Modifier
+    count: 12
+    cards:
+    - count: 2
+      name: Empowering the Puppet King
+      id: 100639
+    - count: 2
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 8
+      name: Mirror Walk
+      id: 101223
+  - name: Reaction
+    count: 21
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 5
+      name: Delaying Tactics
+      id: 100519
+    - count: 3
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11665
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11665.zip

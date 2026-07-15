@@ -1,0 +1,200 @@
+event_id: '12224'
+name: BR2025 - Campeonato Brasileiro de VTES
+location: Volta Redonda - RJ
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 114
+winner: Joab Rogerio Barbosa da Silva
+deck:
+  player:
+    name: '142'
+    vekn_number: 142
+  name: Brazilian Nationals 2025
+  description: 1GW3.5
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 34
+  crypt_avg: 7.0
+  crypt:
+  - count: 1
+    name: Anneke
+    id: 200106
+    capacity: 10
+    disciplines: dom AUS CEL PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 1
+  - count: 4
+    name: Anson
+    id: 200107
+    capacity: 8
+    disciplines: aus dom CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 1
+  - count: 1
+    name: Constanza Vinti
+    id: 200289
+    capacity: 8
+    disciplines: CEL DOM POT
+    title: Prince
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Dónal O'Connor
+    id: 200364
+    capacity: 8
+    disciplines: CEL DOM POT
+    title: Prince
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Marcellus
+    id: 200910
+    capacity: 8
+    disciplines: pro AUS CEL
+    title: Prince
+    clan: Toreador
+    grouping: 2
+  - count: 2
+    name: Volker, The Puppet Prince
+    id: 201458
+    capacity: 5
+    disciplines: pot CEL
+    title: Prince
+    clan: Brujah
+    grouping: 2
+  - count: 1
+    name: Black Cat
+    id: 200201
+    capacity: 5
+    disciplines: pot pre CEL
+    clan: Brujah
+    grouping: 1
+  - count: 1
+    name: Sarah Brando
+    id: 201237
+    capacity: 3
+    disciplines: CEL
+    clan: Brujah antitribu
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 28
+    cards:
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 4
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Minion Tap
+      id: 101217
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 3
+    cards:
+    - count: 2
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Fleetness
+      id: 100747
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Parity Shift
+      id: 101353
+  - name: Equipment
+    count: 7
+    cards:
+    - count: 7
+      name: .44 Magnum
+      id: 100001
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 3
+      name: Deflection
+      id: 100518
+    - count: 8
+      name: 'Second Tradition: Domain'
+      id: 101706
+  - name: Combat
+    count: 38
+    cards:
+    - count: 3
+      name: Blur
+      id: 100227
+    - count: 1
+      name: Charismatic Aura
+      id: 100333
+    - count: 7
+      name: Concealed Weapon
+      id: 100392
+    - count: 8
+      name: Infernal Pursuit
+      id: 100980
+    - count: 1
+      name: Preternatural Evasion
+      id: 101482
+    - count: 6
+      name: Psyche!
+      id: 101507
+    - count: 7
+      name: Pursuit
+      id: 101523
+    - count: 1
+      name: Sideslip
+      id: 101779
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

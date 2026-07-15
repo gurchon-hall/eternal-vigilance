@@ -1,0 +1,203 @@
+event_id: '11686'
+name: Australian New Zealand 2024 Continental Championship
+location: Sydney
+date_start: 2024-10-26
+rounds_format: 3R+F
+players_count: 36
+winner: Keith Lim
+deck:
+  player:
+    name: '131'
+    vekn_number: 131
+  name: Oceanic Continental Championship 2024
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 26
+  crypt_max: 41
+  crypt_avg: 8.58
+  crypt:
+  - count: 1
+    name: Alexandra
+    id: 200049
+    capacity: 11
+    disciplines: dom ANI AUS CEL PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 2
+  - count: 3
+    name: Anneke
+    id: 200106
+    capacity: 10
+    disciplines: dom AUS CEL PRE
+    title: Justicar
+    clan: Toreador
+    grouping: 1
+  - count: 2
+    name: François Villon
+    id: 200478
+    capacity: 10
+    disciplines: chi obf pot AUS CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 2
+  - count: 4
+    name: Anson
+    id: 200107
+    capacity: 8
+    disciplines: aus dom CEL PRE
+    title: Prince
+    clan: Toreador
+    grouping: 1
+  - count: 1
+    name: Victoria Ash
+    id: 201444
+    capacity: 6
+    disciplines: aus cel dom PRE
+    title: Primogen
+    clan: Toreador
+    grouping: 2
+  - count: 1
+    name: Mariana Gilbert
+    id: 200924
+    capacity: 4
+    disciplines: cel PRE
+    clan: Toreador
+    grouping: 1
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 46
+    cards:
+    - count: 6
+      name: Aching Beauty
+      id: 100018
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 2
+      name: Art Museum
+      id: 100095
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 2
+      name: Auspex
+      id: 100114
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 2
+      name: Erciyes Fragments, The
+      id: 100656
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 3
+      name: 'Golconda: Inner Peace'
+      id: 100842
+    - count: 2
+      name: Heidelberg Castle, Germany
+      id: 100908
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Marrakesh Codex, The
+      id: 101172
+    - count: 5
+      name: Minion Tap
+      id: 101217
+    - count: 2
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Rötschreck
+      id: 101654
+    - count: 1
+      name: Society Hunting Ground
+      id: 101821
+    - count: 2
+      name: Sudden Reversal
+      id: 101896
+    - count: 2
+      name: Vast Wealth
+      id: 102092
+    - count: 1
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 2
+    cards:
+    - count: 2
+      name: Revelations
+      id: 101627
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 1
+      name: Aaron's Feeding Razor
+      id: 100003
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Flak Jacket
+      id: 100739
+    - count: 1
+      name: IR Goggles
+      id: 101007
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Kevlar Vest
+      id: 101040
+  - name: Action Modifier
+    count: 9
+    cards:
+    - count: 1
+      name: Aire of Elation
+      id: 100031
+    - count: 8
+      name: Change of Target
+      id: 100323
+  - name: Reaction
+    count: 18
+    cards:
+    - count: 2
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Quicken Sight
+      id: 101531
+    - count: 5
+      name: 'Second Tradition: Domain'
+      id: 101706
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 9
+    cards:
+    - count: 2
+      name: Flash
+      id: 100744
+    - count: 7
+      name: Majesty
+      id: 101144
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11686
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11686.zip

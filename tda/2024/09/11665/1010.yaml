@@ -1,0 +1,201 @@
+event_id: '11665'
+name: Week of Nightmares 2024 - Day 3
+location: Warsaw
+date_start: 2024-09-26
+rounds_format: 2R+F
+players_count: 48
+winner: Tero Aalto
+deck:
+  player:
+    name: '1010'
+    vekn_number: 1010
+  name: Warsaw WoN Day III
+  description: 1GW4
+  crypt_count: 12
+  crypt_min: 35
+  crypt_max: 40
+  crypt_avg: 9.42
+  crypt:
+  - count: 5
+    name: Angelica, The Canonicus
+    id: 200092
+    capacity: 10
+    disciplines: cel obf DOM OBT POT
+    title: Cardinal
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
+    capacity: 10
+    disciplines: aus for DOM OBT POT PRE
+    title: Cardinal
+    clan: Lasombra
+    grouping: 2
+  - count: 2
+    name: Alvaro, The Scion of Angelica
+    id: 200063
+    capacity: 9
+    disciplines: dom pre OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 2
+    name: Francisco Domingo de Polonia
+    id: 200476
+    capacity: 9
+    disciplines: pro DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Antonio Delgado
+    id: 200117
+    capacity: 9
+    disciplines: tha DOM OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Gratiano
+    id: 200534
+    capacity: 8
+    disciplines: obf pot DOM OBT
+    title: Priscus
+    clan: Lasombra
+    grouping: 2
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 41
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elysian Fields
+      id: 100629
+    - count: 1
+      name: Fear of Mekhet
+      id: 100710
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Gurchon Hall
+      id: 100871
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Legendary Vampire
+      id: 101091
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 4
+      name: Parthenon, The
+      id: 101355
+    - count: 2
+      name: Presence
+      id: 101480
+    - count: 7
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+    - count: 9
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 7
+    cards:
+    - count: 2
+      name: Entrancement
+      id: 100652
+    - count: 3
+      name: Eternal Vigilance
+      id: 100666
+    - count: 2
+      name: Under Siege
+      id: 102063
+  - name: Political Action
+    count: 8
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Conservative Agitation
+      id: 100414
+    - count: 1
+      name: Disputed Territory
+      id: 100557
+    - count: 1
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Neonate Breach
+      id: 101271
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+  - name: Action Modifier
+    count: 21
+    cards:
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 1
+      name: Iron Glare
+      id: 101008
+    - count: 5
+      name: Private Audience
+      id: 101490
+    - count: 1
+      name: Seduction
+      id: 101712
+    - count: 4
+      name: Shadow Play
+      id: 101743
+    - count: 2
+      name: Shroud of Absence
+      id: 101774
+    - count: 1
+      name: Shroud of Night
+      id: 101775
+    - count: 1
+      name: Sleeping Mind, The
+      id: 101805
+    - count: 5
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Murmur of the False Will
+      id: 101256
+  - name: Reaction
+    count: 7
+    cards:
+    - count: 7
+      name: Obedience
+      id: 101309
+winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11665
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11665.zip
