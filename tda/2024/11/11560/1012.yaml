@@ -1,10 +1,12 @@
-event_id: '11560'
 name: Dutch Nationals 2024
 location: Wijchen
 date_start: 2024-11-24
 rounds_format: 3R+F
 players_count: 24
 winner: Roy Opitz
+vekn_number: 8580065
+event_url: https://www.vekn.net/event-calendar/event/11560
+event_id: '11560'
 deck:
   player:
     name: '1012'
@@ -104,7 +106,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Line, The
+      name: The Line
       id: 101110
     - count: 1
       name: Perfectionist
@@ -206,6 +208,5 @@ deck:
       name: Unholy Penance
       id: 102072
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11560
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11560.zip

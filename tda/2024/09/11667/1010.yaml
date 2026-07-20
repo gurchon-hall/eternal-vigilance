@@ -1,10 +1,12 @@
-event_id: '11667'
-name: VtES European Championship 2024 LCQ
+name: VtES European "Last Chance" Qualifier 2024
 location: Warsaw
 date_start: 2024-09-27
 rounds_format: 3R+F
 players_count: 153
-winner: Marius Iscru
+winner: SUSPENDED Marius Iscru
+vekn_number: 3200246
+event_url: https://www.vekn.net/event-calendar/event/11667
+event_id: '11667'
 deck:
   player:
     name: '1010'
@@ -60,7 +62,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 3
       name: Dreams of the Sphinx
@@ -69,7 +71,7 @@ deck:
       name: Lupine Assault
       id: 101133
     - count: 6
-      name: Slaughterhouse, The
+      name: The Slaughterhouse
       id: 101800
     - count: 4
       name: Villein
@@ -117,7 +119,7 @@ deck:
       name: Inevitability of the Void
       id: 100974
     - count: 1
-      name: Kiss of Ra, The
+      name: The Kiss of Ra
       id: 101062
   - name: Reaction
     count: 16
@@ -144,9 +146,8 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11667
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

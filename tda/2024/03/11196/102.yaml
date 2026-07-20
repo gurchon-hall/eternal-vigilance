@@ -1,10 +1,12 @@
-event_id: '11196'
 name: Salut Brie!
 location: None
 date_start: 2024-03-09
 rounds_format: 2R+F
 players_count: 14
-winner: Simmy Rayat
+winner: Simmy Singh Rayat
+vekn_number: 1880001
+event_url: https://www.vekn.net/event-calendar/event/11196
+event_id: '11196'
 deck:
   player:
     name: '102'
@@ -81,7 +83,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -102,7 +104,7 @@ deck:
       name: Papillon
       id: 101350
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 3
       name: Vessel
@@ -123,7 +125,7 @@ deck:
       name: Govern the Unaligned
       id: 100845
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
   - name: Action/Combat
     count: 6
@@ -180,6 +182,5 @@ deck:
       name: Thoughts Betrayed
       id: 101976
 winner_vekn_number: 113
-event_url: https://www.vekn.net/event-calendar/event/11196
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11196.zip

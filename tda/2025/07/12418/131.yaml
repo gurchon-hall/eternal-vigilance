@@ -1,10 +1,12 @@
-event_id: '12418'
-name: Ropecon 2025
+name: Ropecon 2025 (In Memoriam Lauri Salmi)
 location: Helsinki
 date_start: 2025-07-26
 rounds_format: 3R+F
 players_count: 47
 winner: Tommi Hakomaa
+vekn_number: 3530067
+event_url: https://www.vekn.net/event-calendar/event/12418
+event_id: '12418'
 deck:
   player:
     name: '131'
@@ -115,7 +117,7 @@ deck:
       name: Anarch Revolt
       id: 100055
     - count: 1
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Club Illusion
@@ -181,7 +183,7 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Anarch Manifesto, An
+      name: An Anarch Manifesto
       id: 100053
   - name: Action Modifier
     count: 12
@@ -244,6 +246,5 @@ deck:
       name: Majesty
       id: 101144
 winner_vekn_number: 101
-event_url: https://www.vekn.net/event-calendar/event/12418
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12418.zip

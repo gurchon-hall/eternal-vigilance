@@ -90,7 +90,7 @@ deck:
       name: Perfectionist
       id: 101388
     - count: 1
-      name: Shard, London, The
+      name: The Shard, London
       id: 102244
     - count: 1
       name: Twisted Forest
@@ -174,5 +174,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

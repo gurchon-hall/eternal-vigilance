@@ -1,10 +1,12 @@
-event_id: '11707'
 name: 'Garou Rim: Above the Law'
 location: Joensuu
 date_start: 2024-10-26
 rounds_format: 3R+F
 players_count: 10
 winner: Miska Tanskanen
+vekn_number: 9350043
+event_url: https://www.vekn.net/event-calendar/event/11707
+event_id: '11707'
 deck:
   player:
     name: '1010'
@@ -99,7 +101,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Creepshow Casino
@@ -114,7 +116,7 @@ deck:
       name: Grooming the Protégé
       id: 100860
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Society Hunting Ground
@@ -129,7 +131,7 @@ deck:
       name: Dream World
       id: 100587
     - count: 5
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 6
       name: Enchant Kindred
@@ -216,9 +218,8 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11707
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11707.zip

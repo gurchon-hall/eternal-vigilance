@@ -101,7 +101,7 @@ deck:
       name: Bleeding the Vine
       id: 100178
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Effective Management
@@ -110,10 +110,10 @@ deck:
       name: Hostile Takeover
       id: 100939
     - count: 1
-      name: Louvre, Paris, The
+      name: The Louvre, Paris
       id: 101127
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Wash

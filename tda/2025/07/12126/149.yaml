@@ -1,10 +1,12 @@
-event_id: '12126'
-name: Grand Prix Warsaw 2025
+name: Grand Prix 2025 - Poland
 location: Warsaw
 date_start: 2025-07-05
 rounds_format: 3R+F
 players_count: 56
 winner: Tomasz Pietkiewicz
+vekn_number: 1004624
+event_url: https://www.vekn.net/event-calendar/event/12126
+event_id: '12126'
 deck:
   player:
     name: '149'
@@ -77,7 +79,7 @@ deck:
       name: Asylum Hunting Ground
       id: 100108
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Blood Doll
@@ -140,7 +142,7 @@ deck:
       name: Seduction
       id: 101712
     - count: 2
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
     - count: 3
       name: Spying Mission
@@ -164,6 +166,5 @@ deck:
       name: No Trace
       id: 101292
 winner_vekn_number: 101
-event_url: https://www.vekn.net/event-calendar/event/12126
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12126.zip

@@ -78,7 +78,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 5
-      name: Eternals of Sirius, The
+      name: The Eternals of Sirius
       id: 100667
     - count: 1
       name: Fame
@@ -117,7 +117,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Book of Going Forth by Night, The
+      name: The Book of Going Forth by Night
       id: 100239
     - count: 1
       name: Ivory Bow
@@ -162,7 +162,7 @@ deck:
     count: 2
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163
     - count: 1
       name: Dragonbound

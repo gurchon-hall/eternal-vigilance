@@ -1,10 +1,12 @@
-event_id: '11480'
-name: Ropecon Finnish Grand Prix 2024
+name: Ropecon 2024 Grand Prix
 location: Helsinki
 date_start: 2024-07-20
 rounds_format: 3R+F
 players_count: 54
 winner: Teemu Sainomaa
+vekn_number: 3070069
+event_url: https://www.vekn.net/event-calendar/event/11480
+event_id: '11480'
 deck:
   player:
     name: '1045'
@@ -81,7 +83,7 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -90,7 +92,7 @@ deck:
       name: Carfax Abbey
       id: 100297
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -108,7 +110,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Vessel
@@ -132,7 +134,7 @@ deck:
       name: Govern the Unaligned
       id: 100845
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
   - name: Political Action
     count: 1
@@ -225,6 +227,5 @@ deck:
       name: Groundfighting
       id: 100861
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11480
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11480.zip

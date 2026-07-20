@@ -1,10 +1,12 @@
-event_id: '11398'
 name: German Nationals 2024
 location: Darmstadt
 date_start: 2024-09-07
 rounds_format: 3R+F
 players_count: 32
-winner: ''
+winner: Alexander Tüschen
+vekn_number: 5810006
+event_url: https://www.vekn.net/event-calendar/event/11398
+event_id: '11398'
 deck:
   player:
     name: '8638191794'
@@ -81,7 +83,7 @@ deck:
     count: 13
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 2
       name: Blood Doll
@@ -180,6 +182,5 @@ deck:
       name: No Trace
       id: 101292
 winner_vekn_number: 8638881481
-event_url: https://www.vekn.net/event-calendar/event/11398
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11398.zip
