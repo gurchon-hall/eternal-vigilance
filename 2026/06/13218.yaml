@@ -101,10 +101,10 @@ deck:
     count: 24
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
-      name: The British Museum, London
+      name: British Museum, London, The
       id: 102236
     - count: 2
       name: Carfax Abbey
@@ -134,7 +134,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 7
       name: Villein

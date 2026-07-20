@@ -90,7 +90,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 5
-      name: The British Museum, London
+      name: British Museum, London, The
       id: 102236
     - count: 2
       name: Carfax Abbey
@@ -108,7 +108,7 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Los Angeles'
