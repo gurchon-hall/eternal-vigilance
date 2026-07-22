@@ -1,0 +1,225 @@
+name: Grand Prix of Vienna
+location: Vienna, Austria
+date_start: 2026-07-18
+rounds_format: 3R+F
+players_count: 74
+winner: Heimo Wurzer
+vekn_number: 3340165
+event_url: https://www.vekn.net/event-calendar/event/13087
+event_id: 13087
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83116-twd-grand-prix-of-vienna
+deck:
+  name: Ladies of Power
+  description: '[2026-07-10]'
+  crypt_count: 12
+  crypt_min: 31
+  crypt_max: 40
+  crypt_avg: 8.92
+  crypt:
+  - count: 4
+    name: Aaradhya, The Callous Tyrant
+    id: 201733
+    comment: Only running 4 Aaradhya, to have an easier time to get out 3 
+      vampires, which is always the goal.
+    capacity: 10
+    disciplines: ANI DOM FOR POT PRE
+    title: Cardinal
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 2
+    name: Dark Selina
+    id: 200321
+    capacity: 9
+    disciplines: dom for CEL POT PRE
+    title: Cardinal
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 2
+    name: Üresség
+    id: 201775
+    comment: 2 'Üresség'  over 'Rexton' since his ability is almost always 
+      active in the last legs of the game, and the +bleed is really noticeable.
+    capacity: 8
+    disciplines: dom for CEL POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 2
+    name: Věnceslava, The Implacable
+    id: 201776
+    capacity: 9
+    disciplines: cel DOM FOR POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Khin Aye
+    id: 201760
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Rexton "Savage" Abernathy
+    id: 201770
+    capacity: 8
+    disciplines: cel DOM POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  library_count: 84
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+      comment: can bring out aaradhya 1 turn early, otherwise hand size is 
+        always good
+    - count: 1
+      name: Día de los Muertos
+      id: 100541
+      comment: for when you aren't getting the vote push you need
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Gurchon Hall
+      id: 100871
+      comment: against advise, this card just feels right for this deck
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Ventrue Headquarters
+      id: 102109
+    - count: 5
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 7
+    cards:
+    - count: 7
+      name: Govern the Unaligned
+      id: 100845
+      comment: we have dominate, so it is almost a must
+  - name: Political Action
+    count: 13
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+      comment: your card against all the baby factories and zombie decks
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+      comment: your card against all the baby factories and zombie decks
+    - count: 2
+      name: Banishment
+      id: 100131
+      comment: great for protection
+    - count: 6
+      name: Cold War
+      id: 102312
+      comment: your bread and butter
+    - count: 1
+      name: Empires Fall
+      id: 102318
+      comment: can often work as a better Kine
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+      comment: you will get 6 or 9 pool with this, and sometimes can even help 
+        your crosstable friends
+    - count: 1
+      name: War of Ages
+      id: 102348
+      comment: it is easy to get the votes for it, since people still 
+        underestimate the dmg
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+      comment: if you get it early its great, but thinking about actually 
+        dropping it
+  - name: Action Modifier
+    count: 31
+    cards:
+    - count: 4
+      name: Dominant Personality
+      id: 102316
+    - count: 2
+      name: Enkil Cog
+      id: 100645
+      comment: Paul told me to put 2, and I listened
+    - count: 4
+      name: Freak Drive
+      id: 100788
+      comment: gives you amazing lunge potential
+    - count: 4
+      name: Iron Glare
+      id: 101008
+      comment: Essentially running 4 of all the good cards we want, and only 
+        using versatile vote push so we don't waste any card slots and always 
+        have something useful to play.
+    - count: 4
+      name: Perfect Paragon
+      id: 101387
+    - count: 4
+      name: Relentlessness
+      id: 102337
+      comment: This gives you a good combo of block fails and - intercept
+    - count: 4
+      name: Unthinkable Humiliation
+      id: 102346
+    - count: 5
+      name: Voter Captivation
+      id: 102131
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+      comment: to make sure to survive against heavy bleeders early
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+      comment: 2 is enough, as Aaradhya can often stay open with Enkil Cog
+    - count: 2
+      name: Redirection
+      id: 101578
+      comment: in case the blood runs low
+  - name: Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Majesty
+      id: 101144
+      comment: less against combat, and more to be able to unlock so we can 
+        bounce

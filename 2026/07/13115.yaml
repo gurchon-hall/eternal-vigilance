@@ -1,0 +1,234 @@
+name: Brisbane Grand Prix 2026
+location: Brisbane, Australia
+date_start: 2026-07-18
+rounds_format: 3R+F
+players_count: 17
+winner: Nick Miller
+vekn_number: 4070027
+event_url: https://www.vekn.net/event-calendar/event/13115
+event_id: 13115
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83117-twd-brisbane-grand-prix-2026
+deck:
+  name: Path of death ally toolbox
+  created_by: Nick Miller
+  description: Play as a toolbox rather than swarm. Bring out the support cards.
+    Unmasking, Dance of the Dead, Vagabond Mystic, Fiorella. Then there are 
+    options to block, bleed, rush with the Freakish Conglomerations.
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 31
+  crypt_avg: 5.83
+  crypt:
+  - count: 1
+    name: Abderrahim, Death's Hand
+    id: 201734
+    capacity: 9
+    disciplines: tha AUS DOM OBL POT
+    clan: Lasombra
+    grouping: 6
+    path: Death and the Soul
+  - count: 1
+    name: Eulogio Sánchez de los Reyes
+    id: 201750
+    capacity: 8
+    disciplines: AUS DOM OBL THA
+    clan: Tremere
+    grouping: 6
+    path: Death and the Soul
+  - count: 2
+    name: Sakura, The Merciless
+    id: 201771
+    capacity: 7
+    disciplines: aus pot DOM OBL THA
+    clan: Lasombra
+    grouping: 6
+    path: Death and the Soul
+  - count: 1
+    name: Parijat, the Dark Oracle
+    id: 201726
+    capacity: 7
+    disciplines: AUS DOM FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Aintzane Arriaga
+    id: 201708
+    capacity: 6
+    disciplines: DOM OBL POT
+    clan: Lasombra
+    grouping: 6
+  - count: 1
+    name: Kamaluddin
+    id: 201713
+    capacity: 6
+    disciplines: for pot DOM OBL
+    title: Primogen
+    clan: Lasombra
+    grouping: 6
+  - count: 1
+    name: Azucena
+    id: 201710
+    capacity: 5
+    disciplines: pot DOM OBL
+    clan: Lasombra
+    grouping: 6
+  - count: 1
+    name: Zbigniew, Hunter of Mekhet
+    id: 201780
+    capacity: 5
+    disciplines: aus dom tha OBL
+    clan: Lasombra
+    grouping: 6
+    path: Death and the Soul
+  - count: 1
+    name: El Monseñor
+    id: 201749
+    capacity: 4
+    disciplines: dom OBL
+    clan: Lasombra
+    grouping: 6
+    path: Death and the Soul
+  - count: 1
+    name: Alek König
+    id: 201717
+    capacity: 3
+    disciplines: OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Nadezhda
+    id: 201765
+    capacity: 3
+    disciplines: aus obl
+    clan: Hecata
+    grouping: 6
+    path: Death and the Soul
+  library_count: 75
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Burial Site Hunting Ground
+      id: 102311
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elysian Fields
+      id: 100629
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Life in the City
+      id: 101104
+    - count: 1
+      name: Line, The
+      id: 101110
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Visit from the Capuchin
+      id: 102126
+  - name: Action
+    count: 15
+    cards:
+    - count: 2
+      name: Dance of the Dead
+      id: 102314
+    - count: 7
+      name: Govern the Unaligned
+      id: 100845
+    - count: 1
+      name: Revelations
+      id: 101627
+    - count: 5
+      name: Shroud of Decay
+      id: 102295
+  - name: Ally
+    count: 10
+    cards:
+    - count: 1
+      name: Fiorella, Empty One
+      id: 102322
+    - count: 7
+      name: Freakish Conglomeration
+      id: 102324
+    - count: 2
+      name: Vagabond Mystic
+      id: 102087
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 3
+      name: Gifts From Hereafter
+      id: 102325
+    - count: 1
+      name: Seduction
+      id: 101712
+    - count: 2
+      name: Shadow Cast
+      id: 102280
+    - count: 2
+      name: Shadow Cloak
+      id: 102281
+    - count: 4
+      name: Stygian Shroud
+      id: 102282
+    - count: 3
+      name: Where the Veil Thins
+      id: 102285
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Murmur of the False Will
+      id: 101256
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+    - count: 3
+      name: Shadow Sentinel
+      id: 102294
+  - name: Combat
+    count: 5
+    cards:
+    - count: 4
+      name: Pass Through Shadow
+      id: 102279
+    - count: 1
+      name: Target Vitals
+      id: 101942
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: FBI Special Affairs Division
+      id: 100709
+    - count: 2
+      name: Unmasking, The
+      id: 102079
