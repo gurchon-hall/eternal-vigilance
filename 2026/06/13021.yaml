@@ -1,5 +1,5 @@
 name: WoN event 6
-location: R Bar, Columbus, OH
+location: Columbus (OH), USA
 date_start: 2026-06-16
 rounds_format: 2R+F
 players_count: 27
@@ -7,11 +7,12 @@ winner: Erik Albenze
 vekn_number: 2970004
 event_url: https://www.vekn.net/event-calendar/event/13021
 event_id: 13021
-vp_comment: 4 VP in final
+vp_comment: 1GW3.5 + 4vp in final
 forum_post_url: 
-  https://www.vekn.net/forum/event-reports-and-twd/83082-twd-week-of-nightmares-won-event-6
+  https://www.vekn.net/forum/event-reports-and-twd/83076-twd-week-of-nightmares-event-6-columbus-usa-june-16-2026
 deck:
-  description: ''
+  name: Molly wall
+  description: Wall deck starring Molly MacDonald
   crypt_count: 12
   crypt_min: 24
   crypt_max: 40
