@@ -1,12 +1,10 @@
+event_id: '10367'
 name: Finnish Nationals 2022
 location: Espoo - Finland
 date_start: 2022-11-05
 rounds_format: 3R+F
 players_count: 45
 winner: Teemu Sainomaa
-vekn_number: 3070069
-event_url: https://www.vekn.net/event-calendar/event/10367
-event_id: '10367'
 deck:
   player:
     name: Jyri Puhakka
@@ -23,7 +21,7 @@ deck:
   crypt_avg: 5.54
   crypt:
   - count: 5
-    name: The unnamed
+    name: unnamed, The
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -38,7 +36,7 @@ deck:
     clan: Baali
     grouping: 6
   - count: 2
-    name: The Horde
+    name: Horde, The
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -171,5 +169,6 @@ deck:
       name: Form of Mist
       id: 100771
 winner_vekn_number: 3070069
+event_url: https://www.vekn.net/event-calendar/event/10367
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/10367.zip

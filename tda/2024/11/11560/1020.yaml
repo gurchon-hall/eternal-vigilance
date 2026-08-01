@@ -1,12 +1,10 @@
+event_id: '11560'
 name: Dutch Nationals 2024
 location: Wijchen
 date_start: 2024-11-24
 rounds_format: 3R+F
 players_count: 24
 winner: Roy Opitz
-vekn_number: 8580065
-event_url: https://www.vekn.net/event-calendar/event/11560
-event_id: '11560'
 deck:
   player:
     name: '1020'
@@ -88,7 +86,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Creepshow Casino
@@ -100,7 +98,7 @@ deck:
       name: Foundation Exhibit
       id: 100779
     - count: 1
-      name: The Hungry Coyote
+      name: Hungry Coyote, The
       id: 100945
     - count: 1
       name: Jake Washington
@@ -121,7 +119,7 @@ deck:
       name: Art Scam
       id: 100099
     - count: 8
-      name: The Embrace
+      name: Embrace, The
       id: 100633
     - count: 4
       name: Enchant Kindred
@@ -196,8 +194,9 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: The Uncoiling
+      name: Uncoiling, The
       id: 102057
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11560
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11560.zip

@@ -1,12 +1,10 @@
-name: Australian New Zealand 2024 VTES Continental Championship
+event_id: '11686'
+name: Australian New Zealand 2024 Continental Championship
 location: Sydney
 date_start: 2024-10-26
 rounds_format: 3R+F
 players_count: 36
 winner: Keith Lim
-vekn_number: 4100033
-event_url: https://www.vekn.net/event-calendar/event/11686
-event_id: '11686'
 deck:
   player:
     name: '121'
@@ -71,7 +69,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: The Barrens
+      name: Barrens, The
       id: 100135
     - count: 1
       name: Carfax Abbey
@@ -80,7 +78,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 2
       name: Dreams of the Sphinx
@@ -95,7 +93,7 @@ deck:
       name: Library Hunting Ground
       id: 101102
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
@@ -134,7 +132,7 @@ deck:
       name: Seduction
       id: 101712
     - count: 3
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
       id: 101805
     - count: 2
       name: Threats
@@ -173,5 +171,6 @@ deck:
       name: Sculpt the Flesh
       id: 102260
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11686
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11686.zip

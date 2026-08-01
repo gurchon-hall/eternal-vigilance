@@ -1,12 +1,10 @@
+event_id: '10367'
 name: Finnish Nationals 2022
 location: Espoo - Finland
 date_start: 2022-11-05
 rounds_format: 3R+F
 players_count: 45
 winner: Teemu Sainomaa
-vekn_number: 3070069
-event_url: https://www.vekn.net/event-calendar/event/10367
-event_id: '10367'
 deck:
   player:
     name: Antti Penttilä
@@ -95,7 +93,7 @@ deck:
       name: Misdirection
       id: 101225
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: Rötschreck
@@ -113,7 +111,7 @@ deck:
     count: 35
     cards:
     - count: 13
-      name: The Art of Memory
+      name: Art of Memory, The
       id: 100097
     - count: 2
       name: Bonding
@@ -164,5 +162,6 @@ deck:
       name: Theft of Vitae
       id: 101966
 winner_vekn_number: 3070069
+event_url: https://www.vekn.net/event-calendar/event/10367
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/10367.zip

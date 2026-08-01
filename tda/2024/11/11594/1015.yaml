@@ -1,12 +1,10 @@
-name: 'Iberian Grand Prix: Cónclave de la Camarilla'
+event_id: '11594'
+name: Camarilla Conclave Grand Prix 2024
 location: Palma
 date_start: 2024-11-16
 rounds_format: 3R+F
 players_count: 89
-winner: Miguel Vega Piniella
-vekn_number: 9510100
-event_url: https://www.vekn.net/event-calendar/event/11594
-event_id: '11594'
+winner: P045
 deck:
   player:
     name: '1015'
@@ -117,7 +115,7 @@ deck:
     count: 27
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Anarch Troublemaker
@@ -132,7 +130,7 @@ deck:
       name: Dark Influences
       id: 100493
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
       id: 100656
     - count: 2
       name: Garibaldi-Meucci Museum
@@ -225,5 +223,6 @@ deck:
       name: Earth Meld
       id: 100601
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11594
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

@@ -1,12 +1,10 @@
+event_id: '11196'
 name: Salut Brie!
 location: None
 date_start: 2024-03-09
 rounds_format: 2R+F
 players_count: 14
-winner: Simmy Singh Rayat
-vekn_number: 1880001
-event_url: https://www.vekn.net/event-calendar/event/11196
-event_id: '11196'
+winner: Simmy Rayat
 deck:
   player:
     name: '106'
@@ -61,7 +59,7 @@ deck:
       name: Dabbler
       id: 100485
     - count: 3
-      name: The Eternals of Sirius
+      name: Eternals of Sirius, The
       id: 100667
     - count: 1
       name: Khobar Towers, Al-Khubar
@@ -85,7 +83,7 @@ deck:
       name: Enticement
       id: 100650
     - count: 10
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
       id: 102232
     - count: 5
       name: Reformation
@@ -151,5 +149,6 @@ deck:
       name: Form of Mist
       id: 100771
 winner_vekn_number: 113
+event_url: https://www.vekn.net/event-calendar/event/11196
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11196.zip

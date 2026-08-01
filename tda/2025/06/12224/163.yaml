@@ -1,12 +1,10 @@
+event_id: '12224'
 name: BR2025 - Campeonato Brasileiro de VTES
 location: Volta Redonda - RJ
 date_start: 2025-06-07
 rounds_format: 3R+F
 players_count: 114
 winner: Joab Rogerio Barbosa da Silva
-vekn_number: 1004065
-event_url: https://www.vekn.net/event-calendar/event/12224
-event_id: '12224'
 deck:
   player:
     name: '163'
@@ -83,7 +81,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -128,7 +126,7 @@ deck:
       name: Field Training
       id: 100725
     - count: 14
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
       id: 102232
   - name: Action Modifier
     count: 27
@@ -191,5 +189,6 @@ deck:
       name: Form of Mist
       id: 100771
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

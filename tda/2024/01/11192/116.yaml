@@ -1,12 +1,10 @@
+event_id: '11192'
 name: White Turtle
 location: Vác - Hungary
 date_start: 2024-01-27
 rounds_format: 2R+F
 players_count: 20
-winner: Mark Virsinger
-vekn_number: 3540231
-event_url: https://www.vekn.net/event-calendar/event/11192
-event_id: '11192'
+winner: Márk Virsinger
 deck:
   player:
     name: '116'
@@ -84,7 +82,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 2
       name: Dreams of the Sphinx
@@ -96,7 +94,7 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: The Hungry Coyote
+      name: Hungry Coyote, The
       id: 100945
     - count: 2
       name: Life in the City
@@ -108,7 +106,7 @@ deck:
       name: Palla Grande
       id: 101346
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: Wider View
@@ -123,7 +121,7 @@ deck:
       name: Art's Traumatic Essence
       id: 100100
     - count: 6
-      name: The Embrace
+      name: Embrace, The
       id: 100633
     - count: 10
       name: Enchant Kindred
@@ -180,5 +178,6 @@ deck:
       name: Majesty
       id: 101144
 winner_vekn_number: 111
+event_url: https://www.vekn.net/event-calendar/event/11192
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11192.zip

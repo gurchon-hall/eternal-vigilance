@@ -1,12 +1,10 @@
-name: VtES Finnish Nationals 2025
+event_id: '12069'
+name: None
 location: Vantaa
 date_start: 2025-04-12
 rounds_format: 3R+F
 players_count: 39
 winner: Teemu Sainomaa
-vekn_number: 3070069
-event_url: https://www.vekn.net/event-calendar/event/12069
-event_id: '12069'
 deck:
   player:
     name: '129'
@@ -33,7 +31,7 @@ deck:
     clan: Nosferatu
     grouping: 6
   - count: 1
-    name: The Guardian
+    name: Guardian, The
     id: 201641
     capacity: 4
     disciplines: ani cel pot
@@ -79,10 +77,10 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
       id: 101070
     - count: 1
-      name: The Line
+      name: Line, The
       id: 101110
     - count: 1
       name: Metro Underground
@@ -94,7 +92,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 2
       name: Vessel
@@ -217,5 +215,6 @@ deck:
       name: Unflinching Persistence
       id: 102071
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12069
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12069.zip

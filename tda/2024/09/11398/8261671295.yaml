@@ -1,12 +1,10 @@
+event_id: '11398'
 name: German Nationals 2024
 location: Darmstadt
 date_start: 2024-09-07
 rounds_format: 3R+F
 players_count: 32
-winner: Alexander Tüschen
-vekn_number: 5810006
-event_url: https://www.vekn.net/event-calendar/event/11398
-event_id: '11398'
+winner: ''
 deck:
   player:
     name: '8261671295'
@@ -97,13 +95,13 @@ deck:
       name: Khobar Towers, Al-Khubar
       id: 101048
     - count: 1
-      name: The Marrakesh Codex
+      name: Marrakesh Codex, The
       id: 101172
     - count: 1
       name: Opium Den
       id: 101326
     - count: 5
-      name: The Path of Typhon
+      name: Path of Typhon, The
       id: 101373
     - count: 1
       name: Temple Hunting Ground
@@ -127,7 +125,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 12
-      name: The Eternal Mask
+      name: Eternal Mask, The
       id: 100665
     - count: 2
       name: Form of Corruption
@@ -193,5 +191,6 @@ deck:
       name: Tongue of the Serpent
       id: 101988
 winner_vekn_number: 8638881481
+event_url: https://www.vekn.net/event-calendar/event/11398
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11398.zip

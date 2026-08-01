@@ -1,12 +1,10 @@
-name: Grand Prix 2025 - Poland
+event_id: '12126'
+name: Grand Prix Warsaw 2025
 location: Warsaw
 date_start: 2025-07-05
 rounds_format: 3R+F
 players_count: 56
 winner: Tomasz Pietkiewicz
-vekn_number: 1004624
-event_url: https://www.vekn.net/event-calendar/event/12126
-event_id: '12126'
 deck:
   player:
     name: '144'
@@ -111,13 +109,13 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: The Line
+      name: Line, The
       id: 101110
     - count: 1
       name: Papillon
       id: 101350
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 3
       name: Perfectionist
@@ -198,5 +196,6 @@ deck:
       name: Pass Through Shadow
       id: 102279
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12126
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12126.zip

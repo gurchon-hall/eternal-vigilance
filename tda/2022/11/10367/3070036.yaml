@@ -1,12 +1,10 @@
+event_id: '10367'
 name: Finnish Nationals 2022
 location: Espoo - Finland
 date_start: 2022-11-05
 rounds_format: 3R+F
 players_count: 45
 winner: Teemu Sainomaa
-vekn_number: 3070069
-event_url: https://www.vekn.net/event-calendar/event/10367
-event_id: '10367'
 deck:
   player:
     name: Janne Lönnqvist
@@ -127,7 +125,7 @@ deck:
       name: Heidelberg Castle, Germany
       id: 100908
     - count: 1
-      name: The Hungry Coyote
+      name: Hungry Coyote, The
       id: 100945
     - count: 1
       name: Information Highway
@@ -142,10 +140,10 @@ deck:
       name: Palla Grande
       id: 101346
     - count: 2
-      name: The Parthenon
+      name: Parthenon, The
       id: 101355
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Rome'
@@ -163,7 +161,7 @@ deck:
       name: Art Scam
       id: 100099
     - count: 12
-      name: The Embrace
+      name: Embrace, The
       id: 100633
   - name: Ally
     count: 2
@@ -223,14 +221,15 @@ deck:
       name: Narrow Minds
       id: 101265
     - count: 1
-      name: The Rising
+      name: Rising, The
       id: 101640
     - count: 1
-      name: The Slow Withering
+      name: Slow Withering, The
       id: 101807
     - count: 1
       name: Veil of Darkness
       id: 102095
 winner_vekn_number: 3070069
+event_url: https://www.vekn.net/event-calendar/event/10367
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/10367.zip

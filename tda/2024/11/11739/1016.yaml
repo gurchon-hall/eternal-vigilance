@@ -1,12 +1,10 @@
+event_id: '11739'
 name: VtES Finnish Nationals 2024
 location: Kerava
 date_start: 2024-11-09
 rounds_format: 3R+F
 players_count: 30
 winner: Jonas Ståhle
-vekn_number: 8090005
-event_url: https://www.vekn.net/event-calendar/event/11739
-event_id: '11739'
 deck:
   player:
     name: '1016'
@@ -100,10 +98,10 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: The Black Throne
+      name: Black Throne, The
       id: 100172
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 5
       name: "Haqim's Law: Retribution"
@@ -196,5 +194,6 @@ deck:
       name: Side Strike
       id: 101778
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11739
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11739.zip

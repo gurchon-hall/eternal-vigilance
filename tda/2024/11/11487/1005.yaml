@@ -1,12 +1,10 @@
-name: Nacional Portugal 2024
+event_id: '11487'
+name: Nacional 2024
 location: Lisboa
 date_start: 2024-11-02
 rounds_format: 3R+F
 players_count: 33
-winner: Eduardo Manuel Mateus
-vekn_number: 3120073
-event_url: https://www.vekn.net/event-calendar/event/11487
-event_id: '11487'
+winner: Eduardo  Manuel dos Santos Mateus
 deck:
   player:
     name: '1005'
@@ -132,7 +130,7 @@ deck:
       name: Bamba
       id: 100129
     - count: 17
-      name: The Embrace
+      name: Embrace, The
       id: 100633
     - count: 10
       name: Mozambique Allure
@@ -153,14 +151,15 @@ deck:
     count: 12
     cards:
     - count: 12
-      name: The Eldest Are Kholo
+      name: Eldest Are Kholo, The
       id: 100622
   - name: Event
     count: 1
     cards:
     - count: 1
-      name: The Uncoiling
+      name: Uncoiling, The
       id: 102057
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11487
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip

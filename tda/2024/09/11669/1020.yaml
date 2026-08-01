@@ -1,12 +1,10 @@
+event_id: '11669'
 name: VtES European Championship 2024 - Day 2
 location: Warsaw
 date_start: 2024-09-29
 rounds_format: 3R+F
 players_count: 75
 winner: Danilo Torrisi
-vekn_number: 3460018
-event_url: https://www.vekn.net/event-calendar/event/11669
-event_id: '11669'
 deck:
   player:
     name: '1020'
@@ -86,7 +84,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Dreams of the Sphinx
@@ -101,7 +99,7 @@ deck:
       name: Information Highway
       id: 100984
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: Secure Haven
@@ -119,7 +117,7 @@ deck:
     count: 18
     cards:
     - count: 18
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
       id: 102232
   - name: Action Modifier
     count: 29
@@ -185,5 +183,6 @@ deck:
       name: Narrow Minds
       id: 101265
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11669
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11669.zip
