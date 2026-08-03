@@ -1,10 +1,12 @@
-event_id: '11196'
 name: Salut Brie!
 location: None
 date_start: 2024-03-09
 rounds_format: 2R+F
 players_count: 14
-winner: Simmy Rayat
+winner: Simmy Singh Rayat
+vekn_number: 1880001
+event_url: https://www.vekn.net/event-calendar/event/11196
+event_id: '11196'
 deck:
   player:
     name: '111'
@@ -73,7 +75,7 @@ deck:
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Giant's Blood
@@ -85,7 +87,7 @@ deck:
       name: Library Hunting Ground
       id: 101102
     - count: 1
-      name: Path of Lilith, The
+      name: The Path of Lilith
       id: 101363
     - count: 1
       name: 'Powerbase: Barranquilla'
@@ -94,7 +96,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
@@ -205,6 +207,5 @@ deck:
       name: Voracious Vermin
       id: 102266
 winner_vekn_number: 113
-event_url: https://www.vekn.net/event-calendar/event/11196
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11196.zip

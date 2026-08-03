@@ -1,10 +1,12 @@
-event_id: '11669'
 name: VtES European Championship 2024 - Day 2
 location: Warsaw
 date_start: 2024-09-29
 rounds_format: 3R+F
 players_count: 75
 winner: Danilo Torrisi
+vekn_number: 3460018
+event_url: https://www.vekn.net/event-calendar/event/11669
+event_id: '11669'
 deck:
   player:
     name: '1004'
@@ -53,7 +55,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Direct Intervention
@@ -77,7 +79,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: Secure Haven
@@ -134,7 +136,7 @@ deck:
       name: Psychomachia
       id: 101511
     - count: 1
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
   - name: Action Modifier/Combat
     count: 1
@@ -170,6 +172,5 @@ deck:
       name: Majesty
       id: 101144
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11669
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11669.zip

@@ -1,10 +1,12 @@
-event_id: '11663'
 name: Week of Nightmares 2024 - Day 1
 location: Warsaw
 date_start: 2024-09-24
 rounds_format: 3R+F
 players_count: 25
 winner: Jorge Delgado
+vekn_number: 9290014
+event_url: https://www.vekn.net/event-calendar/event/11663
+event_id: '11663'
 deck:
   player:
     name: '1004'
@@ -17,7 +19,7 @@ deck:
   crypt_avg: 8.23
   crypt:
   - count: 5
-    name: Capuchin, The
+    name: The Capuchin
     id: 200242
     capacity: 11
     disciplines: AUS DOM FOR NEC THA THN
@@ -65,13 +67,13 @@ deck:
     count: 12
     cards:
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Giant's Blood
       id: 100824
     - count: 2
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Perfectionist
@@ -128,7 +130,7 @@ deck:
       name: Ivory Bow
       id: 101014
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
     - count: 1
       name: Sniper Rifle
@@ -182,6 +184,5 @@ deck:
       name: NRA PAC
       id: 101305
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11663
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11663.zip

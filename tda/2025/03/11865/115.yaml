@@ -1,10 +1,12 @@
-event_id: '11865'
-name: ITALIAN GP 2025 - MODENA
+name: Italian Grand Prix 2025 - Modena
 location: Modena
 date_start: 2025-03-01
 rounds_format: 3R+F
 players_count: 70
-winner: Frederic Pin
+winner: Frédéric Pin
+vekn_number: 3200006
+event_url: https://www.vekn.net/event-calendar/event/11865
+event_id: '11865'
 deck:
   player:
     name: '115'
@@ -90,7 +92,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -105,7 +107,7 @@ deck:
       name: Library Hunting Ground
       id: 101102
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Poacher's Hunting Ground
@@ -147,7 +149,7 @@ deck:
       name: Foreshadowing Destruction
       id: 100765
     - count: 2
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
   - name: Action Modifier/Reaction
     count: 9
@@ -186,6 +188,5 @@ deck:
       name: Form of Mist
       id: 100771
 winner_vekn_number: 101
-event_url: https://www.vekn.net/event-calendar/event/11865
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11865.zip

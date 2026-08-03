@@ -1,10 +1,12 @@
-event_id: '11667'
-name: VtES European Championship 2024 LCQ
+name: VtES European "Last Chance" Qualifier 2024
 location: Warsaw
 date_start: 2024-09-27
 rounds_format: 3R+F
 players_count: 153
-winner: Marius Iscru
+winner: SUSPENDED Marius Iscru
+vekn_number: 3200246
+event_url: https://www.vekn.net/event-calendar/event/11667
+event_id: '11667'
 deck:
   player:
     name: '1024'
@@ -17,7 +19,7 @@ deck:
   crypt_avg: 5.91
   crypt:
   - count: 5
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -63,7 +65,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Secure Haven
@@ -78,7 +80,7 @@ deck:
       name: Illegalism
       id: 100952
     - count: 10
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 1
       name: Precision
@@ -96,7 +98,7 @@ deck:
     count: 4
     cards:
     - count: 3
-      name: Anarch Manifesto, An
+      name: An Anarch Manifesto
       id: 100053
     - count: 1
       name: Stolen Police Cruiser
@@ -171,6 +173,5 @@ deck:
       name: Narrow Minds
       id: 101265
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11667
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip
