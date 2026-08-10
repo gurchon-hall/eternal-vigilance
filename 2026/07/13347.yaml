@@ -115,7 +115,7 @@ deck:
       name: Perfectionist
       id: 101388
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 1
       name: Saulot's Healing Touch
@@ -169,7 +169,7 @@ deck:
       name: Freak Drive
       id: 100788
     - count: 1
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
       id: 101805
   - name: Action Modifier/Reaction
     count: 2
