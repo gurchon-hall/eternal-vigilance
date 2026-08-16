@@ -1,0 +1,198 @@
+name: Antediluvian Awakening
+location: Naucalpan de Juárez, México
+date_start: 2026-08-02
+rounds_format: 2R+F
+players_count: 18
+winner: Gustavo Alfonso González Ortiz
+vekn_number: 7400073
+event_url: https://www.vekn.net/event-calendar/event/13377
+event_id: 13377
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83163-antediluvian-awakening
+deck:
+  name: Ha por él, Agnieszka
+  created_by: TheEbonDragon
+  description: ''
+  crypt_count: 12
+  crypt_min: 19
+  crypt_max: 40
+  crypt_avg: 7.67
+  crypt:
+  - count: 5
+    name: Agnieszka, Tempter of Legions
+    id: 201736
+    capacity: 10
+    disciplines: for pot AUS OBF PRE PRO
+    title: Archbishop
+    clan: Ministry
+    grouping: 6
+    path: Cathari
+  - count: 1
+    name: Jürgen, The Libertine
+    id: 201758
+    capacity: 8
+    disciplines: obf AUS CEL PRE
+    title: Archbishop
+    clan: Toreador
+    grouping: 6
+    path: Cathari
+  - count: 1
+    name: Mélusine d'Anjou
+    id: 200974
+    capacity: 8
+    disciplines: dem AUS CEL PRE
+    title: Archbishop
+    clan: Toreador antitribu
+    grouping: 5
+  - count: 3
+    name: Verrix, Naughty Boy
+    id: 201777
+    capacity: 7
+    disciplines: cel obf pro AUS PRE
+    title: Bishop
+    clan: Ministry
+    grouping: 6
+    path: Cathari
+  - count: 1
+    name: Ximena
+    id: 201778
+    capacity: 3
+    disciplines: obf pre
+    clan: Ministry
+    grouping: 6
+    path: Cathari
+  - count: 1
+    name: New Blood
+    id: 201052
+    capacity: 2
+    disciplines: san
+    clan: Blood Brother
+    grouping: ANY
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Coto, El
+      id: 101536
+    - count: 1
+      name: Fumadero de opio
+      id: 101326
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: La cofradía
+      id: 100435
+    - count: 1
+      name: La subversión de Pentex(TM)
+      id: 101384
+    - count: 1
+      name: Papillon
+      id: 101350
+    - count: 1
+      name: 'Powerbase: Barranquilla'
+      id: 101431
+    - count: 2
+      name: Recipiente
+      id: 102113
+    - count: 1
+      name: Sangre del gigante
+      id: 100824
+    - count: 2
+      name: Terrifying Visage
+      id: 102343
+    - count: 2
+      name: Villano
+      id: 102121
+  - name: Action
+    count: 12
+    cards:
+    - count: 2
+      name: Abbot
+      id: 100006
+    - count: 4
+      name: Bajo asedio
+      id: 102063
+    - count: 2
+      name: Corazón de la ciudad
+      id: 100904
+    - count: 2
+      name: Eternal Vigilance
+      id: 100666
+    - count: 2
+      name: Trance
+      id: 100652
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 2
+      name: Corazón de Nizchetus
+      id: 100903
+    - count: 2
+      name: Cuenco de la Convergencia
+      id: 100243
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: Homúnculo
+      id: 100932
+    - count: 1
+      name: Sr. Winthrop
+      id: 101249
+  - name: Action Modifier
+    count: 18
+    cards:
+    - count: 3
+      name: Impulso sobrenatural
+      id: 100788
+    - count: 2
+      name: Perdido en multitudes
+      id: 101125
+    - count: 3
+      name: Seeds of Terror
+      id: 102338
+    - count: 7
+      name: Subversion
+      id: 102341
+    - count: 3
+      name: Vasallo de Enkil
+      id: 100645
+  - name: Action Modifier/Combat
+    count: 5
+    cards:
+    - count: 5
+      name: Swift Cover
+      id: 102342
+  - name: Reaction
+    count: 24
+    cards:
+    - count: 2
+      name: Confusion of the Eye
+      id: 100406
+    - count: 4
+      name: Distracción telepática
+      id: 101949
+    - count: 2
+      name: En estado de alerta
+      id: 101321
+    - count: 4
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 8
+      name: Ojos de Argos
+      id: 100680
+    - count: 4
+      name: Sentidos agudizados
+      id: 100644
+  - name: Combat
+    count: 11
+    cards:
+    - count: 7
+      name: Charismatic Aura
+      id: 100333
+    - count: 4
+      name: Kiss of Cathari
+      id: 102330
