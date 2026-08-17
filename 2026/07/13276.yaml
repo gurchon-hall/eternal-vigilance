@@ -81,7 +81,7 @@ deck:
     count: 18
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Anarch Railroad
