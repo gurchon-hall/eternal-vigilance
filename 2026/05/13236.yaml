@@ -1,0 +1,148 @@
+name: Liga GL/PT 2025-2026
+location: Lisboa, Portugal
+date_start: 2026-05-23
+rounds_format: 3R+F
+players_count: 16
+winner: Tiago Gonçalves
+vekn_number: 4300020
+event_url: https://www.vekn.net/event-calendar/event/13236
+event_id: 13236
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83176-twd-liga-gl-pt-2025-2026-amadora-portugal-23-may-2026
+deck:
+  name: Politics
+  created_by: Tiago “Tzimisce” Gonçalves
+  description: Arishat joins the Agitated Barons on a Reckless attempt to rule 
+    over ancient Methuselahs. This gimmick is known already but my version focus
+    on cycling fast to deal damage quickly. Using masters and the Unleash to 
+    protect, lower Stealth from action modifiers but Stealth from masters.
+  crypt_count: 12
+  crypt_min: 24
+  crypt_max: 28
+  crypt_avg: 6.33
+  crypt:
+  - count: 1
+    name: Sergio Bueno
+    id: 201662
+    capacity: 8
+    disciplines: aus pot OBF PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 5
+    name: Arishat
+    id: 200136
+    capacity: 6
+    disciplines: DAI OBF PRE
+    title: 1 Vote
+    clan: Baali
+    grouping: 6
+  - count: 2
+    name: Atiena
+    id: 201579
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Jacques Rouge
+    id: 201523
+    capacity: 6
+    disciplines: ani pot pre OBF
+    title: Baron
+    clan: Nosferatu
+    grouping: 6
+  library_count: 70
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Ferraille
+      id: 100722
+    - count: 1
+      name: Opium Den
+      id: 101326
+    - count: 4
+      name: Protected Resources
+      id: 101500
+    - count: 5
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 7
+    cards:
+    - count: 4
+      name: 'Condemnation: Mute'
+      id: 100400
+    - count: 3
+      name: Unleash Hell's Fury
+      id: 102076
+  - name: Political Action
+    count: 16
+    cards:
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 7
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Neonate Breach
+      id: 101271
+    - count: 7
+      name: Reckless Agitation
+      id: 101567
+  - name: Action Modifier
+    count: 30
+    cards:
+    - count: 5
+      name: Bewitching Oration
+      id: 100157
+    - count: 3
+      name: Cloak the Gathering
+      id: 100362
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 6
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 4
+      name: Lost in Crowds
+      id: 101125
+    - count: 3
+      name: Veil the Legions
+      id: 102097
+    - count: 7
+      name: Voter Captivation
+      id: 102131
