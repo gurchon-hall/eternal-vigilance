@@ -3,8 +3,8 @@ location: Jyväskylä, Finland
 date_start: 2026-08-15
 rounds_format: 2R+F
 players_count: 12
-winner: Lasse Pöyry
-vekn_number: 1001600
+winner: Ari-Pekka Alestalo
+vekn_number: 3070018
 event_url: https://www.vekn.net/event-calendar/event/13385
 event_id: 13385
 forum_post_url: 
@@ -82,7 +82,7 @@ deck:
       name: Obtenebration
       id: 101312
     - count: 1
-      name: Path of Night, The
+      name: The Path of Night
       id: 101365
     - count: 1
       name: Political Hunting Ground
@@ -130,7 +130,7 @@ deck:
       name: Shroud of Night
       id: 101775
     - count: 3
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
     - count: 3
       name: Tenebrous Form

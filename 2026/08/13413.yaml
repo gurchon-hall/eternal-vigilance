@@ -3,8 +3,8 @@ location: Plenty of Games, Melbourne
 date_start: 2026-08-16
 rounds_format: 3R+F
 players_count: 10
-winner: Nathaneal Zheng
-vekn_number: 5360022
+winner: Daniel Spivak
+vekn_number: 4110113
 event_url: https://www.vekn.net/event-calendar/event/13413
 event_id: 13413
 forum_post_url: 
@@ -19,7 +19,7 @@ deck:
   crypt_avg: 6.75
   crypt:
   - count: 2
-    name: Arcadian, The
+    name: The Arcadian
     id: 200127
     capacity: 8
     disciplines: chi for DOM MYT OBT
@@ -102,10 +102,10 @@ deck:
       name: Haven Uncovered
       id: 100897
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Perfectionist
