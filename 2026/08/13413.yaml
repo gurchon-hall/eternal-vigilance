@@ -19,7 +19,7 @@ deck:
   crypt_avg: 6.75
   crypt:
   - count: 2
-    name: Arcadian, The
+    name: The Arcadian
     id: 200127
     capacity: 8
     disciplines: chi for DOM MYT OBT
@@ -102,10 +102,10 @@ deck:
       name: Haven Uncovered
       id: 100897
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Perfectionist
