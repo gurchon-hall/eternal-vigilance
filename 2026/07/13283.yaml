@@ -72,7 +72,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
       id: 100656
     - count: 1
       name: Giant's Blood
@@ -159,5 +159,5 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
       id: 102079
