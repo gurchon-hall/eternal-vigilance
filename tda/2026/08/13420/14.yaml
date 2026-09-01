@@ -1,0 +1,228 @@
+event_id: '13420'
+name: Russian Nationals 2026
+location: Sankt-Petersburg
+date_start: 2026-08-01
+rounds_format: 2R+F
+players_count: 16
+winner: ''
+deck:
+  player:
+    name: '14'
+    vekn_number: 14
+  name: Sabbat Tremere
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 31
+  crypt_avg: 6.25
+  crypt:
+  - count: 3
+    name: Paul Cordwood
+    id: 201100
+    capacity: 8
+    disciplines: obf pre AUS DOM THA
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 2
+    name: Jefferson Foster
+    id: 200686
+    capacity: 6
+    disciplines: for tha AUS DOM
+    title: Bishop
+    clan: Ventrue antitribu
+    grouping: 4
+  - count: 2
+    name: Ladislas Toth, The Torch
+    id: 200803
+    capacity: 7
+    disciplines: for AUS DOM THA
+    title: Archbishop
+    clan: Tremere antitribu
+    grouping: 3
+  - count: 2
+    name: Neighbor John
+    id: 201046
+    capacity: 5
+    disciplines: dom for AUS
+    clan: Ventrue antitribu
+    grouping: 4
+  - count: 1
+    name: Carna, The Princess Witch
+    id: 200248
+    capacity: 7
+    disciplines: AUS DOM THA
+    title: Primogen
+    clan: Tremere
+    grouping: 3
+  - count: 1
+    name: Frondator
+    id: 200485
+    capacity: 5
+    disciplines: dom tha AUS
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Keith Moody
+    id: 200767
+    capacity: 3
+    disciplines: DOM
+    clan: Tremere antitribu
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fragment of the Book of Nod
+      id: 100785
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Into the Fire
+      id: 101000
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Rebel
+      id: 101564
+    - count: 4
+      name: Unholy Sacrament
+      id: 102345
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 22
+    cards:
+    - count: 3
+      name: Abbot
+      id: 100006
+    - count: 8
+      name: Govern the Unaligned
+      id: 100845
+    - count: 6
+      name: Magic of the Smith
+      id: 101143
+    - count: 1
+      name: Revelations
+      id: 101627
+    - count: 4
+      name: Under Siege
+      id: 102063
+  - name: Equipment
+    count: 6
+    cards:
+    - count: 2
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Bowl of Convergence
+      id: 100243
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+    - count: 1
+      name: Sniper Rifle
+      id: 101816
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+  - name: Action Modifier
+    count: 11
+    cards:
+    - count: 2
+      name: Bonding
+      id: 100236
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 1
+      name: Foreshadowing Destruction
+      id: 100765
+    - count: 6
+      name: Mirror Walk
+      id: 101223
+  - name: Action Modifier/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Murmur of the False Will
+      id: 101256
+  - name: Reaction
+    count: 21
+    cards:
+    - count: 7
+      name: Deflection
+      id: 100518
+    - count: 3
+      name: Eagle's Sight
+      id: 100598
+    - count: 1
+      name: Enhanced Senses
+      id: 100644
+    - count: 5
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+    - count: 2
+      name: Redirection
+      id: 101578
+    - count: 2
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 7
+    cards:
+    - count: 1
+      name: Apportation
+      id: 100077
+    - count: 1
+      name: Movement of the Mind
+      id: 101246
+    - count: 2
+      name: Rego Motum
+      id: 101588
+    - count: 3
+      name: Theft of Vitae
+      id: 101966
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: NRA PAC
+      id: 101305
+winner_vekn_number: 7
+event_url: https://www.vekn.net/event-calendar/event/13420
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/13420.zip

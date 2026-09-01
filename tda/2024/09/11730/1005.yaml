@@ -1,12 +1,10 @@
-name: First 30Th
+event_id: '11730'
+name: First 30th
 location: Vác
 date_start: 2024-09-22
 rounds_format: 3R+F
 players_count: 17
-winner: Mark Virsinger
-vekn_number: 3540231
-event_url: https://www.vekn.net/event-calendar/event/11730
-event_id: '11730'
+winner: Márk Virsinger
 deck:
   player:
     name: '1005'
@@ -42,7 +40,7 @@ deck:
     clan: Nosferatu
     grouping: 6
   - count: 1
-    name: The Medic
+    name: Medic, The
     id: 200968
     capacity: 6
     disciplines: dem for OBF POT
@@ -68,7 +66,7 @@ deck:
     count: 20
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -80,7 +78,7 @@ deck:
       name: Hackerspace
       id: 100876
     - count: 1
-      name: The Labyrinth
+      name: Labyrinth, The
       id: 101070
     - count: 1
       name: 'Powerbase: Los Angeles'
@@ -89,7 +87,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 1
       name: Slum Hunting Ground
@@ -167,7 +165,7 @@ deck:
       name: Protection Racket
       id: 101501
     - count: 2
-      name: The Warrens
+      name: Warrens, The
       id: 102216
   - name: Combat
     count: 6
@@ -176,5 +174,6 @@ deck:
       name: Disguised Weapon
       id: 100555
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11730
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11730.zip

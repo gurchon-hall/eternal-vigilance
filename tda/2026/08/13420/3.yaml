@@ -1,0 +1,184 @@
+event_id: '13420'
+name: Russian Nationals 2026
+location: Sankt-Petersburg
+date_start: 2026-08-01
+rounds_format: 2R+F
+players_count: 16
+winner: ''
+deck:
+  player:
+    name: '3'
+    vekn_number: 3
+  name: Combat poop 5
+  description: ''
+  crypt_count: 12
+  crypt_min: 22
+  crypt_max: 32
+  crypt_avg: 6.67
+  crypt:
+  - count: 3
+    name: Leumeah
+    id: 201526
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 3
+    name: Saku Pihlajamäki
+    id: 201658
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Aline Gädeke
+    id: 201576
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Atiena
+    id: 201579
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Elen Kamjian
+    id: 201585
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Octane
+    id: 201609
+    capacity: 6
+    disciplines: CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Theo Bell
+    id: 201613
+    capacity: 8
+    disciplines: aus dom CEL POT PRE
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    id: 201614
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Anarch Free Press, The
+      id: 100052
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Garibaldi-Meucci Museum
+      id: 100809
+    - count: 1
+      name: 'Powerbase: Los Angeles'
+      id: 101435
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 13
+    cards:
+    - count: 5
+      name: Illegalism
+      id: 100952
+    - count: 7
+      name: Line Brawl
+      id: 102229
+    - count: 1
+      name: Open War
+      id: 101324
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Reckless Agitation
+      id: 101567
+  - name: Action Modifier
+    count: 4
+    cards:
+    - count: 2
+      name: Monkey Wrench
+      id: 101239
+    - count: 2
+      name: Power of One
+      id: 101429
+  - name: Reaction
+    count: 17
+    cards:
+    - count: 6
+      name: Bait and Switch
+      id: 102218
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 9
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 41
+    cards:
+    - count: 4
+      name: Bollix
+      id: 100232
+    - count: 4
+      name: Disarm
+      id: 100549
+    - count: 8
+      name: Diversion
+      id: 100563
+    - count: 7
+      name: Dust Up
+      id: 100597
+    - count: 8
+      name: Immortal Grapple
+      id: 100959
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+    - count: 5
+      name: Torn Signpost
+      id: 101993
+winner_vekn_number: 7
+event_url: https://www.vekn.net/event-calendar/event/13420
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/13420.zip

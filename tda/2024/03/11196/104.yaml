@@ -1,12 +1,10 @@
+event_id: '11196'
 name: Salut Brie!
 location: None
 date_start: 2024-03-09
 rounds_format: 2R+F
 players_count: 14
-winner: Simmy Singh Rayat
-vekn_number: 1880001
-event_url: https://www.vekn.net/event-calendar/event/11196
-event_id: '11196'
+winner: Simmy Rayat
 deck:
   player:
     name: '104'
@@ -62,7 +60,7 @@ deck:
     count: 19
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -77,7 +75,7 @@ deck:
       name: Haven Affinity
       id: 100895
     - count: 1
-      name: The Line
+      name: Line, The
       id: 101110
     - count: 1
       name: Mob Connections
@@ -89,7 +87,7 @@ deck:
       name: Quietus
       id: 101534
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
@@ -167,5 +165,6 @@ deck:
       name: Taste of Vitae
       id: 101945
 winner_vekn_number: 113
+event_url: https://www.vekn.net/event-calendar/event/11196
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11196.zip

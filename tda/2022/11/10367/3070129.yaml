@@ -1,12 +1,10 @@
+event_id: '10367'
 name: Finnish Nationals 2022
 location: Espoo - Finland
 date_start: 2022-11-05
 rounds_format: 3R+F
 players_count: 45
 winner: Teemu Sainomaa
-vekn_number: 3070069
-event_url: https://www.vekn.net/event-calendar/event/10367
-event_id: '10367'
 deck:
   player:
     name: Juha Nyholm
@@ -91,7 +89,7 @@ deck:
     count: 15
     cards:
     - count: 2
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -109,7 +107,7 @@ deck:
       name: Palla Grande
       id: 101346
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
       name: Vessel
@@ -121,7 +119,7 @@ deck:
       name: Art Scam
       id: 100099
     - count: 8
-      name: The Embrace
+      name: Embrace, The
       id: 100633
     - count: 2
       name: Entrancement
@@ -175,8 +173,9 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: The Uncoiling
+      name: Uncoiling, The
       id: 102057
 winner_vekn_number: 3070069
+event_url: https://www.vekn.net/event-calendar/event/10367
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/10367.zip

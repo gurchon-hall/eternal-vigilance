@@ -1,0 +1,157 @@
+event_id: online1
+name: Cardinal Benediction
+location: Online
+date_start: 2025-04-01
+rounds_format: 3R+F
+players_count: 25
+winner: Cooper
+deck:
+  player:
+    name: '117'
+    vekn_number: 117
+  name: Cardinal Benediction (online)
+  description: 0GW1.5
+  crypt_count: 12
+  crypt_min: 17
+  crypt_max: 29
+  crypt_avg: 5.83
+  crypt:
+  - count: 1
+    name: Saku Pihlajamäki
+    id: 201658
+    capacity: 8
+    disciplines: for pro CEL POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Aline Gädeke
+    id: 201576
+    capacity: 7
+    disciplines: cel POT PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Valeriya Zinovieva
+    id: 201614
+    capacity: 7
+    disciplines: cel pre pro POT
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Atiena
+    id: 201579
+    capacity: 6
+    disciplines: obf pot pre CEL
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 2
+    name: Leumeah
+    id: 201526
+    capacity: 6
+    disciplines: cel for pot PRE
+    title: Baron
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Brandon Grime
+    id: 201581
+    capacity: 5
+    disciplines: pot pre tha CEL
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Siarhei Levchenko
+    id: 201612
+    capacity: 5
+    disciplines: pot CEL PRE
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Elen Kamjian
+    id: 201585
+    capacity: 4
+    disciplines: CEL POT
+    clan: Brujah
+    grouping: 6
+  - count: 1
+    name: Ariane
+    id: 200132
+    capacity: 3
+    disciplines: cel pot pre
+    clan: Brujah
+    grouping: 5
+  library_count: 68
+  library_sections:
+  - name: Master
+    count: 34
+    cards:
+    - count: 1
+      name: Barrens, The
+      id: 100135
+    - count: 15
+      name: Brujah Debate
+      id: 100260
+    - count: 1
+      name: Carfax Abbey
+      id: 100297
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 2
+      name: New Carthage
+      id: 101277
+    - count: 2
+      name: Parthenon, The
+      id: 101355
+    - count: 7
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Reaction
+    count: 21
+    cards:
+    - count: 2
+      name: Bait and Switch
+      id: 102218
+    - count: 19
+      name: Organized Resistance
+      id: 102230
+  - name: Combat
+    count: 12
+    cards:
+    - count: 1
+      name: Backstab
+      id: 100124
+    - count: 2
+      name: Earthshock
+      id: 100604
+    - count: 2
+      name: Immortal Grapple
+      id: 100959
+    - count: 1
+      name: Orgy of Blood
+      id: 101330
+    - count: 2
+      name: Stutter-Step
+      id: 101889
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+winner_vekn_number: 101
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/online1.zip

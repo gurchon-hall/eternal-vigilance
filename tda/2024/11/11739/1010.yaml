@@ -1,12 +1,10 @@
+event_id: '11739'
 name: VtES Finnish Nationals 2024
 location: Kerava
 date_start: 2024-11-09
 rounds_format: 3R+F
 players_count: 30
 winner: Jonas Ståhle
-vekn_number: 8090005
-event_url: https://www.vekn.net/event-calendar/event/11739
-event_id: '11739'
 deck:
   player:
     name: '1010'
@@ -97,7 +95,7 @@ deck:
       name: Camarilla Conclave
       id: 102269
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Creepshow Casino
@@ -118,7 +116,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 4
-      name: The Parthenon
+      name: Parthenon, The
       id: 101355
     - count: 4
       name: Protected Resources
@@ -187,5 +185,6 @@ deck:
       name: Voter Captivation
       id: 102131
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11739
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11739.zip

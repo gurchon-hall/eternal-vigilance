@@ -1,12 +1,10 @@
-name: Italian Grand Prix 2025 - Modena
+event_id: '11865'
+name: ITALIAN GP 2025 - MODENA
 location: Modena
 date_start: 2025-03-01
 rounds_format: 3R+F
 players_count: 70
-winner: Frédéric Pin
-vekn_number: 3200006
-event_url: https://www.vekn.net/event-calendar/event/11865
-event_id: '11865'
+winner: Frederic Pin
 deck:
   player:
     name: '139'
@@ -84,10 +82,10 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: The Barrens
+      name: Barrens, The
       id: 100135
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -99,7 +97,7 @@ deck:
       name: Effective Management
       id: 100616
     - count: 1
-      name: The Erciyes Fragments
+      name: Erciyes Fragments, The
       id: 100656
     - count: 1
       name: Giant's Blood
@@ -108,7 +106,7 @@ deck:
       name: Guardian Angel
       id: 100866
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
@@ -147,7 +145,7 @@ deck:
       name: Daring the Dawn
       id: 100492
     - count: 1
-      name: The Kiss of Ra
+      name: Kiss of Ra, The
       id: 101062
   - name: Reaction
     count: 27
@@ -192,5 +190,6 @@ deck:
       name: Weighted Walking Stick
       id: 102169
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11865
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11865.zip

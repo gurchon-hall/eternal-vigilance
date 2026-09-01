@@ -1,12 +1,10 @@
+event_id: '11739'
 name: VtES Finnish Nationals 2024
 location: Kerava
 date_start: 2024-11-09
 rounds_format: 3R+F
 players_count: 30
 winner: Jonas Ståhle
-vekn_number: 8090005
-event_url: https://www.vekn.net/event-calendar/event/11739
-event_id: '11739'
 deck:
   player:
     name: '1008'
@@ -113,7 +111,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 3
       name: Dabbler
@@ -155,7 +153,7 @@ deck:
       name: Mind Numb
       id: 101211
     - count: 12
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
       id: 102232
     - count: 1
       name: Shattering
@@ -254,5 +252,6 @@ deck:
       name: Scourge of the Enochians
       id: 101697
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11739
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11739.zip

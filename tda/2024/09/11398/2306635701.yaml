@@ -1,12 +1,10 @@
+event_id: '11398'
 name: German Nationals 2024
 location: Darmstadt
 date_start: 2024-09-07
 rounds_format: 3R+F
 players_count: 32
-winner: Alexander Tüschen
-vekn_number: 5810006
-event_url: https://www.vekn.net/event-calendar/event/11398
-event_id: '11398'
+winner: ''
 deck:
   player:
     name: '2306635701'
@@ -80,7 +78,7 @@ deck:
       name: Monastery of Shadows
       id: 101238
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: Sudden Reversal
@@ -206,5 +204,6 @@ deck:
       name: Walk of Flame
       id: 102139
 winner_vekn_number: 8638881481
+event_url: https://www.vekn.net/event-calendar/event/11398
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11398.zip

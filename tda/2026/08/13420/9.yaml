@@ -1,0 +1,187 @@
+event_id: '13420'
+name: Russian Nationals 2026
+location: Sankt-Petersburg
+date_start: 2026-08-01
+rounds_format: 2R+F
+players_count: 16
+winner: ''
+deck:
+  player:
+    name: '9'
+    vekn_number: 9
+  name: Nosferatu 1.3
+  description: ''
+  crypt_count: 11
+  crypt_min: 23
+  crypt_max: 26
+  crypt_avg: 6.09
+  crypt:
+  - count: 3
+    name: Larissa Moreira
+    id: 201553
+    capacity: 6
+    disciplines: pot ANI OBF
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 3
+    name: Lenny Burkhead
+    id: 201555
+    capacity: 6
+    disciplines: obf pot pre ANI
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 2
+    name: Dowager, The
+    id: 201545
+    capacity: 6
+    disciplines: aus pot ANI OBF
+    title: Primogen
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Horace Radcliffe
+    id: 201549
+    capacity: 5
+    disciplines: obf ANI POT
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Nathaniel Bordruff
+    id: 201632
+    capacity: 7
+    disciplines: ani DOM OBF POT
+    clan: Nosferatu
+    grouping: 6
+  - count: 1
+    name: Nikolaus Vermeulen
+    id: 201705
+    capacity: 7
+    disciplines: for obf ANI POT
+    title: Prince
+    clan: Nosferatu
+    grouping: 6
+  library_count: 80
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Labyrinth, The
+      id: 101070
+    - count: 2
+      name: Life in the City
+      id: 101104
+    - count: 1
+      name: Potence
+      id: 101424
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Slum Hunting Ground
+      id: 101808
+    - count: 1
+      name: Smiling Jack, The Anarch
+      id: 101811
+    - count: 2
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Villein
+      id: 102121
+    - count: 1
+      name: WMRH Talk Radio
+      id: 102189
+    - count: 1
+      name: Warsaw Station
+      id: 102149
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 14
+    cards:
+    - count: 1
+      name: Army of Rats
+      id: 100093
+    - count: 4
+      name: Creeping Sabotage
+      id: 102213
+    - count: 9
+      name: Deep Song
+      id: 100515
+  - name: Ally
+    count: 2
+    cards:
+    - count: 2
+      name: Underbridge Stray
+      id: 102065
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Retainer
+    count: 1
+    cards:
+    - count: 1
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 24
+    cards:
+    - count: 5
+      name: Cats' Guidance
+      id: 100308
+    - count: 3
+      name: Guard Dogs
+      id: 100863
+    - count: 2
+      name: Instinctive Reaction
+      id: 100995
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Protected District
+      id: 102214
+    - count: 2
+      name: Rat's Warning
+      id: 101547
+    - count: 4
+      name: Warrens, The
+      id: 102216
+  - name: Combat
+    count: 21
+    cards:
+    - count: 4
+      name: Carrion Crows
+      id: 100301
+    - count: 4
+      name: Immortal Grapple
+      id: 100959
+    - count: 9
+      name: Roundhouse
+      id: 102215
+    - count: 4
+      name: Taste of Vitae
+      id: 101945
+winner_vekn_number: 7
+event_url: https://www.vekn.net/event-calendar/event/13420
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/13420.zip

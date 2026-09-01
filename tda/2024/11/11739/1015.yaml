@@ -1,12 +1,10 @@
+event_id: '11739'
 name: VtES Finnish Nationals 2024
 location: Kerava
 date_start: 2024-11-09
 rounds_format: 3R+F
 players_count: 30
 winner: Jonas Ståhle
-vekn_number: 8090005
-event_url: https://www.vekn.net/event-calendar/event/11739
-event_id: '11739'
 deck:
   player:
     name: '1015'
@@ -19,14 +17,14 @@ deck:
   crypt_avg: 6.42
   crypt:
   - count: 6
-    name: The unnamed
+    name: unnamed, The
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
     grouping: 6
   - count: 5
-    name: The Horde
+    name: Horde, The
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -153,5 +151,6 @@ deck:
       name: Narrow Minds
       id: 101265
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11739
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11739.zip

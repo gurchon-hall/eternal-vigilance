@@ -1,12 +1,10 @@
+event_id: '11192'
 name: White Turtle
 location: Vác - Hungary
 date_start: 2024-01-27
 rounds_format: 2R+F
 players_count: 20
-winner: Mark Virsinger
-vekn_number: 3540231
-event_url: https://www.vekn.net/event-calendar/event/11192
-event_id: '11192'
+winner: Márk Virsinger
 deck:
   player:
     name: '111'
@@ -87,7 +85,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 6
       name: Villein
@@ -150,5 +148,6 @@ deck:
       name: Taste of Vitae
       id: 101945
 winner_vekn_number: 111
+event_url: https://www.vekn.net/event-calendar/event/11192
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11192.zip

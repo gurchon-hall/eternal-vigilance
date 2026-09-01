@@ -1,0 +1,198 @@
+event_id: '13420'
+name: Russian Nationals 2026
+location: Sankt-Petersburg
+date_start: 2026-08-01
+rounds_format: 2R+F
+players_count: 16
+winner: ''
+deck:
+  player:
+    name: '11'
+    vekn_number: 11
+  name: Mistress
+  description: ''
+  crypt_count: 12
+  crypt_min: 34
+  crypt_max: 44
+  crypt_avg: 9.83
+  crypt:
+  - count: 4
+    name: Mistress Fanchon
+    id: 200999
+    capacity: 11
+    disciplines: AUS CEL DOM OBF THA VIC
+    title: Inner Circle
+    clan: Tremere
+    grouping: 4
+  - count: 4
+    name: Orlando Oriundus
+    id: 201084
+    capacity: 9
+    disciplines: obf AUS DOM THA
+    title: Bishop
+    clan: Tremere antitribu
+    grouping: 4
+  - count: 1
+    name: Alonso Petrodon
+    id: 200060
+    capacity: 10
+    disciplines: for tha ANI DOM OBF POT
+    title: Justicar
+    clan: Nosferatu
+    grouping: 5
+  - count: 1
+    name: Gabrielle di Righetti
+    id: 200489
+    capacity: 10
+    disciplines: obf pot ANI AUS DOM THA
+    title: Justicar
+    clan: Tremere
+    grouping: 5
+  - count: 1
+    name: Graham Gottesman
+    id: 200533
+    capacity: 7
+    disciplines: obf pre tha DOM FOR
+    title: Prince
+    clan: Ventrue
+    grouping: 5
+  - count: 1
+    name: Rafael de Corazon
+    id: 201151
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  library_count: 84
+  library_sections:
+  - name: Master
+    count: 23
+    cards:
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: Metro Underground
+      id: 101207
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 7
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+    - count: 3
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 10
+    cards:
+    - count: 1
+      name: Far Mastery
+      id: 100703
+    - count: 7
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Magic of the Smith
+      id: 101143
+  - name: Political Action
+    count: 11
+    cards:
+    - count: 2
+      name: Alastor
+      id: 100038
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 3
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Disputed Territory
+      id: 100557
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 1
+      name: Agate Talisman
+      id: 100024
+    - count: 2
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 2
+      name: Helicopter
+      id: 100909
+  - name: Action Modifier
+    count: 17
+    cards:
+    - count: 2
+      name: Elder Impersonation
+      id: 100617
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 7
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 7
+      name: Into Thin Air
+      id: 101001
+  - name: Reaction
+    count: 17
+    cards:
+    - count: 10
+      name: Deflection
+      id: 100518
+    - count: 6
+      name: Obedience
+      id: 101309
+    - count: 1
+      name: Redirection
+      id: 101578
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 7
+event_url: https://www.vekn.net/event-calendar/event/13420
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/13420.zip
