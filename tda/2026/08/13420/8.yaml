@@ -1,10 +1,12 @@
-event_id: '13420'
-name: Russian Nationals 2026
+name: Russian national
 location: Sankt-Petersburg
 date_start: 2026-08-01
 rounds_format: 2R+F
 players_count: 16
-winner: ''
+winner: Vladislav Ignatenko
+vekn_number: 2520011
+event_url: https://www.vekn.net/event-calendar/event/13420
+event_id: '13420'
 deck:
   player:
     name: '8'
@@ -105,7 +107,7 @@ deck:
       name: Garibaldi-Meucci Museum
       id: 100809
     - count: 1
-      name: Marrakesh Codex, The
+      name: The Marrakesh Codex
       id: 101172
     - count: 1
       name: Park Hunting Ground
@@ -201,6 +203,5 @@ deck:
       name: Narrow Minds
       id: 101265
 winner_vekn_number: 7
-event_url: https://www.vekn.net/event-calendar/event/13420
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/13420.zip
