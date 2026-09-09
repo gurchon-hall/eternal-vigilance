@@ -90,13 +90,13 @@ deck:
     count: 11
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Anarch Revolt
       id: 100055
     - count: 1
-      name: The Barrens
+      name: Barrens, The
       id: 100135
     - count: 3
       name: Blood Doll
@@ -138,7 +138,7 @@ deck:
       name: Underbridge Stray
       id: 102065
     - count: 1
-      name: The Vozhd of Sofia
+      name: Vozhd of Sofia, The
       id: 102267
     - count: 2
       name: War Ghoul
