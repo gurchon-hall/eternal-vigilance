@@ -1,10 +1,12 @@
-event_id: '12818'
 name: VtES Finnish Nationals 2026
 location: Vantaa
 date_start: 2026-04-25
 rounds_format: 3R+F
 players_count: 41
 winner: Tommi Hakomaa
+vekn_number: 3530067
+event_url: https://www.vekn.net/event-calendar/event/12818
+event_id: '12818'
 deck:
   player:
     name: '129'
@@ -203,6 +205,5 @@ deck:
       name: Torrent
       id: 101995
 winner_vekn_number: 101
-event_url: https://www.vekn.net/event-calendar/event/12818
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12818.zip

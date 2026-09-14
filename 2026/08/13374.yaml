@@ -88,7 +88,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: "Haqim's Law: Retribution"
@@ -184,7 +184,7 @@ deck:
       name: Blood Trade
       id: 100215
     - count: 1
-      name: Fourth Cycle, The
+      name: The Fourth Cycle
       id: 100781
     - count: 1
       name: Scourge of the Enochians

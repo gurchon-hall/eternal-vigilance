@@ -1,10 +1,12 @@
-event_id: '12069'
-name: None
+name: VtES Finnish Nationals 2025
 location: Vantaa
 date_start: 2025-04-12
 rounds_format: 3R+F
 players_count: 39
 winner: Teemu Sainomaa
+vekn_number: 3070069
+event_url: https://www.vekn.net/event-calendar/event/12069
+event_id: '12069'
 deck:
   player:
     name: '116'
@@ -17,7 +19,7 @@ deck:
   crypt_avg: 6.75
   crypt:
   - count: 3
-    name: Arcadian, The
+    name: The Arcadian
     id: 200127
     capacity: 8
     disciplines: chi for DOM MYT OBT
@@ -69,7 +71,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Dreams of the Sphinx
@@ -159,6 +161,5 @@ deck:
       name: On the Qui Vive
       id: 101321
 winner_vekn_number: 101
-event_url: https://www.vekn.net/event-calendar/event/12069
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12069.zip

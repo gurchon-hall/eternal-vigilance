@@ -96,7 +96,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Direct Intervention
@@ -117,7 +117,7 @@ deck:
       name: Millicent Smith, Puritan Vampire Hunter
       id: 101210
     - count: 2
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
       name: Storage Annex
@@ -183,7 +183,7 @@ deck:
       name: Restricted Vitae
       id: 101614
     - count: 1
-      name: Slow Withering, The
+      name: The Slow Withering
       id: 101807
     - count: 2
       name: Thirst
@@ -192,7 +192,7 @@ deck:
       name: Torpid Blood
       id: 101994
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
     - count: 1
       name: Veil of Darkness

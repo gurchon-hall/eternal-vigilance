@@ -1,10 +1,12 @@
-event_id: '11594'
-name: Camarilla Conclave Grand Prix 2024
+name: 'Iberian Grand Prix: Cónclave de la Camarilla'
 location: Palma
 date_start: 2024-11-16
 rounds_format: 3R+F
 players_count: 89
-winner: P045
+winner: Miguel Vega Piniella
+vekn_number: 9510100
+event_url: https://www.vekn.net/event-calendar/event/11594
+event_id: '11594'
 deck:
   player:
     name: '1033'
@@ -95,7 +97,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 2
       name: Direct Intervention
@@ -107,7 +109,7 @@ deck:
       name: Palla Grande
       id: 101346
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Barranquilla'
@@ -116,7 +118,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
@@ -137,7 +139,7 @@ deck:
       name: Art Scam
       id: 100099
     - count: 4
-      name: Embrace, The
+      name: The Embrace
       id: 100633
   - name: Ally
     count: 1
@@ -206,6 +208,5 @@ deck:
       name: Weighted Walking Stick
       id: 102169
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11594
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

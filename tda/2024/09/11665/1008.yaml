@@ -1,10 +1,12 @@
-event_id: '11665'
 name: Week of Nightmares 2024 - Day 3
 location: Warsaw
 date_start: 2024-09-26
 rounds_format: 2R+F
 players_count: 48
 winner: Tero Aalto
+vekn_number: 8460002
+event_url: https://www.vekn.net/event-calendar/event/11665
+event_id: '11665'
 deck:
   player:
     name: '1008'
@@ -125,7 +127,7 @@ deck:
       name: Information Highway
       id: 100984
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 2
       name: Vessel
@@ -224,6 +226,5 @@ deck:
       name: Form of Mist
       id: 100771
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11665
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11665.zip

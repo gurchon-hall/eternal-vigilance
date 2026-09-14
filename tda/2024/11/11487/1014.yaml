@@ -1,10 +1,12 @@
-event_id: '11487'
-name: Nacional 2024
+name: Nacional Portugal 2024
 location: Lisboa
 date_start: 2024-11-02
 rounds_format: 3R+F
 players_count: 33
-winner: Eduardo  Manuel dos Santos Mateus
+winner: Eduardo Manuel Mateus
+vekn_number: 3120073
+event_url: https://www.vekn.net/event-calendar/event/11487
+event_id: '11487'
 deck:
   player:
     name: '1014'
@@ -81,13 +83,13 @@ deck:
       name: Angel of Berlin
       id: 100067
     - count: 1
-      name: Church of Vindicated Faith, The
+      name: The Church of Vindicated Faith
       id: 100348
     - count: 1
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Rose Foundation, The
+      name: The Rose Foundation
       id: 101653
     - count: 1
       name: Smiling Jack, The Anarch
@@ -153,7 +155,7 @@ deck:
       name: .44 Magnum
       id: 100001
     - count: 1
-      name: Crusader Sword, The
+      name: The Crusader Sword
       id: 100474
     - count: 1
       name: Ivory Bow
@@ -192,9 +194,8 @@ deck:
       name: NRA PAC
       id: 101305
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11487
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip

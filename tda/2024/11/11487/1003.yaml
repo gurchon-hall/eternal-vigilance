@@ -1,10 +1,12 @@
-event_id: '11487'
-name: Nacional 2024
+name: Nacional Portugal 2024
 location: Lisboa
 date_start: 2024-11-02
 rounds_format: 3R+F
 players_count: 33
-winner: Eduardo  Manuel dos Santos Mateus
+winner: Eduardo Manuel Mateus
+vekn_number: 3120073
+event_url: https://www.vekn.net/event-calendar/event/11487
+event_id: '11487'
 deck:
   player:
     name: '1003'
@@ -88,7 +90,7 @@ deck:
     count: 20
     cards:
     - count: 1
-      name: Anarch Free Press, The
+      name: The Anarch Free Press
       id: 100052
     - count: 1
       name: Carfax Abbey
@@ -103,7 +105,7 @@ deck:
       name: Ecoterrorists
       id: 100609
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Garibaldi-Meucci Museum
@@ -115,7 +117,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
@@ -142,7 +144,7 @@ deck:
       name: Rewilding
       id: 101632
     - count: 1
-      name: Status Perfectus, The
+      name: The Status Perfectus
       id: 101863
     - count: 5
       name: Thing
@@ -217,6 +219,5 @@ deck:
       name: Scourge of the Enochians
       id: 101697
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11487
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip

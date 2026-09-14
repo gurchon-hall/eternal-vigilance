@@ -1,10 +1,12 @@
-event_id: '12224'
 name: BR2025 - Campeonato Brasileiro de VTES
 location: Volta Redonda - RJ
 date_start: 2025-06-07
 rounds_format: 3R+F
 players_count: 114
 winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/12224
+event_id: '12224'
 deck:
   player:
     name: '135'
@@ -66,10 +68,10 @@ deck:
       name: Liquidation
       id: 101112
     - count: 1
-      name: Parthenon, The
+      name: The Parthenon
       id: 101355
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 3
       name: Piper
@@ -78,7 +80,7 @@ deck:
       name: Secure Haven
       id: 101711
     - count: 2
-      name: Shard, London, The
+      name: The Shard, London
       id: 102244
   - name: Action
     count: 10
@@ -153,9 +155,8 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 3
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
 winner_vekn_number: 101
-event_url: https://www.vekn.net/event-calendar/event/12224
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

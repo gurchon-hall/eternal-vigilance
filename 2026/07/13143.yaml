@@ -109,7 +109,7 @@ deck:
     count: 5
     cards:
     - count: 1
-      name: Book of Going Forth by Night, The
+      name: The Book of Going Forth by Night
       id: 100239
     - count: 1
       name: Flak Jacket

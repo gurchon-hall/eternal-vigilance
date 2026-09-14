@@ -1,10 +1,12 @@
-event_id: '11398'
 name: German Nationals 2024
 location: Darmstadt
 date_start: 2024-09-07
 rounds_format: 3R+F
 players_count: 32
-winner: ''
+winner: Alexander Tüschen
+vekn_number: 5810006
+event_url: https://www.vekn.net/event-calendar/event/11398
+event_id: '11398'
 deck:
   player:
     name: '1631978624'
@@ -92,7 +94,7 @@ deck:
       name: Club Illusion
       id: 100366
     - count: 2
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 3
       name: Dreams of the Sphinx
@@ -158,7 +160,7 @@ deck:
       name: Heart of Nizchetus
       id: 100903
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
   - name: Action Modifier
     count: 18
@@ -215,6 +217,5 @@ deck:
       name: Scourge of the Enochians
       id: 101697
 winner_vekn_number: 8638881481
-event_url: https://www.vekn.net/event-calendar/event/11398
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11398.zip

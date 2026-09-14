@@ -1,10 +1,12 @@
-event_id: '12224'
 name: BR2025 - Campeonato Brasileiro de VTES
 location: Volta Redonda - RJ
 date_start: 2025-06-07
 rounds_format: 3R+F
 players_count: 114
 winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/12224
+event_id: '12224'
 deck:
   player:
     name: '171'
@@ -25,7 +27,7 @@ deck:
     clan: Nosferatu
     grouping: 5
   - count: 3
-    name: Dowager, The
+    name: The Dowager
     id: 201545
     capacity: 6
     disciplines: aus pot ANI OBF
@@ -68,7 +70,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: Barrens, The
+      name: The Barrens
       id: 100135
     - count: 1
       name: Direct Intervention
@@ -83,7 +85,7 @@ deck:
       name: Guardian Angel
       id: 100866
     - count: 1
-      name: Labyrinth, The
+      name: The Labyrinth
       id: 101070
     - count: 1
       name: 'Powerbase: Montreal'
@@ -134,7 +136,7 @@ deck:
       name: Protected District
       id: 102214
     - count: 1
-      name: Warrens, The
+      name: The Warrens
       id: 102216
   - name: Combat
     count: 36
@@ -155,6 +157,5 @@ deck:
       name: Terror Frenzy
       id: 101960
 winner_vekn_number: 101
-event_url: https://www.vekn.net/event-calendar/event/12224
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip
