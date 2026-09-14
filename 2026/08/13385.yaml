@@ -82,7 +82,7 @@ deck:
       name: Obtenebration
       id: 101312
     - count: 1
-      name: The Path of Night
+      name: Path of Night, The
       id: 101365
     - count: 1
       name: Political Hunting Ground
@@ -130,7 +130,7 @@ deck:
       name: Shroud of Night
       id: 101775
     - count: 3
-      name: The Sleeping Mind
+      name: Sleeping Mind, The
       id: 101805
     - count: 3
       name: Tenebrous Form
