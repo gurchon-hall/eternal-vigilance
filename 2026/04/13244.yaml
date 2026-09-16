@@ -1,7 +1,7 @@
 name: WA State Championship 2026
 location: Perth, Australia
 date_start: 2026-04-19
-rounds_format: 3R+F
+rounds_format: 2R+F
 players_count: 14
 winner: Ben Szymkow
 vekn_number: 4230008
@@ -63,7 +63,7 @@ deck:
       name: Fame
       id: 100698
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 6
       name: Villein
