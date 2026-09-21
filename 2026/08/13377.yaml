@@ -74,7 +74,7 @@ deck:
     count: 14
     cards:
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Giant's Blood
@@ -89,13 +89,13 @@ deck:
       name: Papillon
       id: 101350
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Barranquilla'
       id: 101431
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 2
       name: Terrifying Visage
