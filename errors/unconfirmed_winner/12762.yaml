@@ -1,0 +1,174 @@
+name: Club Torpor
+location: Vilnius, Lithuania
+date_start: 2026-09-20
+rounds_format: 3R+F
+players_count: 104
+winner: Aleksandr Mandrichenko
+vekn_number: 3030057
+event_url: https://www.vekn.net/event-calendar/event/12762
+event_id: 12762
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83240-twd-club-torpor-vilnius-lithuania-20-sep-2026
+deck:
+  name: 'Wraiths in the Shell: Deadly Gifts'
+  description: ''
+  crypt_count: 12
+  crypt_min: 11
+  crypt_max: 22
+  crypt_avg: 4.0
+  crypt:
+  - count: 2
+    name: Anxo Vilela
+    id: 201740
+    capacity: 6
+    disciplines: dom obl AUS THA
+    clan: Tremere
+    grouping: 6
+    path: Death and the Soul
+  - count: 2
+    name: El Monseñor
+    id: 201749
+    capacity: 4
+    disciplines: dom OBL
+    clan: Lasombra
+    grouping: 6
+    path: Death and the Soul
+  - count: 2
+    name: Nadezhda
+    id: 201765
+    capacity: 3
+    disciplines: aus obl
+    clan: Hecata
+    grouping: 6
+    path: Death and the Soul
+  - count: 2
+    name: Zbigniew, Hunter of Mekhet
+    id: 201780
+    capacity: 5
+    disciplines: aus dom tha OBL
+    clan: Lasombra
+    grouping: 6
+    path: Death and the Soul
+  - count: 1
+    name: Alek König
+    id: 201717
+    capacity: 3
+    disciplines: OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Araceli "Celia" Rivera
+    id: 201709
+    capacity: 3
+    disciplines: dom obl
+    clan: Lasombra
+    grouping: 6
+  - count: 1
+    name: Braden White
+    id: 201711
+    capacity: 4
+    disciplines: dom obl pot
+    clan: Lasombra
+    grouping: 6
+  - count: 1
+    name: Peter St. John
+    id: 201727
+    capacity: 2
+    disciplines: obl
+    clan: Hecata
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 20
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 3
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 4
+      name: Life in the City
+      id: 101104
+    - count: 2
+      name: Oblivion
+      id: 102277
+    - count: 3
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Sudden Reversal
+      id: 101896
+    - count: 1
+      name: Wash
+      id: 102151
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 11
+    cards:
+    - count: 11
+      name: Computer Hacking
+      id: 100390
+  - name: Ally
+    count: 16
+    cards:
+    - count: 16
+      name: Spectral Servitor
+      id: 102296
+  - name: Action Modifier
+    count: 31
+    cards:
+    - count: 2
+      name: Conditioning
+      id: 100401
+    - count: 7
+      name: Gifts From Hereafter
+      id: 102325
+    - count: 4
+      name: Leverage
+      id: 101098
+    - count: 7
+      name: Shadow Cast
+      id: 102280
+    - count: 7
+      name: Shadow Cloak
+      id: 102281
+    - count: 2
+      name: Stygian Shroud
+      id: 102282
+    - count: 2
+      name: Where the Veil Thins
+      id: 102285
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 4
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Delaying Tactics
+      id: 100519
+    - count: 6
+      name: Shadow Sentinel
+      id: 102294
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Unmasking, The
+      id: 102079
