@@ -1,0 +1,236 @@
+name: Black Sunrise CG
+location: Campina Grande (PB), Brazil
+date_start: 2026-08-30
+rounds_format: 2R+F
+players_count: 12
+winner: Joab Rogerio Barbosa da Silva
+vekn_number: 1004065
+event_url: https://www.vekn.net/event-calendar/event/13503
+event_id: 13503
+vp_comment: 1GW5 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13503
+deck:
+  name: Path of Power and the Inner Voice Starter
+  description: ''
+  crypt_count: 12
+  crypt_min: 14
+  crypt_max: 35
+  crypt_avg: 6.33
+  crypt:
+  - count: 1
+    name: Aaradhya, The Callous Tyrant
+    id: 201733
+    capacity: 10
+    disciplines: ANI DOM FOR POT PRE
+    title: Cardinal
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Věnceslava, The Implacable
+    id: 201776
+    capacity: 9
+    disciplines: cel DOM FOR POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Damian
+    id: 201747
+    capacity: 8
+    disciplines: for pre DOM OBL POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Rexton "Savage" Abernathy
+    id: 201770
+    capacity: 8
+    disciplines: cel DOM POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Üresség
+    id: 201775
+    capacity: 8
+    disciplines: dom for CEL POT PRE
+    title: Archbishop
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Khin Aye
+    id: 201760
+    capacity: 7
+    disciplines: dom for POT PRE
+    title: Priscus
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Concordia
+    id: 201744
+    capacity: 6
+    disciplines: for pot DOM PRE
+    title: Bishop
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Rasha Tarabzouni
+    id: 201769
+    capacity: 6
+    disciplines: obl pre DOM POT
+    title: Bishop
+    clan: Lasombra
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Lyyli Yösydän
+    id: 201764
+    capacity: 5
+    disciplines: dom for obl POT
+    clan: Lasombra
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Onkabetse, Arriviste
+    id: 201766
+    capacity: 4
+    disciplines: for pot pre
+    clan: Brujah
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Lika, The Purger
+    id: 201762
+    capacity: 3
+    disciplines: dom pot
+    clan: Lasombra
+    grouping: 6
+    path: Power and the Inner Voice
+  - count: 1
+    name: Suwira
+    id: 201774
+    capacity: 2
+    disciplines: pre
+    clan: Ventrue
+    grouping: 6
+    path: Power and the Inner Voice
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 12
+    cards:
+    - count: 1
+      name: Black Forest Base
+      id: 100165
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Día de los Muertos
+      id: 100541
+    - count: 1
+      name: 'Powerbase: Madrid'
+      id: 101437
+    - count: 1
+      name: Privileged Position
+      id: 102334
+    - count: 1
+      name: Regent
+      id: 101587
+    - count: 3
+      name: Unholy Sacrament
+      id: 102345
+    - count: 3
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 8
+    cards:
+    - count: 6
+      name: Enchant Kindred
+      id: 100640
+    - count: 2
+      name: Under Siege
+      id: 102063
+  - name: Political Action
+    count: 15
+    cards:
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 1
+      name: Cardinal Benediction
+      id: 100294
+    - count: 2
+      name: Cold War
+      id: 102312
+    - count: 3
+      name: Empires Fall
+      id: 102318
+    - count: 5
+      name: Kine Resources Contested
+      id: 101056
+    - count: 2
+      name: War of Ages
+      id: 102348
+  - name: Action Modifier
+    count: 23
+    cards:
+    - count: 1
+      name: Daring the Dawn
+      id: 100492
+    - count: 4
+      name: Dominant Personality
+      id: 102316
+    - count: 4
+      name: Freak Drive
+      id: 100788
+    - count: 2
+      name: Iron Glare
+      id: 101008
+    - count: 2
+      name: Magnetic Authority
+      id: 102331
+    - count: 2
+      name: Private Audience
+      id: 101490
+    - count: 4
+      name: Relentlessness
+      id: 102337
+    - count: 2
+      name: Unthinkable Humiliation
+      id: 102346
+    - count: 2
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 3
+    cards:
+    - count: 3
+      name: Absolute Tyranny
+      id: 102308
+  - name: Reaction
+    count: 10
+    cards:
+    - count: 5
+      name: Deflection
+      id: 100518
+    - count: 5
+      name: On the Qui Vive
+      id: 101321
+  - name: Combat
+    count: 6
+    cards:
+    - count: 3
+      name: Catatonic Fear
+      id: 100307
+    - count: 3
+      name: Majesty
+      id: 101144

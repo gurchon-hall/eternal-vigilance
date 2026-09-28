@@ -1,0 +1,158 @@
+name: SIX SEVEN
+location: São Paulo, Brazil
+date_start: 2026-07-26
+rounds_format: 2R+F
+players_count: 10
+winner: Honorato Alexandre
+vekn_number: 7060020
+event_url: https://www.vekn.net/event-calendar/event/13446
+event_id: 13446
+vp_comment: 0GW0.5 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13446
+deck:
+  name: Brasília (Kemet)
+  description: ''
+  crypt_count: 21
+  crypt_min: 16
+  crypt_max: 34
+  crypt_avg: 4.86
+  crypt:
+  - count: 18
+    name: Aabbt Kindred
+    id: 200001
+    capacity: 4
+    disciplines: for pre ser
+    clan: Ministry
+    grouping: 2
+  - count: 3
+    name: Nefertiti (ADV)
+    id: 201520
+    capacity: 10
+    disciplines: cel pot DOM OBF PRE SER
+    clan: Ministry
+    grouping: 2
+  library_count: 71
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 1
+      name: Creepshow Casino
+      id: 100444
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Ferraille
+      id: 100722
+    - count: 1
+      name: Fortschritt Library
+      id: 100775
+    - count: 1
+      name: Opium Den
+      id: 101326
+    - count: 5
+      name: Presence
+      id: 101480
+    - count: 2
+      name: Protected Resources
+      id: 101500
+    - count: 1
+      name: Temple Hunting Ground
+      id: 101953
+    - count: 2
+      name: Tribute to the Master
+      id: 102023
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 8
+    cards:
+    - count: 2
+      name: Charming Lobby
+      id: 100334
+    - count: 6
+      name: Mesu Bedshet
+      id: 101206
+  - name: Ally
+    count: 1
+    cards:
+    - count: 1
+      name: Ossian
+      id: 101333
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Political Action
+    count: 18
+    cards:
+    - count: 3
+      name: Consanguineous Boon
+      id: 100410
+    - count: 2
+      name: Hierophant
+      id: 100923
+    - count: 4
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Political Flux
+      id: 101414
+    - count: 6
+      name: Reckless Agitation
+      id: 101567
+    - count: 1
+      name: Rumors of Gehenna
+      id: 101663
+    - count: 1
+      name: Year of Fortune
+      id: 102200
+  - name: Action Modifier
+    count: 15
+    cards:
+    - count: 6
+      name: Bewitching Oration
+      id: 100157
+    - count: 3
+      name: Perfect Paragon
+      id: 101387
+    - count: 6
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Force of Personality
+      id: 100758
+  - name: Event
+    count: 7
+    cards:
+    - count: 1
+      name: Blood Trade
+      id: 100215
+    - count: 1
+      name: Fall of the Camarilla
+      id: 100695
+    - count: 1
+      name: Fall of the Sabbat
+      id: 100696
+    - count: 1
+      name: Nightmares upon Nightmares
+      id: 101285
+    - count: 1
+      name: Rise of the Nephtali
+      id: 101639
+    - count: 1
+      name: Torpid Blood
+      id: 101994
+    - count: 1
+      name: Wormwood
+      id: 102194

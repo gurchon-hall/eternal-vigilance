@@ -1,0 +1,171 @@
+name: Torneo Marató de TV3 2017
+location: Badia del Vallès, Spain
+date_start: 2017-12-23
+rounds_format: 3R+F
+players_count: 19
+winner: Héctor Javier Ordóñez García
+vekn_number: 4960048
+event_url: https://www.vekn.net/event-calendar/event/8808
+event_id: 8808
+vp_comment: 3GW9.5 + 4vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/8808
+deck:
+  name: Panyum panyum
+  description: This deck was designed while I was in a very long trip in South 
+    America. While travelling with my bycicle I stopped in Santiago de Chile, 
+    where I printed the whole deck and played it with the local group.
+  crypt_count: 12
+  crypt_min: 4
+  crypt_max: 24
+  crypt_avg: 3.83
+  crypt:
+  - count: 4
+    name: Anarch Convert
+    id: 200076
+    capacity: 1
+    disciplines: ''
+    clan: Caitiff
+    grouping: ANY
+  - count: 3
+    name: Asguresh
+    id: 200145
+    capacity: 6
+    disciplines: aus CEL NEC
+    clan: Nagaraja
+    grouping: 5
+  - count: 1
+    name: Marguerite Foccart
+    id: 200920
+    capacity: 6
+    disciplines: aus pot CEL PRE
+    clan: Brujah
+    grouping: 4
+  - count: 1
+    name: Spider
+    id: 201308
+    capacity: 6
+    disciplines: ani for CEL PRO
+    clan: Gangrel antitribu
+    grouping: 4
+  - count: 1
+    name: Fairuza
+    id: 200454
+    capacity: 4
+    disciplines: pre CEL
+    clan: Brujah antitribu
+    grouping: 5
+  - count: 1
+    name: Idrissa
+    id: 200621
+    capacity: 4
+    disciplines: aus CEL
+    clan: Osebo
+    grouping: 4
+  - count: 1
+    name: Jenna Cross
+    id: 200688
+    capacity: 4
+    disciplines: pot pre CEL
+    clan: Caitiff
+    grouping: 4
+  library_count: 77
+  library_sections:
+  - name: Master
+    count: 27
+    cards:
+    - count: 5
+      name: Anarch Revolt
+      id: 100055
+    - count: 1
+      name: Archon Investigation
+      id: 100085
+    - count: 9
+      name: Ashur Tablets
+      id: 100106
+    - count: 2
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Haven Uncovered
+      id: 100897
+    - count: 2
+      name: Liquidation
+      id: 101112
+    - count: 4
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 9
+    cards:
+    - count: 3
+      name: Bum's Rush
+      id: 100266
+    - count: 1
+      name: Constant Revolution
+      id: 100416
+    - count: 2
+      name: Fleetness
+      id: 100747
+    - count: 3
+      name: Harass
+      id: 100886
+  - name: Equipment
+    count: 7
+    cards:
+    - count: 6
+      name: .44 Magnum
+      id: 100001
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Action Modifier
+    count: 1
+    cards:
+    - count: 1
+      name: Monkey Wrench
+      id: 101239
+  - name: Combat
+    count: 33
+    cards:
+    - count: 1
+      name: Blur
+      id: 100227
+    - count: 6
+      name: Concealed Weapon
+      id: 100392
+    - count: 1
+      name: Fast Hands
+      id: 100704
+    - count: 2
+      name: Groundfighting
+      id: 100861
+    - count: 4
+      name: Infernal Pursuit
+      id: 100980
+    - count: 3
+      name: Projectile
+      id: 101493
+    - count: 4
+      name: Psyche!
+      id: 101507
+    - count: 4
+      name: Scattershot
+      id: 101689
+    - count: 2
+      name: Side Strike
+      id: 101778
+    - count: 2
+      name: Sideslip
+      id: 101779
+    - count: 4
+      name: Taste of Vitae
+      id: 101945

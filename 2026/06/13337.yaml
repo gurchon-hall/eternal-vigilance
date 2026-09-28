@@ -1,0 +1,179 @@
+name: Liga GL/PT 2025-2026 - Last Stand
+location: Lisboa, Portugal
+date_start: 2026-06-27
+rounds_format: 3R+F
+players_count: 11
+winner: Diogo Pratas
+vekn_number: 4300002
+event_url: https://www.vekn.net/event-calendar/event/13337
+event_id: 13337
+vp_comment: 0GW4 + 1.5vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13337
+deck:
+  name: Voice of the Forgotten
+  description: ''
+  crypt_count: 13
+  crypt_min: 28
+  crypt_max: 36
+  crypt_avg: 8.31
+  crypt:
+  - count: 5
+    name: Nehemiah
+    id: 201044
+    capacity: 9
+    disciplines: obt POT PRE SER TEM
+    title: 2 Votes
+    clan: True Brujah
+    grouping: 4
+  - count: 3
+    name: Carolina Vález
+    id: 200249
+    capacity: 9
+    disciplines: aus DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 5
+  - count: 3
+    name: Giangaleazzo, The Traitor
+    id: 200514
+    capacity: 8
+    disciplines: dom OBT POT PRE
+    title: Prince
+    clan: Lasombra
+    grouping: 4
+  - count: 2
+    name: Shawnda Dorrit
+    id: 201278
+    capacity: 6
+    disciplines: obt pot pre CEL
+    title: Priscus
+    clan: Brujah antitribu
+    grouping: 4
+  library_count: 88
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 2
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Tabriz Assembly
+      id: 101924
+    - count: 4
+      name: Villein
+      id: 102121
+    - count: 2
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 5
+    cards:
+    - count: 5
+      name: Enchant Kindred
+      id: 100640
+  - name: Political Action
+    count: 12
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 2
+      name: Banishment
+      id: 100131
+    - count: 6
+      name: Kine Resources Contested
+      id: 101056
+    - count: 2
+      name: Reckless Agitation
+      id: 101567
+  - name: Action Modifier
+    count: 31
+    cards:
+    - count: 2
+      name: Amici Noctis
+      id: 102274
+    - count: 4
+      name: Domain of Evernight
+      id: 100571
+    - count: 3
+      name: Iron Glare
+      id: 101008
+    - count: 4
+      name: Perfect Paragon
+      id: 101387
+    - count: 3
+      name: Pocket Out of Time
+      id: 101405
+    - count: 5
+      name: Shadow Play
+      id: 101743
+    - count: 4
+      name: Shroud of Night
+      id: 101775
+    - count: 6
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 6
+    cards:
+    - count: 6
+      name: Hall of Hades' Court
+      id: 100878
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 7
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: On the Qui Vive
+      id: 101321
+    - count: 1
+      name: Rewind Time
+      id: 101633
+    - count: 2
+      name: Wake with Evening's Freshness
+      id: 102137
+  - name: Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Majesty
+      id: 101144
+  - name: Event
+    count: 3
+    cards:
+    - count: 1
+      name: Blood Trade
+      id: 100215
+    - count: 1
+      name: Break the Code
+      id: 100248
+    - count: 1
+      name: Nightmares upon Nightmares
+      id: 101285

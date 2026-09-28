@@ -1,0 +1,174 @@
+name: Jogos de Guerra - Agosto da Criança Cainita
+location: São Paulo (SP), Brazil
+date_start: 2026-08-22
+rounds_format: 2R+F
+players_count: 10
+winner: DK Magaji
+vekn_number: 6010167
+event_url: https://www.vekn.net/event-calendar/event/13486
+event_id: 13486
+vp_comment: 2GW5 + 3vp in final
+forum_post_url: https://www.vekn.net/event-calendar/event/13486
+deck:
+  name: Bomba Bleed Africano
+  description: ''
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 40
+  crypt_avg: 7.75
+  crypt:
+  - count: 7
+    name: Thucimia
+    id: 201370
+    capacity: 10
+    disciplines: for pro CEL DEM OBF QUI
+    title: 1 Vote
+    clan: Banu Haqim
+    grouping: 4
+  - count: 2
+    name: Luc
+    id: 200866
+    capacity: 5
+    disciplines: dem vic OBF
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Apache Jones
+    id: 200122
+    capacity: 5
+    disciplines: aus for obf DEM
+    clan: Malkavian antitribu
+    grouping: 4
+  - count: 1
+    name: Persia, The Beautiful Statue
+    id: 201111
+    capacity: 5
+    disciplines: aus obf DEM
+    clan: Malkavian
+    grouping: 3
+  - count: 1
+    name: Midget
+    id: 200985
+    capacity: 3
+    disciplines: obf pre DEM
+    clan: Malkavian antitribu
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 2
+      name: Blind Spot
+      id: 100188
+    - count: 2
+      name: Dabbler
+      id: 100485
+    - count: 2
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 6
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 15
+    cards:
+    - count: 2
+      name: Dive into Madness
+      id: 100562
+    - count: 2
+      name: 'Khabar: Glory'
+      id: 101043
+    - count: 6
+      name: Kindred Spirits
+      id: 101055
+    - count: 5
+      name: Loss
+      id: 101124
+  - name: Equipment
+    count: 5
+    cards:
+    - count: 1
+      name: Laptop Computer
+      id: 101073
+    - count: 3
+      name: Learjet
+      id: 101080
+    - count: 1
+      name: Monocle of Clarity
+      id: 101240
+  - name: Retainer
+    count: 2
+    cards:
+    - count: 1
+      name: J. S. Simmons, Esq.
+      id: 101015
+    - count: 1
+      name: Tasha Morgan
+      id: 101943
+  - name: Action Modifier
+    count: 43
+    cards:
+    - count: 6
+      name: Confusion
+      id: 100405
+    - count: 5
+      name: Deed the Heart's Desire
+      id: 100513
+    - count: 3
+      name: Elder Impersonation
+      id: 100617
+    - count: 5
+      name: Enkil Cog
+      id: 100645
+    - count: 5
+      name: Eyes of Chaos
+      id: 100682
+    - count: 3
+      name: Faceless Night
+      id: 100687
+    - count: 7
+      name: Forced March
+      id: 100761
+    - count: 3
+      name: Freak Drive
+      id: 100788
+    - count: 5
+      name: Lost in Crowds
+      id: 101125
+    - count: 1
+      name: Spying Mission
+      id: 101857
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 2
+      name: Deny
+      id: 100524
+    - count: 2
+      name: Swallowed by the Night
+      id: 101913
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 4
+      name: Touch of Clarity
+      id: 101998
+  - name: Reaction
+    count: 2
+    cards:
+    - count: 2
+      name: Confusion of the Eye
+      id: 100406
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Bitter and Sweet Story, The
+      id: 100163
