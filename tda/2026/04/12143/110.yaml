@@ -1,0 +1,209 @@
+event_id: '12143'
+name: 'Praxis Seizure : Garou Rim'
+location: Joensuu
+date_start: 2026-04-25
+rounds_format: 3R+F
+players_count: 13
+winner: Antti Penttilä
+deck:
+  player:
+    name: '110'
+    vekn_number: 110
+  name: 'Praxis Seizure: Garou Rim'
+  description: 0GW1.5
+  crypt_count: 12
+  crypt_min: 17
+  crypt_max: 28
+  crypt_avg: 5.58
+  crypt:
+  - count: 2
+    name: Kite
+    id: 200786
+    capacity: 7
+    disciplines: obf pre AUS DEM
+    title: Bishop
+    clan: Malkavian antitribu
+    grouping: 2
+  - count: 2
+    name: Korah
+    id: 200791
+    capacity: 7
+    disciplines: ani AUS DEM OBF
+    title: Priscus
+    clan: Malkavian antitribu
+    grouping: 2
+  - count: 2
+    name: Dolphin Black
+    id: 200355
+    capacity: 6
+    disciplines: AUS DEM OBF
+    clan: Malkavian antitribu
+    grouping: 2
+  - count: 2
+    name: Uncle George
+    id: 201408
+    capacity: 5
+    disciplines: aus dom obf DEM
+    clan: Malkavian antitribu
+    grouping: 3
+  - count: 1
+    name: General Perfidio Díos
+    id: 200500
+    capacity: 5
+    disciplines: dem obf AUS
+    title: Bishop
+    clan: Malkavian antitribu
+    grouping: 3
+  - count: 1
+    name: Persia, The Beautiful Statue
+    id: 201111
+    capacity: 5
+    disciplines: aus obf DEM
+    clan: Malkavian
+    grouping: 3
+  - count: 1
+    name: Idalia, Prophet of Guadalajara
+    id: 200620
+    capacity: 4
+    disciplines: dem AUS
+    clan: Malkavian antitribu
+    grouping: 2
+  - count: 1
+    name: Midget
+    id: 200985
+    capacity: 3
+    disciplines: obf pre DEM
+    clan: Malkavian antitribu
+    grouping: 3
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 16
+    cards:
+    - count: 1
+      name: Channel 10
+      id: 100327
+    - count: 1
+      name: Charisma
+      id: 100332
+    - count: 2
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Institution Hunting Ground
+      id: 100996
+    - count: 1
+      name: Jake Washington
+      id: 101019
+    - count: 1
+      name: KRCG News Radio
+      id: 101067
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 2
+      name: Rötschreck
+      id: 101654
+    - count: 1
+      name: Sunset Strip, Hollywood
+      id: 101904
+    - count: 3
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 14
+    cards:
+    - count: 11
+      name: Kindred Spirits
+      id: 101055
+    - count: 1
+      name: Lunatic Eruption
+      id: 101132
+    - count: 2
+      name: Under Siege
+      id: 102063
+  - name: Ally
+    count: 7
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: ECTU Operative
+      id: 102237
+    - count: 5
+      name: Escaped Mental Patient
+      id: 100661
+  - name: Action Modifier
+    count: 21
+    cards:
+    - count: 3
+      name: Cloak the Gathering
+      id: 100362
+    - count: 5
+      name: Confusion
+      id: 100405
+    - count: 4
+      name: Eyes of Chaos
+      id: 100682
+    - count: 2
+      name: Faceless Night
+      id: 100687
+    - count: 5
+      name: Lost in Crowds
+      id: 101125
+    - count: 2
+      name: Spying Mission
+      id: 101857
+  - name: Action Modifier/Combat
+    count: 6
+    cards:
+    - count: 4
+      name: Deny
+      id: 100524
+    - count: 2
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 21
+    cards:
+    - count: 3
+      name: Babble
+      id: 100122
+    - count: 3
+      name: Delaying Tactics
+      id: 100519
+    - count: 3
+      name: Eyes of Argus
+      id: 100680
+    - count: 2
+      name: My Enemy's Enemy
+      id: 101259
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 7
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Fake Out
+      id: 100693
+  - name: Event
+    count: 3
+    cards:
+    - count: 3
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12143
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12143.zip

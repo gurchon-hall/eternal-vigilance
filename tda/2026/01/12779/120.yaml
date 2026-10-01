@@ -1,12 +1,10 @@
+event_id: '12779'
 name: Croatian Abuse of Power 2026
 location: Osijek
 date_start: 2026-01-24
 rounds_format: 3R+F
 players_count: 40
-winner: Nikica Novaković
-vekn_number: 1005186
-event_url: https://www.vekn.net/event-calendar/event/12779
-event_id: '12779'
+winner: ''
 deck:
   player:
     name: '120'
@@ -19,7 +17,7 @@ deck:
   crypt_avg: 6.92
   crypt:
   - count: 6
-    name: The unnamed
+    name: unnamed, The
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -47,7 +45,7 @@ deck:
     clan: Ministry
     grouping: 6
   - count: 2
-    name: The Horde
+    name: Horde, The
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -192,5 +190,6 @@ deck:
       name: Narrow Minds
       id: 101265
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12779
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12779.zip

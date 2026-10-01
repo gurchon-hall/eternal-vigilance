@@ -1,0 +1,216 @@
+event_id: online2
+name: Empires Fall
+location: Online
+date_start: 2025-07-15
+rounds_format: 3R+F
+players_count: 23
+winner: TiJean
+deck:
+  player:
+    name: '107'
+    vekn_number: 107
+  name: Empires Fall JOL
+  description: 1GW5
+  crypt_count: 12
+  crypt_min: 16
+  crypt_max: 30
+  crypt_avg: 5.67
+  crypt:
+  - count: 2
+    name: Nonu Dis
+    id: 201608
+    capacity: 8
+    disciplines: for OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Hesha Ruhadze
+    id: 201591
+    capacity: 7
+    disciplines: ani aus obf PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Crystal Lynn
+    id: 201582
+    capacity: 6
+    disciplines: OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Elisha Tucker
+    id: 201586
+    capacity: 6
+    disciplines: cel obf pro PRE
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Aluc Romas de Leon
+    id: 201577
+    capacity: 5
+    disciplines: aus obf pro PRE
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Doctor Morocco
+    id: 201584
+    capacity: 5
+    disciplines: cel obf pre PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Jenny Silver
+    id: 201593
+    capacity: 5
+    disciplines: obf PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Marcel
+    id: 201600
+    capacity: 4
+    disciplines: obf pre pro
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Melech
+    id: 201603
+    capacity: 4
+    disciplines: pro OBF
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Milton Fox
+    id: 201605
+    capacity: 3
+    disciplines: pre pro
+    clan: Ministry
+    grouping: 6
+  library_count: 85
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Club Illusion
+      id: 100366
+    - count: 2
+      name: Dabbler
+      id: 100485
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 3
+      name: Effective Management
+      id: 100616
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 5
+      name: Grooming the Protégé
+      id: 100860
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Opium Den
+      id: 101326
+    - count: 2
+      name: Villein
+      id: 102121
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 20
+    cards:
+    - count: 4
+      name: Enchant Kindred
+      id: 100640
+    - count: 3
+      name: Entrancement
+      id: 100652
+    - count: 2
+      name: Field Training
+      id: 100725
+    - count: 1
+      name: Heart of the City
+      id: 100904
+    - count: 10
+      name: Platinum Protocol, The
+      id: 102232
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Ivory Bow
+      id: 101014
+  - name: Action Modifier
+    count: 28
+    cards:
+    - count: 2
+      name: Earth Control
+      id: 100600
+    - count: 4
+      name: Enchanting Gaze
+      id: 102221
+    - count: 4
+      name: Faceless Night
+      id: 100687
+    - count: 1
+      name: Lost in Crowds
+      id: 101125
+    - count: 4
+      name: Memory Rift
+      id: 101199
+    - count: 8
+      name: Revelation of the Serpent
+      id: 102233
+    - count: 2
+      name: Spying Mission
+      id: 101857
+    - count: 3
+      name: True Love's Face
+      id: 102041
+  - name: Action Modifier/Combat
+    count: 5
+    cards:
+    - count: 4
+      name: Form of the Cobra
+      id: 102224
+    - count: 1
+      name: Rapid Change
+      id: 101542
+  - name: Reaction
+    count: 4
+    cards:
+    - count: 1
+      name: On the Qui Vive
+      id: 101321
+    - count: 3
+      name: Party Out Of Bounds
+      id: 102231
+  - name: Combat
+    count: 8
+    cards:
+    - count: 4
+      name: Earth Meld
+      id: 100601
+    - count: 4
+      name: Form of Mist
+      id: 100771
+winner_vekn_number: 101
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/online2.zip

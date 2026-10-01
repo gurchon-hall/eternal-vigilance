@@ -1,12 +1,10 @@
-name: Nacional Portugal 2024
+event_id: '11487'
+name: Nacional 2024
 location: Lisboa
 date_start: 2024-11-02
 rounds_format: 3R+F
 players_count: 33
-winner: Eduardo Manuel Mateus
-vekn_number: 3120073
-event_url: https://www.vekn.net/event-calendar/event/11487
-event_id: '11487'
+winner: Eduardo  Manuel dos Santos Mateus
 deck:
   player:
     name: '1021'
@@ -61,10 +59,10 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: The Barrens
+      name: Barrens, The
       id: 100135
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 2
       name: Direct Intervention
@@ -85,7 +83,7 @@ deck:
       name: Perfectionist
       id: 101388
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 2
       name: Vessel
@@ -163,5 +161,6 @@ deck:
       name: Form of Mist
       id: 100771
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11487
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip

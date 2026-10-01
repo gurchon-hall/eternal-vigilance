@@ -1,0 +1,218 @@
+event_id: online2
+name: Empires Fall
+location: Online
+date_start: 2025-07-15
+rounds_format: 3R+F
+players_count: 23
+winner: TiJean
+deck:
+  player:
+    name: '117'
+    vekn_number: 117
+  name: Empires Fall JOL
+  description: 0GW1
+  crypt_count: 12
+  crypt_min: 31
+  crypt_max: 44
+  crypt_avg: 9.67
+  crypt:
+  - count: 3
+    name: Lutz von Hohenzollern
+    id: 200890
+    capacity: 11
+    disciplines: pot AUS DEM OBF PRE
+    title: Inner Circle
+    clan: Malkavian
+    grouping: 4
+  - count: 1
+    name: Mistress Fanchon
+    id: 200999
+    capacity: 11
+    disciplines: AUS CEL DOM OBF THA VIC
+    title: Inner Circle
+    clan: Tremere
+    grouping: 4
+  - count: 1
+    name: Rafael de Corazon
+    id: 201151
+    capacity: 11
+    disciplines: AUS CEL DOM OBF PRE
+    title: Inner Circle
+    clan: Toreador
+    grouping: 4
+  - count: 2
+    name: Tryphosa
+    id: 201390
+    capacity: 10
+    disciplines: AUS DEM DOM OBF POT
+    title: Prince
+    clan: Malkavian
+    grouping: 4
+  - count: 2
+    name: Unmada
+    id: 201410
+    capacity: 10
+    disciplines: cel for AUS DEM OBF VIC
+    title: Justicar
+    clan: Malkavian
+    grouping: 5
+  - count: 3
+    name: Benjamin Rose
+    id: 200190
+    capacity: 7
+    disciplines: ani pot AUS OBF
+    title: Prince
+    clan: Nosferatu
+    grouping: 5
+  library_count: 89
+  library_sections:
+  - name: Master
+    count: 25
+    cards:
+    - count: 4
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Camarilla Conclave
+      id: 102269
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 6
+      name: Minion Tap
+      id: 101217
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 3
+      name: Parthenon, The
+      id: 101355
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 5
+      name: Zillah's Valley
+      id: 102207
+  - name: Action
+    count: 1
+    cards:
+    - count: 1
+      name: 'Judgment: Camarilla Segregation'
+      id: 101028
+  - name: Political Action
+    count: 23
+    cards:
+    - count: 2
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 2
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 1
+      name: Banishment
+      id: 100131
+    - count: 4
+      name: Camarilla's Iron Fist
+      id: 102270
+    - count: 1
+      name: Disputed Territory
+      id: 100557
+    - count: 4
+      name: Kine Resources Contested
+      id: 101056
+    - count: 2
+      name: Neonate Breach
+      id: 101271
+    - count: 1
+      name: Political Stranglehold
+      id: 101417
+    - count: 1
+      name: Reins of Power
+      id: 101591
+    - count: 2
+      name: Rumors of Gehenna
+      id: 101663
+    - count: 2
+      name: Year of Fortune
+      id: 102200
+  - name: Equipment
+    count: 1
+    cards:
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+  - name: Action Modifier
+    count: 25
+    cards:
+    - count: 2
+      name: Bewitching Oration
+      id: 100157
+    - count: 4
+      name: Bribes
+      id: 100251
+    - count: 4
+      name: Closed Session
+      id: 100364
+    - count: 3
+      name: Faceless Night
+      id: 100687
+    - count: 4
+      name: Forgotten Labyrinth
+      id: 100769
+    - count: 1
+      name: Into Thin Air
+      id: 101001
+    - count: 3
+      name: Lost in Crowds
+      id: 101125
+    - count: 3
+      name: Spying Mission
+      id: 101857
+    - count: 1
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Swallowed by the Night
+      id: 101913
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 3
+      name: Eyes of Argus
+      id: 100680
+    - count: 1
+      name: 'Second Tradition: Domain'
+      id: 101706
+    - count: 4
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 3
+    cards:
+    - count: 3
+      name: No Trace
+      id: 101292
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Waiting Game
+      id: 102136
+winner_vekn_number: 101
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/online2.zip

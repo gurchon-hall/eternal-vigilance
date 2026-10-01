@@ -1,12 +1,10 @@
-name: 'Iberian Grand Prix: Cónclave de la Camarilla'
+event_id: '11594'
+name: Camarilla Conclave Grand Prix 2024
 location: Palma
 date_start: 2024-11-16
 rounds_format: 3R+F
 players_count: 89
-winner: Miguel Vega Piniella
-vekn_number: 9510100
-event_url: https://www.vekn.net/event-calendar/event/11594
-event_id: '11594'
+winner: P045
 deck:
   player:
     name: '1068'
@@ -66,16 +64,16 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Elysian Fields
       id: 100629
     - count: 3
-      name: The Path of Night
+      name: Path of Night, The
       id: 101365
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
       name: Perfectionist
@@ -156,8 +154,9 @@ deck:
     count: 2
     cards:
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
       id: 102079
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11594
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

@@ -1,12 +1,10 @@
+event_id: '12224'
 name: BR2025 - Campeonato Brasileiro de VTES
 location: Volta Redonda - RJ
 date_start: 2025-06-07
 rounds_format: 3R+F
 players_count: 114
 winner: Joab Rogerio Barbosa da Silva
-vekn_number: 1004065
-event_url: https://www.vekn.net/event-calendar/event/12224
-event_id: '12224'
 deck:
   player:
     name: '107'
@@ -79,7 +77,7 @@ deck:
       name: Anarch Railroad
       id: 100054
     - count: 5
-      name: The British Museum, London
+      name: British Museum, London, The
       id: 102236
     - count: 1
       name: Carfax Abbey
@@ -103,7 +101,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 4
       name: Villein
@@ -142,7 +140,7 @@ deck:
       name: Palatial Estate
       id: 101345
     - count: 1
-      name: The Signet of King Saul
+      name: Signet of King Saul, The
       id: 101781
   - name: Retainer
     count: 1
@@ -220,5 +218,6 @@ deck:
       name: Scourge of the Enochians
       id: 101697
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

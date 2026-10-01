@@ -1,12 +1,10 @@
-name: Russian national
+event_id: '13420'
+name: Russian Nationals 2026
 location: Sankt-Petersburg
 date_start: 2026-08-01
 rounds_format: 2R+F
 players_count: 16
-winner: Vladislav Ignatenko
-vekn_number: 2520011
-event_url: https://www.vekn.net/event-calendar/event/13420
-event_id: '13420'
+winner: ''
 deck:
   player:
     name: '4'
@@ -79,7 +77,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: The Church of Vindicated Faith
+      name: Church of Vindicated Faith, The
       id: 100348
     - count: 1
       name: Direct Intervention
@@ -148,7 +146,7 @@ deck:
     count: 5
     cards:
     - count: 1
-      name: The Crusader Sword
+      name: Crusader Sword, The
       id: 100474
     - count: 1
       name: Heart of Nizchetus
@@ -196,7 +194,7 @@ deck:
       name: Scourge of the Enochians
       id: 101697
     - count: 1
-      name: The Slow Withering
+      name: Slow Withering, The
       id: 101807
     - count: 1
       name: Thirst
@@ -205,11 +203,12 @@ deck:
       name: Torpid Blood
       id: 101994
     - count: 1
-      name: The Unmasking
+      name: Unmasking, The
       id: 102079
     - count: 1
       name: Wormwood
       id: 102194
 winner_vekn_number: 7
+event_url: https://www.vekn.net/event-calendar/event/13420
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/13420.zip

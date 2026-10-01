@@ -1,12 +1,10 @@
-name: Russian national
+event_id: '13420'
+name: Russian Nationals 2026
 location: Sankt-Petersburg
 date_start: 2026-08-01
 rounds_format: 2R+F
 players_count: 16
-winner: Vladislav Ignatenko
-vekn_number: 2520011
-event_url: https://www.vekn.net/event-calendar/event/13420
-event_id: '13420'
+winner: ''
 deck:
   player:
     name: '1'
@@ -117,7 +115,7 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: The Hungry Coyote
+      name: Hungry Coyote, The
       id: 100945
     - count: 1
       name: Information Highway
@@ -135,7 +133,7 @@ deck:
       name: Palla Grande
       id: 101346
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
       name: Sudden Reversal
@@ -219,5 +217,6 @@ deck:
       name: Majesty
       id: 101144
 winner_vekn_number: 7
+event_url: https://www.vekn.net/event-calendar/event/13420
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/13420.zip

@@ -1,12 +1,10 @@
+event_id: '12224'
 name: BR2025 - Campeonato Brasileiro de VTES
 location: Volta Redonda - RJ
 date_start: 2025-06-07
 rounds_format: 3R+F
 players_count: 114
 winner: Joab Rogerio Barbosa da Silva
-vekn_number: 1004065
-event_url: https://www.vekn.net/event-calendar/event/12224
-event_id: '12224'
 deck:
   player:
     name: '181'
@@ -19,7 +17,7 @@ deck:
   crypt_avg: 5.0
   crypt:
   - count: 5
-    name: The unnamed
+    name: unnamed, The
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -40,7 +38,7 @@ deck:
     clan: Ministry
     grouping: 6
   - count: 2
-    name: The Horde
+    name: Horde, The
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -97,7 +95,7 @@ deck:
       name: Metro Underground
       id: 101207
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: Rötschreck
@@ -121,7 +119,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 11
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
       id: 102232
     - count: 3
       name: Unleash Hell's Fury
@@ -205,5 +203,6 @@ deck:
       name: Scourge of the Enochians
       id: 101697
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

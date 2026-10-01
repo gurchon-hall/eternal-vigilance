@@ -1,12 +1,10 @@
-name: Ropecon 2024 Grand Prix
+event_id: '11480'
+name: Ropecon Finnish Grand Prix 2024
 location: Helsinki
 date_start: 2024-07-20
 rounds_format: 3R+F
 players_count: 54
 winner: Teemu Sainomaa
-vekn_number: 3070069
-event_url: https://www.vekn.net/event-calendar/event/11480
-event_id: '11480'
 deck:
   player:
     name: '1009'
@@ -96,7 +94,7 @@ deck:
       name: Jake Washington
       id: 101019
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
       name: Vessel
@@ -195,5 +193,6 @@ deck:
       name: Weighted Walking Stick
       id: 102169
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11480
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11480.zip

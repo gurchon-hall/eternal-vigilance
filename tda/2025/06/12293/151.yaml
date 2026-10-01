@@ -1,0 +1,157 @@
+event_id: '12293'
+name: Polish National Championship 2025
+location: Warsaw
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 53
+winner: Jozef Patrnciak
+deck:
+  player:
+    name: '151'
+    vekn_number: 151
+  name: Polish Nationals 2025
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 30
+  crypt_max: 36
+  crypt_avg: 8.25
+  crypt:
+  - count: 5
+    name: Gnaeus Aemilius Augustinus
+    id: 201712
+    capacity: 9
+    disciplines: tha DOM OBL POT PRO
+    title: Prince
+    clan: Lasombra
+    grouping: 6
+  - count: 3
+    name: Egidia Arrú
+    id: 201730
+    capacity: 8
+    disciplines: pro DOM OBL POT
+    clan: Lasombra
+    grouping: 6
+  - count: 2
+    name: Adrino Manauara
+    id: 201664
+    capacity: 8
+    disciplines: pot ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  - count: 2
+    name: Ángel Guerrero
+    id: 201665
+    capacity: 7
+    disciplines: ANI DOM PRO
+    title: Baron
+    clan: Tzimisce
+    grouping: 6
+  library_count: 76
+  library_sections:
+  - name: Master
+    count: 19
+    cards:
+    - count: 6
+      name: Ashur Tablets
+      id: 100106
+    - count: 1
+      name: Dead Pool
+      id: 102299
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 2
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Haven Uncovered
+      id: 100897
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: Oblivion
+      id: 102277
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 10
+    cards:
+    - count: 4
+      name: Govern the Unaligned
+      id: 100845
+    - count: 2
+      name: Harass
+      id: 100886
+    - count: 4
+      name: Umbrous Clutch
+      id: 102306
+  - name: Action/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Monstrous Form
+      id: 102253
+  - name: Political Action
+    count: 1
+    cards:
+    - count: 1
+      name: Raising the Portcullis
+      id: 102303
+  - name: Action Modifier/Combat
+    count: 4
+    cards:
+    - count: 4
+      name: Obedient Flesh
+      id: 102255
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 3
+      name: Deflection
+      id: 100518
+    - count: 6
+      name: On the Qui Vive
+      id: 101321
+    - count: 3
+      name: Truth in Darkness
+      id: 102284
+  - name: Combat
+    count: 26
+    cards:
+    - count: 4
+      name: Arms of Ahriman
+      id: 102275
+    - count: 2
+      name: Disarm
+      id: 100549
+    - count: 2
+      name: Flesh of Marble
+      id: 100749
+    - count: 5
+      name: Immortal Grapple
+      id: 100959
+    - count: 4
+      name: Shadow Shift
+      id: 102305
+    - count: 5
+      name: Taste of Vitae
+      id: 101945
+    - count: 2
+      name: Thoughts Betrayed
+      id: 101976
+    - count: 2
+      name: Wolf Claws
+      id: 102190
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12293
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12293.zip

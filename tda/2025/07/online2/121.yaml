@@ -1,0 +1,159 @@
+event_id: online2
+name: Empires Fall
+location: Online
+date_start: 2025-07-15
+rounds_format: 3R+F
+players_count: 23
+winner: TiJean
+deck:
+  player:
+    name: '121'
+    vekn_number: 121
+  name: Empires Fall JOL
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 36
+  crypt_max: 40
+  crypt_avg: 9.58
+  crypt:
+  - count: 4
+    name: Servius Marius Pustula
+    id: 201268
+    capacity: 10
+    disciplines: obf ANI CHI DOM OBT POT
+    clan: Nosferatu antitribu
+    grouping: 4
+  - count: 3
+    name: Nahir
+    id: 201030
+    capacity: 10
+    disciplines: tha ANI DOM OBT POT
+    clan: Lasombra
+    grouping: 3
+  - count: 5
+    name: Antón de Concepción
+    id: 200114
+    capacity: 9
+    disciplines: aus ANI DOM OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 4
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 14
+    cards:
+    - count: 1
+      name: Carver's Meat Packing and Storage
+      id: 100303
+    - count: 2
+      name: Dabbler
+      id: 100485
+    - count: 1
+      name: Elder Library
+      id: 100620
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Festivo dello Estinto
+      id: 100723
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Political Hunting Ground
+      id: 101415
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 13
+    cards:
+    - count: 10
+      name: Deep Song
+      id: 100515
+    - count: 3
+      name: Under Siege
+      id: 102063
+  - name: Ally
+    count: 2
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+  - name: Retainer
+    count: 3
+    cards:
+    - count: 1
+      name: Mr. Winthrop
+      id: 101249
+    - count: 2
+      name: Raven Spy
+      id: 101550
+  - name: Action Modifier
+    count: 5
+    cards:
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 4
+      name: Foreshadowing Destruction
+      id: 100765
+  - name: Reaction
+    count: 11
+    cards:
+    - count: 2
+      name: Cats' Guidance
+      id: 100308
+    - count: 3
+      name: Eyes of the Night
+      id: 100685
+    - count: 6
+      name: Sense the Savage Way
+      id: 101717
+  - name: Combat
+    count: 40
+    cards:
+    - count: 6
+      name: Arms of the Abyss
+      id: 100091
+    - count: 6
+      name: Carrion Crows
+      id: 100301
+    - count: 8
+      name: Dark Steel
+      id: 100495
+    - count: 6
+      name: Immortal Grapple
+      id: 100959
+    - count: 4
+      name: Slam
+      id: 101798
+    - count: 6
+      name: Taste of Vitae
+      id: 101945
+    - count: 4
+      name: Torn Signpost
+      id: 101993
+  - name: Event
+    count: 2
+    cards:
+    - count: 1
+      name: Dragonbound
+      id: 100581
+    - count: 1
+      name: Hunger Moon
+      id: 100944
+winner_vekn_number: 101
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/online2.zip

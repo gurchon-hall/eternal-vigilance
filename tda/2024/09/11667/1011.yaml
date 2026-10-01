@@ -1,12 +1,10 @@
-name: VtES European "Last Chance" Qualifier 2024
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
 location: Warsaw
 date_start: 2024-09-27
 rounds_format: 3R+F
 players_count: 153
-winner: SUSPENDED Marius Iscru
-vekn_number: 3200246
-event_url: https://www.vekn.net/event-calendar/event/11667
-event_id: '11667'
+winner: Marius Iscru
 deck:
   player:
     name: '1011'
@@ -83,7 +81,7 @@ deck:
       name: Charisma
       id: 100332
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: KRCG News Radio
@@ -98,7 +96,7 @@ deck:
       name: Morgue Hunting Ground
       id: 101243
     - count: 3
-      name: The Parthenon
+      name: Parthenon, The
       id: 101355
     - count: 1
       name: Perfectionist
@@ -110,7 +108,7 @@ deck:
       name: Secure Haven
       id: 101711
     - count: 1
-      name: The Shard, London
+      name: Shard, London, The
       id: 102244
     - count: 2
       name: Therbold Realty
@@ -218,8 +216,9 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
       id: 102079
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

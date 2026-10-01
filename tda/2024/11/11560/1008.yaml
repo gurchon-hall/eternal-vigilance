@@ -1,12 +1,10 @@
+event_id: '11560'
 name: Dutch Nationals 2024
 location: Wijchen
 date_start: 2024-11-24
 rounds_format: 3R+F
 players_count: 24
 winner: Roy Opitz
-vekn_number: 8580065
-event_url: https://www.vekn.net/event-calendar/event/11560
-event_id: '11560'
 deck:
   player:
     name: '1008'
@@ -83,7 +81,7 @@ deck:
     count: 15
     cards:
     - count: 1
-      name: The Anarch Free Press
+      name: Anarch Free Press, The
       id: 100052
     - count: 1
       name: Anarch Railroad
@@ -104,7 +102,7 @@ deck:
       name: Papillon
       id: 101350
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 3
       name: Vessel
@@ -125,7 +123,7 @@ deck:
       name: Govern the Unaligned
       id: 100845
     - count: 1
-      name: The Status Perfectus
+      name: Status Perfectus, The
       id: 101863
   - name: Action/Combat
     count: 6
@@ -182,5 +180,6 @@ deck:
       name: Thoughts Betrayed
       id: 101976
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11560
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11560.zip

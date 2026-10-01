@@ -1,12 +1,10 @@
+event_id: '11669'
 name: VtES European Championship 2024 - Day 2
 location: Warsaw
 date_start: 2024-09-29
 rounds_format: 3R+F
 players_count: 75
 winner: Danilo Torrisi
-vekn_number: 3460018
-event_url: https://www.vekn.net/event-calendar/event/11669
-event_id: '11669'
 deck:
   player:
     name: '1009'
@@ -195,5 +193,6 @@ deck:
       name: Majesty
       id: 101144
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11669
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11669.zip

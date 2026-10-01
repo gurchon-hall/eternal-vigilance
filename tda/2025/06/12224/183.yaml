@@ -1,12 +1,10 @@
+event_id: '12224'
 name: BR2025 - Campeonato Brasileiro de VTES
 location: Volta Redonda - RJ
 date_start: 2025-06-07
 rounds_format: 3R+F
 players_count: 114
 winner: Joab Rogerio Barbosa da Silva
-vekn_number: 1004065
-event_url: https://www.vekn.net/event-calendar/event/12224
-event_id: '12224'
 deck:
   player:
     name: '183'
@@ -91,7 +89,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: The Barrens
+      name: Barrens, The
       id: 100135
     - count: 1
       name: Creepshow Casino
@@ -106,13 +104,13 @@ deck:
       name: Guardian Angel
       id: 100866
     - count: 1
-      name: The Marrakesh Codex
+      name: Marrakesh Codex, The
       id: 101172
     - count: 1
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 1
       name: Uptown Hunting Ground
@@ -142,7 +140,7 @@ deck:
       name: Kine Resources Contested
       id: 101056
     - count: 1
-      name: The Meddling of Semsith
+      name: Meddling of Semsith, The
       id: 101192
     - count: 2
       name: Parity Shift
@@ -175,7 +173,7 @@ deck:
       name: Freak Drive
       id: 100788
     - count: 3
-      name: The Kiss of Ra
+      name: Kiss of Ra, The
       id: 101062
     - count: 6
       name: Voter Captivation
@@ -205,5 +203,6 @@ deck:
       name: Weighted Walking Stick
       id: 102169
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

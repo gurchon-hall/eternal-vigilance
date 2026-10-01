@@ -1,12 +1,10 @@
+event_id: '11669'
 name: VtES European Championship 2024 - Day 2
 location: Warsaw
 date_start: 2024-09-29
 rounds_format: 3R+F
 players_count: 75
 winner: Danilo Torrisi
-vekn_number: 3460018
-event_url: https://www.vekn.net/event-calendar/event/11669
-event_id: '11669'
 deck:
   player:
     name: '1070'
@@ -86,7 +84,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: The Black Throne
+      name: Black Throne, The
       id: 100172
     - count: 1
       name: Camarilla Conclave
@@ -197,5 +195,6 @@ deck:
       name: Rego Motum
       id: 101588
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11669
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11669.zip

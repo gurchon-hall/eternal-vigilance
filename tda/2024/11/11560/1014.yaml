@@ -1,12 +1,10 @@
+event_id: '11560'
 name: Dutch Nationals 2024
 location: Wijchen
 date_start: 2024-11-24
 rounds_format: 3R+F
 players_count: 24
 winner: Roy Opitz
-vekn_number: 8580065
-event_url: https://www.vekn.net/event-calendar/event/11560
-event_id: '11560'
 deck:
   player:
     name: '1014'
@@ -90,13 +88,13 @@ deck:
       name: Khobar Towers, Al-Khubar
       id: 101048
     - count: 1
-      name: The Marrakesh Codex
+      name: Marrakesh Codex, The
       id: 101172
     - count: 1
       name: Opium Den
       id: 101326
     - count: 5
-      name: The Path of Typhon
+      name: Path of Typhon, The
       id: 101373
     - count: 1
       name: Temple Hunting Ground
@@ -120,7 +118,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 12
-      name: The Eternal Mask
+      name: Eternal Mask, The
       id: 100665
     - count: 2
       name: Form of Corruption
@@ -186,5 +184,6 @@ deck:
       name: Tongue of the Serpent
       id: 101988
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11560
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11560.zip

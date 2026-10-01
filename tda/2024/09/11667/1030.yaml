@@ -1,12 +1,10 @@
-name: VtES European "Last Chance" Qualifier 2024
+event_id: '11667'
+name: VtES European Championship 2024 LCQ
 location: Warsaw
 date_start: 2024-09-27
 rounds_format: 3R+F
 players_count: 153
-winner: SUSPENDED Marius Iscru
-vekn_number: 3200246
-event_url: https://www.vekn.net/event-calendar/event/11667
-event_id: '11667'
+winner: Marius Iscru
 deck:
   player:
     name: '1030'
@@ -206,7 +204,7 @@ deck:
     count: 6
     cards:
     - count: 1
-      name: The Bitter and Sweet Story
+      name: Bitter and Sweet Story, The
       id: 100163
     - count: 1
       name: NSA Trio
@@ -215,11 +213,12 @@ deck:
       name: Narrow Minds
       id: 101265
     - count: 1
-      name: The Slow Withering
+      name: Slow Withering, The
       id: 101807
     - count: 2
       name: Veil of Darkness
       id: 102095
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11667
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

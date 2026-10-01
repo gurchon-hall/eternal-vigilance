@@ -1,12 +1,10 @@
-name: Nacional Portugal 2024
+event_id: '11487'
+name: Nacional 2024
 location: Lisboa
 date_start: 2024-11-02
 rounds_format: 3R+F
 players_count: 33
-winner: Eduardo Manuel Mateus
-vekn_number: 3120073
-event_url: https://www.vekn.net/event-calendar/event/11487
-event_id: '11487'
+winner: Eduardo  Manuel dos Santos Mateus
 deck:
   player:
     name: 100WD1
@@ -96,16 +94,16 @@ deck:
       name: Guardian Angel
       id: 100866
     - count: 1
-      name: The Marrakesh Codex
+      name: Marrakesh Codex, The
       id: 101172
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 2
       name: Smiling Jack, The Anarch
@@ -213,5 +211,6 @@ deck:
       name: Rego Motum
       id: 101588
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11487
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip

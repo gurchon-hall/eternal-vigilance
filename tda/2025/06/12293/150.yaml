@@ -1,0 +1,186 @@
+event_id: '12293'
+name: Polish National Championship 2025
+location: Warsaw
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 53
+winner: Jozef Patrnciak
+deck:
+  player:
+    name: '150'
+    vekn_number: 150
+  name: Polish Nationals 2025
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 15
+  crypt_max: 26
+  crypt_avg: 4.92
+  crypt:
+  - count: 3
+    name: Chalcedony
+    id: 200264
+    capacity: 7
+    disciplines: FOR POT THA VIS
+    clan: Gargoyle
+    grouping: 6
+  - count: 3
+    name: Verbruch
+    id: 201436
+    capacity: 5
+    disciplines: for POT VIS
+    clan: Gargoyle
+    grouping: 5
+  - count: 2
+    name: Porphyry
+    id: 201130
+    capacity: 4
+    disciplines: vis POT
+    clan: Gargoyle
+    grouping: 6
+  - count: 2
+    name: Rusticus
+    id: 201211
+    capacity: 4
+    disciplines: for VIS
+    clan: Gargoyle
+    grouping: 5
+  - count: 1
+    name: Ayse Dhanial
+    id: 201637
+    capacity: 4
+    disciplines: aus dom tha
+    clan: Tremere
+    grouping: 6
+  - count: 1
+    name: Monica Chang
+    id: 201003
+    capacity: 3
+    disciplines: dom tha
+    clan: Tremere
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Academic Hunting Ground
+      id: 100015
+    - count: 3
+      name: Alvusia
+      id: 100041
+    - count: 2
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Fame
+      id: 100698
+    - count: 1
+      name: Monster
+      id: 101242
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Rack, The
+      id: 101536
+    - count: 2
+      name: Rötschreck
+      id: 101654
+    - count: 1
+      name: Tension in the Ranks
+      id: 101958
+    - count: 4
+      name: Vessel
+      id: 102113
+    - count: 1
+      name: Wider View
+      id: 102180
+  - name: Action
+    count: 14
+    cards:
+    - count: 2
+      name: Armor of Terra
+      id: 100088
+    - count: 8
+      name: Children of Stone
+      id: 100340
+    - count: 4
+      name: Magic of the Smith
+      id: 101143
+  - name: Action/Reaction
+    count: 1
+    cards:
+    - count: 1
+      name: Ensconced
+      id: 100648
+  - name: Equipment
+    count: 4
+    cards:
+    - count: 2
+      name: Camera Phone
+      id: 100287
+    - count: 1
+      name: Heart of Nizchetus
+      id: 100903
+    - count: 1
+      name: Jar of Skin Eaters
+      id: 101020
+  - name: Retainer
+    count: 8
+    cards:
+    - count: 6
+      name: Razor Bat
+      id: 101556
+    - count: 2
+      name: Stone Dog
+      id: 101873
+  - name: Action Modifier
+    count: 6
+    cards:
+    - count: 6
+      name: As the Crow
+      id: 100102
+  - name: Reaction
+    count: 16
+    cards:
+    - count: 4
+      name: Deflection
+      id: 100518
+    - count: 1
+      name: Forced Awakening
+      id: 100760
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 8
+      name: Their Master's Voice
+      id: 101967
+  - name: Combat
+    count: 22
+    cards:
+    - count: 6
+      name: Immortal Grapple
+      id: 100959
+    - count: 6
+      name: Raking Talons
+      id: 101538
+    - count: 4
+      name: Rockheart
+      id: 101646
+    - count: 2
+      name: Roll
+      id: 101648
+    - count: 4
+      name: Stonestrength
+      id: 101876
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Scourge of the Enochians
+      id: 101697
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12293
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12293.zip

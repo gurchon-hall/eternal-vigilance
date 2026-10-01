@@ -1,12 +1,10 @@
+event_id: '12812'
 name: Back From Torpor - Poznań 2025
 location: Poznań
 date_start: 2025-11-15
 rounds_format: 3R+F
 players_count: 30
 winner: Tomasz Pietkiewicz
-vekn_number: 1004624
-event_url: https://www.vekn.net/event-calendar/event/12812
-event_id: '12812'
 deck:
   player:
     name: '128'
@@ -96,7 +94,7 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: Power Structure
@@ -183,5 +181,6 @@ deck:
       name: Pass Through Shadow
       id: 102279
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12812
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12812.zip

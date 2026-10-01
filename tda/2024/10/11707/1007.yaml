@@ -1,12 +1,10 @@
+event_id: '11707'
 name: 'Garou Rim: Above the Law'
 location: Joensuu
 date_start: 2024-10-26
 rounds_format: 3R+F
 players_count: 10
 winner: Miska Tanskanen
-vekn_number: 9350043
-event_url: https://www.vekn.net/event-calendar/event/11707
-event_id: '11707'
 deck:
   player:
     name: '1007'
@@ -75,13 +73,13 @@ deck:
       name: Information Highway
       id: 100984
     - count: 2
-      name: The Path of Blood
+      name: Path of Blood, The
       id: 101358
     - count: 2
       name: Priority Contract
       id: 101487
     - count: 1
-      name: The Rack
+      name: Rack, The
       id: 101536
     - count: 1
       name: Sudden Reversal
@@ -174,5 +172,6 @@ deck:
       name: Thin Blood
       id: 101970
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11707
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11707.zip

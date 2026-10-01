@@ -1,12 +1,10 @@
+event_id: '11196'
 name: Salut Brie!
 location: None
 date_start: 2024-03-09
 rounds_format: 2R+F
 players_count: 14
-winner: Simmy Singh Rayat
-vekn_number: 1880001
-event_url: https://www.vekn.net/event-calendar/event/11196
-event_id: '11196'
+winner: Simmy Rayat
 deck:
   player:
     name: '103'
@@ -19,7 +17,7 @@ deck:
   crypt_avg: 6.5
   crypt:
   - count: 5
-    name: The unnamed
+    name: unnamed, The
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -109,7 +107,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 13
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
       id: 102232
     - count: 1
       name: Rise of the Fallen
@@ -193,5 +191,6 @@ deck:
       name: Scourge of the Enochians
       id: 101697
 winner_vekn_number: 113
+event_url: https://www.vekn.net/event-calendar/event/11196
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11196.zip

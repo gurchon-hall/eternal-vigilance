@@ -1,0 +1,203 @@
+event_id: online2
+name: Empires Fall
+location: Online
+date_start: 2025-07-15
+rounds_format: 3R+F
+players_count: 23
+winner: TiJean
+deck:
+  player:
+    name: '111'
+    vekn_number: 111
+  name: Empires Fall JOL
+  description: 1GW3
+  crypt_count: 13
+  crypt_min: 16
+  crypt_max: 44
+  crypt_avg: 7.23
+  crypt:
+  - count: 5
+    name: Hazimel
+    id: 200578
+    capacity: 11
+    disciplines: dem ANI AUS CHI FOR POT
+    title: 2 Votes
+    clan: Ravnos
+    grouping: 4
+  - count: 3
+    name: Dr. Lawrence Mayhew
+    id: 200380
+    capacity: 6
+    disciplines: ani for AUS CHI
+    clan: Ravnos
+    grouping: 5
+  - count: 2
+    name: Anjalika Underwood
+    id: 200097
+    capacity: 5
+    disciplines: aus chi for ANI
+    clan: Ravnos
+    grouping: 5
+  - count: 2
+    name: Johann Matheson
+    id: 200712
+    capacity: 4
+    disciplines: ani aus chi
+    clan: Ravnos
+    grouping: 5
+  - count: 1
+    name: Gwen Brand
+    id: 200553
+    capacity: 3
+    disciplines: aus chi
+    clan: Ravnos
+    grouping: 5
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 15
+    cards:
+    - count: 1
+      name: Auspex
+      id: 100114
+    - count: 2
+      name: Blood Doll
+      id: 100199
+    - count: 1
+      name: Chimerstry
+      id: 100342
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Giant's Blood
+      id: 100824
+    - count: 1
+      name: Kumpania
+      id: 101068
+    - count: 3
+      name: Path of Paradox, The
+      id: 101366
+    - count: 2
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Montreal'
+      id: 101439
+    - count: 1
+      name: Secure Haven
+      id: 101711
+    - count: 1
+      name: Wash
+      id: 102151
+  - name: Action
+    count: 17
+    cards:
+    - count: 1
+      name: Aranthebes, The Immortal
+      id: 100079
+    - count: 1
+      name: Army of Rats
+      id: 100093
+    - count: 5
+      name: Fatuus Mastery
+      id: 100708
+    - count: 5
+      name: Nightmare Curse
+      id: 101284
+    - count: 1
+      name: Reality
+      id: 101560
+    - count: 4
+      name: Suspension of Disbelief
+      id: 101911
+  - name: Ally
+    count: 3
+    cards:
+    - count: 1
+      name: Mylan Horseed
+      id: 101261
+    - count: 2
+      name: Procurer
+      id: 101491
+  - name: Equipment
+    count: 2
+    cards:
+    - count: 1
+      name: Karavalanisha Vrana
+      id: 101033
+    - count: 1
+      name: Treasured Samadji
+      id: 102015
+  - name: Retainer
+    count: 4
+    cards:
+    - count: 4
+      name: Feral Hound
+      id: 102249
+  - name: Action Modifier
+    count: 17
+    cards:
+    - count: 1
+      name: Enkil Cog
+      id: 100645
+    - count: 3
+      name: False Resonance
+      id: 100697
+    - count: 3
+      name: Fata Morgana
+      id: 100707
+    - count: 4
+      name: Freak Drive
+      id: 100788
+    - count: 5
+      name: Heart's Desire
+      id: 100905
+    - count: 1
+      name: Will-o'-the-Wisp
+      id: 102183
+  - name: Action Modifier/Combat
+    count: 8
+    cards:
+    - count: 5
+      name: Mirror Image
+      id: 101222
+    - count: 3
+      name: Occlusion
+      id: 101313
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 3
+      name: Eyes of Argus
+      id: 100680
+    - count: 3
+      name: On the Qui Vive
+      id: 101321
+    - count: 6
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 11
+    cards:
+    - count: 4
+      name: Apparition
+      id: 100076
+    - count: 1
+      name: Illusions of the Kindred
+      id: 100954
+    - count: 4
+      name: Rolling with the Punches
+      id: 101649
+    - count: 2
+      name: Voracious Vermin
+      id: 102266
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Fourth Cycle, The
+      id: 100781
+winner_vekn_number: 101
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/online2.zip

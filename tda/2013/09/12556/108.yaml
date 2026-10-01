@@ -1,0 +1,170 @@
+event_id: '12556'
+name: Bleeding in Wroclaw
+location: Wroclaw
+date_start: 2013-09-25
+rounds_format: 3R+F
+players_count: 31
+winner: Radoslaw Wroblewski
+deck:
+  player:
+    name: '108'
+    vekn_number: 108
+  name: Bleeding in Wroclaw
+  description: 1GW4.5
+  crypt_count: 12
+  crypt_min: 10
+  crypt_max: 26
+  crypt_avg: 4.58
+  crypt:
+  - count: 2
+    name: Mora, the Death Seer
+    id: 201724
+    capacity: 7
+    disciplines: ani AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Lenelle, Mambo of Birmingham
+    id: 201721
+    capacity: 6
+    disciplines: aus FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Monica Giovanni
+    id: 201723
+    capacity: 6
+    disciplines: AUS FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Gebeyehu Abdu
+    id: 201718
+    capacity: 5
+    disciplines: for AUS OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Holliday "Burgundy" Hall
+    id: 201720
+    capacity: 5
+    disciplines: aus FOR OBL
+    clan: Hecata
+    grouping: 6
+  - count: 1
+    name: Hiromitsu Asano
+    id: 201719
+    capacity: 4
+    disciplines: aus for obl
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Alek König
+    id: 201717
+    capacity: 3
+    disciplines: OBL
+    clan: Hecata
+    grouping: 6
+  - count: 2
+    name: Peter St. John
+    id: 201727
+    capacity: 2
+    disciplines: obl
+    clan: Hecata
+    grouping: 6
+  library_count: 90
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 1
+      name: Cappadocian Crypt
+      id: 102298
+    - count: 1
+      name: Charisma
+      id: 100332
+    - count: 1
+      name: Coven, The
+      id: 100435
+    - count: 3
+      name: Direct Intervention
+      id: 100545
+    - count: 5
+      name: Family Gathering
+      id: 102289
+    - count: 3
+      name: Perfectionist
+      id: 101388
+    - count: 1
+      name: 'Powerbase: Munich'
+      id: 102301
+    - count: 2
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 9
+    cards:
+    - count: 1
+      name: Arson
+      id: 100094
+    - count: 8
+      name: Shroud of Decay
+      id: 102295
+  - name: Ally
+    count: 12
+    cards:
+    - count: 12
+      name: Aggressive Corpse
+      id: 102286
+  - name: Equipment
+    count: 13
+    cards:
+    - count: 1
+      name: Codex of the Edenic Groundskeepers
+      id: 100374
+    - count: 12
+      name: Flash Grenade
+      id: 100745
+  - name: Action Modifier
+    count: 12
+    cards:
+    - count: 4
+      name: Shadow Cast
+      id: 102280
+    - count: 4
+      name: Shadow Cloak
+      id: 102281
+    - count: 4
+      name: Stygian Shroud
+      id: 102282
+  - name: Reaction
+    count: 12
+    cards:
+    - count: 2
+      name: Delaying Tactics
+      id: 100519
+    - count: 5
+      name: Shadow Sentinel
+      id: 102294
+    - count: 5
+      name: Telepathic Misdirection
+      id: 101949
+  - name: Combat
+    count: 12
+    cards:
+    - count: 12
+      name: Concealed Weapon
+      id: 100392
+  - name: Event
+    count: 2
+    cards:
+    - count: 2
+      name: Unmasking, The
+      id: 102079
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12556
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12556.zip

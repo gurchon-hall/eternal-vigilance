@@ -1,0 +1,130 @@
+event_id: '12293'
+name: Polish National Championship 2025
+location: Warsaw
+date_start: 2025-06-07
+rounds_format: 3R+F
+players_count: 53
+winner: Jozef Patrnciak
+deck:
+  player:
+    name: '145'
+    vekn_number: 145
+  name: Polish Nationals 2025
+  description: 0GW0
+  crypt_count: 12
+  crypt_min: 18
+  crypt_max: 26
+  crypt_avg: 5.42
+  crypt:
+  - count: 2
+    name: Vivian VI
+    id: 201615
+    capacity: 7
+    disciplines: obf tha PRE PRO
+    title: Baron
+    clan: Ministry
+    grouping: 6
+  - count: 3
+    name: Crystal Lynn
+    id: 201582
+    capacity: 6
+    disciplines: OBF PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Doctor Morocco
+    id: 201584
+    capacity: 5
+    disciplines: cel obf pre PRO
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Jenny Silver
+    id: 201593
+    capacity: 5
+    disciplines: obf PRE PRO
+    clan: Ministry
+    grouping: 6
+  - count: 1
+    name: Aluc Romas de Leon
+    id: 201577
+    capacity: 5
+    disciplines: aus obf pro PRE
+    clan: Ministry
+    grouping: 6
+  - count: 2
+    name: Marcel
+    id: 201600
+    capacity: 4
+    disciplines: obf pre pro
+    clan: Ministry
+    grouping: 6
+  library_count: 79
+  library_sections:
+  - name: Master
+    count: 18
+    cards:
+    - count: 1
+      name: Anarch Railroad
+      id: 100054
+    - count: 1
+      name: Anarch Troublemaker
+      id: 100058
+    - count: 5
+      name: Blood Doll
+      id: 100199
+    - count: 2
+      name: Club Illusion
+      id: 100366
+    - count: 5
+      name: Dabbler
+      id: 100485
+    - count: 3
+      name: Opium Den
+      id: 101326
+    - count: 1
+      name: Pentex(TM) Subversion
+      id: 101384
+  - name: Action
+    count: 23
+    cards:
+    - count: 1
+      name: Heart of the City
+      id: 100904
+    - count: 21
+      name: Platinum Protocol, The
+      id: 102232
+    - count: 1
+      name: Summoning, The
+      id: 101902
+  - name: Ally
+    count: 4
+    cards:
+    - count: 1
+      name: Carlton Van Wyk
+      id: 100298
+    - count: 1
+      name: Ossian
+      id: 101333
+    - count: 2
+      name: Saatet-ta
+      id: 101665
+  - name: Action Modifier
+    count: 33
+    cards:
+    - count: 13
+      name: Enchanting Gaze
+      id: 102221
+    - count: 20
+      name: Revelation of the Serpent
+      id: 102233
+  - name: Event
+    count: 1
+    cards:
+    - count: 1
+      name: Narrow Minds
+      id: 101265
+winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12293
+archive_url: 
+  https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12293.zip

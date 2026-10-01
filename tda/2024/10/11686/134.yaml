@@ -1,12 +1,10 @@
-name: Australian New Zealand 2024 VTES Continental Championship
+event_id: '11686'
+name: Australian New Zealand 2024 Continental Championship
 location: Sydney
 date_start: 2024-10-26
 rounds_format: 3R+F
 players_count: 36
 winner: Keith Lim
-vekn_number: 4100033
-event_url: https://www.vekn.net/event-calendar/event/11686
-event_id: '11686'
 deck:
   player:
     name: '134'
@@ -103,7 +101,7 @@ deck:
       name: Effective Management
       id: 100616
     - count: 1
-      name: The Hungry Coyote
+      name: Hungry Coyote, The
       id: 100945
     - count: 1
       name: Shanty Town Hunting Ground
@@ -175,5 +173,6 @@ deck:
       name: Narrow Minds
       id: 101265
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/11686
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11686.zip

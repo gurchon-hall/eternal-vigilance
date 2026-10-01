@@ -1,12 +1,10 @@
-name: Nacional Portugal 2024
+event_id: '11487'
+name: Nacional 2024
 location: Lisboa
 date_start: 2024-11-02
 rounds_format: 3R+F
 players_count: 33
-winner: Eduardo Manuel Mateus
-vekn_number: 3120073
-event_url: https://www.vekn.net/event-calendar/event/11487
-event_id: '11487'
+winner: Eduardo  Manuel dos Santos Mateus
 deck:
   player:
     name: '1024'
@@ -67,7 +65,7 @@ deck:
       name: Archon Investigation
       id: 100085
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Creepshow Casino
@@ -76,7 +74,7 @@ deck:
       name: Dreams of the Sphinx
       id: 100588
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 6
       name: Protected Resources
@@ -151,5 +149,6 @@ deck:
       name: Majesty
       id: 101144
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11487
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip

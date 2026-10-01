@@ -1,12 +1,10 @@
+event_id: '11192'
 name: White Turtle
 location: Vác - Hungary
 date_start: 2024-01-27
 rounds_format: 2R+F
 players_count: 20
-winner: Mark Virsinger
-vekn_number: 3540231
-event_url: https://www.vekn.net/event-calendar/event/11192
-event_id: '11192'
+winner: Márk Virsinger
 deck:
   player:
     name: '101'
@@ -116,7 +114,7 @@ deck:
       name: Bum's Rush
       id: 100266
     - count: 6
-      name: The Platinum Protocol
+      name: Platinum Protocol, The
       id: 102232
     - count: 3
       name: Pressing Flesh
@@ -191,5 +189,6 @@ deck:
       name: Target Vitals
       id: 101942
 winner_vekn_number: 111
+event_url: https://www.vekn.net/event-calendar/event/11192
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11192.zip

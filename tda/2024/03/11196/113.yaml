@@ -1,12 +1,10 @@
+event_id: '11196'
 name: Salut Brie!
 location: None
 date_start: 2024-03-09
 rounds_format: 2R+F
 players_count: 14
-winner: Simmy Singh Rayat
-vekn_number: 1880001
-event_url: https://www.vekn.net/event-calendar/event/11196
-event_id: '11196'
+winner: Simmy Rayat
 deck:
   player:
     name: '113'
@@ -204,5 +202,6 @@ deck:
       name: Narrow Minds
       id: 101265
 winner_vekn_number: 113
+event_url: https://www.vekn.net/event-calendar/event/11196
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11196.zip

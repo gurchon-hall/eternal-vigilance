@@ -1,12 +1,10 @@
+event_id: '12224'
 name: BR2025 - Campeonato Brasileiro de VTES
 location: Volta Redonda - RJ
 date_start: 2025-06-07
 rounds_format: 3R+F
 players_count: 114
 winner: Joab Rogerio Barbosa da Silva
-vekn_number: 1004065
-event_url: https://www.vekn.net/event-calendar/event/12224
-event_id: '12224'
 deck:
   player:
     name: '202'
@@ -19,7 +17,7 @@ deck:
   crypt_avg: 6.75
   crypt:
   - count: 3
-    name: The Arcadian
+    name: Arcadian, The
     id: 200127
     capacity: 8
     disciplines: chi for DOM MYT OBT
@@ -80,7 +78,7 @@ deck:
       name: Great Symposium
       id: 100853
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
       name: Secure Haven
@@ -167,11 +165,12 @@ deck:
     count: 3
     cards:
     - count: 2
-      name: The Bitter and Sweet Story
+      name: Bitter and Sweet Story, The
       id: 100163
     - count: 1
       name: Narrow Minds
       id: 101265
 winner_vekn_number: 101
+event_url: https://www.vekn.net/event-calendar/event/12224
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12224.zip

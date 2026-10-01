@@ -1,12 +1,10 @@
-name: Russian national
+event_id: '13420'
+name: Russian Nationals 2026
 location: Sankt-Petersburg
 date_start: 2026-08-01
 rounds_format: 2R+F
 players_count: 16
-winner: Vladislav Ignatenko
-vekn_number: 2520011
-event_url: https://www.vekn.net/event-calendar/event/13420
-event_id: '13420'
+winner: ''
 deck:
   player:
     name: '13'
@@ -74,7 +72,7 @@ deck:
       name: Cappadocian Crypt
       id: 102298
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
       name: Cursed Abattoir
@@ -89,10 +87,10 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: The Line
+      name: Line, The
       id: 101110
     - count: 2
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Munich'
@@ -155,8 +153,9 @@ deck:
     count: 3
     cards:
     - count: 3
-      name: The Unmasking
+      name: Unmasking, The
       id: 102079
 winner_vekn_number: 7
+event_url: https://www.vekn.net/event-calendar/event/13420
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/13420.zip

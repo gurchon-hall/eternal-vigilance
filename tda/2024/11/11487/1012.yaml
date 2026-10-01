@@ -1,12 +1,10 @@
-name: Nacional Portugal 2024
+event_id: '11487'
+name: Nacional 2024
 location: Lisboa
 date_start: 2024-11-02
 rounds_format: 3R+F
 players_count: 33
-winner: Eduardo Manuel Mateus
-vekn_number: 3120073
-event_url: https://www.vekn.net/event-calendar/event/11487
-event_id: '11487'
+winner: Eduardo  Manuel dos Santos Mateus
 deck:
   player:
     name: '1012'
@@ -123,7 +121,7 @@ deck:
       name: Focus the Blood
       id: 100753
     - count: 4
-      name: 'The Khabar: Honor'
+      name: 'Khabar: Honor, The'
       id: 101044
     - count: 6
       name: Psyche!
@@ -153,5 +151,6 @@ deck:
       name: Dragonbound
       id: 100581
 winner_vekn_number: 1001
+event_url: https://www.vekn.net/event-calendar/event/11487
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip
