@@ -61,7 +61,7 @@ deck:
       name: Dominion
       id: 100574
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Fear of Mekhet
@@ -82,7 +82,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Regent
@@ -148,7 +148,7 @@ deck:
       name: AK-47
       id: 100032
     - count: 1
-      name: Ankara Citadel, Turkey, The
+      name: The Ankara Citadel, Turkey
       id: 100071
     - count: 1
       name: Helicopter
@@ -157,7 +157,7 @@ deck:
       name: Shaal Fragment
       id: 101732
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Retainer
     count: 2
@@ -217,5 +217,5 @@ deck:
     count: 1
     cards:
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079

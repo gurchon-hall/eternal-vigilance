@@ -1,10 +1,12 @@
-event_id: '11487'
-name: Nacional 2024
+name: Nacional Portugal 2024
 location: Lisboa
 date_start: 2024-11-02
 rounds_format: 3R+F
 players_count: 33
-winner: Eduardo  Manuel dos Santos Mateus
+winner: Eduardo Manuel Mateus
+vekn_number: 3120073
+event_url: https://www.vekn.net/event-calendar/event/11487
+event_id: '11487'
 deck:
   player:
     name: 100WD2
@@ -123,7 +125,7 @@ deck:
       name: Field Training
       id: 100725
     - count: 16
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
   - name: Political Action
     count: 2
@@ -201,6 +203,5 @@ deck:
       name: Form of Mist
       id: 100771
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11487
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11487.zip

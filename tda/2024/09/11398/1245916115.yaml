@@ -1,10 +1,12 @@
-event_id: '11398'
 name: German Nationals 2024
 location: Darmstadt
 date_start: 2024-09-07
 rounds_format: 3R+F
 players_count: 32
-winner: ''
+winner: Alexander Tüschen
+vekn_number: 5810006
+event_url: https://www.vekn.net/event-calendar/event/11398
+event_id: '11398'
 deck:
   player:
     name: '1245916115'
@@ -141,7 +143,7 @@ deck:
     count: 3
     cards:
     - count: 1
-      name: Ankara Citadel, Turkey, The
+      name: The Ankara Citadel, Turkey
       id: 100071
     - count: 1
       name: Guarded Rubrics
@@ -213,6 +215,5 @@ deck:
       name: Inconnu Tutelage
       id: 100970
 winner_vekn_number: 8638881481
-event_url: https://www.vekn.net/event-calendar/event/11398
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11398.zip

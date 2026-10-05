@@ -18,7 +18,7 @@ deck:
   crypt_avg: 6.42
   crypt:
   - count: 2
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -113,7 +113,7 @@ deck:
       name: Field Training
       id: 100725
     - count: 3
-      name: Summoning, The
+      name: The Summoning
       id: 101902
   - name: Ally
     count: 3
@@ -131,7 +131,7 @@ deck:
     count: 4
     cards:
     - count: 2
-      name: Anarch Manifesto, An
+      name: An Anarch Manifesto
       id: 100053
     - count: 1
       name: Heart of Nizchetus

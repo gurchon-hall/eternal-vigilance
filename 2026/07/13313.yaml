@@ -59,7 +59,7 @@ deck:
       name: Ashur Tablets
       id: 100106
     - count: 6
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Direct Intervention
@@ -113,7 +113,7 @@ deck:
       name: Palatial Estate
       id: 101345
     - count: 1
-      name: Sargon Fragment, The
+      name: The Sargon Fragment
       id: 101681
     - count: 1
       name: Seal of Veddartha

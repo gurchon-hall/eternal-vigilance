@@ -1,10 +1,12 @@
-event_id: '13420'
-name: Russian Nationals 2026
+name: Russian national
 location: Sankt-Petersburg
 date_start: 2026-08-01
 rounds_format: 2R+F
 players_count: 16
-winner: ''
+winner: Vladislav Ignatenko
+vekn_number: 2520011
+event_url: https://www.vekn.net/event-calendar/event/13420
+event_id: '13420'
 deck:
   player:
     name: '15'
@@ -17,7 +19,7 @@ deck:
   crypt_avg: 5.92
   crypt:
   - count: 5
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
@@ -113,7 +115,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 12
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 1
       name: Unleash Hell's Fury
@@ -209,6 +211,5 @@ deck:
       name: Narrow Minds
       id: 101265
 winner_vekn_number: 7
-event_url: https://www.vekn.net/event-calendar/event/13420
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/13420.zip

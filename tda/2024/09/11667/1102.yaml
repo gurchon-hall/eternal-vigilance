@@ -1,10 +1,12 @@
-event_id: '11667'
-name: VtES European Championship 2024 LCQ
+name: VtES European "Last Chance" Qualifier 2024
 location: Warsaw
 date_start: 2024-09-27
 rounds_format: 3R+F
 players_count: 153
-winner: Marius Iscru
+winner: SUSPENDED Marius Iscru
+vekn_number: 3200246
+event_url: https://www.vekn.net/event-calendar/event/11667
+event_id: '11667'
 deck:
   player:
     name: '1102'
@@ -91,7 +93,7 @@ deck:
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Fame
@@ -106,13 +108,13 @@ deck:
       name: Millicent Smith, Puritan Vampire Hunter
       id: 101210
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Saulot's Guiding Wisdom
@@ -223,6 +225,5 @@ deck:
       name: Zip Gun
       id: 102208
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11667
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

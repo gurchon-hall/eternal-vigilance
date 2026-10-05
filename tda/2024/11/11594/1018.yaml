@@ -1,10 +1,12 @@
-event_id: '11594'
-name: Camarilla Conclave Grand Prix 2024
+name: 'Iberian Grand Prix: Cónclave de la Camarilla'
 location: Palma
 date_start: 2024-11-16
 rounds_format: 3R+F
 players_count: 89
-winner: P045
+winner: Miguel Vega Piniella
+vekn_number: 9510100
+event_url: https://www.vekn.net/event-calendar/event/11594
+event_id: '11594'
 deck:
   player:
     name: '1018'
@@ -87,7 +89,7 @@ deck:
       name: Anarch Troublemaker
       id: 100058
     - count: 4
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Carfax Abbey
@@ -102,7 +104,7 @@ deck:
       name: Garibaldi-Meucci Museum
       id: 100809
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 5
       name: Villein
@@ -129,7 +131,7 @@ deck:
       name: Palatial Estate
       id: 101345
     - count: 1
-      name: Signet of King Saul, The
+      name: The Signet of King Saul
       id: 101781
   - name: Retainer
     count: 1
@@ -150,7 +152,7 @@ deck:
       name: Seduction
       id: 101712
     - count: 2
-      name: Sleeping Mind, The
+      name: The Sleeping Mind
       id: 101805
   - name: Action Modifier/Reaction
     count: 4
@@ -186,6 +188,5 @@ deck:
       name: Sculpt the Flesh
       id: 102260
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11594
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

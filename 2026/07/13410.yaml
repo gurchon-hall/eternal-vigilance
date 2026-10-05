@@ -60,7 +60,7 @@ deck:
       name: Direct Intervention
       id: 100545
     - count: 1
-      name: Erciyes Fragments, The
+      name: The Erciyes Fragments
       id: 100656
     - count: 1
       name: Life Boon
@@ -72,7 +72,7 @@ deck:
       name: 'Powerbase: Munich'
       id: 102301
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Smiling Jack, The Anarch
@@ -90,7 +90,7 @@ deck:
       name: Army of Rats
       id: 100093
     - count: 5
-      name: Gate of Acheron, The
+      name: The Gate of Acheron
       id: 102290
     - count: 7
       name: Shroud of Decay

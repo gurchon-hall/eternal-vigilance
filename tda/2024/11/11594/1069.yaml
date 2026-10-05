@@ -1,10 +1,12 @@
-event_id: '11594'
-name: Camarilla Conclave Grand Prix 2024
+name: 'Iberian Grand Prix: Cónclave de la Camarilla'
 location: Palma
 date_start: 2024-11-16
 rounds_format: 3R+F
 players_count: 89
-winner: P045
+winner: Miguel Vega Piniella
+vekn_number: 9510100
+event_url: https://www.vekn.net/event-calendar/event/11594
+event_id: '11594'
 deck:
   player:
     name: '1069'
@@ -89,7 +91,7 @@ deck:
     count: 16
     cards:
     - count: 1
-      name: Art of Pain, The
+      name: The Art of Pain
       id: 100098
     - count: 2
       name: Direct Intervention
@@ -104,7 +106,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 2
       name: Sudden Reversal
@@ -182,6 +184,5 @@ deck:
       name: Majesty
       id: 101144
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11594
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11594.zip

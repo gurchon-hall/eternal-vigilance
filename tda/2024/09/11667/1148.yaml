@@ -1,10 +1,12 @@
-event_id: '11667'
-name: VtES European Championship 2024 LCQ
+name: VtES European "Last Chance" Qualifier 2024
 location: Warsaw
 date_start: 2024-09-27
 rounds_format: 3R+F
 players_count: 153
-winner: Marius Iscru
+winner: SUSPENDED Marius Iscru
+vekn_number: 3200246
+event_url: https://www.vekn.net/event-calendar/event/11667
+event_id: '11667'
 deck:
   player:
     name: '1148'
@@ -105,7 +107,7 @@ deck:
       name: Blood Doll
       id: 100199
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Direct Intervention
@@ -120,10 +122,10 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 4
-      name: Path of Night, The
+      name: The Path of Night
       id: 101365
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Perfectionist
@@ -189,12 +191,11 @@ deck:
     count: 3
     cards:
     - count: 1
-      name: Bitter and Sweet Story, The
+      name: The Bitter and Sweet Story
       id: 100163
     - count: 2
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11667
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11667.zip

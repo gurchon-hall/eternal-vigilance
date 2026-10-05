@@ -1,10 +1,12 @@
-event_id: '11865'
-name: ITALIAN GP 2025 - MODENA
+name: Italian Grand Prix 2025 - Modena
 location: Modena
 date_start: 2025-03-01
 rounds_format: 3R+F
 players_count: 70
-winner: Frederic Pin
+winner: Frédéric Pin
+vekn_number: 3200006
+event_url: https://www.vekn.net/event-calendar/event/11865
+event_id: '11865'
 deck:
   player:
     name: '142'
@@ -79,7 +81,7 @@ deck:
     count: 15
     cards:
     - count: 4
-      name: British Museum, London, The
+      name: The British Museum, London
       id: 102236
     - count: 1
       name: Direct Intervention
@@ -88,13 +90,13 @@ deck:
       name: Giant's Blood
       id: 100824
     - count: 1
-      name: Hungry Coyote, The
+      name: The Hungry Coyote
       id: 100945
     - count: 1
       name: Library Hunting Ground
       id: 101102
     - count: 1
-      name: Path of Metamorphosis, The
+      name: The Path of Metamorphosis
       id: 101364
     - count: 2
       name: Vessel
@@ -181,6 +183,5 @@ deck:
       name: NRA PAC
       id: 101305
 winner_vekn_number: 101
-event_url: https://www.vekn.net/event-calendar/event/11865
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11865.zip

@@ -18,14 +18,14 @@ deck:
   crypt_avg: 6.17
   crypt:
   - count: 5
-    name: unnamed, The
+    name: The unnamed
     id: 201411
     capacity: 10
     disciplines: CEL DAI OBF PRE PRO
     clan: Baali
     grouping: 6
   - count: 3
-    name: Horde, The
+    name: The Horde
     id: 200605
     capacity: 3
     disciplines: dai obf pre
@@ -88,7 +88,7 @@ deck:
       name: Entrancement
       id: 100652
     - count: 14
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 1
       name: Rise of the Fallen

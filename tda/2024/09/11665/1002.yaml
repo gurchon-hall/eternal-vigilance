@@ -1,10 +1,12 @@
-event_id: '11665'
 name: Week of Nightmares 2024 - Day 3
 location: Warsaw
 date_start: 2024-09-26
 rounds_format: 2R+F
 players_count: 48
 winner: Tero Aalto
+vekn_number: 8460002
+event_url: https://www.vekn.net/event-calendar/event/11665
+event_id: '11665'
 deck:
   player:
     name: '1002'
@@ -121,7 +123,7 @@ deck:
       name: Aranthebes, The Immortal
       id: 100079
     - count: 20
-      name: Embrace, The
+      name: The Embrace
       id: 100633
     - count: 10
       name: Mozambique Allure
@@ -145,15 +147,14 @@ deck:
     count: 9
     cards:
     - count: 9
-      name: Eldest Are Kholo, The
+      name: The Eldest Are Kholo
       id: 100622
   - name: Event
     count: 2
     cards:
     - count: 2
-      name: Uncoiling, The
+      name: The Uncoiling
       id: 102057
 winner_vekn_number: 1001
-event_url: https://www.vekn.net/event-calendar/event/11665
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/11665.zip

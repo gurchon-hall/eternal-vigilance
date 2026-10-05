@@ -1,10 +1,12 @@
-event_id: '12126'
-name: Grand Prix Warsaw 2025
+name: Grand Prix 2025 - Poland
 location: Warsaw
 date_start: 2025-07-05
 rounds_format: 3R+F
 players_count: 56
 winner: Tomasz Pietkiewicz
+vekn_number: 1004624
+event_url: https://www.vekn.net/event-calendar/event/12126
+event_id: '12126'
 deck:
   player:
     name: '140'
@@ -98,7 +100,7 @@ deck:
       name: Antediluvian Awakening
       id: 100073
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Dreams of the Sphinx
@@ -116,7 +118,7 @@ deck:
       name: Life in the City
       id: 101104
     - count: 1
-      name: Pentex(TM) Subversion
+      name: Pentex™ Subversion
       id: 101384
     - count: 1
       name: Visit from the Capuchin
@@ -137,7 +139,7 @@ deck:
       name: Mind Numb
       id: 101211
     - count: 1
-      name: Platinum Protocol, The
+      name: The Platinum Protocol
       id: 102232
     - count: 9
       name: Public Trust
@@ -182,6 +184,5 @@ deck:
       name: Narrow Minds
       id: 101265
 winner_vekn_number: 101
-event_url: https://www.vekn.net/event-calendar/event/12126
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12126.zip

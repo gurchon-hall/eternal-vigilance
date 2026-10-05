@@ -1,10 +1,12 @@
-event_id: '13420'
-name: Russian Nationals 2026
+name: Russian national
 location: Sankt-Petersburg
 date_start: 2026-08-01
 rounds_format: 2R+F
 players_count: 16
-winner: ''
+winner: Vladislav Ignatenko
+vekn_number: 2520011
+event_url: https://www.vekn.net/event-calendar/event/13420
+event_id: '13420'
 deck:
   player:
     name: '14'
@@ -100,7 +102,7 @@ deck:
       name: 'Powerbase: Montreal'
       id: 101439
     - count: 1
-      name: Rack, The
+      name: The Rack
       id: 101536
     - count: 1
       name: Rebel
@@ -223,6 +225,5 @@ deck:
       name: NRA PAC
       id: 101305
 winner_vekn_number: 7
-event_url: https://www.vekn.net/event-calendar/event/13420
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/13420.zip

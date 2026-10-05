@@ -1,10 +1,12 @@
-event_id: '12812'
 name: Back From Torpor - Poznań 2025
 location: Poznań
 date_start: 2025-11-15
 rounds_format: 3R+F
 players_count: 30
 winner: Tomasz Pietkiewicz
+vekn_number: 1004624
+event_url: https://www.vekn.net/event-calendar/event/12812
+event_id: '12812'
 deck:
   player:
     name: '102'
@@ -60,7 +62,7 @@ deck:
       name: Charisma
       id: 100332
     - count: 1
-      name: Coven, The
+      name: The Coven
       id: 100435
     - count: 1
       name: Cursed Abattoir
@@ -141,9 +143,8 @@ deck:
       name: FBI Special Affairs Division
       id: 100709
     - count: 1
-      name: Unmasking, The
+      name: The Unmasking
       id: 102079
 winner_vekn_number: 101
-event_url: https://www.vekn.net/event-calendar/event/12812
 archive_url: 
   https://raw.githubusercontent.com/smeea/vdb/master/frontend/public/tournaments/12812.zip
