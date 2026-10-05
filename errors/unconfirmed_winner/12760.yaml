@@ -1,0 +1,169 @@
+name: European Championship 2026 Day 1
+location: Vilnius, Lithuania
+date_start: 2026-09-19
+rounds_format: 3R+F
+players_count: 200
+winner: Nikica Novaković
+vekn_number: 1005186
+event_url: https://www.vekn.net/event-calendar/event/12760
+event_id: 12760
+forum_post_url: 
+  https://www.vekn.net/forum/event-reports-and-twd/83237-twd-european-championship-2026-day-1-vilnius-lithuania-19-sep-2026
+deck:
+  name: Purple haze
+  description: ''
+  crypt_count: 12
+  crypt_min: 33
+  crypt_max: 40
+  crypt_avg: 9.08
+  crypt:
+  - count: 4
+    name: Ambrosio Luis Monçada, Plenipotentiary
+    id: 200070
+    capacity: 10
+    disciplines: aus for DOM OBT POT PRE
+    title: Cardinal
+    clan: Lasombra
+    grouping: 2
+  - count: 3
+    name: Gratiano
+    id: 200534
+    capacity: 8
+    disciplines: obf pot DOM OBT
+    title: Priscus
+    clan: Lasombra
+    grouping: 2
+  - count: 2
+    name: Antonio Delgado
+    id: 200117
+    capacity: 9
+    disciplines: tha DOM OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 2
+    name: Francisco Domingo de Polonia
+    id: 200476
+    capacity: 9
+    disciplines: pro DOM OBT POT PRE
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  - count: 1
+    name: Alvaro, The Scion of Angelica
+    id: 200063
+    capacity: 9
+    disciplines: dom pre OBT POT
+    title: Archbishop
+    clan: Lasombra
+    grouping: 2
+  library_count: 73
+  library_sections:
+  - name: Master
+    count: 17
+    cards:
+    - count: 1
+      name: Direct Intervention
+      id: 100545
+    - count: 1
+      name: Dreams of the Sphinx
+      id: 100588
+    - count: 1
+      name: Elysian Fields
+      id: 100629
+    - count: 1
+      name: Information Highway
+      id: 100984
+    - count: 1
+      name: Monastery of Shadows
+      id: 101238
+    - count: 1
+      name: Power Structure
+      id: 101430
+    - count: 1
+      name: Privileged Position
+      id: 102334
+    - count: 5
+      name: Unholy Sacrament
+      id: 102345
+    - count: 5
+      name: Villein
+      id: 102121
+  - name: Action
+    count: 6
+    cards:
+    - count: 6
+      name: Govern the Unaligned
+      id: 100845
+  - name: Political Action
+    count: 15
+    cards:
+    - count: 1
+      name: Anarchist Uprising
+      id: 100059
+    - count: 1
+      name: Ancient Influence
+      id: 100064
+    - count: 1
+      name: Ancilla Empowerment
+      id: 100065
+    - count: 3
+      name: Banishment
+      id: 100131
+    - count: 5
+      name: Cold War
+      id: 102312
+    - count: 3
+      name: Kine Resources Contested
+      id: 101056
+    - count: 1
+      name: Reins of Power
+      id: 101591
+  - name: Action Modifier
+    count: 21
+    cards:
+    - count: 3
+      name: Amici Noctis
+      id: 102274
+    - count: 4
+      name: Dominant Personality
+      id: 102316
+    - count: 2
+      name: Magnetic Authority
+      id: 102331
+    - count: 2
+      name: Private Audience
+      id: 101490
+    - count: 4
+      name: Shadow Play
+      id: 101743
+    - count: 4
+      name: Unthinkable Humiliation
+      id: 102346
+    - count: 2
+      name: Voter Captivation
+      id: 102131
+  - name: Action Modifier/Reaction
+    count: 4
+    cards:
+    - count: 2
+      name: Murmur of the False Will
+      id: 101256
+    - count: 2
+      name: Ominous Chorus
+      id: 102278
+  - name: Reaction
+    count: 8
+    cards:
+    - count: 6
+      name: Deflection
+      id: 100518
+    - count: 2
+      name: Obedience
+      id: 101309
+  - name: Combat
+    count: 2
+    cards:
+    - count: 2
+      name: Majesty
+      id: 101144

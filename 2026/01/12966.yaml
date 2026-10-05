@@ -94,10 +94,10 @@ deck:
       name: Charisma
       id: 100332
     - count: 1
-      name: The Coven
+      name: Coven, The
       id: 100435
     - count: 1
-      name: Pentex™ Subversion
+      name: Pentex(TM) Subversion
       id: 101384
     - count: 2
       name: Perfectionist
@@ -160,8 +160,8 @@ deck:
     count: 3
     cards:
     - count: 1
-      name: The Bitter and Sweet Story
+      name: Bitter and Sweet Story, The
       id: 100163
     - count: 2
-      name: The Unmasking
+      name: Unmasking, The
       id: 102079
